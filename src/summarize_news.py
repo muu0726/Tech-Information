@@ -41,29 +41,40 @@ def main():
         if item.get("ai_summary_done"):
             continue
             
-        print(f"要約中: {item['title']}...")
+        print(f"要約・翻訳中: {item['title']}...")
         
         try:
             content_text = item.get('summary', '') or item.get('title', '')
             
             prompt = f"""
-            以下のニュース記事の情報を元に、日本語で3行の箇条書き要約を作成してください。
-            です・ます調で、簡潔にまとめてください。
+            以下のニュース記事の情報を元に、以下のJSON形式で出力してください。
+            
+            1. `translated_title`: 記事タイトルを日本語に翻訳したもの。
+            2. `summary`: 記事の要約を日本語で3行の箇条書きにしたもの（です・ます調）。
 
             記事タイトル: {item['title']}
             記事概要: {content_text}
             """
             
-            response = model.generate_content(prompt)
+            response = model.generate_content(
+                prompt,
+                generation_config={"response_mime_type": "application/json"}
+            )
             
             if response.text:
-                item['summary'] = response.text.strip()
+                result = json.loads(response.text)
+                
+                # Update article with translated content
+                item['original_title'] = item['title'] # Backup original
+                item['title'] = result.get('translated_title', item['title'])
+                item['summary'] = result.get('summary', item.get('summary', ''))
+                
                 item['ai_summary_done'] = True
                 count += 1
                 time.sleep(2) # Avoid aggressive rate limiting
             
         except Exception as e:
-            print(f"記事 {item['id']} の要約中にエラーが発生しました: {e}")
+            print(f"記事 {item['id']} の処理中にエラーが発生しました: {e}")
             
     if count > 0:
         save_news(news_items)

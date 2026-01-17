@@ -66,38 +66,42 @@ document.addEventListener('DOMContentLoaded', () => {
     function createCard(item) {
         const isSaved = savedIds.includes(item.id);
         const isRead = readIds.includes(item.id);
-        const dateStr = new Date(item.updated).toLocaleString('ja-JP', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        const dateObj = new Date(item.updated);
+        const dateStr = dateObj.toLocaleString('ja-JP', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+        const timeAgo = Math.floor((new Date() - dateObj) / (1000 * 60 * 60)) + 'h ago';
 
         const div = document.createElement('div');
-        div.className = `bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col hover:shadow-md transition-shadow duration-300 group ${isRead ? 'opacity-70 bg-slate-50' : ''}`;
+        div.className = `glass-panel rounded-xl overflow-hidden flex flex-col hover:shadow-neon hover:border-cyan-500/30 transition-all duration-500 group relative ${isRead ? 'opacity-60 grayscale-[0.5]' : ''}`;
 
         div.innerHTML = `
-            <div class="p-5 flex-grow">
-                <div class="flex items-center justify-between mb-3 text-xs">
-                    <span class="px-2 py-1 rounded-md bg-slate-100 text-slate-600 font-medium">${item.source}</span>
-                    <span class="text-slate-400">${dateStr}</span>
+            <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-cyan-500 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+            
+            <div class="p-6 flex-grow flex flex-col">
+                <div class="flex items-center justify-between mb-4 text-xs font-mono">
+                    <span class="px-2 py-1 rounded bg-blue-500/10 text-blue-400 border border-blue-500/20">${item.source}</span>
+                    <span class="text-slate-500">${timeAgo} <span class="opacity-30">|</span> ${dateStr}</span>
                 </div>
                 
-                <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="block mb-3" onclick="handleRead('${item.id}')">
-                    <h2 class="text-lg font-bold text-slate-900 leading-snug group-hover:text-blue-600 transition-colors">
+                <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="block mb-4 flex-grow" onclick="handleRead('${item.id}')">
+                    <h2 class="text-lg font-bold text-slate-100 leading-snug group-hover:text-cyan-400 transition-colors">
                         ${item.title}
                     </h2>
                 </a>
 
-                <div class="text-sm text-slate-600 leading-relaxed space-y-1">
+                <div class="text-sm text-slate-400 leading-relaxed space-y-2 border-l-2 border-slate-700 pl-3 mb-2">
                     ${formatSummary(item.summary)}
                 </div>
             </div>
 
-            <div class="px-5 py-3 bg-slate-50 border-t border-slate-100 flex justify-between items-center text-sm">
-                <button onclick="handleToggleSave('${item.id}')" class="flex items-center gap-1.5 transition-colors ${isSaved ? 'text-amber-500 font-medium' : 'text-slate-500 hover:text-amber-500'}">
-                    <svg class="w-5 h-5" fill="${isSaved ? 'currentColor' : 'none'}" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path></svg>
-                    ${isSaved ? '保存済み' : 'あとで読む'}
+            <div class="px-6 py-4 bg-black/20 border-t border-white/5 flex justify-between items-center text-xs font-mono uppercase tracking-wider">
+                <button onclick="handleToggleSave('${item.id}')" class="flex items-center gap-2 transition-colors ${isSaved ? 'text-cyan-400' : 'text-slate-500 hover:text-cyan-400'}">
+                    <svg class="w-4 h-4" fill="${isSaved ? 'currentColor' : 'none'}" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path></svg>
+                    ${isSaved ? 'SAVED' : 'SAVE'}
                 </button>
                 
-                <a href="${item.link}" target="_blank" rel="noopener noreferrer" onclick="handleRead('${item.id}')" class="flex items-center gap-1 text-blue-600 hover:text-blue-700 font-medium">
-                    記事を読む
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                <a href="${item.link}" target="_blank" rel="noopener noreferrer" onclick="handleRead('${item.id}')" class="flex items-center gap-1 text-slate-500 hover:text-white transition-colors group/link">
+                    READ
+                    <svg class="w-3 h-3 group-hover/link:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                 </a>
             </div>
         `;
@@ -105,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function formatSummary(text) {
-        if (!text) return '<span class="text-slate-400 italic">要約を生成中...</span>';
+        if (!text) return '<span class="text-slate-600 italic animate-pulse">ANALYZING CONTENT...</span>';
 
         // Simple heuristic: if it contains bullets (・ or -), render nicely
         if (text.includes('・') || text.includes('- ')) {
@@ -113,7 +117,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 line = line.trim();
                 if (!line) return '';
                 if (line.startsWith('・') || line.startsWith('-')) {
-                    return `<div class="flex items-start gap-2"><span class="text-blue-400 mt-1.5 text-[0.6rem]">●</span><span>${line.replace(/^[・-]\s*/, '')}</span></div>`;
+                    // Remove bullet and wrap
+                    const content = line.replace(/^[・-]\s*/, '');
+                    return `<div class="flex items-start gap-2"><span class="text-cyan-500 mt-1.5 text-[0.6rem]">▶</span><span>${content}</span></div>`;
                 }
                 return `<p>${line}</p>`;
             }).join('');
