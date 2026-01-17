@@ -1,5 +1,25 @@
 [
   {
+    "id": "df10389790b13c6b55a7e5281d7a2850",
+    "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
+    "summary": "はじめに\nAWS Japan AI/ML Specialist Solutions Architect の Kujirada です。\n2026 年は、社内全体で利用可能な Agent を開発・運用するための基盤の導入が加速すると予想されます。それに伴い、社内向けの MCP サーバーの開発や、MCP Registry の整備も進んでいくと考えられます。\nその際、「Agent が実行可能な MCP サ...",
+    "link": "https://zenn.dev/aws_japan/articles/003-bedrock-agentcore-policy-fgac",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-15T22:48:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4363f03c919c3ffc9dd9a9a967039ae9",
+    "title": "Rust+Wasmで爆速ライフゲームを作って動く壁紙にする",
+    "summary": "はじめに\nRust と WebAssembly（Wasm）の学習として、コンウェイのライフゲームを作成しました。\nただブラウザで動かすだけでは面白くないので、Windows の「Lively Wallpaper」を使って、自分のデスクトップ壁紙としてヌルヌル動かすところまでをゴールにしています。\n成果物はこんな感じです\n\nライフゲームが動いてる図\n1000×1000 を超える巨大なグリッドでも 6...",
+    "link": "https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-14T16:06:58",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
