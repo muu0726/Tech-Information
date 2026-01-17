@@ -1,5 +1,55 @@
 [
   {
+    "id": "2dd537191db39cdc7b572dce60d53018",
+    "title": "生成AIの収束先の存在を圏論で証明する",
+    "summary": "はじめに\n敵対的模倣学習の圏論的解釈について紹介します。\n近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...",
+    "link": "https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T09:19:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b672c0056acf6af93af04d36ec557bc9",
+    "title": "複数のAI コーディングツールの rules 管理に悩める方へ rulesync のご紹介",
+    "summary": "rulesync とは\n@dyoshikawa1993 さんが作成した、AI コーディングツールの rules を統一管理してくれるツールです。\n\nGitHub はこちらになります。\n\nAI コーディングツールをマルチエージェントで運用している方や、複数の ...",
+    "link": "https://qiita.com/kamo-shika/items/942d7c0c000c84d29498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T00:23:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8e24df3d827dc112e4f225fe9e9c2d98",
+    "title": "【バイブコーディング】AIの書く10万行のどこを見ればよいか？",
+    "summary": "はじめに\n「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。\n私自身今まで6回以上Webアプリを作成し、\n計10万行はAIにコードを書いてもらったと思いますが、\nすべてのコードを読み切れているかと言われたら正直答えはNoです。\n\nその...",
+    "link": "https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T11:11:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ed0ea6c183bdbb82ba66ba300a1c0def",
+    "title": "【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps & Threads API活用）",
+    "summary": "【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps & Threads API活用）\n\nはじめに\n前回は、Next.js 16を使って 「札幌の作業カフェ検索サイト」 を1週間で爆速開発...",
+    "link": "https://qiita.com/kazesift/items/7941e8cef7227328a664?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T07:16:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a89bc541b89c0f69f19d17214dea36cf",
+    "title": "Agent Rules、Workflows、Skills、Slash Commands：AIと効率的に働くための完全ガイド",
+    "summary": "はじめに\nこんにちは！\nVSCode + GitHub Copilot、Cursor、Google AntiGravity、Claude Codeなど、AI統合のIDEを使っている方なら、Rules、Workflows、Skills、Slash Commandsという用語...",
+    "link": "https://qiita.com/TOMOSIA-LinhND/items/d37f3bfdb59a44783a7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-16T11:29:55",
+    "ai_summary_done": false
+  },
+  {
     "id": "df10389790b13c6b55a7e5281d7a2850",
     "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
     "summary": "はじめに\nAWS Japan AI/ML Specialist Solutions Architect の Kujirada です。\n2026 年は、社内全体で利用可能な Agent を開発・運用するための基盤の導入が加速すると予想されます。それに伴い、社内向けの MCP サーバーの開発や、MCP Registry の整備も進んでいくと考えられます。\nその際、「Agent が実行可能な MCP サ...",
