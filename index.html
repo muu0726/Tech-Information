@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI/IT Tech Pulse</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563eb', // Blue-600
+                        secondary: '#475569', // Slate-600
+                    },
+                    fontFamily: {
+                        sans: ['"Helvetica Neue"', 'Arial', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            background-color: #f8fafc;
+            /* Slate-50 */
+        }
+
+        .summary-text {
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+
+<body class="text-slate-800 min-h-screen flex flex-col">
+    <!-- Header -->
+    <header class="bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-slate-200 shadow-sm">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <div class="flex justify-between items-center h-16">
+                <!-- Logo -->
+                <div class="flex items-center gap-2 cursor-pointer" onclick="window.scrollTo(0,0)">
+                    <div
+                        class="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white font-bold shadow-lg">
+                        T
+                    </div>
+                    <h1
+                        class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
+                        テックパルス
+                    </h1>
+                </div>
+
+                <!-- Controls -->
+                <button id="btn-read-later"
+                    class="relative group px-3 py-1.5 rounded-full hover:bg-slate-100 transition-colors">
+                    <span class="flex items-center gap-2 text-sm font-medium text-slate-600 group-hover:text-blue-600">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path>
+                        </svg>
+                        保存済み
+                    </span>
+                    <span id="saved-count"
+                        class="absolute -top-1 -right-1 flex h-4 w-4 items-center justify-center rounded-full bg-red-500 text-[10px] text-white">0</span>
+                </button>
+            </div>
+
+            <!-- Tabs -->
+            <div class="flex space-x-1 overflow-x-auto no-scrollbar pb-0">
+                <button class="category-tab px-4 py-3 text-sm font-medium border-b-2 border-blue-600 text-blue-600"
+                    data-category="all">すべて</button>
+                <button
+                    class="category-tab px-4 py-3 text-sm font-medium border-b-2 border-transparent text-slate-500 hover:text-slate-700 hover:border-slate-300 transition-all"
+                    data-category="AI">AI / 機械学習</button>
+                <button
+                    class="category-tab px-4 py-3 text-sm font-medium border-b-2 border-transparent text-slate-500 hover:text-slate-700 hover:border-slate-300 transition-all"
+                    data-category="Programming">開発 / エンジニアリング</button>
+                <button
+                    class="category-tab px-4 py-3 text-sm font-medium border-b-2 border-transparent text-slate-500 hover:text-slate-700 hover:border-slate-300 transition-all"
+                    data-category="IT">IT全般 / その他</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow container mx-auto px-4 py-8 max-w-6xl">
+        <div id="loading-indicator" class="flex justify-center py-20">
+            <div class="animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600"></div>
+        </div>
+
+        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 hidden">
+            <!-- Cards will be injected here -->
+        </div>
+
+        <div id="empty-state" class="hidden flex flex-col items-center justify-center py-20 text-center">
+            <div class="text-6xl mb-4">📭</div>
+            <h3 class="text-lg font-medium text-slate-900">記事がありません</h3>
+            <p class="text-slate-500">条件に一致するニュースが見つかりませんでした。</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-slate-200 mt-auto">
+        <div class="container mx-auto px-4 py-8 max-w-6xl text-center">
+            <p class="text-sm text-slate-400">
+                Gemini API を使用して AI/IT テックパルス Bot によって自動生成されました。
+            </p>
+        </div>
+    </footer>
+
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>
