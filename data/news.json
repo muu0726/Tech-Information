@@ -1,5 +1,45 @@
 [
   {
+    "id": "c7b2c244d1590ce3ac32258523b7cce3",
+    "title": "IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦",
+    "summary": "※本記事は、経済産業省のタスクフォース資料（公開資料）を起点に、 「現時点で公開されている“事実”と“議論”」 を整理しつつ、AIエージェント時代に向けた学習・資格戦略を私見でまとめたものです。\n※「制度変更が決定した」という話ではありません （重要） 。\n\n1. ...",
+    "link": "https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T13:35:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e1913e4ae9e367abedd51a5d99ef78c4",
+    "title": "【Dev Container】今更 Dev Container に入門して Python 環境を用意してみる",
+    "summary": "はじめに\nローカルで色々開発していると、環境がぐちゃぐちゃになりよくないという話は耳にタコができるほどよく聞くかと思います。\nしかし、私は今まで WSL を用いており、最悪 WSL ごとリセットすればよいと考えており特に気にしたことがありませんでした。\n今回、開発用のPC...",
+    "link": "https://qiita.com/ryu-ki/items/49c84bb533c4064bdbd6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T04:07:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "954ee09e219ba201326e5c23e2062d9e",
+    "title": "PDFの給与明細を自動でExcelにまとめるツールを作った【Python】",
+    "summary": "はじめに\n毎月の給与明細、賞与明細のPDFファイルが溜まっていくけど、Excelで管理したい...そんな悩みを解決するツールを作りました。\nこの記事で実現できること：\n\n📊 給与・賞与PDFから全項目を自動抽出\n📑 給与と賞与を別シートで管理\n🎨 項目を色分けして見やすく...",
+    "link": "https://qiita.com/switch-kosuke/items/157f9cbd553b504205f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T15:33:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a54aa7d5921552ebd3d8baeacf93bdec",
+    "title": "画像AI大全　目次",
+    "summary": "はじめに\n　世はまさに、大AI時代！！\n\n特に2025年からは、フィジカルAIと呼ばれる「見る」「考える」「動かす」を連動させたAI技術が盛り上がっています。\nこのフィジカルAIの入口にあたる「見る」を担当する画像AIは、10年前のAIブーム黎明期から様々な手法開発が続き...",
+    "link": "https://qiita.com/c60evaporator/items/82fd5c677fec5bd90994?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T02:48:31",
+    "ai_summary_done": false
+  },
+  {
     "id": "a2f6013649842b196f7cbf5d97fe21ea",
     "title": "Kaggle Benchmarks で AI モデルの評価をする",
     "summary": "Kaggle に Community Benchmarks なるものが追加されたので紹介します。\nhttps://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/\n\n 忙しい人向けのまとめ\n\nKaggle が様々な AI 評価のベンチマークプラットフォームとして動き出した\nB...",
