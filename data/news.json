@@ -1,5 +1,35 @@
 [
   {
+    "id": "ec34c60aab6f61a7b3b3494373e214bd",
+    "title": "ITコンサル3人でAI駆動開発を2日間やってみた",
+    "summary": "はじめに\n「生成AIでアプリを開発したい」といった声が多くの企業で挙がっている昨今ですが、非エンジニアがAI駆動開発を実際行った場合、どの程度のクオリティになり、どのような課題があるのかを知りたいなと思い、今回チャレンジしてみました。\nNCDCのITコンサルタント3名がAIを駆使して2日間で実際のお客様向けのクローズドコミュニティアプリを開発するAI駆動開発を実施しましたので、その結果や感想をまと...",
+    "link": "https://zenn.dev/ncdc/articles/e15a2bc6020b9c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T12:45:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "07058830db0e57203082f37f73556a56",
+    "title": "【個人開発】未経験が、Google推奨のベストプラクティスで「最強のCI/CD」を構築してみた🏰",
+    "summary": "～WIF・Trivy・Secret Managerで実現する、エンタープライズ級のDevOps～\n\n 目次\n\nはじめに：なぜGoogle推奨のベストプラクティスを採用したのか\nテスト戦略：依存性の注入とモックによる堅牢性の確保\nCI/CD構築：GitHub Actions × Artifact Registry × Secret Manager\nセキュリティ：シークレット管理とIAMベストプラクテ...",
+    "link": "https://zenn.dev/miki_mini/articles/c3cb49f45dcc8e",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T06:12:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f8fc87c88dcf9f61629f1ea97322bed0",
+    "title": "Claude Code Skills、結局どれを入れる？用途別おすすめ9選",
+    "summary": "はじめに\n「Claude CodeのSkills、どれを入れればいいかわからない」\nSkills機能が追加されてから気になっていたものの、Cursor、MCP、ワークフロー系AIツールなど試したいものが山積みで手が出せていない方も多いのではないでしょうか。\nこの記事では、Claude Code用Skillsがまとめられているawesome-claude-skillsリポジトリから、実際に使えそうな...",
+    "link": "https://zenn.dev/kg_filled/articles/50f762610d48c7",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-16T01:25:57",
+    "ai_summary_done": false
+  },
+  {
     "id": "c7b2c244d1590ce3ac32258523b7cce3",
     "title": "IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦",
     "summary": "※本記事は、経済産業省のタスクフォース資料（公開資料）を起点に、 「現時点で公開されている“事実”と“議論”」 を整理しつつ、AIエージェント時代に向けた学習・資格戦略を私見でまとめたものです。\n※「制度変更が決定した」という話ではありません （重要） 。\n\n1. ...",
