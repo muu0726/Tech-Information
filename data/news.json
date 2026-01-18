@@ -1,5 +1,15 @@
 [
   {
+    "id": "a2f6013649842b196f7cbf5d97fe21ea",
+    "title": "Kaggle Benchmarks で AI モデルの評価をする",
+    "summary": "Kaggle に Community Benchmarks なるものが追加されたので紹介します。\nhttps://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/\n\n 忙しい人向けのまとめ\n\nKaggle が様々な AI 評価のベンチマークプラットフォームとして動き出した\nB...",
+    "link": "https://zenn.dev/prgckwb/articles/kaggle-benchmarks-ai-eval",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T12:22:21",
+    "ai_summary_done": false
+  },
+  {
     "id": "0f0318dd7c7b2950bd3d8ac276e8aaaf",
     "title": "【Python】Selenium 徹底解説：入門で終わらせない実践的ブラウザ自動化",
     "summary": "はじめに\n―― 自動化テストを超えた「ブラウザ操作エンジン」の本質\n\nSelenium を「テスト用ツール」だと思っているうちは、\nまだこの道具の半分も使えていません。\n\nSelenium は単なる UI 自動化ツールではなく、\n実ブラウザを完全に支配できる強力な自動化基...",
