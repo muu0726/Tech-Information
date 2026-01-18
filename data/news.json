@@ -1,5 +1,45 @@
 [
   {
+    "id": "538a3aa3bd0d70cf78e3c619f0dba402",
+    "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
+    "summary": "はじめに\nアリババクラウドからQwen3-VL-Embeddingがリリースされた。\n今回の記事では、Claude Codeとともに開発したQwen3-VL-EmbeddingベースのマルチモーダルローカルAI検索システムの導入方法と使い方をまとめる。\nQwen3-VL-Embeddingについては、公式リポジトリを参照されたい。\nhttps://github.com/QwenLM/Qwen3-V...",
+    "link": "https://zenn.dev/robustonian/articles/qwen3-vl-embedding_search",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T01:11:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a6eab4f0b2a0649ef705d44fe6976bc9",
+    "title": "開発環境現状確認（2026年）",
+    "summary": "こんにちは @shunk031 です。開発環境現状確認[1][2][3]というタイトルの記事をいくつか見たので、自分の環境も整理してみます。\n\nなお、環境構築に使用している dotfiles は以下で公開しています。\nhttps://github.com/shunk031/dotfiles\n\n 著者のバックグラウンド\n開発環境の現状を確認する前に、私のバックグラウンドを説明しておくとなぜそのような...",
+    "link": "https://zenn.dev/shunk031/articles/my-dev-env-2026",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-16T15:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "07655c1f6dcc94c53f57264dc0aa17d5",
+    "title": "RAGの入力順序による性能低下を防ぐ手法",
+    "summary": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、RAGの検索結果の順序による精度低下を防ぐ手法、Stable-RAGについて紹介します。\nhttps://arxiv.org/pdf/2601.02993\n\nRAGは、情報を検索しその内容をLLMに渡すことで、LLMが知らない内容についてもLLMに回答させることができる手法となっています。しかし、言語モデルの特性上、同じ検索結果でも...",
+    "link": "https://zenn.dev/knowledgesense/articles/9db9118e871b3e",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-16T02:57:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86c6704e3fcf9c8eae6a2f02481ef778",
+    "title": "React Best Practicesはむしろアンチパターン説",
+    "summary": "概要\n先日、Vercel社からAIコーディング用のReact Best Practicesが公開された。\nhttps://vercel.com/blog/introducing-react-best-practices\nいわく、「 Vercelが10年以上にわたって蓄積してきたReactとNext.jsの最適化ノウハウを体系化したもの 」となっており、40以上のルールが8つのカテゴリーに分類された...",
+    "link": "https://zenn.dev/thr3a/articles/081ee955f32832",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-16T02:42:21",
+    "ai_summary_done": false
+  },
+  {
     "id": "2dd537191db39cdc7b572dce60d53018",
     "title": "生成AIの収束先の存在を圏論で証明する",
     "summary": "はじめに\n敵対的模倣学習の圏論的解釈について紹介します。\n近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...",
