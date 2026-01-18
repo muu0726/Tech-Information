@@ -1,5 +1,85 @@
 [
   {
+    "id": "0f0318dd7c7b2950bd3d8ac276e8aaaf",
+    "title": "【Python】Selenium 徹底解説：入門で終わらせない実践的ブラウザ自動化",
+    "summary": "はじめに\n―― 自動化テストを超えた「ブラウザ操作エンジン」の本質\n\nSelenium を「テスト用ツール」だと思っているうちは、\nまだこの道具の半分も使えていません。\n\nSelenium は単なる UI 自動化ツールではなく、\n実ブラウザを完全に支配できる強力な自動化基...",
+    "link": "https://qiita.com/nozomi2025/items/e00e7373b3f8a15877f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-15T08:11:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1f22c0b8e2dae9d287ef56a371d96c2c",
+    "title": "Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド",
+    "summary": "はじめに：なぜ今 Tauri なのか\nElectron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev\nTauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...",
+    "link": "https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T00:50:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9e6e4485abe42c94758ecced7267e6d7",
+    "title": "Claude Codeが私の職場を激変させはじめた",
+    "summary": "はじめに\n私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。\n全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。\n私も現場のプロジェクトリーダーとして導入を...",
+    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T09:52:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "251b674c82113961073ef3620cac7a8f",
+    "title": "⚡製図革命2.0⚡draw.io で図を作る AI スキルを作ってみた🚀",
+    "summary": "こんにちは、「図を AI に描かせたい欲」が止まらないアーキテクトのやまぱんです 😊\n補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！\n間違っていたら 優しく 教えてください！\n以前、「製図革命」として AG-Diagram Maker を紹介しました。\nhttps...",
+    "link": "https://qiita.com/aktsmm/items/199869941e2d6a8b46a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-15T11:11:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e2183603d796310192f00c6ba9278de3",
+    "title": "Python × PuLP × Pandasでスケジューリングをして、Excelに出力",
+    "summary": "はじめに\n　2025年12月からPythonの学習を始めました。今回はアウトプットの一環で、PythonとPuLP、Pandasを使用してスケジューリングのできるツールを作成しました。\n　理由は、家内が小学校教員をしているのですが、3者面談の日程や席替え、クラス替え等の業...",
+    "link": "https://qiita.com/yama_python/items/6714132c4f95b0e5f10a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T04:59:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86530e58ad3de8772760b64bf23230ac",
+    "title": "AIが生成する「最適なデータ」に、作り手の意思を乗せるということ",
+    "summary": "「AIが人間の仕事を奪う」という議論が各所でなされていますが、以前テレビである映像を見てから、私の中での認識が変わりました。\nそれは、ジグソーパズルの検品風景です。\n「どういうこと？」ってなりますよね。\n実は、完成したパズルを作業員の方が手作業でガシャガシャと崩して箱に詰め...",
+    "link": "https://qiita.com/GIFCat/items/ac02aa8b9b5712125fde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T00:00:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f1207ff467182495cae565a365ff7bc8",
+    "title": "Smartyのデリミタを<( ﾟДﾟ) コード ( ﾟДﾟ)>に設定してVSCodeに適応する",
+    "summary": "はじめに\nSmartyテンプレートエンジンでは、デリミタ（区切り文字）をカスタマイズできます。\nデフォルトは { } ですが、JavaScriptやCSSと競合するため、や{{ }}などに変更するプロジェクトも多いですよね。しかし、Smartyで設定を...",
+    "link": "https://qiita.com/ishi720/items/71bc524b07d2be4eb4b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T01:17:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2e0ae5be48c90c4a26ddec7fa540e2f4",
+    "title": "2026/01/18 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n個人開発者として実際にアプリを運営していく中で...",
+    "link": "https://qiita.com/ennagara128/items/06d1ddc6929a0a682efa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T00:55:34",
+    "ai_summary_done": false
+  },
+  {
     "id": "213da7576ddd861f73084d703654b208",
     "title": "なぜ私はフロントエンド開発を避けるようになったのか",
     "summary": "jQueryの時代\n発端は学生時代に遡ります。Web制作の授業で初めてWebに触れたのですが、当時はまだ古き良きjQueryの時代でした。HTML、CSS、JavaScriptの3ファイル構成で、classを介してそれぞれを繋げていくスタイル。私はこれが嫌いでした。\n単純に、面倒だったのです。\n「関心の分離」というメリットを説かれましたが、気の利いた反論が思いつかず、その場では引き下がりました。し...",
