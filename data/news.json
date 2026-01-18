@@ -1,5 +1,35 @@
 [
   {
+    "id": "213da7576ddd861f73084d703654b208",
+    "title": "なぜ私はフロントエンド開発を避けるようになったのか",
+    "summary": "jQueryの時代\n発端は学生時代に遡ります。Web制作の授業で初めてWebに触れたのですが、当時はまだ古き良きjQueryの時代でした。HTML、CSS、JavaScriptの3ファイル構成で、classを介してそれぞれを繋げていくスタイル。私はこれが嫌いでした。\n単純に、面倒だったのです。\n「関心の分離」というメリットを説かれましたが、気の利いた反論が思いつかず、その場では引き下がりました。し...",
+    "link": "https://zenn.dev/sijiaoh/articles/9c7edf0ba29def",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T10:41:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c49dd243f5371eaf3e6d29d40296d79c",
+    "title": "Agent Skills対応デスクトップマスコットを作ったので紹介だけします。かわいいので",
+    "summary": "かわいい\n\n\n これはなに\n伺かとかDesktop Mate™みたいなやつです。\nhttps://ssp.shillest.net/\nhttps://www.infiniteloop.co.jp/desktopmate/\n2026年はAI秘書元年だというのをどっかの国会議員[1]が言っていたので、じゃあデスクトップマスコットをAI秘書にしようということで作りました。\n\n つくりかた\nPythonの...",
+    "link": "https://zenn.dev/tkithrta/articles/531884d62ff9a1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T09:54:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a4949f1ee45d7c037140558e83e90f48",
+    "title": "Kiro Autonomous Agent（プレビュー）を試してみた",
+    "summary": "はじめに\nAWS re:Invent 2025にて、Frontier Agentと呼ばれる自律型AIエージェントが発表されました。Frontier Agentは、単に質問に答えるAIではありません。目的を与えると、自ら考え、計画し、作業を継続的に実行する点が特徴です。\nこのFrontier Agentの1つとして紹介されたのが、Kiro Autonomous Agentです。\n詳細については、以下...",
+    "link": "https://zenn.dev/nyuuuk/articles/ee0673c07b4824",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-17T04:59:02",
+    "ai_summary_done": false
+  },
+  {
     "id": "538a3aa3bd0d70cf78e3c619f0dba402",
     "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
     "summary": "はじめに\nアリババクラウドからQwen3-VL-Embeddingがリリースされた。\n今回の記事では、Claude Codeとともに開発したQwen3-VL-EmbeddingベースのマルチモーダルローカルAI検索システムの導入方法と使い方をまとめる。\nQwen3-VL-Embeddingについては、公式リポジトリを参照されたい。\nhttps://github.com/QwenLM/Qwen3-V...",
