@@ -1,5 +1,15 @@
 [
   {
+    "id": "c775f534af89580bf6b65eb42e3eba5c",
+    "title": "tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する",
+    "summary": "TL;DR\ngit worktreeを使う機会が増えてきたので、さっと切り替えられるようにしました。\nfzfでブランチ選択→gwqでworktree作成→tmuxでセッション作成/スイッチ\n↑を行うスクリプトをtmuxのpopup windowで実行してます\n\n(ちょっと現実味がないぐらい忙しないですが、greet.sh, fizzbuzz.shをClaude Codeを用いて並行で開発するような...",
+    "link": "https://zenn.dev/ymat19/articles/9107170744368f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-18T04:02:40",
+    "ai_summary_done": false
+  },
+  {
     "id": "ec34c60aab6f61a7b3b3494373e214bd",
     "title": "ITコンサル3人でAI駆動開発を2日間やってみた",
     "summary": "はじめに\n「生成AIでアプリを開発したい」といった声が多くの企業で挙がっている昨今ですが、非エンジニアがAI駆動開発を実際行った場合、どの程度のクオリティになり、どのような課題があるのかを知りたいなと思い、今回チャレンジしてみました。\nNCDCのITコンサルタント3名がAIを駆使して2日間で実際のお客様向けのクローズドコミュニティアプリを開発するAI駆動開発を実施しましたので、その結果や感想をまと...",
