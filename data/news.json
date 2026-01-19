@@ -1,5 +1,85 @@
 [
   {
+    "id": "6791053c3bbd295cd9582f529275d4a5",
+    "title": "【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話",
+    "summary": "はじめに\n高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。\nそれが 「実験レポート」 です。\n毎週のように課される実験、そしてレポート。\n中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。\n\n毎回Wordの...",
+    "link": "https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-17T07:43:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aae1f3a5c707c6e98297fdb6446ddb5d",
+    "title": "AIでアンケートのテキスト分類とセンチメント分析を爆速化してみた",
+    "summary": "アンケートデータは、最も身近に存在するデータの一つです。\nしかし、いざ活用しようとすると、なかなか分析が進まない状況に直面することが少なくありません。特に、自由記述のテキストデータは、回答者の生の声が詰まった貴重な情報源である一方で、その分析には大きな壁がありました。\nテキ...",
+    "link": "https://qiita.com/IkuyaM/items/5b757456b3c2b3676531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T23:01:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d5ea38a720eb80cf52924cce40ffd575",
+    "title": "さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術",
+    "summary": "「田中さん、顧客リストなんだけど、『トヨタ』『トヨタ自動車』『トヨタ自動車(株)』って全部同じ会社だよね?これ、集計する前に手作業で直さないと...」\n画面に表示された顧客リストには、同じ企業を指しているはずなのに、入力者によって表記が異なる「表記揺れ」が無数に存在していま...",
+    "link": "https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T00:38:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5ef834bb57f304e9d5d5ec43f6a0f36c",
+    "title": "【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた",
+    "summary": "はじめに\n毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。\nそこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...",
+    "link": "https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T04:59:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c9a55d0feb0d755aabf6e30eb54d2e30",
+    "title": "PythonではなくJavaScriptを学ぶべきだった",
+    "summary": "Pythonをめぐる後悔\nプログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。\n当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...",
+    "link": "https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T06:15:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "307be2beaabd5cb615e6b25d701e538c",
+    "title": "自然言語からSQLは魔法ではない",
+    "summary": "― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由\n生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。\n一見すると、\n\nテーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる\n\nように...",
+    "link": "https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T02:08:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "133544102460b1165cf69a58fe208d14",
+    "title": "AWS CCoEが取り組んだ「AI利用の社内推進」施策を振り返る",
+    "summary": "はじめに\n生成AIの登場以降「AI利用の社内推進」をテーマに、様々なことに取り組んできました。\n振り返ってみると、2025年より前は、目の前の基盤モデルの進化を追いかけながら、優れたモデルを活用したアプリケーションで、何か意味のある成果を生み出そうと、必死に取り組んでいま...",
+    "link": "https://qiita.com/nasuvitz/items/da987a2e8749fb70272a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T15:21:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9b30785ec286f3363feaba3ed35eb30c",
+    "title": "勘からデータへ：PythonとYouTube Data API v3によるYouTubeショート分析パイプラインの構築",
+    "summary": "*こちらの記事は、英語から日本語へ翻訳をしています。\nEnglish Original Text\nI’m Anshika Kankane, a data scientist at GIFTech, and I’m back to share another project...",
+    "link": "https://qiita.com/GIFCat/items/50b427da5b0357e8bc31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T00:06:36",
+    "ai_summary_done": false
+  },
+  {
     "id": "c775f534af89580bf6b65eb42e3eba5c",
     "title": "tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する",
     "summary": "TL;DR\ngit worktreeを使う機会が増えてきたので、さっと切り替えられるようにしました。\nfzfでブランチ選択→gwqでworktree作成→tmuxでセッション作成/スイッチ\n↑を行うスクリプトをtmuxのpopup windowで実行してます\n\n(ちょっと現実味がないぐらい忙しないですが、greet.sh, fizzbuzz.shをClaude Codeを用いて並行で開発するような...",
