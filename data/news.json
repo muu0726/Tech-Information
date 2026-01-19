@@ -1,5 +1,35 @@
 [
   {
+    "id": "95c405be4e0f20c78ce323d4c2dc0d7c",
+    "title": "Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話",
+    "summary": "先日、Googleが提供するIDE「Antigravity」のアップデートにより、一連の手順をまとめて実行させる新機能「スキル」が追加されました。 この機能は、これまで手作業で行っていたルーチンワークをAIに学習させ、効率化するための強力なツールです。 今回は、開発者が最も...",
+    "link": "https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T09:50:55",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8413b110b9efddd8fd4b165c31f40c60",
+    "title": "ローカルLLMサーバーの実用的な使い道の検討",
+    "summary": "はじめに\nMac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...",
+    "link": "https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T03:50:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3cadd2c488001a190416dfea3a0debb6",
+    "title": "GitHubActionsで最小構成のCICDを体験する",
+    "summary": "はじめに\n\n記事の目的\n「CI/CDってよく聞くけど、何から始めればいいの？」という方に向けて、最小構成でGitHub Actionsを使ったCI/CDを体験することを目的とします。\n複雑な設定や外部サービス連携は一切なし。Java + Mavenプロジェクトをビルド...",
+    "link": "https://qiita.com/NSS_FS_ENG/items/9e1add27ebf54fa3b650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T22:57:12",
+    "ai_summary_done": false
+  },
+  {
     "id": "16137c54a5fc0e92f8ef18ad2b03fa25",
     "title": "Orvalのメンテナーとして2025年の活動と2026年やりたいこと",
     "summary": "2025年のorvalにおけるmaintainerとしての活動内容、主な成果、そして2026年に向けた展望について書きます。なお、昨年の年始に書いた同様の記事はこちらです。\n\n サマリ\n\n直接的な貢献として、58件のPRをマージ、3件のissueをcloseしました\n\nMCP (Model Context Protocol)サーバー生成機能を実装しました\n\nZod統合を大幅に強化し、ランタイムバリ...",
