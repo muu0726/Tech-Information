@@ -1,5 +1,15 @@
 [
   {
+    "id": "16137c54a5fc0e92f8ef18ad2b03fa25",
+    "title": "Orvalのメンテナーとして2025年の活動と2026年やりたいこと",
+    "summary": "2025年のorvalにおけるmaintainerとしての活動内容、主な成果、そして2026年に向けた展望について書きます。なお、昨年の年始に書いた同様の記事はこちらです。\n\n サマリ\n\n直接的な貢献として、58件のPRをマージ、3件のissueをcloseしました\n\nMCP (Model Context Protocol)サーバー生成機能を実装しました\n\nZod統合を大幅に強化し、ランタイムバリ...",
+    "link": "https://zenn.dev/soartec_lab/articles/444be40483b2dc",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-18T10:05:48",
+    "ai_summary_done": false
+  },
+  {
     "id": "6791053c3bbd295cd9582f529275d4a5",
     "title": "【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話",
     "summary": "はじめに\n高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。\nそれが 「実験レポート」 です。\n毎週のように課される実験、そしてレポート。\n中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。\n\n毎回Wordの...",
