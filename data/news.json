@@ -1,5 +1,15 @@
 [
   {
+    "id": "1bb8d8e7604c94efcf22c125d7afc6f0",
+    "title": "2026年1月版 俺的AI駆動開発フロー&Tips",
+    "summary": "!\nこの記事は筆者がAI駆動開発を通して積み上げてきた開発フローやそのTipsを紹介するものであり、絶対的な正解を示したり、主義主張を押し付けたりするものではありません。\nどこから始めたらよいかわからない方や指針を求めている方の参考になれば幸いです。\n\nこの記事ではコーディングエージェントのことをAIと表記します。\n\n 前提：\"俺\"の現状\n\n 使っているAIとツール\n\nGitHub Copilot...",
+    "link": "https://zenn.dev/microsoft/articles/2026-01-my-aidd-flow",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-20T01:41:43",
+    "ai_summary_done": false
+  },
+  {
     "id": "1f6129e9b9e61633d23d0b21c5ff051a",
     "title": "X、投稿で報酬もらえる「infofi」アプリ禁止　スパム抑制へAPIポリシー改訂　「開発者はThreads、Blueskyに移行を」",
     "summary": "これにより、AIで生成された低品質な投稿やスパム返信などが改善されるとみている。",
@@ -987,16 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-17T02:41:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "51f31a2ceb26d2def14af776bc02db39",
-    "title": "Kiro × Claude Code × Codex - AIを「チーム」として扱う開発スタイルの実践",
-    "summary": "はじめに\nAIにコードを書かせること自体は、もう珍しくありません。\nしかし 「AI同士を役割分担させて開発する」 という話は、まだ多くありません。\n私は SE / PM としての経験は長い一方で、プログラミングを主戦場としてきたわけではありません。\nその立場から、AIを「...",
-    "link": "https://qiita.com/miyakawa2449@github/items/672101d83066db0a8b3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T04:49:19",
     "ai_summary_done": false
   }
 ]
