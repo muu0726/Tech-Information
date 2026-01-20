@@ -1,5 +1,55 @@
 [
   {
+    "id": "baa1a4481602a8067ee0a2906951e2a3",
+    "title": "【Claude Code】Claude CodeがOllamaと連携できるようになったらしい",
+    "summary": "はじめに\n2026/1/18 に以下のようなツイートを見かけました。\n\nOllama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...",
+    "link": "https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T23:41:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0be020f83f14a630c4056f0177502cd7",
+    "title": "Google AI Proで使い倒すAntigravity開発ノウハウ：モデルとモードの最適解",
+    "summary": "Google AI Proで使い倒すAntigravity開発ノウハウ：モデル・モード・ナレッジの最適解\n\nはじめに\nAntigravity（IDE）で複数のモデルを使い分け、プロジェクト固有の制約を反映させながら開発を進めるためのノウハウをまとめます。\n本記事では、実装...",
+    "link": "https://qiita.com/ryosukehayashi/items/ad6e67d7d2b261a3b39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T14:04:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b2a21a60df879300e988714a7e233d01",
+    "title": "【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話",
+    "summary": "最近よく聞く生成AIで誰でもアプリ開発という話題。\n正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。\nですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。\n疑ってかかっ...",
+    "link": "https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T21:42:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "eb818c791d59f43080d1db6a5714c3a8",
+    "title": "Qwen-Image-2512ってなんだ？〜オープンソース最強の画像生成AIを完全攻略〜",
+    "summary": "この記事の対象読者\n\nPythonの基本文法を理解していて、画像生成AIに興味がある方\nStable DiffusionやFLUXなど、他の画像生成モデルを触ったことがある方\nComfyUIやDiffusersを使った経験がある（または使いたい）方\n日本語や中国語のテキス...",
+    "link": "https://qiita.com/GeneLab_999/items/b7fa8b9f7729c48a51aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-18T06:09:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "434c1e36c21c1f2c3cb0f43aa055dfea",
+    "title": "「RAG」「言語の“隔離”」という発想",
+    "summary": "Multilingual Vector Search における実践的な設計パターン\nLLM や RAG を実運用に組み込む中で、Multilingual Embedding は非常に便利な一方、\n実際に使ってみると見過ごせない問題に直面します。\n本記事では、\n多言語 Vec...",
+    "link": "https://qiita.com/tms-ducvu/items/21d2b20070362fd3c369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-20T04:38:12",
+    "ai_summary_done": false
+  },
+  {
     "id": "1af5401f5e0e3d63aec45e57a68613fb",
     "title": "getElementByIdはなぜ速いのかを理解する",
     "summary": "こんにちは、フロントエンドのyです。\n今回はgetElementByIdについての記事です。\nJavaScriptを書くとき、getElementByIdを使ってDOMを参照していますか？\nそれともquerySelectorでDOMを参照していますか？\n私は基本的にはgetElemtntByIdを使ってDOMを取得することに意識を置いていました。\ngetElementByIdによるid検索はHTM...",
@@ -947,36 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-01-15T09:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c63927678845cbcf5775a986efd78c31",
-    "title": "ミラ・ムラティ氏とThinking Machinesを創設した3人がOpenAIに出戻り",
-    "summary": "ミラ・ムラティ氏の新興AI企業Thinking Machines Labから、CTOのバレット・ゾフ氏ら創業メンバーを含む主要人材3人が離脱し、古巣のOpenAIへ電撃復帰した。OpenAI側は「数週間前から準備していた」としており、人材獲得競争の激化が露呈した形だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/15/news112.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-15T05:23:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ac78c23a38fc17bed0045ce5b14b993c",
-    "title": "カリフォルニア州、xAIの「Grok」を正式調査　非同意の性的画像生成で法的責任追及へ",
-    "summary": "米カリフォルニア州は、AI「Grok」による性的ディープフェイク生成を巡り、xAIに対する正式調査を開始したと発表した。州法違反の可能性を追及する。この発表の数時間後、Xは画像生成の有料化や露出規制などの緊急対策を公表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/15/news079.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-15T02:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "70bcfc652dd6e334b48ba12ce86e282c",
-    "title": "X、Grokでのビキニ画像を技術的に禁止　画像生成は有料プランのみに",
-    "summary": "Xは、AI「Grok」による性的画像生成の制限を発表した。露出度の高い画像編集を禁止し、画像生成機能を有料会員限定とする。英国に続き米カリフォルニア州も調査を開始した直後の緊急対応だが、xAIの単体アプリでは依然として画像生成が可能だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/15/news075.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-15T01:36:00",
     "ai_summary_done": false
   }
 ]
