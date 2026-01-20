@@ -1,5 +1,15 @@
 [
   {
+    "id": "1af5401f5e0e3d63aec45e57a68613fb",
+    "title": "getElementByIdはなぜ速いのかを理解する",
+    "summary": "こんにちは、フロントエンドのyです。\n今回はgetElementByIdについての記事です。\nJavaScriptを書くとき、getElementByIdを使ってDOMを参照していますか？\nそれともquerySelectorでDOMを参照していますか？\n私は基本的にはgetElemtntByIdを使ってDOMを取得することに意識を置いていました。\ngetElementByIdによるid検索はHTM...",
+    "link": "https://zenn.dev/ycode/articles/fa13cb0104225b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-18T16:01:01",
+    "ai_summary_done": false
+  },
+  {
     "id": "c1579943c815b8b3abf984d0b2bfd958",
     "title": "生成AIで50万点以上作成か　女性芸能人模したわいせつ画像公開疑い、31歳男逮捕",
     "summary": "生成AIで女性芸能人を模したわいせつ画像を作成し、インターネット上で公開したとして、警視庁は1月19日、わいせつ電磁的記録陳列の疑いで、札幌市の無職、千葉達郎容疑者（31）を逮捕した。捜査関係者への取材で分かった。",
