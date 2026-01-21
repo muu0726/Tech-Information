@@ -1,5 +1,15 @@
 [
   {
+    "id": "a01a0ed73d6fd7323d4b0c3657dd6fb6",
+    "title": "OpenAIとゲイツ財団、アフリカの医療をAI化する「Horizon 1000」に5000万ドル",
+    "summary": "OpenAIとビル・ゲイツ氏のGates Foundationは、アフリカの医療をAIで支援する「Horizon 1000」を共同発表した。5000万ドル（約79億円）を投じ、2028年までに1000拠点の保健施設にAIを導入する。診断支援や事務自動化を通じて、アフリカのプライマリヘルスケアの質と効率を向上させるとしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news065.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-21T23:05:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "d8569dd554238ae2cb27b333b3d699bb",
     "title": "【アプリ開発】新人フォローをきっかけにAI人事評価システムを作ってみた話",
     "summary": "はじめに\n記事を開いていただきありがとうございます！\n現在私は、GitHub Copilotを活用しながら、業務効率化や社内改善のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、AI人事評価管理システムを作ってみての学びを共有します。\nぜひご覧くださ...",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-14T14:40:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ed9a994eaf27fc4fe4dccafe7ad9eac7",
-    "title": "Next.jsを書くときは、ある程度バックエンドを理解して書いてほしい話",
-    "summary": "はじめに\n今回は、フロントエンドエンジニアがNext.jsのApp Routerに触れた際に陥りがちな問題を取り上げます。\nここ最近のトレンド(フレームワーク、AI、ライブラリなど)と共に、フロントエンドエンジニアがバックエンド処理を実装する機会がかなり増えたと感じています。\nしかし、レビューをしていると何度も致命的なセキュリティ問題が見つかり、コメントをしてもバックエンドがどのように処理されるか...",
-    "link": "https://zenn.dev/kt57/articles/0b87349d94ddcc",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T12:43:00",
     "ai_summary_done": false
   }
 ]
