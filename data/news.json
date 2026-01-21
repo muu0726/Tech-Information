@@ -1,5 +1,15 @@
 [
   {
+    "id": "0ea09a031cefee89f53544c5845c12e7",
+    "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
+    "summary": "Skills.sh\n2026年1月21日、日本の深夜に突如VercelのおっさんがスキルマーケットプレイスSkills.shを発表しました。\nhttps://x.com/rauchg/status/2013662530502078573\n\n\"The Open Agent Skills Ecosystem\"\nスキルとは、AIエージェントが再利用可能な機能のことです。1回のコマンドでインストールすれば...",
+    "link": "https://zenn.dev/tkithrta/articles/b7afbf76e7bb31",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-20T22:42:48",
+    "ai_summary_done": false
+  },
+  {
     "id": "394c4c0bcf51747b8f72d1dec9ca01e6",
     "title": "Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた",
     "summary": "これを試します。\n\n開発\nメインのAIエージェントをTypeScriptで作成します。\nStrands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。\n\nindex.ts\nimpor...",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-14T05:44:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c27e72a8bb9082b1c93ac4de005339c4",
-    "title": "Reactの魔法を理解する",
-    "summary": "僕はバックエンドエンジニアなんですが、モノを作ろうとするとどうしてもフロントを触る必要があります。\nここではReactを触れるようになるための最低限の知識をまとめておこうと思います。\nできるだけ「なぜそうなるのか？」を深堀りながら書きたいと思います。\nAI使いながら書いてます。Reactの公式ドキュメントも参考にしてます。\n\nReactのコードは初見には「魔法」だらけです。急に出てきたreact ...",
-    "link": "https://zenn.dev/gaomond/articles/7c69f904c53ceb",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T04:57:48",
     "ai_summary_done": false
   }
 ]
