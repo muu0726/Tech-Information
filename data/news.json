@@ -1,5 +1,15 @@
 [
   {
+    "id": "d8569dd554238ae2cb27b333b3d699bb",
+    "title": "【アプリ開発】新人フォローをきっかけにAI人事評価システムを作ってみた話",
+    "summary": "はじめに\n記事を開いていただきありがとうございます！\n現在私は、GitHub Copilotを活用しながら、業務効率化や社内改善のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、AI人事評価管理システムを作ってみての学びを共有します。\nぜひご覧くださ...",
+    "link": "https://qiita.com/ishikawa_slj/items/a19ae5503a08d8f80302?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T00:36:23",
+    "ai_summary_done": false
+  },
+  {
     "id": "0ea09a031cefee89f53544c5845c12e7",
     "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
     "summary": "Skills.sh\n2026年1月21日、日本の深夜に突如VercelのおっさんがスキルマーケットプレイスSkills.shを発表しました。\nhttps://x.com/rauchg/status/2013662530502078573\n\n\"The Open Agent Skills Ecosystem\"\nスキルとは、AIエージェントが再利用可能な機能のことです。1回のコマンドでインストールすれば...",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-14T12:43:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "09897045a34bf86dacc5e24d3db48414",
-    "title": "AI に指示するのではなく、まずは AI に質問させた方が捗る",
-    "summary": "はじめに\n頭の中には手順や判断のポイントがあるのに、それを明文化出来ていない。\nその結果、関係者間で前提が共有されないまま話が進み議論がすれ違ってしまう、ということがあると思います。\nこれは、暗黙知が言語化されていない状態です。\nそしてこれは、 AI ≒ LLM を使う上でも同じ課題に直面します。\n頭の中にある暗黙知を明文化しないと、 LLM から良い回答は得られません。\nこの記事で紹介するのは、...",
-    "link": "https://zenn.dev/hataluck/articles/d347a5011cf71e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T05:44:23",
     "ai_summary_done": false
   }
 ]
