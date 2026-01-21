@@ -1,5 +1,45 @@
 [
   {
+    "id": "2b60cfb7bef0070b092df163e654d900",
+    "title": "2026年1月、スノーボード駆動開発に辿り着いた 〜 オレのバイブコーディング 〜",
+    "summary": "はじめに\nこんにちは、淡路です。\n最近 AI エージェントを自在に作り出して汎用的な業務を支援するアプリを実装しています。まだ公開していませんが、雰囲気が伝わる画像だけ載せておきます。\n\n汎用アシスタントを始め、様々なエージェントを選択して対話できるチャットUI\nさまざまなエージェントを選択・作成でき、ツールを組み合わせて業務を効率化できます。\n\nData Analyst、Code Review ...",
+    "link": "https://zenn.dev/gawa/articles/my-vibe-coding-memo",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-20T07:45:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "26e35e086187057fbd188720061f2c5e",
+    "title": "AIエージェントを「自己進化」させる仕組み",
+    "summary": "本記事では、AIエージェントを自己進化させて性能を高める手法について、ざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事は、訓練データなしでAIエージェントを自己進化させる手法「Dr. Zero」の論文[1]について、日本語で簡単にまとめたものです。\nhttps:...",
+    "link": "https://zenn.dev/knowledgesense/articles/a68f42a6a0144b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-20T00:01:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cd302b2dca9adc738056f24e5239c960",
+    "title": "Spec DrivenではなくImplementation Drivenを選ぶ理由",
+    "summary": "Implementation-Driven Developmentという考え方\n近年、AI を活用したコーディングが一般化し、ソフトウェア開発の進め方そのものが改めて問われていると感じています。その中で仕様を起点として開発を行う Spec Driven Development（仕様駆動開発） が、有力なアプローチとして語られる場面も増えてきました。\n本稿では、Spec（仕様）という成果物そのものを...",
+    "link": "https://zenn.dev/akring/articles/ef2d8d1e95ff86",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-19T18:01:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "60271dad7b0b1c896c223e33d721fb93",
+    "title": "月当たり$5でClaudeにコードレビューしてもらおう",
+    "summary": "あらまし\n私「個人開発のコードをレビューしてもらって学習品質を高めていきたいなぁ」\nAIくん「最近なら個人開発でも俺たちがコードレビューしてやるで」\n私「昔にCodeRabbitってのを使ったことあったな......え、月に$24もかかるんか。これはチーム開発向けやな」\nMCPくん「ClaudeCodeなりCursorなりにGitHubのMCP入れたらできるで」\n私「せやなー。月に$20やからCo...",
+    "link": "https://zenn.dev/aprender/articles/f594269be5e838",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-19T08:00:01",
+    "ai_summary_done": false
+  },
+  {
     "id": "791be2e497ed1569a1f37e2319c9ff29",
     "title": "マスク氏の「ChatGPT」批判にアルトマン氏が応戦　Teslaの事故死数で反撃",
     "summary": "イーロン・マスク氏が「ChatGPTが9人の死に関連している」との未確認情報を拡散し、利用中止を呼びかけた。これに対しOpenAIのサム・アルトマンCEOは、Teslaのオートパイロットによる50人超の事故死を引き合いに反論。「Grok」「論じる気にもならない」とし、「相手を責める言葉は自分自身の露呈だ」と述べた。",
@@ -957,46 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-16T09:38:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c6fdac29a44cfcbe933a6f82a4ca0934",
-    "title": "カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点",
-    "summary": "「開発風景を撮影させてください」\n\nそう言われた時、正直戸惑いました。\nエンジニアとして、コードを書いている姿をカメラに収められることへの抵抗感。でも、後にこのドキュメンタリー撮影が、私のエンジニアとしての成長を大きく後押ししてくれました。\n今回は、伝統工芸×AIエージェ...",
-    "link": "https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-16T00:00:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "41921bd577330c8eb9a15dedcb7c6910",
-    "title": "【LLM文字起こし性能比較】低解像度のAI泣かせ表データを読ませてみた結果（GPT-5.2 / Gemini 3 / Claude 4.5 Opus）",
-    "summary": "💡この記事で分かること\n\nGPT-5.2、Gemini 3、Claude 4.5 Opusの画像文字起こし性能の違い\n低解像度・特殊文字満載の表データに対する各モデルの対応力\n筆者の検証環境における最適な文字起こしモデルの選定結果\n\nプロンプトの質が出力に与える影響の実...",
-    "link": "https://qiita.com/k2a_Y4a/items/b46a545a96e9150c457f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-16T00:21:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a9b68c568e328946a5182b256959eb0c",
-    "title": "【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～",
-    "summary": "はじめまして。\n株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で\nつまずきやすいポイントを整理して発信しています。\nPRUMについて気になった方は、\nコーポレートサイトもご覧ください。\n▶ コーポレートサイト\n\n前回をまだ読んでない方は...",
-    "link": "https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-15T05:43:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "045a179ff28ead430476c9444ab6a416",
-    "title": "【2026年最新】エンジニア必見！1月以降に開催される注目のハッカソン総まとめ",
-    "summary": "2026年のハッカソンは、単なる技術的な「お祭り」の領域を超え、企業における高度人材採用の主戦場、地方自治体によるDXの加速装置、そして先端技術の社会実装実験場としての地位を確立しつつあります。\n「今年はアウトプットを増やしたい」「最新技術を実戦で試したい」というエンジニア...",
-    "link": "https://qiita.com/GIFCat/items/d5424e69b7e95eb9c0d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T02:00:36",
     "ai_summary_done": false
   }
 ]
