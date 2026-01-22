@@ -1,5 +1,15 @@
 [
   {
+    "id": "4e062ccb86992a31b33f99f6f4970af6",
+    "title": "Microsoft、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」公開",
+    "summary": "米Microsoftは、AIエージェントが自動的にMicrosoft Azure上のSRE（Site Reliability Engineering）を実行する「Azure SRE Agent」の新機能として、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」のプレビュー公開を明らかにし...",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news101.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-22T05:05:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "7bf64e90239da8bbee2c1145d75f9e6c",
     "title": "YouTube、AI分身での動画制作など、次世代戦略を発表",
     "summary": "YouTubeのニール・モーハンCEOは、クリエイター向けにAIで生成した本人の分身を使った動画制作機能を導入すると発表した。一方で、AIによる低品質な粗製乱造コンテンツの拡散を抑えるためのアルゴリズム刷新や、AIラベル付けの徹底に言及。創造性の拡張とプラットフォームの信頼性維持の両立を目指すと語った。",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-14T23:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6dbe445e2e4a761c0be7ffb73de126c5",
-    "title": "Claude Codeの並列実行を効率化する管理アプリを作った",
-    "summary": "こんにちは、秋野です。Xでもチームや組織でのAI開発効率化を発信してます。ぜひフォローいただけますと幸いです🙏\n\n 作ったもの\nClaude Codeで、複数のターミナルウィンドウで並行してセッションを実行していると「あのセッションは今何をしているのか？」「権限の入力待ちになっていないか？」といった状況を把握するのが難しくなりがちです。\nこの課題を解決するために、Claude Code Monit...",
-    "link": "https://zenn.dev/akino/articles/4e1b949594b6ca",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T22:10:05",
     "ai_summary_done": false
   }
 ]
