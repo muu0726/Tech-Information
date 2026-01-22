@@ -1,5 +1,15 @@
 [
   {
+    "id": "8e51c923ef35fd53918c889d5934c084",
+    "title": "Mixed-input matrix multiplication performance optimizations",
+    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
+    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-26T19:56:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6d72168ab508298c1a4b2c2621b540d8",
     "title": "Exphormer: Scaling transformers for graph-structured data",
     "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
@@ -987,16 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
     "ai_summary_done": false
   }
 ]
