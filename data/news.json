@@ -1,5 +1,65 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9b54afe11505f9fc9f92089f929c4eee",
+    "title": "Using AI to expand global access to reliable flood forecasts",
+    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
+    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T16:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
+    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-19T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8ae5843a5e445407119b2fd582f118e0",
+    "title": "AWS re:Invent 2025 参加レポート ～若手エンジニア目線で見た生成AI時代～",
+    "summary": "本記事の位置づけ\n本記事は、AWS re:Invent 2025（Amazon Web Services主催）に参加し、現地で体験したセッションやネットワーキングを通じて得た学びや気づきをまとめたレポートです。\n記載内容は、現地での体験を中心に構成しており、AWSの最新...",
+    "link": "https://qiita.com/NTTDATA-Kyushu-Cloud/items/03d02f331782321e9cb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-19T23:25:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b4bb7762004561ef7c88d2bde2272bd5",
+    "title": "AIエージェント歴1か月 - AgentCore/Strands Agents/Streamlitでインフルエンサー検索エージェントを作成する",
+    "summary": "はじめに\n本記事はハンズオンではなく、AIエージェントを学び1か月で構築することが出来たアプリケーションの説明、大変だった点、そしてこだわった点などを紹介します。\n一部の技術に関しては技術的要素を組み込みますが、全体を通して構築するわけではないことをご理解いただければと思...",
+    "link": "https://qiita.com/Yoshi1001/items/d1079e4a5cfad0073c12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T06:31:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a19ca84ac9e131376fed749a39d026c8",
+    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その2",
+    "summary": "フルコードはgithubにあります。\n\n前回使ってなかった関数の動作確認\n動作確認も兼ねて単位ベクトルを計算させてみる。はじめて自分でコードを書くw\nuse myraytracing::Vec3;\n\nfn main() {\n    let a = Vec3::new(0.1...",
+    "link": "https://qiita.com/sumikawa@github/items/3f5762ce0469740e5502?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T05:22:43",
+    "ai_summary_done": false
+  },
+  {
     "id": "6e25d47c5d588c8ac446917ac27446c3",
     "title": "SCIN: A new resource for representative dermatology images",
     "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
@@ -937,66 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-17T11:11:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ed0ea6c183bdbb82ba66ba300a1c0def",
-    "title": "【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps & Threads API活用）",
-    "summary": "【個人開発】サーバー代0円！GitHub ActionsとPythonで「完全自動更新」なWebサイトを作る技術（Google Maps & Threads API活用）\n\nはじめに\n前回は、Next.js 16を使って 「札幌の作業カフェ検索サイト」 を1週間で爆速開発...",
-    "link": "https://qiita.com/kazesift/items/7941e8cef7227328a664?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T07:16:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a89bc541b89c0f69f19d17214dea36cf",
-    "title": "Agent Rules、Workflows、Skills、Slash Commands：AIと効率的に働くための完全ガイド",
-    "summary": "はじめに\nこんにちは！\nVSCode + GitHub Copilot、Cursor、Google AntiGravity、Claude Codeなど、AI統合のIDEを使っている方なら、Rules、Workflows、Skills、Slash Commandsという用語...",
-    "link": "https://qiita.com/TOMOSIA-LinhND/items/d37f3bfdb59a44783a7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-16T11:29:55",
-    "ai_summary_done": false
-  },
-  {
-    "id": "df10389790b13c6b55a7e5281d7a2850",
-    "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
-    "summary": "はじめに\nAWS Japan AI/ML Specialist Solutions Architect の Kujirada です。\n2026 年は、社内全体で利用可能な Agent を開発・運用するための基盤の導入が加速すると予想されます。それに伴い、社内向けの MCP サーバーの開発や、MCP Registry の整備も進んでいくと考えられます。\nその際、「Agent が実行可能な MCP サ...",
-    "link": "https://zenn.dev/aws_japan/articles/003-bedrock-agentcore-policy-fgac",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-15T22:48:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4363f03c919c3ffc9dd9a9a967039ae9",
-    "title": "Rust+Wasmで爆速ライフゲームを作って動く壁紙にする",
-    "summary": "はじめに\nRust と WebAssembly（Wasm）の学習として、コンウェイのライフゲームを作成しました。\nただブラウザで動かすだけでは面白くないので、Windows の「Lively Wallpaper」を使って、自分のデスクトップ壁紙としてヌルヌル動かすところまでをゴールにしています。\n成果物はこんな感じです\n\nライフゲームが動いてる図\n1000×1000 を超える巨大なグリッドでも 6...",
-    "link": "https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T16:06:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
     "ai_summary_done": false
   }
 ]
