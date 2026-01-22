@@ -1,5 +1,15 @@
 [
   {
+    "id": "7bf64e90239da8bbee2c1145d75f9e6c",
+    "title": "YouTube、AI分身での動画制作など、次世代戦略を発表",
+    "summary": "YouTubeのニール・モーハンCEOは、クリエイター向けにAIで生成した本人の分身を使った動画制作機能を導入すると発表した。一方で、AIによる低品質な粗製乱造コンテンツの拡散を抑えるためのアルゴリズム刷新や、AIラベル付けの徹底に言及。創造性の拡張とプラットフォームの信頼性維持の両立を目指すと語った。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news081.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-22T02:43:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "a01a0ed73d6fd7323d4b0c3657dd6fb6",
     "title": "OpenAIとゲイツ財団、アフリカの医療をAI化する「Horizon 1000」に5000万ドル",
     "summary": "OpenAIとビル・ゲイツ氏のGates Foundationは、アフリカの医療をAIで支援する「Horizon 1000」を共同発表した。5000万ドル（約79億円）を投じ、2028年までに1000拠点の保健施設にAIを導入する。診断支援や事務自動化を通じて、アフリカのプライマリヘルスケアの質と効率を向上させるとしている。",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-14T22:10:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "781ecc00e92da2f4a95c4fc3b315cac2",
-    "title": "Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した",
-    "summary": "はじめに\nClaude Codeの相棒としてCodex CLIを併用する運用を続けてきましたが、MCPでの連携には大きな課題がありました。\n本記事では、MCPからSkillへの移行で得られた改善について共有します。\n\n 対象読者\n\nClaude Codeを日常的に使っている開発者\n複数のAIツールを組み合わせて使いたい方\nMCP（Model Context Protocol）の運用に課題を感じてい...",
-    "link": "https://zenn.dev/owayo/articles/63d325934ba0de",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T14:40:20",
     "ai_summary_done": false
   }
 ]
