@@ -1,5 +1,25 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-17T09:19:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b672c0056acf6af93af04d36ec557bc9",
-    "title": "複数のAI コーディングツールの rules 管理に悩める方へ rulesync のご紹介",
-    "summary": "rulesync とは\n@dyoshikawa1993 さんが作成した、AI コーディングツールの rules を統一管理してくれるツールです。\n\nGitHub はこちらになります。\n\nAI コーディングツールをマルチエージェントで運用している方や、複数の ...",
-    "link": "https://qiita.com/kamo-shika/items/942d7c0c000c84d29498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T00:23:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e24df3d827dc112e4f225fe9e9c2d98",
-    "title": "【バイブコーディング】AIの書く10万行のどこを見ればよいか？",
-    "summary": "はじめに\n「バイブコーディング」で、驚くほど簡単にWebアプリケーションが作れる時代になりました。\n私自身今まで6回以上Webアプリを作成し、\n計10万行はAIにコードを書いてもらったと思いますが、\nすべてのコードを読み切れているかと言われたら正直答えはNoです。\n\nその...",
-    "link": "https://qiita.com/ktdatascience/items/616f3b8b4e35437d8356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T11:11:53",
     "ai_summary_done": false
   }
 ]
