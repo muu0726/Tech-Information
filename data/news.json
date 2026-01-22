@@ -1,5 +1,35 @@
 [
   {
+    "id": "d7b8ec1c42c25825b0ea6642653ad412",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
+    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T19:07:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8d06555e2716257021ca81f1091e3421",
+    "title": "GitHub Copilotを使いこなすための概念整理",
+    "summary": "!\n筆者の考えを元にAIを使用して執筆しています。\n\nGitHub Copilotを「なんとなく使っている」状態から脱却するには、背後にある概念を理解することが近道だと思う。本記事では、Copilotの仕組みと各機能を概念レベルで整理し、「なぜそう動くのか」を理解することで使いこなせるようになることを目指す。\n\n\n 大前提：LLMがコードを生成する仕組み\nCopilotの挙動を理解するには、まずL...",
+    "link": "https://zenn.dev/cbmrham/articles/202601-github-copilot-concepts",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-21T11:50:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e09899c8bcd5b58c8ebcb3b54b37c654",
+    "title": "【入門】いまさらRAGを自作して、検索の挙動とチューニングの勘所を「体感」する",
+    "summary": "はじめに\n昨今、「AI」「RAG」という言葉をよく耳にするようになりましたが、正直なところ「概要はわかるけれど、実装や挙動のイメージが湧かない」という状態でした。\nそこで今回は、実際にAWSを使って課題管理データを検索できるRAGシステムを構築し、検証を行いました。\nLLMが抱える以下の課題：\n\nハルシネーション（嘘をそれっぽく言う）\n学習データが古く、最新情報を知らない\n\nこれらに対する解決策と...",
+    "link": "https://zenn.dev/sakagi/articles/3e0348dc4265dc",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-20T09:58:47",
+    "ai_summary_done": false
+  },
+  {
     "id": "657d8a6a5c12c6edb1141ff848711085",
     "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
     "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
@@ -967,36 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
     "ai_summary_done": false
   }
 ]
