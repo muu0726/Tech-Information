@@ -1,5 +1,75 @@
 [
   {
+    "id": "31986be80c165adb71011457af492eb1",
+    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その1",
+    "summary": "はじめに\n学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。\nまずはレイトレーシングを学ぶ。\n方針は下記\n\n週末レイトレーシングを順番にやっていく\nC++の代わりにRustで記述する\n書いてみるといいつつAIには...",
+    "link": "https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-20T17:29:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "00205b733ec8e0b6747defecb481b437",
+    "title": "素人質問が大好きな教授にコードレビューを頼んでみた結果",
+    "summary": "はじめに\nこんにちは、いのせです。\n最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。\nGitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...",
+    "link": "https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T14:20:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f9af3508aa23983e1656bc6ff6933e05",
+    "title": "Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック",
+    "summary": "Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。\n\n1...",
+    "link": "https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-20T00:47:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9e210cd7c3a1c858a97ed69764af7521",
+    "title": "Oracle製ノーコードAgent BuilderのPrivate Agent Factoryを構築＆試してみた",
+    "summary": "Oracle AI Databaseと組み合わせて使うノーコードAgent BuilderのPrivate Agent Factoryが先日リリースされました。\n製品の特徴など詳細は以下記事をご参照ください。\n\n本記事ではインストーラーを使ったPrivate Ag...",
+    "link": "https://qiita.com/ssfujita/items/a48f39726fc428292466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T23:13:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d4b993b8d6dbde91778d340a954f1514",
+    "title": "海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -",
+    "summary": "はじめに\nClawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている\nSelf-hosted / LocalLLM前提 のAIアシスタントです。\n2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...",
+    "link": "https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T23:45:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c589d5cbb15e9c0b7b823f84bbb28fc0",
+    "title": "論文やブログでLLMにどんな情報を食わせればいいのか考えてみた",
+    "summary": "はじめに\nthreadsの投稿で、AIネイティブの「論文に従来研究との比較はもういらないLLMがあるから」と言う意味のつぶやきを見ましてふと調べごとを始めました。\n従事研究との比較は、研究の立ち位置を明確にする為の論文の大事な要素なので、書き方は色々あっても問答無用で必要...",
+    "link": "https://qiita.com/YASUHARA-Wataru/items/cd06bf4e9e0087b17291?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-20T15:28:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "632f9c420ea5607672b26e1c820a2f86",
+    "title": "【AWS未経験】1年でCFP → SAA → SAPに合格した勉強法",
+    "summary": "【AWS未経験】1年でCFP → SAA → SAPに合格した勉強法（点数公開・GPT活用）\n\nはじめに\nこんにちは。AWS資格に挑戦したエンジニアです。\n簡単に自己紹介すると、\n\n2023/4月入社\nサーバ/インフラエンジニア\n2024年度からAWS / Kuberne...",
+    "link": "https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T03:06:42",
+    "ai_summary_done": false
+  },
+  {
     "id": "4e062ccb86992a31b33f99f6f4970af6",
     "title": "Microsoft、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」公開",
     "summary": "米Microsoftは、AIエージェントが自動的にMicrosoft Azure上のSRE（Site Reliability Engineering）を実行する「Azure SRE Agent」の新機能として、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」のプレビュー公開を明らかにし...",
@@ -927,76 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e83d10db4e47e0101317319ed7440ad2",
-    "title": "iOS Safariでhaptic feedbackを自由に扱えるOSSを公開しました",
-    "summary": "自己紹介\nはじめまして、DaikoAIというブロックチェーン × AIプロダクトを作っているasumaです。\n\n前置きはさておき、早速本題です。\nタイトルの通り、iOS Safariでhaptic feedbackを任意のタイミングでtriggerするuse-hapticというライブラリを公開しました。\nhttps://github.com/posaune0423/use-haptic\n⚠️ iP...",
-    "link": "https://zenn.dev/posaune0423/articles/4f963b89ca2fdf",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T05:51:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8c23ff3cc3993e7d4ce62a10c947b44b",
-    "title": "日本語特化拡散言語モデル「ELYZA-LLM-Diffusion」の公開",
-    "summary": "はじめに\nこんにちは、ELYZA Lab チームの Trisitichoke Tasavat です。本記事では、日本語性能に特化した拡散言語モデル (Diffusion LLM) ELYZA-Diffusion-Base-1.0-Dream-7B および ELYZA-Diffusion-Instruct-1.0-Dream-7B の2つのモデルを公開するとともに、その設計背景、学習方法、評価結果に...",
-    "link": "https://zenn.dev/elyza/articles/f9dd010e895a34",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T01:30:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ea32adce2a1f61c8a6519ad3a463d857",
-    "title": "GMOのエンジニアが好きなポッドキャスト20選",
-    "summary": "通勤・家事のお供に！エンジニア向けポッドキャストまとめ\nGMOメディアでSREチームに所属している安保です。\nみなさん、インプットはどのように行っていますか？ 技術書を読んだりQiita/Zennを見たりといろいろあると思いますが、私はポッドキャストを愛用しています。\n通勤中や家事の合間、散歩中やジムでの運動中など「手と目は離せないけど耳は空いている」時間は意外と多いものですよね。今回は、私が普段...",
-    "link": "https://zenn.dev/gmomedia/articles/podcast-recommendations-2026",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-15T09:32:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b6ace03f2d0d2e8be142905325086e81",
-    "title": "信頼できないソフトウェアと、どう付き合うか",
-    "summary": "そのコマンド、本当に信頼しているだろうか\nWebフロントエンド開発では npx が良く使われていますよね。インストール不要で一発でコマンドを実行できて便利だと思います。\nMCP サーバーや AI 関連ツールも同じ配布形態が多くて、 npx のほかにもPythonを呼びだす uvx や pipx が使われることも。\nWeb上に書かれているこれらのコマンドを実行するとき、なにをどこまで信頼しているのか...",
-    "link": "https://zenn.dev/chot/articles/b07162a685ca99",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-15T09:02:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "18f23cab7586478b2bec9c80a40a17d5",
-    "title": "なぜshadcn/uiは支持されたのか ― Providerモデル以後のUI設計",
-    "summary": "shadcn/uiとは\nshadcn/uiはRadix UIが提供するスタイルを持たないHeadless UIコンポーネント群(Radix Primitives)をベースに、Tailwind CSSを用いてデザインされた「コンポーネントのテンプレート集」である。\n公式サイトには次のように記されている。\n\nThis is not a component library.\nIt is how you ...",
-    "link": "https://zenn.dev/sasau/articles/e036281804679c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-15T05:41:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cd64ad28fb06e99c9c32c5368eb105ec",
-    "title": "「横のガードレール」でAIにアーキテクチャを教えるのをやめた話",
-    "summary": "はじめに\nAI駆動開発、やってますか？\nClaude Code や Codex に「クリーンアーキテクチャ+DDDで実装して」と指示すると、最初はある程度きれいなコードが出てきます。でも1週間後、気づいたらドメイン層が infrastructure を import してたり、UseCase に presentation のロジックが混入してたり。\n仕様駆動でも最初の構成は作れる。しかし人の介入な...",
-    "link": "https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-14T23:15:00",
     "ai_summary_done": false
   }
 ]
