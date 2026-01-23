@@ -1,5 +1,15 @@
 [
   {
+    "id": "9701c13324bba52a276fc79901116cde",
+    "title": "AI無断学習は「窃盗」──スカーレット・ヨハンソンら800人が「盗みはイノベーションではない」キャンペーン",
+    "summary": "スカーレット・ヨハンソンら800人以上のクリエイターが、AI企業による著作物の無断学習を非難するキャンペーン「Stealing Isn’t Innovation」を開始した。「盗みはイノベーションではない」と断じ、著作権無視の現状を「窃盗」と定義。NYタイムズへの全面広告掲載など強力な抗議を展開している。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/23/news062.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-23T00:31:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-16T02:42:21",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2dd537191db39cdc7b572dce60d53018",
-    "title": "生成AIの収束先の存在を圏論で証明する",
-    "summary": "はじめに\n敵対的模倣学習の圏論的解釈について紹介します。\n近年、敵対的模倣学習 (Generative Adversarial Imitation Learning; GAIL) や、それを応用した RLHF (Reinforcement Learning from Hu...",
-    "link": "https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T09:19:24",
     "ai_summary_done": false
   }
 ]
