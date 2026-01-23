@@ -1,5 +1,15 @@
 [
   {
+    "id": "278a87348a3d7446ac3c1a191c66d90e",
+    "title": "自動車メーカーなのに“車の存在感ゼロ”――「ロボット」に全振りした韓国ヒョンデ",
+    "summary": "米ラスベガスで開催された「CES」で最も話題をさらったものといえば、米Boston Dynamicsの二足歩行ロボット「Atlas」だろう。基調講演で披露された滑らかで人間離れした動きはSNSを中心に大きな反響を呼んだ。そのAtlasを見ようと親会社であるHyundaiのブースを訪ねた。そこで目にしたのは、自動車メーカーなのに車が主役じゃない異様なブースだった。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/23/news048.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-23T03:30:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9701c13324bba52a276fc79901116cde",
     "title": "AI無断学習は「窃盗」──スカーレット・ヨハンソンら800人が「盗みはイノベーションではない」キャンペーン",
     "summary": "スカーレット・ヨハンソンら800人以上のクリエイターが、AI企業による著作物の無断学習を非難するキャンペーン「Stealing Isn’t Innovation」を開始した。「盗みはイノベーションではない」と断じ、著作権無視の現状を「窃盗」と定義。NYタイムズへの全面広告掲載など強力な抗議を展開している。",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-16T02:57:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "86c6704e3fcf9c8eae6a2f02481ef778",
-    "title": "React Best Practicesはむしろアンチパターン説",
-    "summary": "概要\n先日、Vercel社からAIコーディング用のReact Best Practicesが公開された。\nhttps://vercel.com/blog/introducing-react-best-practices\nいわく、「 Vercelが10年以上にわたって蓄積してきたReactとNext.jsの最適化ノウハウを体系化したもの 」となっており、40以上のルールが8つのカテゴリーに分類された...",
-    "link": "https://zenn.dev/thr3a/articles/081ee955f32832",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T02:42:21",
     "ai_summary_done": false
   }
 ]
