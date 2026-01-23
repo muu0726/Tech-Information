@@ -1,5 +1,65 @@
 [
   {
+    "id": "ce3bb2fdf0f0255a9d7c4e3b88c3b543",
+    "title": "【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?",
+    "summary": "AWSの生成AIサービス、Amazon Bedrockを使った最も基本的な機能の最新ハンズオンです。\n\nBedrockナレッジベース（RAG構築機能）\nBedrockエージェント（AIエージェント構築機能）\n\nAgentCoreの登場で出番が少なくなったBedrock Ag...",
+    "link": "https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T19:45:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a5cb432a181a4db2847f127c84db75d1",
+    "title": "ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた",
+    "summary": "はじめに\nGMOコネクトの永田です。\nE2Eテストの自動化、進めていますか？\n「テストコード実装に工数がかかる」\n「既存のテスト仕様書を活用できないか」\nこんな悩みをお持ちの方に朗報です。今回はPlaywright MCPを使って、自然言語で書かれたテスト仕様書から、AI...",
+    "link": "https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T12:04:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e374b4fda97a09da418958d0ace212a",
+    "title": "Gemini に「オブジェクト指向の継承を使わずにポリモーフィズムする方法」を訊いてみた",
+    "summary": "継承なしポリモーフィズムの実装方法\n近年、オブジェクト指向プログラミング、特に「継承」の利用について慎重な意見を見かける機会が増えました。\n継承は「階層的な事物の分類」や「ポリモーフィズム(多態性)」を実現する強力な機能ですが、同時にコードの結合度を高め、変更を困難にす...",
+    "link": "https://qiita.com/Fujiwo/items/ac79bafd13713388fe41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-21T04:03:32",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7ac03d6ebb5f795746b7b87276d19163",
+    "title": "[Autonomous AI Database] Data TransformsでData Safeのマスキング処理を取り入れてみる",
+    "summary": "はじめに\nこちらの記事でBase DatabaseのデータをAutonomous AI DatabaseのData Transformsを使って変換し、Google Gloud Storageへ出力してみました。次は作成済みのフローにさらにマスキング処理を追加し、出力をG...",
+    "link": "https://qiita.com/goo2000/items/f075d2f4c4111a9bbe68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T00:45:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9daa8fd9bc7809d193529a682deec4aa",
+    "title": "Mastra を Amazon Bedrock AgentCore Runtime にデプロイして AgentCore Observability で観測する",
+    "summary": "はじめに\nMastra v1(stable) リリースおめでとうございます.\n\n本記事では, Mastra を AgentCore Runtime にデプロイし,\nAgentCore Observability で AI エージェントを観測できるようにするまでの手順を...",
+    "link": "https://qiita.com/YasuhiroKawano/items/4ac061442138816e316f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T10:00:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "099422f6596ab86e6346e1482177b9d8",
+    "title": "AWS認定資格の学習におけるChatGPTの活用メモ",
+    "summary": "はじめに\n本記事では、資格試験における ChatGPT の具体的な活用方法と、\n実践フェーズを含めて紹介します。\n私は 新卒エンジニアとして業務に携わりながら、\n2025年6月～2025年12月の半年間で、\n複数のAWS認定資格（SAA, DEA, MLA, DVA, S...",
+    "link": "https://qiita.com/takeshi_Qiita/items/d8660bb02302a80ea7fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T05:36:10",
+    "ai_summary_done": false
+  },
+  {
     "id": "8afc07dafc25633e9874d82069b8932e",
     "title": "「人間がコードを書く時代は終わった」議論は2種類のコードを混同している",
     "summary": "ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。\n\nhttps://note.com/suthio/n/n3f88afe28dbd\n世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。\nまた、上のRyanさんのツイートでも\n\nThat...",
@@ -937,66 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T00:00:43",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f1207ff467182495cae565a365ff7bc8",
-    "title": "Smartyのデリミタを<( ﾟДﾟ) コード ( ﾟДﾟ)>に設定してVSCodeに適応する",
-    "summary": "はじめに\nSmartyテンプレートエンジンでは、デリミタ（区切り文字）をカスタマイズできます。\nデフォルトは { } ですが、JavaScriptやCSSと競合するため、や{{ }}などに変更するプロジェクトも多いですよね。しかし、Smartyで設定を...",
-    "link": "https://qiita.com/ishi720/items/71bc524b07d2be4eb4b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T01:17:45",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2e0ae5be48c90c4a26ddec7fa540e2f4",
-    "title": "2026/01/18 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n個人開発者として実際にアプリを運営していく中で...",
-    "link": "https://qiita.com/ennagara128/items/06d1ddc6929a0a682efa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T00:55:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "213da7576ddd861f73084d703654b208",
-    "title": "なぜ私はフロントエンド開発を避けるようになったのか",
-    "summary": "jQueryの時代\n発端は学生時代に遡ります。Web制作の授業で初めてWebに触れたのですが、当時はまだ古き良きjQueryの時代でした。HTML、CSS、JavaScriptの3ファイル構成で、classを介してそれぞれを繋げていくスタイル。私はこれが嫌いでした。\n単純に、面倒だったのです。\n「関心の分離」というメリットを説かれましたが、気の利いた反論が思いつかず、その場では引き下がりました。し...",
-    "link": "https://zenn.dev/sijiaoh/articles/9c7edf0ba29def",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T10:41:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c49dd243f5371eaf3e6d29d40296d79c",
-    "title": "Agent Skills対応デスクトップマスコットを作ったので紹介だけします。かわいいので",
-    "summary": "かわいい\n\n\n これはなに\n伺かとかDesktop Mate™みたいなやつです。\nhttps://ssp.shillest.net/\nhttps://www.infiniteloop.co.jp/desktopmate/\n2026年はAI秘書元年だというのをどっかの国会議員[1]が言っていたので、じゃあデスクトップマスコットをAI秘書にしようということで作りました。\n\n つくりかた\nPythonの...",
-    "link": "https://zenn.dev/tkithrta/articles/531884d62ff9a1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T09:54:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a4949f1ee45d7c037140558e83e90f48",
-    "title": "Kiro Autonomous Agent（プレビュー）を試してみた",
-    "summary": "はじめに\nAWS re:Invent 2025にて、Frontier Agentと呼ばれる自律型AIエージェントが発表されました。Frontier Agentは、単に質問に答えるAIではありません。目的を与えると、自ら考え、計画し、作業を継続的に実行する点が特徴です。\nこのFrontier Agentの1つとして紹介されたのが、Kiro Autonomous Agentです。\n詳細については、以下...",
-    "link": "https://zenn.dev/nyuuuk/articles/ee0673c07b4824",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T04:59:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "538a3aa3bd0d70cf78e3c619f0dba402",
-    "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
-    "summary": "はじめに\nアリババクラウドからQwen3-VL-Embeddingがリリースされた。\n今回の記事では、Claude Codeとともに開発したQwen3-VL-EmbeddingベースのマルチモーダルローカルAI検索システムの導入方法と使い方をまとめる。\nQwen3-VL-Embeddingについては、公式リポジトリを参照されたい。\nhttps://github.com/QwenLM/Qwen3-V...",
-    "link": "https://zenn.dev/robustonian/articles/qwen3-vl-embedding_search",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T01:11:57",
     "ai_summary_done": false
   }
 ]
