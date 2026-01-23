@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const readLaterBtn = document.getElementById('btn-read-later');
 
     let allNews = [];
-    let savedIds = JSON.parse(localStorage.getItem('savedIds') || '[]');
+    let savedArticles = JSON.parse(localStorage.getItem('savedArticles') || '[]');
     let readIds = JSON.parse(localStorage.getItem('readIds') || '[]');
     let currentCategory = 'all';
     let showOnlySaved = false;
@@ -23,7 +23,34 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             const response = await fetch('data/news.json');
             if (!response.ok) throw new Error('ニュースの読み込みに失敗しました。');
-            allNews = await response.json();
+            const fetchedNews = await response.json();
+
+            // Migration: Convert old savedIds to savedArticles objects if needed
+            const oldSavedIds = JSON.parse(localStorage.getItem('savedIds') || 'null');
+            if (oldSavedIds && savedArticles.length === 0) {
+                console.log('Migrating saved IDs to objects...');
+                oldSavedIds.forEach(id => {
+                    const found = fetchedNews.find(n => n.id === id);
+                    if (found) {
+                        savedArticles.push(found);
+                    }
+                });
+                localStorage.setItem('savedArticles', JSON.stringify(savedArticles));
+                localStorage.removeItem('savedIds'); // Cleanup
+            }
+
+            // Sync: Update saved articles with fresh data if available in feed
+            savedArticles = savedArticles.map(saved => {
+                const fresh = fetchedNews.find(n => n.id === saved.id);
+                return fresh ? fresh : saved;
+            });
+            localStorage.setItem('savedArticles', JSON.stringify(savedArticles));
+
+            // Merge: allNews = fetchedNews + (savedArticles NOT in fetchedNews)
+            const fetchedIds = new Set(fetchedNews.map(n => n.id));
+            const orphans = savedArticles.filter(a => !fetchedIds.has(a.id));
+
+            allNews = [...fetchedNews, ...orphans];
 
             // Initial Sort: Created date desc
             allNews.sort((a, b) => new Date(b.updated) - new Date(a.updated));
@@ -31,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loading.classList.add('hidden');
             container.classList.remove('hidden');
             renderNews();
+            updateSavedCount(); // Update count again after migration/load
         } catch (error) {
             console.error(error);
             loading.innerHTML = '<p class="text-red-500">ニュースの読み込みに失敗しました。</p>';
@@ -41,7 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
         container.innerHTML = '';
 
         const filtered = allNews.filter(item => {
-            if (showOnlySaved && !savedIds.includes(item.id)) return false;
+            const isSaved = savedArticles.some(a => a.id === item.id);
+            if (showOnlySaved && !isSaved) return false;
+
             if (currentCategory === 'all') return true;
             // Fuzzy matching for categories or specific logic
             if (currentCategory === 'AI') return item.category === 'AI';
@@ -64,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function createCard(item) {
-        const isSaved = savedIds.includes(item.id);
+        const isSaved = savedArticles.some(a => a.id === item.id);
         const isRead = readIds.includes(item.id);
         const dateObj = new Date(item.updated);
         const dateStr = dateObj.toLocaleString('ja-JP', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
@@ -130,12 +160,20 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Global Exposed Handlers ---
 
     window.handleToggleSave = (id) => {
-        if (savedIds.includes(id)) {
-            savedIds = savedIds.filter(i => i !== id);
+        const isSaved = savedArticles.some(a => a.id === id);
+
+        if (isSaved) {
+            // Remove
+            savedArticles = savedArticles.filter(a => a.id !== id);
         } else {
-            savedIds.push(id);
+            // Add
+            const article = allNews.find(a => a.id === id);
+            if (article) {
+                savedArticles.push(article);
+            }
         }
-        localStorage.setItem('savedIds', JSON.stringify(savedIds));
+
+        localStorage.setItem('savedArticles', JSON.stringify(savedArticles));
         updateSavedCount();
         renderNews(); // Re-render to update icon state
     };
@@ -190,8 +228,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     function updateSavedCount() {
-        savedCountEl.textContent = savedIds.length;
-        if (savedIds.length > 0) {
+        savedCountEl.textContent = savedArticles.length;
+        if (savedArticles.length > 0) {
             savedCountEl.classList.remove('hidden');
         } else {
             savedCountEl.classList.add('hidden');
