@@ -1,5 +1,45 @@
 [
   {
+    "id": "e61d818af41b2fb7eacd398b5e21ee82",
+    "title": "AgentCoreでツールを直書きするのをやめて、Gateway＋Lambdaにした理由",
+    "summary": "はじめに\n本記事は下記のインフルエンサー検索エージェントに、追加実装を行ったという記事になります。\n細かなアーキテクチャ構成には触れませんので、ご了承ください。\n\nアーキテクチャ図\n下図のとおり、Strands Agents内でPythonファイルとして実行していた...",
+    "link": "https://qiita.com/Yoshi1001/items/7b5063290ac921cbe3ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T08:23:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "369a0b93f4f84bfab7e7683ecee596a4",
+    "title": "【Ruby on Rails】 devise（認証機能）の導入方法",
+    "summary": "はじめに\nはじめまして！\nプログラミング初心者のかずきです。\n現在、プログラミングスクールRUNTEQに通っています。\n記事を書くことで、自分自身の理解を深め、学習の軌跡を残すために始めました。\nまだまだ初学者ですので、内容に間違いがあることもあるかと思います。その際はぜ...",
+    "link": "https://qiita.com/1kazuki0/items/1777acc8653b522fb871?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T05:02:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aeb201ebe2940a5e9c178f21ce772719",
+    "title": "【Qiita最速？】Clawdbot + Discordで自分専用AIアシスタントを構築する【Proxmox/Ubuntu】",
+    "summary": "はじめに\nQiitaでサーバにインストールする記事としては最速ということで(若干誇張)。\nQiita上の解説としては以下の記事が最速ですが、本当に便利だったので紹介させてください。\nhttps://qiita.com/xhackjp1/items/03045dd62c2f...",
+    "link": "https://qiita.com/yu_720/items/4b3bc75731f109927ebd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T13:27:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "451f94047ea31cd79ab755c3df154acb",
+    "title": "[Autonomous AI Database] Google Cloud Storage(GCS)へData Transformsでデータを変換して出力してみる",
+    "summary": "はじめに\nAutonomous AI Database（ADB)に付属するETLツールであるData Transformsはさまざまなデータソースをサポートしています。そのなかでは読取りはOKですが、書き込みはNGというものもいくつかあります。その1つがGoogle Cl...",
+    "link": "https://qiita.com/goo2000/items/71f769a49e75e8801a30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T10:08:12",
+    "ai_summary_done": false
+  },
+  {
     "id": "582950781d11093ae46def7b36d61c51",
     "title": "人用のテストケースも実行できる汎用テスト実行エージェントを開発した話",
     "summary": "要約\n\n手動用のテストケースをそのまま自然言語で実行できるAIテストエージェントを作った\n実アプリのテスト42ケース中、64%は修正なしで実行できた\n既知・未知のバグ検出にも有効だった\n\n\n はじめに\n株式会社MIXIの開発本部&Romi事業部AIロボット開発グループの松谷です。\nE2E(UI)自動テストを作るのは大変ですよね。\n操作が必要な全ての要素のロケーターを取得して、それらを順番に正確に記...",
@@ -957,46 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T02:48:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a2f6013649842b196f7cbf5d97fe21ea",
-    "title": "Kaggle Benchmarks で AI モデルの評価をする",
-    "summary": "Kaggle に Community Benchmarks なるものが追加されたので紹介します。\nhttps://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/\n\n 忙しい人向けのまとめ\n\nKaggle が様々な AI 評価のベンチマークプラットフォームとして動き出した\nB...",
-    "link": "https://zenn.dev/prgckwb/articles/kaggle-benchmarks-ai-eval",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T12:22:21",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0f0318dd7c7b2950bd3d8ac276e8aaaf",
-    "title": "【Python】Selenium 徹底解説：入門で終わらせない実践的ブラウザ自動化",
-    "summary": "はじめに\n―― 自動化テストを超えた「ブラウザ操作エンジン」の本質\n\nSelenium を「テスト用ツール」だと思っているうちは、\nまだこの道具の半分も使えていません。\n\nSelenium は単なる UI 自動化ツールではなく、\n実ブラウザを完全に支配できる強力な自動化基...",
-    "link": "https://qiita.com/nozomi2025/items/e00e7373b3f8a15877f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-15T08:11:21",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1f22c0b8e2dae9d287ef56a371d96c2c",
-    "title": "Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド",
-    "summary": "はじめに：なぜ今 Tauri なのか\nElectron のようなフレームワークは便利ですが、「アプリサイズが大きい」「メモリを食う」といった悩みを抱えがちです。 dev\nTauri は、OS がもともと持っている WebView を利用し、Rust をバックエンドに採用す...",
-    "link": "https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T00:50:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9e6e4485abe42c94758ecced7267e6d7",
-    "title": "Claude Codeが私の職場を激変させはじめた",
-    "summary": "はじめに\n私は、大企業の精密機器メーカーに勤務するソフトウェアエンジニアですが、私の職場にも生成AIの大波がやってきました。\n全社的にClaude Codeを導入し、派遣社員・契約社員の人数を見直す可能性の検討が始まっています。\n私も現場のプロジェクトリーダーとして導入を...",
-    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T09:52:10",
     "ai_summary_done": false
   }
 ]
