@@ -1,5 +1,25 @@
 [
   {
+    "id": "8afc07dafc25633e9874d82069b8932e",
+    "title": "「人間がコードを書く時代は終わった」議論は2種類のコードを混同している",
+    "summary": "ちょうど最近このような投稿を連続して見かけたので、「コード」が何を指しているのかの自分の理解を整理しておきます。\n\nhttps://note.com/suthio/n/n3f88afe28dbd\n世の中的に見ればソフトウェアエンジニアは未だに売り手市場であると言えると思うので、上記の指摘について「そんなことはないはず」と反論する人も多いと思います。\nまた、上のRyanさんのツイートでも\n\nThat...",
+    "link": "https://zenn.dev/uryyyyyyy/articles/f127af4277aa32",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-22T08:13:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8b7793f8aa04fd72798902ff68c20132",
+    "title": "ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法",
+    "summary": "TL;DR\n\nExcelVBAはつらいが、JTCでは巨大マクロ資産から逃げられない。\n\nXVBA＋VSCode＋Excel＋GitHub Copilotで「VBAを指示だけで作る」検証を実施（開発者はコードを基本見ない）。\n天気API（livedoor互換）を叩いて、取得結果をシートに整形表示するアプリを作成。\n軽い修正を挟みつつ、短時間で実用レベルまで到達し、地域変更などの機能追加もできた。\n結...",
+    "link": "https://zenn.dev/harumikun/articles/5a0f1ef2a2265d",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-21T13:59:27",
+    "ai_summary_done": false
+  },
+  {
     "id": "278a87348a3d7446ac3c1a191c66d90e",
     "title": "自動車メーカーなのに“車の存在感ゼロ”――「ロボット」に全振りした韓国ヒョンデ",
     "summary": "米ラスベガスで開催された「CES」で最も話題をさらったものといえば、米Boston Dynamicsの二足歩行ロボット「Atlas」だろう。基調講演で披露された滑らかで人間離れした動きはSNSを中心に大きな反響を呼んだ。そのAtlasを見ようと親会社であるHyundaiのブースを訪ねた。そこで目にしたのは、自動車メーカーなのに車が主役じゃない異様なブースだった。",
@@ -977,26 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-17T01:11:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6eab4f0b2a0649ef705d44fe6976bc9",
-    "title": "開発環境現状確認（2026年）",
-    "summary": "こんにちは @shunk031 です。開発環境現状確認[1][2][3]というタイトルの記事をいくつか見たので、自分の環境も整理してみます。\n\nなお、環境構築に使用している dotfiles は以下で公開しています。\nhttps://github.com/shunk031/dotfiles\n\n 著者のバックグラウンド\n開発環境の現状を確認する前に、私のバックグラウンドを説明しておくとなぜそのような...",
-    "link": "https://zenn.dev/shunk031/articles/my-dev-env-2026",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "07655c1f6dcc94c53f57264dc0aa17d5",
-    "title": "RAGの入力順序による性能低下を防ぐ手法",
-    "summary": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、RAGの検索結果の順序による精度低下を防ぐ手法、Stable-RAGについて紹介します。\nhttps://arxiv.org/pdf/2601.02993\n\nRAGは、情報を検索しその内容をLLMに渡すことで、LLMが知らない内容についてもLLMに回答させることができる手法となっています。しかし、言語モデルの特性上、同じ検索結果でも...",
-    "link": "https://zenn.dev/knowledgesense/articles/9db9118e871b3e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T02:57:42",
     "ai_summary_done": false
   }
 ]
