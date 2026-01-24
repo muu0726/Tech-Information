@@ -1,5 +1,15 @@
 [
   {
+    "id": "21684ac429bd925c98ec44b238d85633",
+    "title": "TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」",
+    "summary": "https://github.com/ushironoko/octorus\n元々octo.nvimを使っていましたが、helixに移行したので代わりになるtui pr viewerが欲しくなり、ないので作りました。インラインレビューコメントをつけたり、シンタックスハイライトを効かせたりできて、これだけでも便利です。\nしかし、昨今の開発ではaiに書かせたものをskillやcommandでレビューさせ...",
+    "link": "https://zenn.dev/ushironoko/articles/90d34dd61a1825",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-23T12:08:42",
+    "ai_summary_done": false
+  },
+  {
     "id": "ef474df4474faa3ece347f1fa18607fa",
     "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
     "summary": "はじめに\nみなさんは、Pencil というAIツール使ったことがありますか？\nPencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！\nこの記事では、実際に、Pe...",
@@ -987,16 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T15:21:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b30785ec286f3363feaba3ed35eb30c",
-    "title": "勘からデータへ：PythonとYouTube Data API v3によるYouTubeショート分析パイプラインの構築",
-    "summary": "*こちらの記事は、英語から日本語へ翻訳をしています。\nEnglish Original Text\nI’m Anshika Kankane, a data scientist at GIFTech, and I’m back to share another project...",
-    "link": "https://qiita.com/GIFCat/items/50b427da5b0357e8bc31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T00:06:36",
     "ai_summary_done": false
   }
 ]
