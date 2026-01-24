@@ -1,5 +1,25 @@
 [
   {
+    "id": "a14531f454bf599af16dfad5f4127251",
+    "title": "Devin Reviewがレビュー疲れの人を助けてくれるかも",
+    "summary": "こんにちは。\n1月21日、Devin Reviewという仕組みがDevinに実装されました。\n自分は普段の業務でPRレビューを数多く行うのですが、そんな自分にとって、とてもありがたい機能だと感じ、ぜひ紹介したいと思ったので、記事を書きます。\nhttps://cognition.ai/blog/devin-review\n\n 課題\nhttps://chezo.uno/post/2025-09-19-r...",
+    "link": "https://zenn.dev/immedio/articles/a88d8ffe75f2b6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-22T17:18:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8b7e274d2a456bd2190a87c23a103286",
+    "title": "GitHub 29,000+ Star獲得！Claude Codeに「ベテランエンジニア」の思考を注入するSuperpowersプラグイン",
+    "summary": "はじめに：AI開発ツールの「落とし穴」\nAI開発アシスタントを使っていて、こんな経験はありませんか？\n\n要求を投げると大量のコードが生成されるが、実行すると エラーだらけ\n\nビジネスロジックが不完全で、結局人間が大幅に修正\n\n前日に書いたコードと今日書いたコードで一貫性がない\n\n\nこれらの問題の根本原因は、現在のAI開発ツールが「素直すぎる」ことにあります。つまり、立ち止まって考えることなく、機械...",
+    "link": "https://zenn.dev/zhu/articles/11ad183281bee6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-22T00:16:43",
+    "ai_summary_done": false
+  },
+  {
     "id": "e61d818af41b2fb7eacd398b5e21ee82",
     "title": "AgentCoreでツールを直書きするのをやめて、Gateway＋Lambdaにした理由",
     "summary": "はじめに\n本記事は下記のインフルエンサー検索エージェントに、追加実装を行ったという記事になります。\n細かなアーキテクチャ構成には触れませんので、ご了承ください。\n\nアーキテクチャ図\n下図のとおり、Strands Agents内でPythonファイルとして実行していた...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T04:07:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "954ee09e219ba201326e5c23e2062d9e",
-    "title": "PDFの給与明細を自動でExcelにまとめるツールを作った【Python】",
-    "summary": "はじめに\n毎月の給与明細、賞与明細のPDFファイルが溜まっていくけど、Excelで管理したい...そんな悩みを解決するツールを作りました。\nこの記事で実現できること：\n\n📊 給与・賞与PDFから全項目を自動抽出\n📑 給与と賞与を別シートで管理\n🎨 項目を色分けして見やすく...",
-    "link": "https://qiita.com/switch-kosuke/items/157f9cbd553b504205f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T15:33:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a54aa7d5921552ebd3d8baeacf93bdec",
-    "title": "画像AI大全　目次",
-    "summary": "はじめに\n　世はまさに、大AI時代！！\n\n特に2025年からは、フィジカルAIと呼ばれる「見る」「考える」「動かす」を連動させたAI技術が盛り上がっています。\nこのフィジカルAIの入口にあたる「見る」を担当する画像AIは、10年前のAIブーム黎明期から様々な手法開発が続き...",
-    "link": "https://qiita.com/c60evaporator/items/82fd5c677fec5bd90994?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T02:48:31",
     "ai_summary_done": false
   }
 ]
