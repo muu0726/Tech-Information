@@ -1,5 +1,65 @@
 [
   {
+    "id": "ef474df4474faa3ece347f1fa18607fa",
+    "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
+    "summary": "はじめに\nみなさんは、Pencil というAIツール使ったことがありますか？\nPencilは、Figma + Layermate みたいなツールで、Pencil上でAIにUIを作らせたり、作成したUIをMCPを経由して開発させることができます！\nこの記事では、実際に、Pe...",
+    "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T14:45:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2044c6a2a35f511832bae8c9d4500575",
+    "title": "【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見",
+    "summary": "はじめに\n本記事は、AIコーディングツール「Cursor」を使用してゼロから構築された大規模プロジェクト「FastRender」の開発から得られた汎用的なAIコーディングの知見をまとめたものです。\nFastRenderはCursorの並列AIエージェント研究1の一環として...",
+    "link": "https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T01:20:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7a2d6ddb0288f3e3fa057a33de807261",
+    "title": "ついにAgentCoreランタイムにTypeScript SDKが対応🔥🔥 Mastraで試してみた",
+    "summary": "AWSでAIエージェントをサーバーレス運用できるインフラ「AgentCoreランタイム」のTypeScript SDKに、ついにAPIサーバー機能が実装されました！！\n\n何が嬉しいの？\n最近はAIエージェントを開発するのに、LangChainやStrandsなどのPy...",
+    "link": "https://qiita.com/minorun365/items/1907d54e51f939e61bad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T16:51:39",
+    "ai_summary_done": false
+  },
+  {
+    "id": "beff7ac267769000519037a35316f3a3",
+    "title": "AWSのコストや利用状況を定期的にメールとLINEに通知してもらう",
+    "summary": "はじめに\nこんにちは、やくもです。\n最近AIネタが多かったのですが、今回は珍しくちょっと離れた話題\n定期的にAWSのコストが知りたいなあと思いサクッと作りました。\n\n今回やったこと\n\n構成図\n構成は以下のようになっています（めっちゃシンプル）\nEventBridgeにより...",
+    "link": "https://qiita.com/yakumo_09/items/cf953c8fa5b77ac73d5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T02:40:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7ba2ee31d87299bce10954d5a74a5f3f",
+    "title": "【CTFおすすめ一覧】セキュリティ勉強しなきゃ...の第一歩へ",
+    "summary": "みなさん、一度はハッカーに憧れたことはありますか？\n興味をもったことへまずやってみることが、人が成長するための早い手段の一つだと思います。\n\nエージェントAIは次なる大きな内部リスク\n\nそれぞれが手探りでAIセキュリティの取り組みを進めているため、シャドーAIのリス...",
+    "link": "https://qiita.com/GIFCat/items/9252a1fdea26c82ae908?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T23:52:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0565153a39534be74c742b64de7d8cce",
+    "title": "CSSだけで作れる“ちょっと楽しい”ローディングアニメーション11選【初心者向けまとめ】",
+    "summary": "CSSだけで作れる\"ちょっと楽しい\"ローディングアニメーション11選【初心者向けまとめ】\n「HTMLとCSSには慣れてきたのでもっとサイトを豪華にしたい！でもJavaScriptは複雑で難しい．．．」と、こんな経験皆さんあるかと思います。\n今回はそんなJavaScript...",
+    "link": "https://qiita.com/suzukielecs/items/be3db4658e22ff5ca17f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T02:47:25",
+    "ai_summary_done": false
+  },
+  {
     "id": "a14531f454bf599af16dfad5f4127251",
     "title": "Devin Reviewがレビュー疲れの人を助けてくれるかも",
     "summary": "こんにちは。\n1月21日、Devin Reviewという仕組みがDevinに実装されました。\n自分は普段の業務でPRレビューを数多く行うのですが、そんな自分にとって、とてもありがたい機能だと感じ、ぜひ紹介したいと思ったので、記事を書きます。\nhttps://cognition.ai/blog/devin-review\n\n 課題\nhttps://chezo.uno/post/2025-09-19-r...",
@@ -937,66 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-19T00:06:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c775f534af89580bf6b65eb42e3eba5c",
-    "title": "tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する",
-    "summary": "TL;DR\ngit worktreeを使う機会が増えてきたので、さっと切り替えられるようにしました。\nfzfでブランチ選択→gwqでworktree作成→tmuxでセッション作成/スイッチ\n↑を行うスクリプトをtmuxのpopup windowで実行してます\n\n(ちょっと現実味がないぐらい忙しないですが、greet.sh, fizzbuzz.shをClaude Codeを用いて並行で開発するような...",
-    "link": "https://zenn.dev/ymat19/articles/9107170744368f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-18T04:02:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ec34c60aab6f61a7b3b3494373e214bd",
-    "title": "ITコンサル3人でAI駆動開発を2日間やってみた",
-    "summary": "はじめに\n「生成AIでアプリを開発したい」といった声が多くの企業で挙がっている昨今ですが、非エンジニアがAI駆動開発を実際行った場合、どの程度のクオリティになり、どのような課題があるのかを知りたいなと思い、今回チャレンジしてみました。\nNCDCのITコンサルタント3名がAIを駆使して2日間で実際のお客様向けのクローズドコミュニティアプリを開発するAI駆動開発を実施しましたので、その結果や感想をまと...",
-    "link": "https://zenn.dev/ncdc/articles/e15a2bc6020b9c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T12:45:22",
-    "ai_summary_done": false
-  },
-  {
-    "id": "07058830db0e57203082f37f73556a56",
-    "title": "【個人開発】未経験が、Google推奨のベストプラクティスで「最強のCI/CD」を構築してみた🏰",
-    "summary": "～WIF・Trivy・Secret Managerで実現する、エンタープライズ級のDevOps～\n\n 目次\n\nはじめに：なぜGoogle推奨のベストプラクティスを採用したのか\nテスト戦略：依存性の注入とモックによる堅牢性の確保\nCI/CD構築：GitHub Actions × Artifact Registry × Secret Manager\nセキュリティ：シークレット管理とIAMベストプラクテ...",
-    "link": "https://zenn.dev/miki_mini/articles/c3cb49f45dcc8e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-17T06:12:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f8fc87c88dcf9f61629f1ea97322bed0",
-    "title": "Claude Code Skills、結局どれを入れる？用途別おすすめ9選",
-    "summary": "はじめに\n「Claude CodeのSkills、どれを入れればいいかわからない」\nSkills機能が追加されてから気になっていたものの、Cursor、MCP、ワークフロー系AIツールなど試したいものが山積みで手が出せていない方も多いのではないでしょうか。\nこの記事では、Claude Code用Skillsがまとめられているawesome-claude-skillsリポジトリから、実際に使えそうな...",
-    "link": "https://zenn.dev/kg_filled/articles/50f762610d48c7",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-16T01:25:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c7b2c244d1590ce3ac32258523b7cce3",
-    "title": "IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦",
-    "summary": "※本記事は、経済産業省のタスクフォース資料（公開資料）を起点に、 「現時点で公開されている“事実”と“議論”」 を整理しつつ、AIエージェント時代に向けた学習・資格戦略を私見でまとめたものです。\n※「制度変更が決定した」という話ではありません （重要） 。\n\n1. ...",
-    "link": "https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T13:35:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e1913e4ae9e367abedd51a5d99ef78c4",
-    "title": "【Dev Container】今更 Dev Container に入門して Python 環境を用意してみる",
-    "summary": "はじめに\nローカルで色々開発していると、環境がぐちゃぐちゃになりよくないという話は耳にタコができるほどよく聞くかと思います。\nしかし、私は今まで WSL を用いており、最悪 WSL ごとリセットすればよいと考えており特に気にしたことがありませんでした。\n今回、開発用のPC...",
-    "link": "https://qiita.com/ryu-ki/items/49c84bb533c4064bdbd6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T04:07:24",
     "ai_summary_done": false
   }
 ]
