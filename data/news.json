@@ -1,5 +1,45 @@
 [
   {
+    "id": "5e25be62631690264c09e80b5af462a6",
+    "title": "Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜",
+    "summary": "この記事の対象読者\n\nPythonの基本文法を理解している方\n音声合成（TTS）に興味があるが、まだ試したことがない方\nローカルでAI音声生成を動かしてみたい方\nMacからWindowsに移行して、GPU環境を構築したばかりの方\n\nこの記事で得られること\n\nQwen3-...",
+    "link": "https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T21:16:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "303074dd0ad166c0763a12c5d503b370",
+    "title": "2026/01/24 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n本当に使える！海外Tech動画爆速キャッチアッ...",
+    "link": "https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T00:52:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d40094b82c9dfb69059f21dc0a036f10",
+    "title": "「ヴァイブコーディング」っていう言葉は2026年なくなるんじゃないか。",
+    "summary": "2025年2月初頭に生まれた 「ヴァイブコーディング（雰囲気コーディング）」 という言葉は、そのカジュアルな響きが受け、Wikipedia に項目ができるほど定着した。AIにコーディングを任せる、あるいは補助として活用する開発スタイルを指す言葉らしい。\nこの言葉が「バズった...",
+    "link": "https://qiita.com/cozyupk/items/bf5637f40d59e18c4d5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T04:03:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3de18ad294bb43ac27d20bb567f8dad1",
+    "title": "ミニPC（Ryzen 7 5825U）で300億パラメーターのLLMを動かす！メモリ最適化で5.56 t/s 達成",
+    "summary": "こんにちは！「自宅の安価な省スペースなミニPCで、重量級のAIを動かしたい」と思ったことはありませんか？\n今回は、手のひらサイズのミニPCで30B（300億パラメータ）クラスの大型モデルを動かし、5.56 t/s を達成した記録を公開します。　\n5.56 t/sは爆速であり...",
+    "link": "https://qiita.com/basictomonokai/items/04327ed4a9fb4333ce16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T05:59:14",
+    "ai_summary_done": false
+  },
+  {
     "id": "21684ac429bd925c98ec44b238d85633",
     "title": "TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」",
     "summary": "https://github.com/ushironoko/octorus\n元々octo.nvimを使っていましたが、helixに移行したので代わりになるtui pr viewerが欲しくなり、ないので作りました。インラインレビューコメントをつけたり、シンタックスハイライトを効かせたりできて、これだけでも便利です。\nしかし、昨今の開発ではaiに書かせたものをskillやcommandでレビューさせ...",
@@ -957,46 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-19T00:38:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5ef834bb57f304e9d5d5ec43f6a0f36c",
-    "title": "【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた",
-    "summary": "はじめに\n毎日、業務スケジュールや成果、所感をまとめた日報を書いています。しかし、日報を書くだけで終わってしまい、なかなか次の日の業務改善に活かせていないという課題を感じていました。\nそこで今回は、Claude Codeのスラッシュコマンドを使って、AIに日報の内容を分析...",
-    "link": "https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T04:59:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c9a55d0feb0d755aabf6e30eb54d2e30",
-    "title": "PythonではなくJavaScriptを学ぶべきだった",
-    "summary": "Pythonをめぐる後悔\nプログラミングを始めた頃、学生向けのブームに乗ってPythonを選びました。\n当時はProgateやUdemyでもPython推しが強くて、「これからはAIの時代だ」みたいな雰囲気に流されました。でも実際に個人開発を始めてみると、作ったものを人に...",
-    "link": "https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T06:15:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "307be2beaabd5cb615e6b25d701e538c",
-    "title": "自然言語からSQLは魔法ではない",
-    "summary": "― 業務要望に応えるために「設計とカスタマイズ開発」が不可欠な理由\n生成AIの進化により、「自然言語からSQLを生成できる」という話をよく耳にするようになりました。\n一見すると、\n\nテーブル定義書をAIに渡せば、業務ユーザーの質問をそのままSQLに変換してくれる\n\nように...",
-    "link": "https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T02:08:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "133544102460b1165cf69a58fe208d14",
-    "title": "AWS CCoEが取り組んだ「AI利用の社内推進」施策を振り返る",
-    "summary": "はじめに\n生成AIの登場以降「AI利用の社内推進」をテーマに、様々なことに取り組んできました。\n振り返ってみると、2025年より前は、目の前の基盤モデルの進化を追いかけながら、優れたモデルを活用したアプリケーションで、何か意味のある成果を生み出そうと、必死に取り組んでいま...",
-    "link": "https://qiita.com/nasuvitz/items/da987a2e8749fb70272a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T15:21:10",
     "ai_summary_done": false
   }
 ]
