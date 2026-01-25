@@ -1,5 +1,55 @@
 [
   {
+    "id": "86df9c7c3f9fa32de237e5bed1ea7ee9",
+    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その4",
+    "summary": "フルコードはgithubにあります。\n今回はここの途中から。\n\nオブジェクトのリスト\n例によってGemini CLIに書いてもらう。\nuse crate::hittable::{HitRecord, Hittable};\nuse crate::ray::Ray;\nuse s...",
+    "link": "https://qiita.com/sumikawa@github/items/cb1ae0a697cea6296b93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-23T07:35:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ee6da4af458e8ff88fa7c5ce5325e6f6",
+    "title": "スペック駆動開発  ツール分業が生んだ設計不在という問題",
+    "summary": "スペック駆動開発\n\nモダンデータスタックが壊したもの・残したもの\n\n📚 関連書籍\n\n『ゼロから触ってわかった！スペック駆動開発入門 ― SaaS is dead？AI時代のソフトウェア設計論』\n本書は、近年現場や技術コミュニティで注目を集め始めたスペック駆動開発（Spec...",
+    "link": "https://qiita.com/mellowlaunch/items/441440ef6ec6c1d31b99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T22:38:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7d213185d83ef257895f2a368d735d39",
+    "title": "非エンジニアにもおすすめ！Google Cloud認定「Generative AI Leader」で得られる3つの価値",
+    "summary": "はじめに\n近年、生成AI（Generative AI）はビジネスの現場で急速に普及していますが、「なんとなく使っている」レベルから一歩抜け出し、体系的に理解していることを証明できるのが、Google Cloudの認定資格「Generative AI Leader」です。\n...",
+    "link": "https://qiita.com/toshyss/items/63e2f3bc6f04f5eb5879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-22T15:08:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fb874a53d7fc13ac48e3b3e92eb110e8",
+    "title": "コーディング・エージェント Cline の Skills を試してみた",
+    "summary": "はじめに\nAnthropic が提案した Agent Skills が注目されています。\n\nAgent Skills とは、AIエージェントが特定のタスクを実行する際に必要な専門知識やワークフローを、再利用可能な形式で定義・共有する仕組みです。従来、エージェントに複雑なタ...",
+    "link": "https://qiita.com/yuji-arakawa/items/ae07d137374a767ca743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T10:17:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "235c2882fa9fd63f95687b8efcac37cd",
+    "title": "pip installって何してるの？",
+    "summary": "はじめに\nPythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。\nこのコマンド一つで、便利なライブラリがすぐに使えるようになります。\nしかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...",
+    "link": "https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T01:41:56",
+    "ai_summary_done": false
+  },
+  {
     "id": "47abd9e8b0c1d2fc317a5c94bbc70c4d",
     "title": "エンジニアのAI疲れとの付き合い方",
     "summary": "この記事は、「AIを使えば楽になるはずなのに、なぜか前より疲れている」 と感じたことがあるエンジニアの人に向けて書いています。\n私が最初にその違和感を覚えたのは、ある日の深夜でした。\nAIに何度もプロンプトを投げ直し、出てきたコードを修正し続け、気づけば日付が変わっていました。「AIは便利なはずの道具なのに、なんで自分はこんなに消耗しているんだろう。。（泣）」\n\n「AIを使っているのに、なぜか前よ...",
@@ -947,56 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-18T16:01:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c1579943c815b8b3abf984d0b2bfd958",
-    "title": "生成AIで50万点以上作成か　女性芸能人模したわいせつ画像公開疑い、31歳男逮捕",
-    "summary": "生成AIで女性芸能人を模したわいせつ画像を作成し、インターネット上で公開したとして、警視庁は1月19日、わいせつ電磁的記録陳列の疑いで、札幌市の無職、千葉達郎容疑者（31）を逮捕した。捜査関係者への取材で分かった。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/20/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-20T01:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "95c405be4e0f20c78ce323d4c2dc0d7c",
-    "title": "Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話",
-    "summary": "先日、Googleが提供するIDE「Antigravity」のアップデートにより、一連の手順をまとめて実行させる新機能「スキル」が追加されました。 この機能は、これまで手作業で行っていたルーチンワークをAIに学習させ、効率化するための強力なツールです。 今回は、開発者が最も...",
-    "link": "https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T09:50:55",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8413b110b9efddd8fd4b165c31f40c60",
-    "title": "ローカルLLMサーバーの実用的な使い道の検討",
-    "summary": "はじめに\nMac miniで建てたLLMサーバの使い道を色々考えてみた結果、いわゆるエージェントタスクにおける計算資源としての使い方が向いているのではという気がしてきた。イメージはAWS LambdaのようなFunction as a serviceのようなワンショットな...",
-    "link": "https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T03:50:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3cadd2c488001a190416dfea3a0debb6",
-    "title": "GitHubActionsで最小構成のCICDを体験する",
-    "summary": "はじめに\n\n記事の目的\n「CI/CDってよく聞くけど、何から始めればいいの？」という方に向けて、最小構成でGitHub Actionsを使ったCI/CDを体験することを目的とします。\n複雑な設定や外部サービス連携は一切なし。Java + Mavenプロジェクトをビルド...",
-    "link": "https://qiita.com/NSS_FS_ENG/items/9e1add27ebf54fa3b650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T22:57:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "16137c54a5fc0e92f8ef18ad2b03fa25",
-    "title": "Orvalのメンテナーとして2025年の活動と2026年やりたいこと",
-    "summary": "2025年のorvalにおけるmaintainerとしての活動内容、主な成果、そして2026年に向けた展望について書きます。なお、昨年の年始に書いた同様の記事はこちらです。\n\n サマリ\n\n直接的な貢献として、58件のPRをマージ、3件のissueをcloseしました\n\nMCP (Model Context Protocol)サーバー生成機能を実装しました\n\nZod統合を大幅に強化し、ランタイムバリ...",
-    "link": "https://zenn.dev/soartec_lab/articles/444be40483b2dc",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-18T10:05:48",
     "ai_summary_done": false
   }
 ]
