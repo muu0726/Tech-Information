@@ -1,5 +1,25 @@
 [
   {
+    "id": "a8dd06f5c030842b4097934c30a7569d",
+    "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
+    "summary": "/- Fermat's Last character is T! -/\ntheorem FLT : \"Fermat\".toList.getLast! = 't' := rfl\n\n これは何？\nフェルマーの最終定理、つまり「Fermat(フェルマー)の最終文字はt」の証明です。証明の各ステップは定理証明支援系Leanによって正しさが検証されています。\n\n この記事は何？\n形式的証明があるということは...",
+    "link": "https://zenn.dev/pandaman64/articles/formalized-flt-proof",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T11:37:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "41beefd9bfbac2e2f58d3f04e6802524",
+    "title": "GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する",
+    "summary": "GitHub Copilot、めちゃくちゃ便利ですよね。VS Code 上で使っていることが多いのですが、コード補完はもちろん、Chat でかなりエージェント的な作業もできるようになりました。特に devcontainer のような隔離環境上で YOLO させるのに最近はハマっています。\nでも、使い込んでいくと「これ、できないの？」と思う場面が出てきます。その代表例が、決定的なワークフローを組むこ...",
+    "link": "https://zenn.dev/openjny/articles/8c98d344f78889",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-23T10:43:44",
+    "ai_summary_done": false
+  },
+  {
     "id": "5e25be62631690264c09e80b5af462a6",
     "title": "Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜",
     "summary": "この記事の対象読者\n\nPythonの基本文法を理解している方\n音声合成（TTS）に興味があるが、まだ試したことがない方\nローカルでAI音声生成を動かしてみたい方\nMacからWindowsに移行して、GPU環境を構築したばかりの方\n\nこの記事で得られること\n\nQwen3-...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-17T07:43:28",
-    "ai_summary_done": false
-  },
-  {
-    "id": "aae1f3a5c707c6e98297fdb6446ddb5d",
-    "title": "AIでアンケートのテキスト分類とセンチメント分析を爆速化してみた",
-    "summary": "アンケートデータは、最も身近に存在するデータの一つです。\nしかし、いざ活用しようとすると、なかなか分析が進まない状況に直面することが少なくありません。特に、自由記述のテキストデータは、回答者の生の声が詰まった貴重な情報源である一方で、その分析には大きな壁がありました。\nテキ...",
-    "link": "https://qiita.com/IkuyaM/items/5b757456b3c2b3676531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T23:01:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d5ea38a720eb80cf52924cce40ffd575",
-    "title": "さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術",
-    "summary": "「田中さん、顧客リストなんだけど、『トヨタ』『トヨタ自動車』『トヨタ自動車(株)』って全部同じ会社だよね?これ、集計する前に手作業で直さないと...」\n画面に表示された顧客リストには、同じ企業を指しているはずなのに、入力者によって表記が異なる「表記揺れ」が無数に存在していま...",
-    "link": "https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T00:38:53",
     "ai_summary_done": false
   }
 ]
