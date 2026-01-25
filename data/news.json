@@ -1,5 +1,75 @@
 [
   {
+    "id": "c2d5253e28ac7e60174000d77b08f168",
+    "title": "Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方",
+    "summary": "本記事は 2026-01 時点の公式ドキュメント/リポジトリの情報を元に整理しています。Clawdbot は更新が速いので、手順や設定キーが変わっていたら公式ドキュメントを優先してください。\n\n\n はじめに（この記事でわかること）\n「Clawdbotって話題だけど、結局なにができるの？」「Mac miniを買わないとダメ？」「危なくない？」という初学者の不安を、仕組み・出来ること・安全な始め方の3...",
+    "link": "https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T13:00:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1a83c5247c3d46645bc431028a217eed",
+    "title": "🦞Clawdbot🦞 を AWS + Telegram で動かす",
+    "summary": "Clawdbot とは\nClawdbot は、個人が自分の環境で動かすセルフホスト型 AI アシスタント基盤です。\n\nChatGPT や Claude のような SaaS とは異なり、普段使いのチャットアプリ（Telegram / Discord / Slack / WhatsApp 等）を入口に、LLM とツール実行を組み合わせて実務タスクをこなす\n\nOSS かつセルフホストで「自分のデータ・自...",
+    "link": "https://zenn.dev/kndoshn/articles/46c673bb16aa49",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T12:36:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "097889001905b5b1d35a742f16f6b03c",
+    "title": "Claude Code中級者を目指す！サブエージェントの作成から実行TIPSまで！",
+    "summary": "記事のポイント\n\nサブエージェントを使って専門特化型のAIアシスタントを作成できる\nカスタムスラッシュコマンドで効率的にサブエージェントを呼び出せる\n複数エージェントをオーケストレーションして実装→レビュー→実装のサイクルの自動化ができる\n\n\n どんな人向けの記事？\n\n\nClaude Codeを日常的に使っているが、なんとなく精度が安定しない人\nサブエージェントという機能を聞いたことはあるが、いま...",
+    "link": "https://zenn.dev/saito3815/articles/claude-code-subagent-tips",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T10:10:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "010d46e228bbd2aa67c6fc26fd851de2",
+    "title": "Claude Code Skillsで実装からレビューまで全部自動化してみた",
+    "summary": "はじめに\n「実装したらそのままレビューもAIに任せたい」\n開発してると、コード書く→PR作る→レビュー待ち→修正→また待ち...のサイクルが地味にストレス。特に一人開発やスタートアップだと、レビュアーがいない or 忙しいことも多い。\nそこで試したのがClaude Code Skills + GitHub Actionsの組み合わせ。結論から言うと、実装からレビュー、修正までほぼ自動化できました。...",
+    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-skills-review-automation",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T09:07:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5103bf6cc71d9a4c7824f7d581b76e15",
+    "title": "Google Gemini CLIをGoで再実装したら60倍以上速くなった",
+    "summary": "TL;DR\n\n公式 Gemini CLI は素晴らしいが Node.js の起動オーバーヘッドが約1秒ある\nGo で再実装したら起動 0.01秒になった（68倍高速化）\n認証は公式 CLI のをそのまま流用、無料枠も Workspace 枠もそのまま使える\n\nhttps://github.com/tomohiro-owada/gmn\n\n なぜ作ったか\nGoogle の公式 Gemini CLI は...",
+    "link": "https://zenn.dev/abalol/articles/588f33425be41c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T08:38:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "827c8c4f04661d6ed23cffae6eb0f604",
+    "title": "エンジニアの仕事がAIで置き換え可能なんて悲しいこと、簡単に言わないで欲しい",
+    "summary": "!\n本記事は一般論を述べたり、他者へ思想の変化を求めたりするものではありません。あくまで自分自身が感じたことをつらつらと書いたものです。\nまた、本記事における\"エンジニア\"は\"ソフトウェアエンジニア\"と読み替えていただいた方が正確かもしれません。\n\n最近、SNSや技術記事投稿プラットフォームなどで「エンジニアの仕事がAIによってなくなる」だとか、「AIによって生成されるコードを利用することが当たり...",
+    "link": "https://zenn.dev/ispec_inc/articles/82e30345ca4b1b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T03:50:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a702f9abd2d3884bf00409384a04e8d0",
+    "title": "NotebookLM を英会話学習アプリにする拡張機能を作ってみた。",
+    "summary": "最近、Google の NotebookLM が話題ですね。資料をアップロードするだけで、AI がその内容に基づいて回答してくれる素晴らしいツールです。\n私も英語学習やドキュメントの読み込みに活用しているのですが、「もっとハンズフリーで対話したい」「英語の回答をリスニングしたい」と思うことが増えてきました。\nそこで、NotebookLM のチャット画面に音声入力、読み上げ（TTS）、さらに翻訳機能...",
+    "link": "https://zenn.dev/tcool/articles/48a2404670cfc1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T00:19:17",
+    "ai_summary_done": false
+  },
+  {
     "id": "c2b3c3c49c19da569b29a213e3af6106",
     "title": "【2026年最新】プログラミング知識ゼロでもOK！Clawdbotで業務効率を劇的に改善する自動化ツール作成ガイド",
     "summary": "昨日大阪で開催されていた、「大阪AI文化万博」に参加してきました！生成AIを活用した クリエイティブ作品／デモ／体験企画などの展示や、トークセッションが開催され、会場はとても盛り上がっていました。\n\nトークセッションで話題になっていたのが「Clawdbot」の可能性です...",
@@ -927,76 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-20T01:41:43",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1f6129e9b9e61633d23d0b21c5ff051a",
-    "title": "X、投稿で報酬もらえる「infofi」アプリ禁止　スパム抑制へAPIポリシー改訂　「開発者はThreads、Blueskyに移行を」",
-    "summary": "これにより、AIで生成された低品質な投稿やスパム返信などが改善されるとみている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/16/news107.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-16T06:21:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "961e86ed9e80f984c3933132aa193342",
-    "title": "AmazonやMetaなどAI企業5社がWikipediaの有償パートナーに",
-    "summary": "Wikimedia Enterpriseは、Wikipedia誕生25周年に合わせ、AmazonやMicrosoft、Metaら5社を新たな有償パートナーとして発表した（Googleは2022年からパートナーになっている）。AIチャットボット等の基盤としてWikipediaのデータを利用するIT企業に対し、有償契約を通じた資金還元を求める動きだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/16/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-15T22:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2ed3e52066cfef96265271d14c852d0f",
-    "title": "新語は“Google超え”――Microsoftの「Copilot Keyboard」は、正常進化したAI日本語入力だった",
-    "summary": "MicrosoftがAIを使った新しい日本語入力システム「Copilot Keyboard」のβ版を公開している。クラウドAIを活用し、最新のネットスラングから専門用語まで高精度に変換。単語の意味をその場で表示する機能も搭載する。1週間試用した筆者は、Windows標準IMEからの乗り換えも視野に入る完成度だと感じた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/15/news131.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-15T09:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "54a4b0b2f0e909d06899f62d18f9982f",
-    "title": "第４回空戦AIチャレンジ最終一位チームの「最終解法」",
-    "summary": "はじめに\nこんにちは。株式会社Spakona 代表の河崎太郎（@taro_kawa6）です。「第4回 空戦AIチャレンジ」に参加し、最終一位入賞を果たすことができました。本記事では、我々のチーム Spakona_Inc がコンペティションに取り組む上で採用した解法について...",
-    "link": "https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T10:00:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b811a4c0bf38753448808e18650ae3b",
-    "title": "個人開発のAIアプリをServerless化したら月額$7で運用できた件",
-    "summary": "TL;DR\n\n月額約$7でAIアプリをフルスタック運用できた\nCloudflare (Workers/D1/R2) + RunPod Serverless + Vercel の組み合わせが最強\n固定費を避けてServerless構成にすれば、個人開発でも安心\n\nはじめに...",
-    "link": "https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T23:34:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "265b43979e971b9e75ba33739781aa1d",
-    "title": "[RAG] Context-Aware Caching: 会話型 AI における「文脈を理解するキャッシュ設計」",
-    "summary": "1. 問題背景（The Problem）\n多くの従来型キャッシュシステムは stateless な前提で設計されています。\nつまり、「現在のリクエスト」だけを見ており、過去の文脈を考慮しません。\nこの設計は単純な検索や API では機能しますが、\n会話型 AI（Chatb...",
-    "link": "https://qiita.com/tms-ducvu/items/f7eec536f790b73260aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-20T09:18:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "baa1a4481602a8067ee0a2906951e2a3",
-    "title": "【Claude Code】Claude CodeがOllamaと連携できるようになったらしい",
-    "summary": "はじめに\n2026/1/18 に以下のようなツイートを見かけました。\n\nOllama（ローカルで LLM を実行するためのオープンソースツール）の v0.14.0 以降が Anthropic Messages API と互換になったため、GPT-OSS や Qwen3...",
-    "link": "https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T23:41:06",
     "ai_summary_done": false
   }
 ]
