@@ -1,5 +1,25 @@
 [
   {
+    "id": "2bd8f50ece9d61d0bde2ecc3cc1be4fa",
+    "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
+    "summary": "皆さん、GitHub Copilot使ってますか？私は日常的に使っています。\nGitHub CopilotってほかのAIハーネスと違って、サブスクの課金体系が入出力トークン量ではなく、「プレミアムリクエスト」という謎単位で課金されます。\nこれを実はうまく利用すると、GPT-5.2-Codex xhighでがっつりレビューさせたり調査させても、最安1回4円で使えます。\n\n GitHub Copilo...",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T03:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4f5205e970df76c5717d27c8b40f8c85",
+    "title": "Transformerアーキテクチャの変遷 ~Attention is All You Needからgpt-ossまで~",
+    "summary": "この記事の内容\nLLMのアーキテクチャTransformerの理解のために「Attention is All You Need」を読み、ある程度理解した以上の知識を持つ読者を想定し、当初のTransformerモデルと、記事執筆時点で比較的最近の公開モデルであるgpt-ossやLlama4のようなモデルとの違いや変遷を辿り理解するためには、どこを意識すべきかを自分の視点でまとめました。\n\n Att...",
+    "link": "https://zenn.dev/sakaitomoaki/articles/edbfb63b54a966",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T07:41:05",
+    "ai_summary_done": false
+  },
+  {
     "id": "86df9c7c3f9fa32de237e5bed1ea7ee9",
     "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その4",
     "summary": "フルコードはgithubにあります。\n今回はここの途中から。\n\nオブジェクトのリスト\n例によってGemini CLIに書いてもらう。\nuse crate::hittable::{HitRecord, Hittable};\nuse crate::ray::Ray;\nuse s...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T06:09:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "434c1e36c21c1f2c3cb0f43aa055dfea",
-    "title": "「RAG」「言語の“隔離”」という発想",
-    "summary": "Multilingual Vector Search における実践的な設計パターン\nLLM や RAG を実運用に組み込む中で、Multilingual Embedding は非常に便利な一方、\n実際に使ってみると見過ごせない問題に直面します。\n本記事では、\n多言語 Vec...",
-    "link": "https://qiita.com/tms-ducvu/items/21d2b20070362fd3c369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-20T04:38:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1af5401f5e0e3d63aec45e57a68613fb",
-    "title": "getElementByIdはなぜ速いのかを理解する",
-    "summary": "こんにちは、フロントエンドのyです。\n今回はgetElementByIdについての記事です。\nJavaScriptを書くとき、getElementByIdを使ってDOMを参照していますか？\nそれともquerySelectorでDOMを参照していますか？\n私は基本的にはgetElemtntByIdを使ってDOMを取得することに意識を置いていました。\ngetElementByIdによるid検索はHTM...",
-    "link": "https://zenn.dev/ycode/articles/fa13cb0104225b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-18T16:01:01",
     "ai_summary_done": false
   }
 ]
