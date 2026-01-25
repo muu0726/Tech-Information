@@ -1,5 +1,35 @@
 [
   {
+    "id": "c2b3c3c49c19da569b29a213e3af6106",
+    "title": "【2026年最新】プログラミング知識ゼロでもOK！Clawdbotで業務効率を劇的に改善する自動化ツール作成ガイド",
+    "summary": "昨日大阪で開催されていた、「大阪AI文化万博」に参加してきました！生成AIを活用した クリエイティブ作品／デモ／体験企画などの展示や、トークセッションが開催され、会場はとても盛り上がっていました。\n\nトークセッションで話題になっていたのが「Clawdbot」の可能性です...",
+    "link": "https://qiita.com/GIFCat/items/a94880a3095ef5db9d39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T00:58:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3a1d8059a423f8e502ad5ce9c3e456d8",
+    "title": "AIがなくても生きていける",
+    "summary": "こんにちは、座禅いぬです。\n最近、Obsidian x AIの情報商材が人気とかいうトピックが話題になってますね。ここ数か月人々の注目を集めているツールであることは確かで、僕も使い始めてまだ半年程度の初心者なのでみんなすごい使い方しているなと思いながら眺めています。やっぱ「...",
+    "link": "https://qiita.com/zazen_inu/items/7d01d7baa06bd584f6ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T04:47:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bbbcfdd11478eb0cfd7cf30fe1e9e407",
+    "title": "Bun.jsではじめる高速JavaScript開発ガイド",
+    "summary": "はじめに\nBun.js（以下 Bun）は、JavaScript/TypeScript を高速に実行できる新しいランタイムであり、パッケージマネージャー・バンドラ・テストランナーなどを一体化した「オールインワン開発ツール」です。\nNode.js や Deno と同じくサーバ...",
+    "link": "https://qiita.com/automation2025/items/923b442eb57cc564a3ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T03:14:07",
+    "ai_summary_done": false
+  },
+  {
     "id": "2bd8f50ece9d61d0bde2ecc3cc1be4fa",
     "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
     "summary": "皆さん、GitHub Copilot使ってますか？私は日常的に使っています。\nGitHub CopilotってほかのAIハーネスと違って、サブスクの課金体系が入出力トークン量ではなく、「プレミアムリクエスト」という謎単位で課金されます。\nこれを実はうまく利用すると、GPT-5.2-Codex xhighでがっつりレビューさせたり調査させても、最安1回4円で使えます。\n\n GitHub Copilo...",
@@ -967,36 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-18T23:41:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0be020f83f14a630c4056f0177502cd7",
-    "title": "Google AI Proで使い倒すAntigravity開発ノウハウ：モデルとモードの最適解",
-    "summary": "Google AI Proで使い倒すAntigravity開発ノウハウ：モデル・モード・ナレッジの最適解\n\nはじめに\nAntigravity（IDE）で複数のモデルを使い分け、プロジェクト固有の制約を反映させながら開発を進めるためのノウハウをまとめます。\n本記事では、実装...",
-    "link": "https://qiita.com/ryosukehayashi/items/ad6e67d7d2b261a3b39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T14:04:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b2a21a60df879300e988714a7e233d01",
-    "title": "【Claude Code】非エンジニアが1行もコードを書かずにAI搭載の「画像トリミングツール」を作った話",
-    "summary": "最近よく聞く生成AIで誰でもアプリ開発という話題。\n正直なところ、「そうは言っても、結局は専門知識がないと途中で詰むんでしょ？」と半信半疑でスルーしていました。\nですが、年末年始の時間を使って Claude Code を実際に触ってみて、その考えを改めました。\n疑ってかかっ...",
-    "link": "https://qiita.com/ot12/items/06015037ea758b518c6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-19T21:42:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "eb818c791d59f43080d1db6a5714c3a8",
-    "title": "Qwen-Image-2512ってなんだ？〜オープンソース最強の画像生成AIを完全攻略〜",
-    "summary": "この記事の対象読者\n\nPythonの基本文法を理解していて、画像生成AIに興味がある方\nStable DiffusionやFLUXなど、他の画像生成モデルを触ったことがある方\nComfyUIやDiffusersを使った経験がある（または使いたい）方\n日本語や中国語のテキス...",
-    "link": "https://qiita.com/GeneLab_999/items/b7fa8b9f7729c48a51aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-18T06:09:33",
     "ai_summary_done": false
   }
 ]
