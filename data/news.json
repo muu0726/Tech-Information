@@ -1,5 +1,15 @@
 [
   {
+    "id": "47abd9e8b0c1d2fc317a5c94bbc70c4d",
+    "title": "エンジニアのAI疲れとの付き合い方",
+    "summary": "この記事は、「AIを使えば楽になるはずなのに、なぜか前より疲れている」 と感じたことがあるエンジニアの人に向けて書いています。\n私が最初にその違和感を覚えたのは、ある日の深夜でした。\nAIに何度もプロンプトを投げ直し、出てきたコードを修正し続け、気づけば日付が変わっていました。「AIは便利なはずの道具なのに、なんで自分はこんなに消耗しているんだろう。。（泣）」\n\n「AIを使っているのに、なぜか前よ...",
+    "link": "https://zenn.dev/karamage/articles/306f0c571e0af9",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T11:56:38",
+    "ai_summary_done": false
+  },
+  {
     "id": "a8dd06f5c030842b4097934c30a7569d",
     "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
     "summary": "/- Fermat's Last character is T! -/\ntheorem FLT : \"Fermat\".toList.getLast! = 't' := rfl\n\n これは何？\nフェルマーの最終定理、つまり「Fermat(フェルマー)の最終文字はt」の証明です。証明の各ステップは定理証明支援系Leanによって正しさが検証されています。\n\n この記事は何？\n形式的証明があるということは...",
@@ -987,16 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-18T10:05:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6791053c3bbd295cd9582f529275d4a5",
-    "title": "【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話",
-    "summary": "はじめに\n高専生（エンジニアの卵たち）にとって、避けては通れないラスボス。\nそれが 「実験レポート」 です。\n毎週のように課される実験、そしてレポート。\n中身を書くだけでも大変なのに、僕たちを地味に、しかし確実に削ってくるのが 「事務作業」 の数々です。\n\n毎回Wordの...",
-    "link": "https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-17T07:43:28",
     "ai_summary_done": false
   }
 ]
