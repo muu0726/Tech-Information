@@ -1,5 +1,35 @@
 [
   {
+    "id": "43b4bb30227ea0a622da7e07aa2381da",
+    "title": "キーボード沼 〜分割キーボードに手を出したよ〜",
+    "summary": "前回、遊舎工房さんの講習で左手デバイスを作成し、半田づけの沼にハマってしまった私。（過去の記事）\n今回は講習ではなく、分割キーボードのキットを購入してフタコ.devというコミュニティの有志のメンバーで一緒に組み立てることにしました！\nフタコ.devの主催者であるKaitouさんのブログ↓\nhttps://kaitou.hatenadiary.com/entry/2026/01/17/212155\n...",
+    "link": "https://zenn.dev/nakayarn/articles/ce4f620630182b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T11:29:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "05d1224cb5951b72fad75e19be406be3",
+    "title": "AI開発における知識の定着のしづらさと抗い方",
+    "summary": "開発にいろんな人がAIを使っている\nこんにちは。\n最近はSNSのエンジニアさんも、技術記事も、見ていると今やどこもかしもAIを使った開発が盛んになってきていますね。\n自分が働いている会社もAIフル活用で、GeminiやDevin、Copilotの有料版をエンジニア全員に付与されており、日々のお仕事でも活用しています。\n使い始めて半年以上経過し、社内でも色々と変化や認識が生まれてきました。\n\n定期的...",
+    "link": "https://zenn.dev/hyokokkooko/articles/e5377427a6752f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T13:37:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "36bebd0c4fda5387f69b5713cdac9154",
+    "title": "Playwright MCP に CLI モードが追加されたので試す",
+    "summary": "Playwright MCP v0.0.58において Playwright CLI が追加されました。\nhttps://github.com/microsoft/playwright-mcp/releases/tag/v0.0.58\n\nWe are adding a new token-efficient CLI mode of operation to Playwright with the s...",
+    "link": "https://zenn.dev/andynuma/articles/1f6232efcee67a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T09:30:13",
+    "ai_summary_done": false
+  },
+  {
     "id": "d7654b6d7951686ae7259072cbdb69f0",
     "title": "Meta、10代へのAIキャラとの会話機能を停止へ　同社の全アプリで",
     "summary": "米Metaが、AIで生成したキャラクターとの会話機能を10代のユーザーに対し提供を停止する。昨年、同社のAIチャットbotが未成年に恋愛感情をほのめかす回答をして批判を浴びた問題を受けた措置だ。",
@@ -967,36 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-20T00:01:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cd302b2dca9adc738056f24e5239c960",
-    "title": "Spec DrivenではなくImplementation Drivenを選ぶ理由",
-    "summary": "Implementation-Driven Developmentという考え方\n近年、AI を活用したコーディングが一般化し、ソフトウェア開発の進め方そのものが改めて問われていると感じています。その中で仕様を起点として開発を行う Spec Driven Development（仕様駆動開発） が、有力なアプローチとして語られる場面も増えてきました。\n本稿では、Spec（仕様）という成果物そのものを...",
-    "link": "https://zenn.dev/akring/articles/ef2d8d1e95ff86",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-19T18:01:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "60271dad7b0b1c896c223e33d721fb93",
-    "title": "月当たり$5でClaudeにコードレビューしてもらおう",
-    "summary": "あらまし\n私「個人開発のコードをレビューしてもらって学習品質を高めていきたいなぁ」\nAIくん「最近なら個人開発でも俺たちがコードレビューしてやるで」\n私「昔にCodeRabbitってのを使ったことあったな......え、月に$24もかかるんか。これはチーム開発向けやな」\nMCPくん「ClaudeCodeなりCursorなりにGitHubのMCP入れたらできるで」\n私「せやなー。月に$20やからCo...",
-    "link": "https://zenn.dev/aprender/articles/f594269be5e838",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-19T08:00:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "791be2e497ed1569a1f37e2319c9ff29",
-    "title": "マスク氏の「ChatGPT」批判にアルトマン氏が応戦　Teslaの事故死数で反撃",
-    "summary": "イーロン・マスク氏が「ChatGPTが9人の死に関連している」との未確認情報を拡散し、利用中止を呼びかけた。これに対しOpenAIのサム・アルトマンCEOは、Teslaのオートパイロットによる50人超の事故死を引き合いに反論。「Grok」「論じる気にもならない」とし、「相手を責める言葉は自分自身の露呈だ」と述べた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/21/news060.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-21T00:02:00",
     "ai_summary_done": false
   }
 ]
