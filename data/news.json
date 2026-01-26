@@ -1,5 +1,15 @@
 [
   {
+    "id": "d7654b6d7951686ae7259072cbdb69f0",
+    "title": "Meta、10代へのAIキャラとの会話機能を停止へ　同社の全アプリで",
+    "summary": "米Metaが、AIで生成したキャラクターとの会話機能を10代のユーザーに対し提供を停止する。昨年、同社のAIチャットbotが未成年に恋愛感情をほのめかす回答をして批判を浴びた問題を受けた措置だ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/26/news080.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-26T03:10:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "c2d5253e28ac7e60174000d77b08f168",
     "title": "Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方",
     "summary": "本記事は 2026-01 時点の公式ドキュメント/リポジトリの情報を元に整理しています。Clawdbot は更新が速いので、手順や設定キーが変わっていたら公式ドキュメントを優先してください。\n\n\n はじめに（この記事でわかること）\n「Clawdbotって話題だけど、結局なにができるの？」「Mac miniを買わないとダメ？」「危なくない？」という初学者の不安を、仕組み・出来ること・安全な始め方の3...",
@@ -987,16 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-01-21T00:02:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1bb8d8e7604c94efcf22c125d7afc6f0",
-    "title": "2026年1月版 俺的AI駆動開発フロー&Tips",
-    "summary": "!\nこの記事は筆者がAI駆動開発を通して積み上げてきた開発フローやそのTipsを紹介するものであり、絶対的な正解を示したり、主義主張を押し付けたりするものではありません。\nどこから始めたらよいかわからない方や指針を求めている方の参考になれば幸いです。\n\nこの記事ではコーディングエージェントのことをAIと表記します。\n\n 前提：\"俺\"の現状\n\n 使っているAIとツール\n\nGitHub Copilot...",
-    "link": "https://zenn.dev/microsoft/articles/2026-01-my-aidd-flow",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-20T01:41:43",
     "ai_summary_done": false
   }
 ]
