@@ -1,5 +1,15 @@
 [
   {
+    "id": "5bed004b8365d6dea606d0fdf42d46dc",
+    "title": "5年ぶり「AirTag」新モデル　検出距離は50％遠く、スピーカー音量は50％大きく　4980円",
+    "summary": "米Appleが持ち物追跡デバイスの新モデルを発表。第2世代の超広帯域チップを搭載し、「正確な場所を見つける」機能の有効範囲が前世代より最大50%拡大、スピーカー音量も50%増大した。価格は前世代と同じ4980円から。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/27/news056.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-26T15:30:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "d7dcb182a229ee91d9641195199dc3b9",
     "title": "Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった",
     "summary": "結論\n「テストして」って言っただけなのに、AIが自分でバグ見つけて、自分で直して、「違反は切腹」ってルールを自分で追加してきた。\n人間、何もしてない。\n\n\n 何を作ったか\nClaude Code × tmux でホワイトカラー向けマルチタスクツールを作った。\n名前は multi-agent-shogun。\nhttps://github.com/yohey-w/multi-agent-shogun\n...",
@@ -987,16 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "31986be80c165adb71011457af492eb1",
-    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その1",
-    "summary": "はじめに\n学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。\nまずはレイトレーシングを学ぶ。\n方針は下記\n\n週末レイトレーシングを順番にやっていく\nC++の代わりにRustで記述する\n書いてみるといいつつAIには...",
-    "link": "https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-20T17:29:29",
     "ai_summary_done": false
   }
 ]
