@@ -1,5 +1,25 @@
 [
   {
+    "id": "d7dcb182a229ee91d9641195199dc3b9",
+    "title": "Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった",
+    "summary": "結論\n「テストして」って言っただけなのに、AIが自分でバグ見つけて、自分で直して、「違反は切腹」ってルールを自分で追加してきた。\n人間、何もしてない。\n\n\n 何を作ったか\nClaude Code × tmux でホワイトカラー向けマルチタスクツールを作った。\n名前は multi-agent-shogun。\nhttps://github.com/yohey-w/multi-agent-shogun\n...",
+    "link": "https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-25T11:18:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2b4cf522084812a2a1871e81b4100ea4",
+    "title": "AIにコードを書かせてAIにレビューさせる開発スタイル",
+    "summary": "はじめに\nこの記事では、Claude Code（コードを書く担当）とレビュー担当AIを組み合わせた開発スタイルを紹介する。\n普通は1つのAIに全部任せる。でも、それだと自分が作ったものには甘くなりがちで、問題を見逃すことがある。\n人間の開発チームでも「作る人」と「チェックする人」を分けるのと同じで、AIでも役割分担すると品質が上がる。\n最初は Claude Code と OpenAI の Code...",
+    "link": "https://zenn.dev/sora_biz/articles/claude-code-ai-review-workflow",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-24T16:55:02",
+    "ai_summary_done": false
+  },
+  {
     "id": "4e062ccb86992a31b33f99f6f4970af6",
     "title": "Microsoft、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」公開",
     "summary": "米Microsoftは、AIエージェントが自動的にMicrosoft Azure上のSRE（Site Reliability Engineering）を実行する「Azure SRE Agent」の新機能として、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」のプレビュー公開を明らかにし...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-20T17:29:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "00205b733ec8e0b6747defecb481b437",
-    "title": "素人質問が大好きな教授にコードレビューを頼んでみた結果",
-    "summary": "はじめに\nこんにちは、いのせです。\n最近はAIの進化が止まることなく、AIを使ってコーディングするのが当たり前な時代になりましたね。\nGitHub Copilot、Claude Code、Cursorなど便利なツールが次々と登場し、コードを書く速度は格段に上がったと思いま...",
-    "link": "https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T14:20:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f9af3508aa23983e1656bc6ff6933e05",
-    "title": "Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック",
-    "summary": "Claude Codeは、AI支援による開発体験を提供する強力なツールです。しかし、多くの機能が隠れているため、その真価を十分に活用できていないユーザーも少なくありません。この記事では、作業効率を大幅に向上させる実践的なテクニックを4つのカテゴリーに分けて紹介します。\n\n1...",
-    "link": "https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-20T00:47:41",
     "ai_summary_done": false
   }
 ]
