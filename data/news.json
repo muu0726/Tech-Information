@@ -1,5 +1,25 @@
 [
   {
+    "id": "12db7c2620d6522a78f14505d2f12c53",
+    "title": "私はChatGPTを虐待している？　「あなたをどう扱ってきたか画像にして」結果、誰よりも酷い",
+    "summary": "AIに「私があなたをどう扱ってきたか画像にして」と聞く遊びがSNSで流行している。筆者もやってみたら、酷かった。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/26/news094.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-26T05:39:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "791be2e497ed1569a1f37e2319c9ff29",
+    "title": "マスク氏の「ChatGPT」批判にアルトマン氏が応戦　Teslaの事故死数で反撃",
+    "summary": "イーロン・マスク氏が「ChatGPTが9人の死に関連している」との未確認情報を拡散し、利用中止を呼びかけた。これに対しOpenAIのサム・アルトマンCEOは、Teslaのオートパイロットによる50人超の事故死を引き合いに反論。「Grok」「論じる気にもならない」とし、「相手を責める言葉は自分自身の露呈だ」と述べた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/21/news060.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-21T00:02:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "43b4bb30227ea0a622da7e07aa2381da",
     "title": "キーボード沼 〜分割キーボードに手を出したよ〜",
     "summary": "前回、遊舎工房さんの講習で左手デバイスを作成し、半田づけの沼にハマってしまった私。（過去の記事）\n今回は講習ではなく、分割キーボードのキットを購入してフタコ.devというコミュニティの有志のメンバーで一緒に組み立てることにしました！\nフタコ.devの主催者であるKaitouさんのブログ↓\nhttps://kaitou.hatenadiary.com/entry/2026/01/17/212155\n...",
@@ -977,26 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-21T05:05:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2b60cfb7bef0070b092df163e654d900",
-    "title": "2026年1月、スノーボード駆動開発に辿り着いた 〜 オレのバイブコーディング 〜",
-    "summary": "はじめに\nこんにちは、淡路です。\n最近 AI エージェントを自在に作り出して汎用的な業務を支援するアプリを実装しています。まだ公開していませんが、雰囲気が伝わる画像だけ載せておきます。\n\n汎用アシスタントを始め、様々なエージェントを選択して対話できるチャットUI\nさまざまなエージェントを選択・作成でき、ツールを組み合わせて業務を効率化できます。\n\nData Analyst、Code Review ...",
-    "link": "https://zenn.dev/gawa/articles/my-vibe-coding-memo",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-20T07:45:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "26e35e086187057fbd188720061f2c5e",
-    "title": "AIエージェントを「自己進化」させる仕組み",
-    "summary": "本記事では、AIエージェントを自己進化させて性能を高める手法について、ざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事は、訓練データなしでAIエージェントを自己進化させる手法「Dr. Zero」の論文[1]について、日本語で簡単にまとめたものです。\nhttps:...",
-    "link": "https://zenn.dev/knowledgesense/articles/a68f42a6a0144b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-20T00:01:01",
     "ai_summary_done": false
   }
 ]
