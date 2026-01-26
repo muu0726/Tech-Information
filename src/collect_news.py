@@ -29,10 +29,15 @@ def load_existing_news():
     return []
 
 def save_news(news_list):
-    # Ensure directory exists
-    os.makedirs(os.path.dirname(EXISTING_NEWS_FILE), exist_ok=True)
-    with open(EXISTING_NEWS_FILE, "w", encoding="utf-8") as f:
-        json.dump(news_list, f, ensure_ascii=False, indent=2)
+    try:
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(EXISTING_NEWS_FILE), exist_ok=True)
+        with open(EXISTING_NEWS_FILE, "w", encoding="utf-8") as f:
+            json.dump(news_list, f, ensure_ascii=False, indent=2)
+        print(f"Successfully saved {len(news_list)} items to {EXISTING_NEWS_FILE}")
+    except Exception as e:
+        print(f"Error saving news file: {e}")
+
 
 def generate_id(link):
     return hashlib.md5(link.encode('utf-8')).hexdigest()

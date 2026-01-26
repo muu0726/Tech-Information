@@ -16,8 +16,16 @@ def load_news():
         return json.load(f)
 
 def save_news(news_list):
-    with open(NEWS_FILE, "w", encoding="utf-8") as f:
-        json.dump(news_list, f, ensure_ascii=False, indent=2)
+    try:
+        # Create directory if it doesn't exist
+        os.makedirs(os.path.dirname(NEWS_FILE), exist_ok=True)
+        
+        with open(NEWS_FILE, "w", encoding="utf-8") as f:
+            json.dump(news_list, f, ensure_ascii=False, indent=2)
+        print(f"Successfully saved {len(news_list)} items to {NEWS_FILE}")
+    except Exception as e:
+        print(f"Error saving news file: {e}")
+
 
 def main():
     if not API_KEY:
