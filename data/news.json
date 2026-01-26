@@ -1,5 +1,15 @@
 [
   {
+    "id": "6ff523bc3ec002dbc9e3c685358afd51",
+    "title": "Microsoft、推論特化チップ「Maia 200」　競合比3倍の性能でGPT-5.2を支援",
+    "summary": "Microsoftは自社製AI推論チップ「Maia 200」を発表した。TSMCの3nmプロセスを採用し、塩酸性能はAmazonやGoogleの最新チップを凌駕するとしている。推論の価格性能比を30％改善し、OpenAIの「GPT-5.2」の提供基盤としても活用される。アイオワ州リージョンで稼働を開始しており、順次グローバルへ拡大する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/27/news059.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-26T22:05:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "5bed004b8365d6dea606d0fdf42d46dc",
     "title": "5年ぶり「AirTag」新モデル　検出距離は50％遠く、スピーカー音量は50％大きく　4980円",
     "summary": "米Appleが持ち物追跡デバイスの新モデルを発表。第2世代の超広帯域チップを搭載し、「正確な場所を見つける」機能の有効範囲が前世代より最大50%拡大、スピーカー音量も50%増大した。価格は前世代と同じ4980円から。",
@@ -987,16 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
     "ai_summary_done": false
   }
 ]
