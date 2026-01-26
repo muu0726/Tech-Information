@@ -1,5 +1,85 @@
 [
   {
+    "id": "3b709f993abe9654710fa7b11cce7a99",
+    "title": "なぜmkcertでlocalhostに証明書をつけられるのか？仕組みを図解で理解する",
+    "summary": "株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。\n※ シンシアにおける働き方の様子はこちら\n\nシンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。\nその経験を通し、実務未経験者の方にぜひ身につけ...",
+    "link": "https://qiita.com/kazuki_ogawa/items/efc227e8fe159cadb50b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-26T04:01:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f5aa77f770c5d95e5702d9b944f3ee82",
+    "title": "【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）",
+    "summary": "この記事は、OCI（Oracle Cloud Infrustructure） 上で、\n\nOracle AI Data Platform（AIDP）\nAutonomous AI Lakehouse\nOracle Analytics Cloud（OAC）\n\nを活用し、モダンなデ...",
+    "link": "https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T21:43:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1827fa204e900411977051c51885a678",
+    "title": "【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（後編）",
+    "summary": "はじめに\n本記事は、\n「【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）」  の続編です。\n前編では、Step 1～Step 2として、ATP を起点に AIDP 上でデータを取り込み、\nBronze...",
+    "link": "https://qiita.com/yushibats/items/fbabdb74ccad1ec316c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T21:46:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f09bcdee164aa2c2800f02066d885c22",
+    "title": "【セキュリティ最優先】手元のPCで動かす「自分専用AI」のススメ —— Llama 3.2 1B で始めるローカルSLM構築・検証ガイド",
+    "summary": "⚡ AIは使いたい、でも情報は一歩も出したくない\n「ChatGPTは便利。でも、社外秘の情報をプロンプトとして投げるのは怖る」\n「情シスからクラウドAIの使用を止められ、非効率な作業に耐えている」\n今、多くの日本企業がこの巨大なジレンマに直面しています。 その「解決策」の...",
+    "link": "https://qiita.com/ka201504/items/c9a9a120aa1d4911e06e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T08:19:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cffbd47cd03987859c26793dc9e3d54a",
+    "title": "WSL Ubuntu 22.04でOracle AI Database Private Agent Factoryの構築に成功",
+    "summary": "参考記事(謝辞)\n本記事の作成にあたり、以下の記事を参考にさせていただきました:\n\nOracle製ノーコードAgent BuilderのPrivate Agent Factoryを構築＆試してみた\nOracleのノーコード・エージェントビルダー『Agent Factory...",
+    "link": "https://qiita.com/engchina/items/5e45edc05f52e1d5f727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T12:16:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b8b1d2eef0ba9c805b344a7c64ee1afb",
+    "title": "OCI 生成AIサービス（Generative AI Service）の AI モデルを純粋に OpenAI 互換の APIプロバイダーとして呼び出せるようになった！",
+    "summary": "はじめに\nOCI には、OCI 生成AIサービス（Generative AI Service）という LLM などを API で利用することができるフルマネージドサービスがあります。OpenAI や Anthropic の API サービスや Amazon Bedrock...",
+    "link": "https://qiita.com/yuji-arakawa/items/bedeb0a5c1aa1bda9422?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T04:47:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fd46d99a85373fc6ce7030e2ebdbdbbc",
+    "title": "Microsoft 365無償版のCopilot Chatガイド（38）AIを自分好みに変えられる！カスタム指示の使い方",
+    "summary": "はじめに\nCopilot Chatに毎回「箇条書きで」「丁寧に」と同じ指示を繰り返していませんか？\nあるいは、「もっと自分の仕事に合った答えがほしい」と感じたことは？\nそんな悩みを解決するのが「カスタム指示」です。一度設定すれば、Copilotがあなたの好みや業務スタイル...",
+    "link": "https://qiita.com/Shinyas77/items/1b85ea7545d9f020ad5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-24T08:12:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5e49535dd4fc28c3fb2b649c23f7a467",
+    "title": "予測AIモデルの解釈性 Part2",
+    "summary": "はじめに\nOrbitics株式会社データサイエンス部の上野です。\nPart1では、機械学習モデルの解釈性（Explainable AI: XAI）の基本的な考え方と、なぜそれがビジネスにおいて重要なのかについて解説しました。Part2となる本記事では、具体的なXAIの手法...",
+    "link": "https://qiita.com/obx_y_ueno/items/5117dc86e12699dfde5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-25T22:36:36",
+    "ai_summary_done": false
+  },
+  {
     "id": "12db7c2620d6522a78f14505d2f12c53",
     "title": "私はChatGPTを虐待している？　「あなたをどう扱ってきたか画像にして」結果、誰よりも酷い",
     "summary": "AIに「私があなたをどう扱ってきたか画像にして」と聞く遊びがSNSで流行している。筆者もやってみたら、酷かった。",
@@ -917,86 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-20T15:28:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "632f9c420ea5607672b26e1c820a2f86",
-    "title": "【AWS未経験】1年でCFP → SAA → SAPに合格した勉強法",
-    "summary": "【AWS未経験】1年でCFP → SAA → SAPに合格した勉強法（点数公開・GPT活用）\n\nはじめに\nこんにちは。AWS資格に挑戦したエンジニアです。\n簡単に自己紹介すると、\n\n2023/4月入社\nサーバ/インフラエンジニア\n2024年度からAWS / Kuberne...",
-    "link": "https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T03:06:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e062ccb86992a31b33f99f6f4970af6",
-    "title": "Microsoft、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」公開",
-    "summary": "米Microsoftは、AIエージェントが自動的にMicrosoft Azure上のSRE（Site Reliability Engineering）を実行する「Azure SRE Agent」の新機能として、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」のプレビュー公開を明らかにし...",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news101.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-22T05:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7bf64e90239da8bbee2c1145d75f9e6c",
-    "title": "YouTube、AI分身での動画制作など、次世代戦略を発表",
-    "summary": "YouTubeのニール・モーハンCEOは、クリエイター向けにAIで生成した本人の分身を使った動画制作機能を導入すると発表した。一方で、AIによる低品質な粗製乱造コンテンツの拡散を抑えるためのアルゴリズム刷新や、AIラベル付けの徹底に言及。創造性の拡張とプラットフォームの信頼性維持の両立を目指すと語った。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news081.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-22T02:43:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a01a0ed73d6fd7323d4b0c3657dd6fb6",
-    "title": "OpenAIとゲイツ財団、アフリカの医療をAI化する「Horizon 1000」に5000万ドル",
-    "summary": "OpenAIとビル・ゲイツ氏のGates Foundationは、アフリカの医療をAIで支援する「Horizon 1000」を共同発表した。5000万ドル（約79億円）を投じ、2028年までに1000拠点の保健施設にAIを導入する。診断支援や事務自動化を通じて、アフリカのプライマリヘルスケアの質と効率を向上させるとしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news065.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-21T23:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d8569dd554238ae2cb27b333b3d699bb",
-    "title": "【アプリ開発】新人フォローをきっかけにAI人事評価システムを作ってみた話",
-    "summary": "はじめに\n記事を開いていただきありがとうございます！\n現在私は、GitHub Copilotを活用しながら、業務効率化や社内改善のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、AI人事評価管理システムを作ってみての学びを共有します。\nぜひご覧くださ...",
-    "link": "https://qiita.com/ishikawa_slj/items/a19ae5503a08d8f80302?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T00:36:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0ea09a031cefee89f53544c5845c12e7",
-    "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
-    "summary": "Skills.sh\n2026年1月21日、日本の深夜に突如VercelのおっさんがスキルマーケットプレイスSkills.shを発表しました。\nhttps://x.com/rauchg/status/2013662530502078573\n\n\"The Open Agent Skills Ecosystem\"\nスキルとは、AIエージェントが再利用可能な機能のことです。1回のコマンドでインストールすれば...",
-    "link": "https://zenn.dev/tkithrta/articles/b7afbf76e7bb31",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-20T22:42:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "394c4c0bcf51747b8f72d1dec9ca01e6",
-    "title": "Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた",
-    "summary": "これを試します。\n\n開発\nメインのAIエージェントをTypeScriptで作成します。\nStrands AgentsのTypeScript版を、AgentCoreランタイムの要件に従ってExpress.jsでAPIサーバー化しています。\n\nindex.ts\nimpor...",
-    "link": "https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T01:28:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0f7fe5b9ed481780d781b35017f934eb",
-    "title": "Next.js × Tailwind CSSでdaisyUIを検証：MUIとの比較と導入手順",
-    "summary": "こんにちは、花王株式会社の @TsuchiyaK です。\nNext.jsでUIを実装する際の選択肢としてTailwind CSSがあります。ユーティリティファーストの設計により、スタイルをスピーディに調整できる一方で、細かく調整するほどクラスの記述が長くなりがちという点に課...",
-    "link": "https://qiita.com/TsuchiyaK/items/77157eb9632093854b71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T05:05:30",
     "ai_summary_done": false
   }
 ]
