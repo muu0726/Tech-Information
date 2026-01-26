@@ -1,5 +1,35 @@
 [
   {
+    "id": "4e062ccb86992a31b33f99f6f4970af6",
+    "title": "Microsoft、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」公開",
+    "summary": "米Microsoftは、AIエージェントが自動的にMicrosoft Azure上のSRE（Site Reliability Engineering）を実行する「Azure SRE Agent」の新機能として、Kubernetes環境におけるJavaのパフォーマンス分析を自動化する「Azure Performance Diagnostics Tool for Java」のプレビュー公開を明らかにし...",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news101.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-22T05:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7bf64e90239da8bbee2c1145d75f9e6c",
+    "title": "YouTube、AI分身での動画制作など、次世代戦略を発表",
+    "summary": "YouTubeのニール・モーハンCEOは、クリエイター向けにAIで生成した本人の分身を使った動画制作機能を導入すると発表した。一方で、AIによる低品質な粗製乱造コンテンツの拡散を抑えるためのアルゴリズム刷新や、AIラベル付けの徹底に言及。創造性の拡張とプラットフォームの信頼性維持の両立を目指すと語った。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news081.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-22T02:43:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a01a0ed73d6fd7323d4b0c3657dd6fb6",
+    "title": "OpenAIとゲイツ財団、アフリカの医療をAI化する「Horizon 1000」に5000万ドル",
+    "summary": "OpenAIとビル・ゲイツ氏のGates Foundationは、アフリカの医療をAIで支援する「Horizon 1000」を共同発表した。5000万ドル（約79億円）を投じ、2028年までに1000拠点の保健施設にAIを導入する。診断支援や事務自動化を通じて、アフリカのプライマリヘルスケアの質と効率を向上させるとしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/22/news065.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-21T23:05:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "3b709f993abe9654710fa7b11cce7a99",
     "title": "なぜmkcertでlocalhostに証明書をつけられるのか？仕組みを図解で理解する",
     "summary": "株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。\n※ シンシアにおける働き方の様子はこちら\n\nシンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。\nその経験を通し、実務未経験者の方にぜひ身につけ...",
@@ -967,36 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-01-20T00:47:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9e210cd7c3a1c858a97ed69764af7521",
-    "title": "Oracle製ノーコードAgent BuilderのPrivate Agent Factoryを構築＆試してみた",
-    "summary": "Oracle AI Databaseと組み合わせて使うノーコードAgent BuilderのPrivate Agent Factoryが先日リリースされました。\n製品の特徴など詳細は以下記事をご参照ください。\n\n本記事ではインストーラーを使ったPrivate Ag...",
-    "link": "https://qiita.com/ssfujita/items/a48f39726fc428292466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T23:13:04",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d4b993b8d6dbde91778d340a954f1514",
-    "title": "海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -",
-    "summary": "はじめに\nClawdbot（clawd.bot）は、海外のOSSコミュニティで急速に注目を集めている\nSelf-hosted / LocalLLM前提 のAIアシスタントです。\n2025年12月に公開されたばかりですが、2026年1月時点でGitHubスター数は5,000...",
-    "link": "https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-21T23:45:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c589d5cbb15e9c0b7b823f84bbb28fc0",
-    "title": "論文やブログでLLMにどんな情報を食わせればいいのか考えてみた",
-    "summary": "はじめに\nthreadsの投稿で、AIネイティブの「論文に従来研究との比較はもういらないLLMがあるから」と言う意味のつぶやきを見ましてふと調べごとを始めました。\n従事研究との比較は、研究の立ち位置を明確にする為の論文の大事な要素なので、書き方は色々あっても問答無用で必要...",
-    "link": "https://qiita.com/YASUHARA-Wataru/items/cd06bf4e9e0087b17291?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-20T15:28:57",
     "ai_summary_done": false
   }
 ]
