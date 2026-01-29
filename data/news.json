@@ -1,5 +1,215 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9b54afe11505f9fc9f92089f929c4eee",
+    "title": "Using AI to expand global access to reliable flood forecasts",
+    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
+    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T16:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
+    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-19T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5efd2f64a63a873934c707973d190986",
+    "title": "VS Code + GitHub Copilotで「マルチエージェント」開発をやってみた",
+    "summary": "はじめに\n最近、AI開発のトレンドとして「マルチエージェント」という言葉をよく耳にするようになりました。\nしかし、これを試すには複雑なPythonライブラリ（CrewAIやAutoGenなど）を導入したり、API利用料を気にしながらクラウドで動かしたりと、ハードルが高いのが現状です。\nそこで本記事では、 普段使っている「VS Code」と「GitHub Copilot」だけ を使って、ローカル環境...",
+    "link": "https://zenn.dev/jins/articles/25900be95ab8b8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-28T23:09:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "537a74c6a3e2a1530631b1be11522a2d",
+    "title": "「複雑さを局所化する」─AIコーチングの音声対話を支えるストリーミングアーキテクチャ",
+    "summary": "はじめに\nこんにちは、株式会社mentoでソフトウェアエンジニアをしている@kadoppeです。\nmentoは先日、管理職のチームマネジメントを支援するマネジメント特化型のAIサービスとして、「mento マネジメントAI」をリリースしました。\n\nmento マネジメントAI\nhttps://prtimes.jp/main/html/rd/p/000000071.000048788.html\n本記...",
+    "link": "https://zenn.dev/mento_techblog/articles/2026-01-ai-coaching-streaming-architecture",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-28T22:53:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "84dab72d17bbf0772699924d5b50c0cc",
+    "title": "GitHub CopilotでClaude Code（とCodex CLI）が使えるようになるぞ！",
+    "summary": "Agent HQというサービスをご存知でしょうか？\n\nAgent HQのご紹介: あらゆるエージェントを、あなたのワークフローに\n\n10月末のGitHub Universe 2025で発表されたもので、実際に直後からCodex CLIが利用できる状態になっていました。\nそれが今朝（2026年1月28日）になって、Insiders環境でClaude Codeも利用できるようになりました！\n\nこれでG...",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-28-claude-code-on-agent-hq",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-28T03:17:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d6ae3c226d815e14140e8fad1cce1f10",
+    "title": "開発者が知っておくべきPostgreSQLパフォーマンス改善Tips 入門10選",
+    "summary": "対象読者\n\n最近になってAIコーディングをはじめたひと\n経験2年未満レベルのジュニアエンジニア\nほか、そのへんのレベル感の方向け\n\n\n はじめに\n「開発環境では爆速だったのに、本番データが入った途端にタイムアウトする」\nそんな「時限爆弾」を埋め込まないために、開発者が最低限知っておくべきPostgreSQLのパフォーマンス改善Tipsをまとめました。\nPostgreSQLと銘打ってますが、別にそれ...",
+    "link": "https://zenn.dev/gizmo/articles/f61b3e999a5137",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-01-27T23:00:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "459eb01d2d234c51156330fae9e7362d",
+    "title": "金融ITの最前線へ：メガバンク級インフラ構築に求められる「技術の深層」",
+    "summary": "「メガバンクのシステム」と聞いて、皆さんは何を思い浮かべますか？ 堅牢、巨大、そして何より「絶対に止まってはいけない」というプレッシャー。\n現在、金融業界ではAI（人工知能）の活用が急速に進んでおり、その裏側では最新のGPU推論基盤が、極めてセキュアな環境で構築されています...",
+    "link": "https://qiita.com/huntersai/items/6b57800563e55e1ce61b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-27T01:09:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4ffc10b4951b421dba90fa5c0ad4dd1c",
+    "title": "【VPN設備なし】WireGuardでオフィスのAIサーバー(DGX Spark ollama)を外部利用",
+    "summary": "はじめに\nGMOコネクトの永田です。\nDGX Sparkが届きました！🎉\n\nしかし、すぐに問題が…\n「オフィス外からollamaを使いたいけど、グローバルIPもVPN設備もない！」\n同じような環境の方も多いのではないでしょうか？\n今回はWireGuard + AWS EC...",
+    "link": "https://qiita.com/ntaka329/items/9d292b578278473eb052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-29T04:25:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "50480af97c0e3b2cdde8036e73d28d12",
+    "title": "生成AIを複数使い倒す！ソフトウェアのセキュリティチェックリストを爆速で作り管理する技（Nginx編）",
+    "summary": "はじめに\nGMOコネクト三浦です。\n新しいソフトウェアを導入する際、セキュリティ設定の確認（チェックリスト作成）に頭を悩ませていませんか？\n手動で一から作るのは時間がかかりますし、最新のベストプラクティスを網羅するのは至難の業です。\n本記事では、Nginxをサンプル題材と...",
+    "link": "https://qiita.com/miura0620/items/6476837c5a2e5726f172?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-29T06:59:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "619d2fe209b69dd23ec993cae99dca42",
+    "title": "Qiita AI Summit にて登壇いたしました（資料公開・事前準備編）",
+    "summary": "Qiita AI Summit\n2026年1月29日に開催された Qiita AI Summit にて、登壇の機会をいただきました。\nQiita AI Summit AI時代が訪れた今、開発組織のあり方を考える\n登壇資料はこちら\nこちらの記事では、当日の登壇資料の共有をメ...",
+    "link": "https://qiita.com/noalisa-ai/items/caf32fd2a3ebd661b732?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-29T08:09:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14b7e50431d9863117a347c5833516de",
+    "title": "AG Grid で実際にテーブル表示してみる",
+    "summary": "前回はAGGridの概要について簡単にまとめてみました。\n今回は実際に JavaScript でシンプルに導入してみたいと思います。\n\nサンプルコード\n\nHTML",
+    "link": "https://qiita.com/kaz_prg/items/4446d18f3639752b10fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-29T02:02:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c13b77b78d5494c271f0cf5ac37b3f8a",
+    "title": "LangGraphってなんだ？〜AIクリエイティブエージェント開発の最適解を完全理解〜",
+    "summary": "この記事の対象読者\n\nPythonの基本文法（関数、クラス、デコレータ）を理解している方\nLLM（大規模言語モデル）を使ったアプリ開発に興味がある方\nAIエージェントを使って複雑なクリエイティブワークフローを構築したい方\n\nこの記事で得られること\n\nLangGraphの...",
+    "link": "https://qiita.com/GeneLab_999/items/de0f30798cde767ee97e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-01-27T00:52:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1d684a5b4855206725388272ebff67e5",
+    "title": "「メモ帳」の対応で脚光を浴びるMarkdown　AI時代の“文書共有のスタンダード”になるか",
+    "summary": "Windowsの「メモ帳」が昨年6月、軽量マークアップ言語「Markdown」に対応した。これまで主に開発者の間で使われてきたMarkdownだが、標準エディタの対応で一般への普及が加速する可能性がある。文書共有の新たなデファクトスタンダードになるのか。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news056.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T06:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "09285a4cfeaf10750b59ef12f6f52a4b",
+    "title": "Tesla、「モデルS」「モデルX」生産終了　空いた工場で人型ロボ「Optimus」大量生産へ",
+    "summary": "Teslaは、旗艦EVの「モデルS」と「モデルX」の生産を今期で終了し、工場をロボット「Optimus」の量産拠点に転換すると発表した。併せてxAIへ20億ドルを出資し、AI「Grok」によるEVとロボット群の統合管理を目指すという。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news105.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T04:46:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "71c748657c8629ce3d76454b61fc42fe",
+    "title": "Microsoft、OpenAI投資評価益で純利益60％増　クラウド売上高が初の500億ドル突破",
+    "summary": "Microsoftの2025年10月～12月期日決算は、売上高が前年比17％増の812億ドル、非GAAPベースの純利益が23％増と市場予想を上回った。クラウドの売上高が初めて500億ドルを突破し、Azureも39％増と高い成長を維持。OpenAIへの投資に伴う評価益計上で、GAAPベースの純利益は60％増となった。AI需要への対応として設備投資を前年比約9割増の298億ドルに拡大し、インフラ強化を...",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news071.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T01:59:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d2afb032c218255001ab65e7cd149c0d",
+    "title": "「ゴジラ」などモノクロ名作映画をAIでカラー化　海賊版DVD販売の男に有罪判決",
+    "summary": "名作モノクロ映画を無断でカラー化した海賊版DVDを販売したとして、著作権法違反の疑いで起訴された男性に対し、大阪地方裁判所は28日、懲役1年6カ月（執行猶予3年）、罰金50万円の有罪判決を言い渡した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news069.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T01:34:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6e0fa3a5dc2cba6f1208352f0201a666",
+    "title": "Oracle、Linux版の「Oracle AI Database 26ai」正式リリース　前バージョンからそのまま移行可能",
+    "summary": "米Oracleはオンプレミス向けのLinux x86-64版「Oracle AI Database 26ai」の正式リリースを発表しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news070.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T01:31:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8dd16069dda11251c4a0dd60171e76b3",
+    "title": "Meta、2025年第4四半期は24％増収　AIインフラに最大1350億ドルの巨額投資へ",
+    "summary": "Metaの2025年10月～12月期決算は売上高24％増で市場予想を上振れた。主力の広告事業が好調だった。2026年の設備投資は最大1350億ドルと、AIインフラへ過去最大の資金を投じる方針だ。ザッカーバーグCEOは「個人向け超知能」の構築に向け、AIグラスを主軸に据え、個人の文脈を理解する次世代AI体験の提供を目指すと語った。",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news066.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-01-29T00:41:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6e25d47c5d588c8ac446917ac27446c3",
     "title": "SCIN: A new resource for representative dermatology images",
     "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
@@ -787,216 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-01-24T09:30:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7654b6d7951686ae7259072cbdb69f0",
-    "title": "Meta、10代へのAIキャラとの会話機能を停止へ　同社の全アプリで",
-    "summary": "米Metaが、AIで生成したキャラクターとの会話機能を10代のユーザーに対し提供を停止する。昨年、同社のAIチャットbotが未成年に恋愛感情をほのめかす回答をして批判を浴びた問題を受けた措置だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/26/news080.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-01-26T03:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c2d5253e28ac7e60174000d77b08f168",
-    "title": "Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方",
-    "summary": "本記事は 2026-01 時点の公式ドキュメント/リポジトリの情報を元に整理しています。Clawdbot は更新が速いので、手順や設定キーが変わっていたら公式ドキュメントを優先してください。\n\n\n はじめに（この記事でわかること）\n「Clawdbotって話題だけど、結局なにができるの？」「Mac miniを買わないとダメ？」「危なくない？」という初学者の不安を、仕組み・出来ること・安全な始め方の3...",
-    "link": "https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-25T13:00:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1a83c5247c3d46645bc431028a217eed",
-    "title": "🦞Clawdbot🦞 を AWS + Telegram で動かす",
-    "summary": "Clawdbot とは\nClawdbot は、個人が自分の環境で動かすセルフホスト型 AI アシスタント基盤です。\n\nChatGPT や Claude のような SaaS とは異なり、普段使いのチャットアプリ（Telegram / Discord / Slack / WhatsApp 等）を入口に、LLM とツール実行を組み合わせて実務タスクをこなす\n\nOSS かつセルフホストで「自分のデータ・自...",
-    "link": "https://zenn.dev/kndoshn/articles/46c673bb16aa49",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-25T12:36:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "097889001905b5b1d35a742f16f6b03c",
-    "title": "Claude Code中級者を目指す！サブエージェントの作成から実行TIPSまで！",
-    "summary": "記事のポイント\n\nサブエージェントを使って専門特化型のAIアシスタントを作成できる\nカスタムスラッシュコマンドで効率的にサブエージェントを呼び出せる\n複数エージェントをオーケストレーションして実装→レビュー→実装のサイクルの自動化ができる\n\n\n どんな人向けの記事？\n\n\nClaude Codeを日常的に使っているが、なんとなく精度が安定しない人\nサブエージェントという機能を聞いたことはあるが、いま...",
-    "link": "https://zenn.dev/saito3815/articles/claude-code-subagent-tips",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-25T10:10:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "010d46e228bbd2aa67c6fc26fd851de2",
-    "title": "Claude Code Skillsで実装からレビューまで全部自動化してみた",
-    "summary": "はじめに\n「実装したらそのままレビューもAIに任せたい」\n開発してると、コード書く→PR作る→レビュー待ち→修正→また待ち...のサイクルが地味にストレス。特に一人開発やスタートアップだと、レビュアーがいない or 忙しいことも多い。\nそこで試したのがClaude Code Skills + GitHub Actionsの組み合わせ。結論から言うと、実装からレビュー、修正までほぼ自動化できました。...",
-    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-skills-review-automation",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-25T09:07:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5103bf6cc71d9a4c7824f7d581b76e15",
-    "title": "Google Gemini CLIをGoで再実装したら60倍以上速くなった",
-    "summary": "TL;DR\n\n公式 Gemini CLI は素晴らしいが Node.js の起動オーバーヘッドが約1秒ある\nGo で再実装したら起動 0.01秒になった（68倍高速化）\n認証は公式 CLI のをそのまま流用、無料枠も Workspace 枠もそのまま使える\n\nhttps://github.com/tomohiro-owada/gmn\n\n なぜ作ったか\nGoogle の公式 Gemini CLI は...",
-    "link": "https://zenn.dev/abalol/articles/588f33425be41c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T08:38:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "827c8c4f04661d6ed23cffae6eb0f604",
-    "title": "エンジニアの仕事がAIで置き換え可能なんて悲しいこと、簡単に言わないで欲しい",
-    "summary": "!\n本記事は一般論を述べたり、他者へ思想の変化を求めたりするものではありません。あくまで自分自身が感じたことをつらつらと書いたものです。\nまた、本記事における\"エンジニア\"は\"ソフトウェアエンジニア\"と読み替えていただいた方が正確かもしれません。\n\n最近、SNSや技術記事投稿プラットフォームなどで「エンジニアの仕事がAIによってなくなる」だとか、「AIによって生成されるコードを利用することが当たり...",
-    "link": "https://zenn.dev/ispec_inc/articles/82e30345ca4b1b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T03:50:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a702f9abd2d3884bf00409384a04e8d0",
-    "title": "NotebookLM を英会話学習アプリにする拡張機能を作ってみた。",
-    "summary": "最近、Google の NotebookLM が話題ですね。資料をアップロードするだけで、AI がその内容に基づいて回答してくれる素晴らしいツールです。\n私も英語学習やドキュメントの読み込みに活用しているのですが、「もっとハンズフリーで対話したい」「英語の回答をリスニングしたい」と思うことが増えてきました。\nそこで、NotebookLM のチャット画面に音声入力、読み上げ（TTS）、さらに翻訳機能...",
-    "link": "https://zenn.dev/tcool/articles/48a2404670cfc1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T00:19:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c2b3c3c49c19da569b29a213e3af6106",
-    "title": "【2026年最新】プログラミング知識ゼロでもOK！Clawdbotで業務効率を劇的に改善する自動化ツール作成ガイド",
-    "summary": "昨日大阪で開催されていた、「大阪AI文化万博」に参加してきました！生成AIを活用した クリエイティブ作品／デモ／体験企画などの展示や、トークセッションが開催され、会場はとても盛り上がっていました。\n\nトークセッションで話題になっていたのが「Clawdbot」の可能性です...",
-    "link": "https://qiita.com/GIFCat/items/a94880a3095ef5db9d39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-25T00:58:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3a1d8059a423f8e502ad5ce9c3e456d8",
-    "title": "AIがなくても生きていける",
-    "summary": "こんにちは、座禅いぬです。\n最近、Obsidian x AIの情報商材が人気とかいうトピックが話題になってますね。ここ数か月人々の注目を集めているツールであることは確かで、僕も使い始めてまだ半年程度の初心者なのでみんなすごい使い方しているなと思いながら眺めています。やっぱ「...",
-    "link": "https://qiita.com/zazen_inu/items/7d01d7baa06bd584f6ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-25T04:47:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bbbcfdd11478eb0cfd7cf30fe1e9e407",
-    "title": "Bun.jsではじめる高速JavaScript開発ガイド",
-    "summary": "はじめに\nBun.js（以下 Bun）は、JavaScript/TypeScript を高速に実行できる新しいランタイムであり、パッケージマネージャー・バンドラ・テストランナーなどを一体化した「オールインワン開発ツール」です。\nNode.js や Deno と同じくサーバ...",
-    "link": "https://qiita.com/automation2025/items/923b442eb57cc564a3ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-24T03:14:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2bd8f50ece9d61d0bde2ecc3cc1be4fa",
-    "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
-    "summary": "皆さん、GitHub Copilot使ってますか？私は日常的に使っています。\nGitHub CopilotってほかのAIハーネスと違って、サブスクの課金体系が入出力トークン量ではなく、「プレミアムリクエスト」という謎単位で課金されます。\nこれを実はうまく利用すると、GPT-5.2-Codex xhighでがっつりレビューさせたり調査させても、最安1回4円で使えます。\n\n GitHub Copilo...",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-25T03:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4f5205e970df76c5717d27c8b40f8c85",
-    "title": "Transformerアーキテクチャの変遷 ~Attention is All You Needからgpt-ossまで~",
-    "summary": "この記事の内容\nLLMのアーキテクチャTransformerの理解のために「Attention is All You Need」を読み、ある程度理解した以上の知識を持つ読者を想定し、当初のTransformerモデルと、記事執筆時点で比較的最近の公開モデルであるgpt-ossやLlama4のようなモデルとの違いや変遷を辿り理解するためには、どこを意識すべきかを自分の視点でまとめました。\n\n Att...",
-    "link": "https://zenn.dev/sakaitomoaki/articles/edbfb63b54a966",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T07:41:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "86df9c7c3f9fa32de237e5bed1ea7ee9",
-    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その4",
-    "summary": "フルコードはgithubにあります。\n今回はここの途中から。\n\nオブジェクトのリスト\n例によってGemini CLIに書いてもらう。\nuse crate::hittable::{HitRecord, Hittable};\nuse crate::ray::Ray;\nuse s...",
-    "link": "https://qiita.com/sumikawa@github/items/cb1ae0a697cea6296b93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-23T07:35:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ee6da4af458e8ff88fa7c5ce5325e6f6",
-    "title": "スペック駆動開発  ツール分業が生んだ設計不在という問題",
-    "summary": "スペック駆動開発\n\nモダンデータスタックが壊したもの・残したもの\n\n📚 関連書籍\n\n『ゼロから触ってわかった！スペック駆動開発入門 ― SaaS is dead？AI時代のソフトウェア設計論』\n本書は、近年現場や技術コミュニティで注目を集め始めたスペック駆動開発（Spec...",
-    "link": "https://qiita.com/mellowlaunch/items/441440ef6ec6c1d31b99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-22T22:38:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7d213185d83ef257895f2a368d735d39",
-    "title": "非エンジニアにもおすすめ！Google Cloud認定「Generative AI Leader」で得られる3つの価値",
-    "summary": "はじめに\n近年、生成AI（Generative AI）はビジネスの現場で急速に普及していますが、「なんとなく使っている」レベルから一歩抜け出し、体系的に理解していることを証明できるのが、Google Cloudの認定資格「Generative AI Leader」です。\n...",
-    "link": "https://qiita.com/toshyss/items/63e2f3bc6f04f5eb5879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-22T15:08:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fb874a53d7fc13ac48e3b3e92eb110e8",
-    "title": "コーディング・エージェント Cline の Skills を試してみた",
-    "summary": "はじめに\nAnthropic が提案した Agent Skills が注目されています。\n\nAgent Skills とは、AIエージェントが特定のタスクを実行する際に必要な専門知識やワークフローを、再利用可能な形式で定義・共有する仕組みです。従来、エージェントに複雑なタ...",
-    "link": "https://qiita.com/yuji-arakawa/items/ae07d137374a767ca743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-24T10:17:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "235c2882fa9fd63f95687b8efcac37cd",
-    "title": "pip installって何してるの？",
-    "summary": "はじめに\nPythonでプログラミングをしていると、当たり前のように使っているpip installコマンド。\nこのコマンド一つで、便利なライブラリがすぐに使えるようになります。\nしかし、**結局、pipは何をどこにダウンロードして、どうやってPythonがそれを見つけて...",
-    "link": "https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-24T01:41:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "47abd9e8b0c1d2fc317a5c94bbc70c4d",
-    "title": "エンジニアのAI疲れとの付き合い方",
-    "summary": "この記事は、「AIを使えば楽になるはずなのに、なぜか前より疲れている」 と感じたことがあるエンジニアの人に向けて書いています。\n私が最初にその違和感を覚えたのは、ある日の深夜でした。\nAIに何度もプロンプトを投げ直し、出てきたコードを修正し続け、気づけば日付が変わっていました。「AIは便利なはずの道具なのに、なんで自分はこんなに消耗しているんだろう。。（泣）」\n\n「AIを使っているのに、なぜか前よ...",
-    "link": "https://zenn.dev/karamage/articles/306f0c571e0af9",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T11:56:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a8dd06f5c030842b4097934c30a7569d",
-    "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
-    "summary": "/- Fermat's Last character is T! -/\ntheorem FLT : \"Fermat\".toList.getLast! = 't' := rfl\n\n これは何？\nフェルマーの最終定理、つまり「Fermat(フェルマー)の最終文字はt」の証明です。証明の各ステップは定理証明支援系Leanによって正しさが検証されています。\n\n この記事は何？\n形式的証明があるということは...",
-    "link": "https://zenn.dev/pandaman64/articles/formalized-flt-proof",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-24T11:37:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "41beefd9bfbac2e2f58d3f04e6802524",
-    "title": "GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する",
-    "summary": "GitHub Copilot、めちゃくちゃ便利ですよね。VS Code 上で使っていることが多いのですが、コード補完はもちろん、Chat でかなりエージェント的な作業もできるようになりました。特に devcontainer のような隔離環境上で YOLO させるのに最近はハマっています。\nでも、使い込んでいくと「これ、できないの？」と思う場面が出てきます。その代表例が、決定的なワークフローを組むこ...",
-    "link": "https://zenn.dev/openjny/articles/8c98d344f78889",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-01-23T10:43:44",
     "ai_summary_done": false
   }
 ]
