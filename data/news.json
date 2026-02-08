@@ -1,5 +1,85 @@
 [
   {
+    "id": "ce2c616ffcfe2b350cdba8767d084311",
+    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
+    "summary": "「セキュリティ、ちゃんとやってる？」\nこの質問、正直めちゃくちゃ怖い。\nSQLインジェクション対策？　やってる。XSS対策？　エスケープしてる。CSRF？　トークン入れてる。\n——でも、「ちゃんと」って何だ？\nOWASPのチェックリストを上から順に潰して、ESLintのセキュリティプラグインを入れて、dependabotのアラートを処理して。やることはやっている。はずだった。\n自分のコードに自律型...",
+    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-07T21:43:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1ab7773b5aa5ee6788f16ef4e322798e",
+    "title": "AI Agent yagi を作った",
+    "summary": "はじめに\n最近 AI Agent が流行っていますが、Agent とツール、skill や identity の関係がいまいちピンと来ていませんでした。ドキュメントを読むだけでは理解が深まらないので、実際に自分で作ってみるかと手を動かしていたら、知らない間にある程度動く物が出来上がっていました。yagi という CLI チャットクライアントです。\nhttps://github.com/yagi-a...",
+    "link": "https://zenn.dev/mattn/articles/af6b456142dafe",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-07T14:18:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fe1936c2dbdd022544059e2c7a840764",
+    "title": "【ACE-Step-1.5】無料クラウド環境に音楽生成AIを構築する。｜Google Colab初学者向け",
+    "summary": "無料クラウド環境に音楽生成AIを構築する。\n前回ローカルに音楽生成AIを構築する手順を記事にしたのですが\n今回は無料のクラウド環境『Google Colab』にオープンソースの音楽生成AI『ACE-Step-1.5』を構築します。\n何もかも無料で音楽生成AIで遊べるのでお...",
+    "link": "https://qiita.com/abemaki29/items/5f43ab1b1025078f757c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-08T08:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a646115d4e722cb14d48b77d0a4f1470",
+    "title": "再分配は税か給付か？ : Pythonで学ぶ マクロ経済学入門 (32)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n税率ではなく構造を見る ― 消費税・社会保険料・再分配の国際比較 : Pythonで学ぶ マクロ経済学入門 (31)\nhttps://qiita.com/maskot1977/items/b8d...",
+    "link": "https://qiita.com/maskot1977/items/e1939ff20a6e1c6ced3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-08T15:06:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e51a01fcf9d5eb20f2cb8ea5f69e4b3",
+    "title": "2026/02/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【優勝🥇】防衛省サイバーコンテストをAIで攻略...",
+    "link": "https://qiita.com/ennagara128/items/cd170b99d3b525a0bbf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-08T02:32:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9a611ef0f5c82a6153d5c2522007fd2b",
+    "title": "AIがニュースを集めて要約してメールしてくれる仕組みを作った（Googleアラート × Gemini × GAS）",
+    "summary": "はじめに\n最近、Googleアラートを知り、情報収集に役立つのでは！？と思っています。\n\nGoogleアラート（Google Alerts）は、指定したキーワードに関する最新情報がネット上で公開・更新された際に、メールで自動通知を受け取れるGoogleの無料情報収集ツール...",
+    "link": "https://qiita.com/zzzzico/items/90cc724652075c1086f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-08T12:38:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9e164e9cbc62cfe7de02b1e8b4b4c750",
+    "title": "生成AI・LLM必須リンク集2026",
+    "summary": "意外とないので自分のメモとしている生成AIリンク集を公開\n\nChatサービス、プロンプト集、リーダーボード、情報収集のコンテンツなど\nエージェント、バイブコーディング、画像、動画、音声には私が疎いのでそこは手薄（今後頑張ります）\n\n初心者向け\n\nサイト\n...",
+    "link": "https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-08T06:35:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2c9d207eaaabcacbdbf3d29e854193ec",
+    "title": "等身大のAIドール「Emily」――長期記憶で会話を覚えて関係性を深める　“おもちゃ”とBluetoothで接続",
+    "summary": "1月初頭に開催されたテクノロジー見本市「CES」には、セックステック企業も出展していた。その1社であるLovenseが展示したのがAIコンパニオンドール「Emily」。性格や外見を自由にカスタマイズでき、AIベースによる会話機能を備える。内蔵Bluetoothで同社製セックストイも音声操作できるという。2027年出荷予定で、価格は4000～8000ドル。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/08/news021.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-08T07:00:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "f35d1e0cdf0fa8f2598609030f1056cb",
     "title": "Claude Opus4.6はどのようにPPTXを生成しているか",
     "summary": "2026年2月5日にAnthropicから新しいフラグシップモデルであるClaude Opus4.6がリリースされました。\nさまざまな新機能が搭載されていますが、その中でも特にSNSなどで注目されているのはPowerPointプレゼンテーションファイル(PPTX)を高品質に生成できる能力です。\nちょうど開発しているLLMアプリケーションにPPTX生成機能を組み込む予定があったため、Claude O...",
@@ -917,86 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-02-02T00:04:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "352d856f6a6e78dff720ddbec8d85674",
-    "title": "プロンプトで祈るのはもうやめる。Outlines/Guidance で LLM の出力を 100% 制御する技術",
-    "summary": "プロンプトで祈るのはもうやめる\n\nOutlines / Guidance で LLM の出力を 100% 制御する技術\n\nはじめに：開発現場における「お祈り」の限界\nLLMをシステムに組み込む際、私たちはいつまでプロンプトで「お祈り」を続けるのでしょうか。\n\n「以下のJ...",
-    "link": "https://qiita.com/harusato2806/items/1f73ed7d1d3e6af932a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-02T01:51:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fb831460c0ffdbcfc87490e5d1ee0e54",
-    "title": "自作RAGとチャット形式で対話するためにMemoryを使ってみた",
-    "summary": "はじめに\nChatGPT、Gemini、Copilotは過去のやり取りを踏まえて回答してくれるのでチャット形式でやり取りが可能です。\nしかし、自作のRAGシステムでは、「会話を覚える仕組み」 を自分で組み込む必要があります。\nそこで今回は、RAGでチャット形式の対話を実現...",
-    "link": "https://qiita.com/nAotO01_03/items/0298373edeb214cf2e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-01-31T23:22:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9a2f042768fca616a24bc56033a97f33",
-    "title": "VS Code × Cline × OCI GenAIで\"コピペバイブコーディングを卒業\"",
-    "summary": "0. この記事について\n私のような非プログラマだが、最近話題のバイブコーディングで何かを効率よくやりたい方のご参考になればと思います。\n逆にプログラマな方は特に読む必要すらない内容だと思います。\n\n1. ChatGPT + 手動ファイル作成が限界だった・・・\n私はChat...",
-    "link": "https://qiita.com/itokazu/items/28042d9285ffbfed9da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-02T13:56:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "62847e6ad3d6958bca90dea50d003fee",
-    "title": "Cursorで実現するContext Engineering 〜チャット運用ルール編〜",
-    "summary": "Cursor × AI駆動開発 3ステップ実践シリーズ\n\nAI駆動開発で生産性を高める3つの段階　\nCursorで実現する Vibe Coding 〜基本フロー編〜\nCursorで実現する Vibe Coding 〜10個の実践Tips編〜\n\nCursorで実現するCo...",
-    "link": "https://qiita.com/sakamoto-ryosuke/items/e2d504b37c51be33b258?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-02T06:02:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a858eb3e3bcbbda33f9405e111afc420",
-    "title": "【JavaScript】Object.keys(obj).lengthをもっと短く書きたい！ ……書きたい？",
-    "summary": "2025年11月にObject.keysLengthというproposalが提出されました。\nステージの進行に年単位の時間がかかることも珍しくないTC39において、提出された瞬間ステージ2のステータスになっていました。\nそんなにみんなが欲しがる機能なのでしょうか。\nいったい...",
-    "link": "https://qiita.com/rana_kualu/items/630e9fe09175f9a3f2e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-02T11:02:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e5cb5282720d374a592c572dd6af4385",
-    "title": "【速報】OpenAIがCodex Appを投下！Claude Code終了か？「数週間の作業を数日で」の衝撃",
-    "summary": "今すぐ読め。明日には手遅れだ。\n2026年2月2日、OpenAIが核爆弾を投下した。\nその名は「Codex App」。\nClaude Codeユーザーの皆さん、今すぐこの記事を読んでください。\nなぜなら、OpenAIが発表した内容があまりにも衝撃的だからです。\n\n「数週間...",
-    "link": "https://qiita.com/emi_ndk/items/8a01a07f0e2e80a5197b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-02T21:04:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "de8218550d92e068a403f95aa5e2766b",
-    "title": "スタンプラリー、Gemini、そして160時間のAI — あるAI推進担当の一日",
-    "summary": "前回に引き続き、Qiita AI Summit 参加当日の感想を投稿させていただきます。\n本記事では、Qiita AI Summit 当日にお話しした内容に加え、後日拝聴した広木 大地さんのご登壇を踏まえて考えたことを共有いたします。\n\n1. スタンプラリーの結果より\n前回...",
-    "link": "https://qiita.com/noalisa-ai/items/239fbb33867d72e2f203?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-03T05:48:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7e3166b6eeca83c5eddb700b2d238ed6",
-    "title": "Claude Codeを使用する上で設定したほうが良いファイル5選",
-    "summary": "Claude Codeを使用する上で設定したほうが良いファイル5選\nこんにちは。\nAIを使いこなせるようになりたいと思いつつ、なんだかんだ自分でコードを書いてしまい、なかなかAI技術が向上せずに2026年を迎えた者です。\n2026年こそはAIを使いこなせるようになりたいと...",
-    "link": "https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-03T09:28:11",
     "ai_summary_done": false
   }
 ]
