@@ -1,5 +1,205 @@
 [
   {
+    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
+    "title": "Talk like a graph: Encoding graphs for large language models",
+    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
+    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-12T21:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14147e2b87b2bd9460733296794ee39f",
+    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
+    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-11T19:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a0e6680ebb78e8ce1d32793638e17487",
+    "title": "Health-specific embedding tools for dermatology and pathology",
+    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
+    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-08T19:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "565840782e257bf5057ffdc55abd1ef5",
+    "title": "Social learning: Collaborative learning with large language models",
+    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
+    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-07T18:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "736efd35c3bae73802329487368692ad",
+    "title": "Croissant: a metadata format for ML-ready datasets",
+    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
+    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-06T18:26:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "926fb0b411cfc68cdf609a0db59ab101",
+    "title": "Google at APS 2024",
+    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
+    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-04T15:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1dc7531ce9f08c72e7abd60a01542dc7",
+    "title": "ローカルLLMの始め方とモデルサイズの選び方",
+    "summary": "はじめに\n自分のPCにLLM（大規模言語モデル）をダウンロードして動かします。\n今回は、初めてローカルLLMを試してみたい人に向けて、快適に動くモデルの選び方などについて整理しました。\n\n まずはツールを入れる\nローカルLLMは難しそうと思われがちですが、驚くほど簡単です。\n以下のツールのいずれかをインストールするだけで、すぐにAIとの対話が始められます。\n\n\nOllama（コマンドラインでサクサ...",
+    "link": "https://zenn.dev/takaha4k/articles/local-llm-mac-intro",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-11T07:57:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "38a3256b4b51015e94cfe075389b02c8",
+    "title": "【深掘り】AIだけのSNS「Moltbook」が3分でハッキングされた件について語らせてくれ",
+    "summary": "こんにちは、えびHDのえび部長です。\nいやー、今日はちょっと愚痴らせてください。マジで。\nAIエージェントだけが使えるSNS「Moltbook」ってご存知ですか？ 1月末にリリースされて、今めちゃくちゃ話題になってるんですよ。でもね、この話を調べれば調べるほど「人類、大丈夫か…？」って気持ちになってくるんです。\n\n\n Moltbookって何なの？\nMoltbookは、2026年1月28日にMatt...",
+    "link": "https://zenn.dev/ebimanager/articles/moltbook-hacking-3min",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-10T22:03:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e9abe5019d0a906ea3bc6828fd5c4dd8",
+    "title": "スタートアップの「なんとなく動いてる」インフラを、一人で体系的に整備した話",
+    "summary": "はじめに\nAI スタートアップに経験ぼちぼちある1人目のエンジニアとして参画し、本番稼働中のバックエンドサービス群の開発・運用基盤をゼロから整備した記録です。\n対象は Python（FastAPI）で書かれた3つのバックエンドサービス。いずれも AWS 上で稼働しており、ユーザー向けに本番提供されている状態でした。\nこの記事では、個別の技術的な実装手順ではなく、既存サービスの運用基盤をどう評価し、...",
+    "link": "https://zenn.dev/shigerufukada/articles/15c9a7bad299a3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-10T00:49:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "493715273e8738619fccc53bafc760b8",
+    "title": "Railsアプリにファビコン（ブラウザタブアイコン）を設定する方法",
+    "summary": "1. はじめに\n卒業制作のRailsアプリにファビコンを設定しました。\n「小さい部分だし後回しでいいかな…」と思っていたのですが、\n入れてみると一気に“それっぽさ（プロダクト感）”が増します。\nこの記事では：\n\nPNG画像から.icoを作る方法\nRailsへの組み込み方\n...",
+    "link": "https://qiita.com/Pechan/items/8d841f5241794af4cc6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T06:22:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "609b86882bd2f27d063059cfd61b68aa",
+    "title": "AI駆動開発時代にこそ『リーダブルコード』が効く理由：TypeScript実例で再確認する",
+    "summary": "AIでコードを書くのが当たり前になりました。\n実装速度は上がったのに、こんな悩みは増えていませんか？\n\nAIが途中で詰まり、結局は自分が巻き取る場面が思ったより多い\n自分が想定していた書き方と大きく違い、読む前に読み替えコストが発生する\n小さな修正でも「どこまで壊れる可能性...",
+    "link": "https://qiita.com/nogataka/items/9ad4fbc57e706b580b6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T02:01:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5bd68fbd50bb94664f6e92e01059eb0f",
+    "title": "【速報】Googleが公式ドキュメントを検索できるMCP「Developer Knowledge API」を公開！",
+    "summary": "こんにちは。\nGoogle から、公式ドキュメントを AI が直接参照できるようにする Developer Knowledge API と、それを AI エージェントで利用するための MCP サーバー が公開されました。\n本記事では、この MCP（Model Context...",
+    "link": "https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T08:53:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b60f77996feffd38939db7514de1a3bd",
+    "title": "2026/02/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【WebF】React/Vue/Svelteが...",
+    "link": "https://qiita.com/ennagara128/items/486d7d7bc087b931fd96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T01:52:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9435d371e0eee70fe4a8d50845b35791",
+    "title": "Ory（オリー）とは？ChatGPTの8億ユーザーを支えるOSSの認証基盤",
+    "summary": "はじめに\nOry（オリー） というOSSの認証基盤をご存知でしょうか？\nOpenAIがChatGPTの認証基盤として採用したことで話題になったので、ご存知の方も多そうです。\nChatGPTのユーザーは、2024年末に4億人を突破し、2025年10月には、8億人にまで倍増...",
+    "link": "https://qiita.com/smesh/items/330ad566da9d1c585d52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-11T23:07:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2e6520f6b041eb6235cd130bd305e970",
+    "title": "いきなりAIエージェントでいい。でも“運用できる”とは別。業務改善〜市民開発〜AIエージェント化を「4つのゲート」で整理する最新版",
+    "summary": "導入：いまの時代の“ズレ”を最初に言い切る\n世の中は「誰でもAIエージェントを作れる」と言う。\nこれは 技術的可能性（Capability） としては事実です。\nでも、現場で成果が出るかは別問題。必要なのは 実現性（Viability：運用・設計・ガバナンス込み）。\n\n「...",
+    "link": "https://qiita.com/Katayama_Studio/items/ff27adf53ae98b0ad1db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T06:00:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f0a572faea11c8dd082da1fa9daba32a",
+    "title": "AI駆動開発時代にこそ『リーダブルコード』が効く理由：Python実例で再確認する",
+    "summary": "AIでコードを書くのが当たり前になりました。\n実装速度は上がったのに、こんな悩みは増えていませんか？\n\nAIが途中で詰まり、結局は自分が巻き取る場面が思ったより多い\n自分が想定していた書き方と大きく違い、読む前に読み替えコストが発生する\n小さな修正でも「どこまで壊れる可能性...",
+    "link": "https://qiita.com/nogataka/items/948a8abc0e7576a28f34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-12T02:00:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0038c18b7e97ac632d1b2da5c4cc38d1",
+    "title": "Anthropic、AIによる「電気代高騰」を防止へ　インフラ増設費の100％自社負担を約束",
+    "summary": "Anthropicは、AIインフラ拡大に伴う一般家庭の電気料金高騰を防ぐため、増加コストを自社で全額負担する新方針を発表した。将来的に50GW以上の電力が必要とされる中、送電網の増設費用を100％カバーし、独自の発電設備も調達する。AI開発の加速と、一般市民の生活コスト保護の両立を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/12/news080.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-12T04:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "beb6cea48060e0228dea6d0103544c21",
+    "title": "Google広告責任者、「エージェントコマース」は2026年に実働段階に移行と語る",
+    "summary": "Googleの広告責任者は2026年の年次書簡で、AIが購買を代行する「エージェントコマース」の本格始動を宣言した。オープン標準「UCP」により「Gemini」などからの直接購入が可能になるほか、「AIモード」内への広告統合や個別割引を提示する「Direct Offers」も導入。広告は対話を通じた支援体験へと進化するとしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/12/news066.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-12T02:39:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2667e4545308acfca07d45e3ca75b984",
+    "title": "マスク氏、xAIの全社集会で組織再編や「月面電磁カタパルト」計画などを語る",
+    "summary": "イーロン・マスク氏は、SpaceX傘下となったxAIの全社集会を開催し、組織再編と新体制を発表した。創業メンバーの多くの離脱が明かされた一方、Grokや画像生成、AIによる実務代行など4つの重点分野を提示。メンフィスの拠点を100万基規模のGPUクラスターへ拡大し、宇宙空間での計算リソース確保も見据える。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/12/news056.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-12T01:28:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "28eb639356505733b29a7d7e1255b3f7",
+    "title": "ThreadsにAIでフィードを制御できる新機能「Dear Algo」",
+    "summary": "Metaは、ThreadsでAIがフィードのお勧めを調整する新機能「Dear Algo」を発表した。公開ポストに「Dear algo」に続けて希望のトピックを入力することで、表示内容をカスタマイズできる。まずは米英豪などで提供を開始。ユーザーが自身のアルゴリズムを能動的に制御できる仕組みの導入により、利便性向上を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/12/news054.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-12T00:19:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "2df65c24e00cfb307ae7046ddd875b73",
     "title": "VideoPrism: A foundational visual encoder for video understanding",
     "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
@@ -797,206 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
-    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
-    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "96decf7c5ba62f5de15cecdf33802deb",
-    "title": "3,980円のカメラでClaude Codeに「身体」を与えてみた",
-    "summary": "はじめに\nこんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近はコーディングAIの活用についての記事を色々と書いてきましたが、今回はちょっと趣向が違います。\nAIに「身体」を与える話です。\n「身体」といっても人型ロボットを作ったとかではありません。3,980円のWi-Fiカメラ1台で、Claude Codeに「目」「首」「耳」を与え、さらに長...",
-    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-06T07:08:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "058177f87e658b4e34925d17a99c4e37",
-    "title": "Claude Opus 4.6がリリース。エージェント性能とロングコンテキストが大幅進化",
-    "summary": "Anthropicが2026年2月5日にClaude Opus 4.6をリリースしました。エージェントタスクの持続力、コーディング性能、100万トークンのロングコンテキスト対応など、前モデルから大きく進化しています。この記事では公式発表の情報をもとに、何が変わったのかを整理します。\n\n Claude Opus 4.6とは\nAnthropicの公式発表によると、Claude Opus 4.6は同社の...",
-    "link": "https://zenn.dev/kei31ai/articles/20260206-claude-opus-4-6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-05T22:32:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "954d74fea680f68fe80d028a374e7b96",
-    "title": "EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）",
-    "summary": "スペインのバルセロナに住んでおり、バックエンドエンジニアとして\n2025年の10月中旬〜2月初旬にかけて転職活動を行いました。\n色々と知見が貯まったので共有したいと思います。\n\n 面接のプロセス\n面接のプロセスは\n\nLinkedInで応募、またはスカウトメッセージを受ける\n勤務地など、条件が合いそうであればHRとの面接。（面談の前に、電話で軽いスクリーニングがあったりもします）\n技術テスト(課題提...",
-    "link": "https://zenn.dev/katsulau/articles/f745af2c36a2bd",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-05T12:17:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "85412a3ea4a8baf6fea505d59b988ad1",
-    "title": "Gemini API のコストを最適化する方法",
-    "summary": "本記事では、Gemini を API で利用する際のコストを節約するための手法をまとめています。主には Vertex AI からの利用を想定していますが、多くは Google AI Studio などでも使える手法です。\n\n 背景\nGemini をはじめ多くの LLM は、入出力の Token 数に応じた従量課金モデルとなっているため、特に大規模に利用している場合はコストが気になることが多いと思い...",
-    "link": "https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-05T09:15:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e16ddbd2c3aced3f96f9a2a259e530ac",
-    "title": "Claude Codeに乗り遅れたあなたへ。Open CodeとGithub CopilotとVSCode（期間限定kimi k2.5）",
-    "summary": "はじめに\nこんにちは、Claude Codeを使ったことがない内田です。普段はVSCode&Gihtub Copilot（Claude Sonnet 4.5メイン）で開発を行っています。Kivaでは好きなAIをエンジニアに提供しており、Claude Codeが多数派です。世の中もそれが主流になりつつあると感じているのですが、Gihtub Copilot Agentを用いた開発との違いが結局よく分か...",
-    "link": "https://zenn.dev/kiva/articles/7be372e4783248",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-04T22:10:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f41bc4a35e3370acde4eb16ad2e30d5c",
-    "title": "【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味",
-    "summary": "はじめに\nRuby on Railsを勉強しはじめました。\n色々な事ができて便利だな〜なんて思っていると、こんなコードに出会います。\n  def create\n    @user = User.new(\n      name: params[:name],\n      e...",
-    "link": "https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-06T09:49:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ef46ee4a7d3844df639ed3e2b11eb6e8",
-    "title": "Claude Code Agent Teams を試す：複数AIエージェントの協調作業",
-    "summary": "はじめに\n\nClaude Code に Agent Teams という実験的機能が追加されました。複数の Claude Code インスタンスをチームとして動かす仕組みで、1つのセッションがリーダーになり、チームメイトに作業を振って結果を統合します。\n従来の Suba...",
-    "link": "https://qiita.com/nero-15/items/c12a9403a7d7673ae432?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-06T04:07:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "acae599cf74803b1226d78d0ac0fa817",
-    "title": "機密データも安全に。Python+Ollamaで16,000チケット→496観点のレビューチェックリストを自動生成",
-    "summary": "はじめに\nGMOコネクトの永田です。\n「過去3年間で15,000件以上のレビューコメントが蓄積されているけど、誰も活用できていない」\n「新人に『過去のレビュー観点を参考にして』と言っても、どこから見ればいいか分からない」\n「レビュー基準が属人化していて、レビュアーによって...",
-    "link": "https://qiita.com/ntaka329/items/5f504cb3ddf6f4faf306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-06T02:04:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0c895a8a2f6d3a6fe30f9240e6b6065e",
-    "title": "AI-DLC（AI-Driven Development Lifecycle）まとめ",
-    "summary": "本資料はAIに書かせていますが、私（人間）が気合いを入れてレビューしております。3つのソースに基づいて作成しており、AIの独自の解釈は含みません。引用元は末尾に記載しております。\n\n1. AI-DLC とは\nAI-Driven Development Lifecycle...",
-    "link": "https://qiita.com/koyakimu/items/67541ef17d7dbab3ad39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-05T07:59:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "72ad6b5c77490faba79f518c77065aa7",
-    "title": "ドキュメント → コードの流れを自動化する：AI活用 DDD 実践ガイド",
-    "summary": "はじめに：開発の中心が「コード」から「仕様」へ回帰しつつある\n近年、ChatGPT / Claude / Gemini / Cursor などの生成AIの進化によって、\nソフトウェア開発のあり方は大きく変わりつつあります。\n特に注目すべき変化は、\n「自然言語で書いた仕様を...",
-    "link": "https://qiita.com/ota-tsutomu/items/03f059d7ca616979360e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-06T03:50:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "aed558c0ba5fe5263f2c990142bbdea1",
-    "title": "CSSだけで作れる“ちょっと楽しい”モーダルウィンドウの実装と応用【初心者向けまとめ】",
-    "summary": "CSSだけで作れる“ちょっと楽しい”モーダルウィンドウの実装と応用【初心者向けまとめ】\nモーダルウィンドウは、JavaScriptが必須だと思っていませんか?\n実は CSS だけで実装できてしまいます。\n今回は、JavaScriptを一切使わず、HTML と CSS だけ...",
-    "link": "https://qiita.com/suzukielecs/items/36c4881855e231116cf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-04T02:48:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0533a42af6e45b7189113bbbea1dc171",
-    "title": "初心者でもわかる！Pythonで学ぶマクロ経済学入門 全30回 総復習",
-    "summary": "user:\n「Pythonで学ぶ マクロ経済学入門」も３０回目まで連載しました。ここでまた、これまでの内容の振り返りをしたいと思います。\n\n第1回〜第10回\nまず第1回〜第10回は、\n「初心者でもわかる！Pythonで学ぶマクロ経済学入門 全10回 総復習」\n https...",
-    "link": "https://qiita.com/maskot1977/items/b207ed52ad162393b842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-06T15:10:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "04fdb02639eb7b40f6f87fa75357ff40",
-    "title": "BigQueryの生成AI関数全部使ってみた",
-    "summary": "はじめに\nBigQueryといえばデータウェアハウス製品ですが、SQLの中で生成AIを直接使えるようになっています。\n今回は2026-02-04時点で利用できる全ての生成AI関数を使ってみました。\n使うのは簡単なのでぜひ試してみてください.\n\n準備\nAI.GENERATE...",
-    "link": "https://qiita.com/kscntt/items/207ce86a2d320584c665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-03T23:58:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a60d8564b9c64156d969edcc53576e82",
-    "title": "「ダイヤモンド半導体」でホンダと産総研が連携研究室を設立",
-    "summary": "“究極のパワー半導体”の有力候補として注目されるダイヤモンド半導体の研究開発を進めるため、本田技術研究所と産総研、およびAIST Solutionsが連携研究室を設立した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/06/news092.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-06T04:24:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f604ab88c58963619e096c2e7ff3b6ad",
-    "title": "Amazon決算、AWS成長率24％に加速　AIインフラ投資で2026年は2000億ドルの設備投資を計画",
-    "summary": "Amazonの2025年10月～12月期の決算は、売上高が前年同期比14％増の2134億ドルと好調だった。AWSの成長率は24％に再加速し、自社開発AIチップの収益も急増。一方で、2026年に30兆円規模（2000億ドル）となる巨額の設備投資計画を発表し、AI主導の長期成長に向けた大規模投資へ舵を切る姿勢を鮮明にした。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/06/news065.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-06T01:12:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88dfb095f483f772db776af07d176b77",
-    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
-    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-14T19:38:00",
     "ai_summary_done": false
   }
 ]
