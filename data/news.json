@@ -1,5 +1,215 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9b54afe11505f9fc9f92089f929c4eee",
+    "title": "Using AI to expand global access to reliable flood forecasts",
+    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
+    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T16:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "79d3230c23c9e5b25cb33012b5013f27",
+    "title": "Agent Teams＋Skillsでエージェント3体と1週間働いたら、\"自分の仕事\"が再定義された",
+    "summary": "「AIに指示を出す側」のつもりが、自分がボトルネックだった\nClaude Codeを使い始めて半年、自分は「AIを使いこなしている側」だと思っていました。プロンプトを書いて、コードを生成させて、レビューして、マージする。効率は確かに上がっていた。\nでも、ある日気づいたんです。毎回同じレビュー指摘を口頭で伝えている自分がいることに。AIに「レビューして」と頼んでも、観点がブレる。テストを書かせても、...",
+    "link": "https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-13T17:18:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "09f6119849fa2f34d66c2fd3a3cb8317",
+    "title": "Git難すぎ問題",
+    "summary": "はじめまして。新人エンジニアのshinchaniaです。\nアイドルやサンリオ、かわいいもの\nおいしいピザを食べることが好きな28歳男です。\nそんな僕ですが、約5年間異業種で働いた後、\n訓練校でJavaの基礎から技術を学び、エンジニアとしての道を進み始めました。\n自分の備忘録や難しい時に向き合ったときの内容等、色々なことをこれから書いていきます。\n初回は僕がGitを扱う際の向き合い方について書いてい...",
+    "link": "https://zenn.dev/crebo_tech/articles/73c75ab155e766",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-13T04:40:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a07b7d42cafbcc68f9aea5fc75375efa",
+    "title": "Hono on Node.js 最速レスポンス選手権",
+    "summary": "Intro\nHono は Web 標準の Request を受けて Response を返す Web フレームワークです。\nCloudflare Workers や Bun などの JavaScript ランタイムは、(request: Request) => Response 関数(以後 fetch ハンドラー)を渡してやれば、それがそのまま HTTP ハンドラーとして機能します。Hono はそ...",
+    "link": "https://zenn.dev/chot/articles/hono-node-the-fastest-adapter",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-13T00:25:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f34c8f6671c634f209f151adf869a344",
+    "title": "AI軍団で天下統一が見えたと思ったら本能寺が6つ同時に燃えてて焦ったので、偵察に出したら全員まだ城の基礎工事してた",
+    "summary": "!\nこのシリーズが初めての方はこちらから\n\nhttps://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1\nhttps://github.com/yohey-w/multi-agent-shogun\nオレのAI軍団が実務を回している間に、世の中が動いていた。\nマルチエージェント開発ツールが6つも出てきている。\nClaude Squad。Claude-...",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-sekigahara-battle",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-12T23:54:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bcee8831a08e718d5cef894ef58b746d",
+    "title": "React, Vue, Svelteの「危険なHTML挿入」と「javascript: URL」の実装を読み比べてみた",
+    "summary": "1. はじめに\n普段の開発でReactやVue、Svelteを使っていると、XSS対策は「フレームワークがよしなにやってくれるもの」という感覚があります。実際、どのフレームワークもデフォルトで自動エスケープを実装しており、基本的なXSSは防いでくれます。\nでは、その裏側で具体的に何が行われているのか、気になったことはないでしょうか。前回の記事ではLaravelのCSRF対策の内部実装を追いましたが...",
+    "link": "https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-12T14:39:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5dc426aeda4630a7478797965bb86c1c",
+    "title": "解像度が低いのに、プロンプトなど書けるわけがない。",
+    "summary": "「そのプロンプト、どうやって作ったの？」\nAIを使ってアウトプットを出していると、こう聞かれることがあります。まるで、手元に「魔法の呪文」が書かれた巻物があるかのように。\nしかし、答えはいつも相手を困惑させます。\n「プロンプト？ 作ってないよ。壁打ちして、結果が出たら、それをAIに再現させるためのプロンプトを逆生成させてるだけ」\n多くの人は、この「順序」が逆です。最初から完璧な指示書（プロンプト）...",
+    "link": "https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-12T08:59:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c936af0fd9a0aaf51d8414c8ad6abf7d",
+    "title": "AIに設計を書かせるだけで、理解負債と実装漏れが激減した話",
+    "summary": "概要\nこんにちは！PeopleX　AI面接を開発しているせりせり(@seriseri_55)です！みなさん開発組織内でのAI活用は上手くいっているでしょうか？\n先日keitaknさんによる技術負債も理解負債も生まないAIコーディング手法を読みました（めちゃくちゃためになった）。その中で「最初に実装計画をAIに立てさせる」という話が紹介されていたのですが、弊チームでも 実装前にAIにデザインドキュメ...",
+    "link": "https://zenn.dev/peoplex_blog/articles/58d1235f59f88a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-11T22:00:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "656b0affbcebba0b41e0ddaa008f4857",
+    "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】",
+    "summary": "なぜ投資分析の自動化が必要だったのか\nClaude Code Skills と yfinance を使って、株式スクリーニングからポートフォリオ管理まで投資分析を自動化するシステムを作りました。Python × バイブコーディングで、個人投資家の投資ワークフロー全体を5つ...",
+    "link": "https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T02:55:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a91bd61873497f8797b4dcc5d5610cc0",
+    "title": "【テスト】カバレッジ100%は安心していいわけじゃない",
+    "summary": "はじめに\nテストコードのレビュー基準において、\nカバレッジのパーセンテージを評価の指針にする手法、よく採用さてているんじゃないでしょうか？\nカバレッジとは、プログラムコードのどの部分がどれだけ実行されたかを示す網羅率を指します。\n「数値を追えば追うほど工数はかかりますが、...",
+    "link": "https://qiita.com/umekikazuya/items/ffea7ee083a76e4ae142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T19:48:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f856b94f1f6c9e1bc2c15a9245545b11",
+    "title": "週末アプリ開発者のための、Claude Code × iOSアプリ開発 一気通貫ガイド",
+    "summary": "この記事は何？\nAgentic AI が賑わっている中、「週末にちょろっとモバイルアプリを作ろうかな」と考えている方がいるかと思います。本記事では、Claude Code を使って Flutter 製 iOS アプリを開発し、git push するだけで実機に届く仕組み...",
+    "link": "https://qiita.com/tobaru-hideyasu/items/f9ed60b136d95960b1d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-13T15:09:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b3069d03a3d4bb752bc63a85718afcd",
+    "title": "2026/02/14 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nNoteBookLMを使ったら勉強がめちゃくち...",
+    "link": "https://qiita.com/ennagara128/items/9e79736f08e0d565f3d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-13T22:06:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f6646865712482a495fb1f0c7ca8affd",
+    "title": "AIエージェントによる次世代のブラウザ操作自動化と品質チェック自動化",
+    "summary": "はじめに\n「Agentic AI」という言葉が既に一般的になりつつあり、生成AI活用はPoCフェーズから本格的な活用フェーズへと移行が進んでいます。汎用的な領域は各社既に実践しており、ここから勝負を決めるのはどれだけ適切なユースケースを選定できるかという事になります。\n技...",
+    "link": "https://qiita.com/jw-automation/items/01b5bf344677b7e8be66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T05:44:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "64a30b80df2f042996acd5360b33fa54",
+    "title": "SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った",
+    "summary": "発端\n先日、gfxさんの自作プログラミング言語の記事を読みました。\n\nそれで自分も自作プログラミング言語作りをやってみたくなり、CodexやClaudeをしばくこと幾晩。ちょっとしたプログラミング言語とコンパイラを作って、その言語で小さなウェブサイトをデプロイするとこ...",
+    "link": "https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T06:30:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7143eecb960fa8c2c856f3d6967aa826",
+    "title": "エンジニアの行き先 — Agentic AI 時代の個人的な整理",
+    "summary": "はじめに\n最近は、Claude Code を使ってモバイルアプリを作ったり、Slack から @Claude でコード修正を飛ばしたり、歩きながら音声入力で日記を書いたりしている。気づけば「実装する」という行為そのもののスピードが、半年前、1年前とはまるで違う。\nその変化...",
+    "link": "https://qiita.com/tobaru-hideyasu/items/c1e76d18be7acd6755c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T02:25:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "132c1c57542babfab9ec5a7c580b6f83",
+    "title": "CSSだけで作れる“ちょっと楽しい”アコーディオンメニューの実装と応用【初心者向けまとめ】",
+    "summary": "CSSだけで作れる“ちょっと楽しい”アコーディオンメニューの実装と応用【初心者向けまとめ】\nサイトの見た目をコンパクトにしてくれるアコーディオンメニュー、\n実は JavaScript を使わずに実装できます。\n と  タグ、そして CS...",
+    "link": "https://qiita.com/suzukielecs/items/bcd619d613ca35a327bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-13T00:48:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "becb74384d21afb0feff1efd7966e146",
+    "title": "7年前のchromebookと現行比較",
+    "summary": "タイトル8年前ではなくて、７年前、2019年秋に購入したchromebookのお話です。\n買取査定で100円だったchromebookに新しくLinuxコンテナを28GB割り当て、podmanやobsidian使えてます。pythonはvenvを使ってpyxelやpymun...",
+    "link": "https://qiita.com/yokamak/items/4abdc01ca0eaccef54a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T01:00:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "755f3e991db9a7509ebf3654be2de971",
+    "title": "【VSCode拡張機能】Input Assistant for Claude Code v1.11.0 — 実験的機能「思考ノート」",
+    "summary": "はじめに\nVS Code拡張機能「Input Assistant for Claude Code」のv1.11.0をリリースしました。\n今回のアップデートの目玉は「思考ノート」です。ローカルLLMを使って、コーディングセッションの内容をバックグラウンドで自動要約し、プロジ...",
+    "link": "https://qiita.com/swiftwand/items/ddf3db51281ed225c15e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-13T01:02:09",
+    "ai_summary_done": false
+  },
+  {
     "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
     "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
     "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
@@ -787,216 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-02-10T03:20:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "369bddfe322287f4cd4cb8c64402f990",
-    "title": "選挙特番で超高速ロボットカメラ活用　テレ朝「BOLT」採用理由は「戦後最短→いまだかつてないスピード→BOLT」",
-    "summary": "高速カメラワークに「面白い」「音楽やスポーツ番組で使ってほしい」「酔う」など、さまざまな反響が集まっている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news068.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-10T01:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "02febc41a1bed8ca493d7c803420425f",
-    "title": "Claude CodeのSkillsで作る、AIライフマネジメント",
-    "summary": "はじめに\nこんにちは。@react_nextjs です。\nみなさんこの動画を見ましたか？\nhttps://www.youtube.com/watch?v=KHiq6nf0Jio\n私も以前、似たようなことを試みたことがあります。GitHubリポジトリで自分のタスクや目標を管理しようとしたのですが、結局続きませんでした。\n理由は明確で、管理すること自体が負担になっていたからです。\n私は顧問先や副業を複...",
-    "link": "https://zenn.dev/react_uncle/articles/840efe2fdc6963",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-09T00:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "58b8eea195da0def2f299ba90986baae",
-    "title": "Agent TeamsとHooksの統合で分かったこと",
-    "summary": "はじめに\nClaude Code v2.1.32（2026年2月5日）で、Agent Teamsがresearch previewとして利用可能になりました。環境変数 CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1 を設定すると、TeamCreateでチームを作り、TaskCreateでタスクを割り当て、複数のサブエージェントに並列でコードを書かせることができます。\n...",
-    "link": "https://zenn.dev/tarouimo/articles/9aace19fa1c271",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T22:43:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "25dc1bb3b6401e411d14a9eacb3439a7",
-    "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
-    "summary": "「このコード、セキュリティ的に大丈夫かな……」\nPRレビューのたびに、なんとなく不安になる。SQLインジェクション、XSS、CSRF——知識としては知っている。でも、自分のレビューで本当に脆弱性を潰しきれているかと聞かれたら、正直自信がない。\nそしてある日、こんなニュースが流れてきた。\n「自律型AIハッカーツール Shannon、既知の脆弱性に対して96%の成功率でexploitを自動生成」\n——...",
-    "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T13:25:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "52b43cf6abf81bafb0431d524d31fc5d",
-    "title": "ゼロから始めるContext Engineering",
-    "summary": "こんにちは！逆瀬川 (@gyakuse) です！\n今日はContext EngineeringについてなぜContext Engineeringが大事かというのを最近のAI AgentのContext構造やキャッシュ機構の働きなどを見ながらまとめていきたいと思います。\n\n Context Engineeringとは\n定義としては\n\n推論において最適な情報群をキュレートしたり維持する一連の戦略 (A...",
-    "link": "https://zenn.dev/sakasegawa/articles/65895201c59e44",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T08:18:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "923198309474cc88bdc7a659b3e25dc9",
-    "title": "Codex Appのいい感じの使い方",
-    "summary": "自分なりのCodex Appのいい感じの使い方まとめ。\nCodex Appには細かい便利機能がたくさんあるので、なんとなく使ってるだけだと損をしますね。\n\n タスクの実行\n\nすべて worktree で実行する\nプランモードを活用する。+アイコンから選べる。\n簡単な作業を除いて基本的にモデルは Extra High を使う。\nパーミションモードはFull Accessを使う。\nmainブランチをこ...",
-    "link": "https://zenn.dev/devneko/articles/8a5f6f44adf606",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T04:35:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f264daee110fc2a60d8dae5cecde218a",
-    "title": "🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと",
-    "summary": "はじめに\n\n画像からテキストを抽出する OCR には、従来型の Tesseract と、近年登場した LLM ベースの手法があります。本記事では、オープンソースのビジョン言語モデル GLM-OCR（vLLM でローカル実行）と Tesseract で同じ書籍画像群を OCR し、その違いを統計的に比較しました。\n対象は 4 冊分の書籍画像（小説・図鑑的な資料など）で、各ページを切り抜いた画像に対し...",
-    "link": "https://zenn.dev/tktomaru/articles/glm-ocr-vs-tesseract-comparison",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T01:29:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "588cb92fda3191ee2ff0460372ab8f5a",
-    "title": "Pencil × Claude Code でデザインを Pixel Perfect に再現させるまで粘った話",
-    "summary": "ちょっと UI デザインしようかなーと最近出てきたっぽい Pencil っていうやつを使ってみたんです。Figma っぽい見た目をしていて同じように編集できるんだけど違いは Pencil アプリ内で AI にプロンプト投げてデザイン自体を作らせることができるということ。\n!\n内部でローカルにインストールされてる Claude Code CLI を呼び出してるので CLAUDE.md が効いていたり...",
-    "link": "https://zenn.dev/saqoosha/articles/pencil-ai-design-with-claude-code",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-07T13:19:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "118bb9a9b488b8b3a50669ae41e34f0d",
-    "title": "# 【AI駆動開発】ソースコードから仕様書をリバースエンジニアリングする方法",
-    "summary": "【AI駆動開発】ソースコードから仕様書をリバースエンジニアリングする方法\n\nはじめに\n最近、大規模システムの引き継ぎ案件を受けました。という経緯のもと、少し前に【AI駆動開発】100ページ超のPDFをMarkdownに変換してAIに読ませる方法という記事を掲載しました。\n...",
-    "link": "https://qiita.com/enomoso_pm/items/b4855d64f50b1c24acc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-07T15:21:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fbb510a393e27476f452d16b12dc9ec1",
-    "title": "Serena MCP - AIにプロ開発者のようなコーディングをさせる「スーパーアシスタント」",
-    "summary": "はじめに\n皆さん、こんにちは！今日は、最近発見したツール「Serena MCP」について共有したいと思います。AI を使ってコーディングしている方（Claude、ChatGPT、その他のツールを問わず）なら、これは知っておく必要があるツールです。\nAI が 500 行のコ...",
-    "link": "https://qiita.com/TOMOSIA-LinhND/items/94e474823e19ee34d365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T07:46:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f076ce525833e4394c784c13ee7a5f2d",
-    "title": "AIとの会話を忘れたくない！自分専用の『カード管理アプリ』",
-    "summary": "はじめに\nChatGPTやClaudeとの会話で、その場では理解できても後で見返したい時に探せないという経験はありませんか？\n「あの時教えてもらったコードどこだっけ...」\n「重要な説明をスクショで保存したけど整理できてない...」\nそんな課題を解決するため、AIの回答を...",
-    "link": "https://qiita.com/nino2-2/items/20d36cf814e540f49a77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T09:15:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8790d93af101c6402313df43940b7a0c",
-    "title": "フロントエンドプロジェクトにおける Cursor の Rules",
-    "summary": "(日本語があまり得意ではないため、AI を使って翻訳しました。\nもし不自然な表現やご不便な点がありましたら、ご容赦いただけますと幸いです。 )\n\n目次\n\nはじめに\nCursor における Rules の概要\nよく使っている Rules\nRules の使い方とメリット\n次回の...",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/09e2dd66a93b523d9ae4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T04:37:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e6684100337c84781df39219a453657",
-    "title": "なぜ自律型 Agent は企業でそのまま使えないのか",
-    "summary": "初めに\nなぜ自律型 Agent は企業でそのまま使えないのか？\n⇒ 同じ入力で同じ出力を保証できないことが大きな壁\n最近、自律型 AI エージェント（Agent）が話題になり、\n「AI が勝手に判断して動いてくれる」\nというイメージで企業導入を検討する動きが増えています。...",
-    "link": "https://qiita.com/engchina/items/833a34efc41617a83560?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T23:33:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3c3fad40cf0f9aea3c87271143898a82",
-    "title": "2026/02/09 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nWebのしないといけないセキュリティ対策\nht...",
-    "link": "https://qiita.com/ennagara128/items/215c565375b4074442cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T23:48:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bd24102f15375bf93722a30c4201661f",
-    "title": "「ルール」か「プロンプト」か：AIを制御する2つの異なるアプローチ",
-    "summary": "最近、AIに関する議論には必ずと言っていいほど「ルール」という言葉が登場します。\n「ハルシネーション（もっともらしい嘘）を絶対に起こさない」「常に真実を述べる」「ユーザーの意図に従う」「安全でないことはしない」といった具合です。\n膨大なシステムプロンプトにこれらを詰め込み、...",
-    "link": "https://qiita.com/quan_le/items/27d7e6e5cc918ea121e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T08:04:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "793a62c16a3749c730c75cbb8861e49c",
-    "title": "「AIでSaaSは死ぬ」「SIerは終わる」は本当か？　バズる言説と、実務・監査が示す3つの現実",
-    "summary": "生成AIの進化とともに「AIによってSaaSは不要になる」「SIerは役割を終える」といった言説が話題に。しかし、実務の現場に目を向けると、状況はそう単純でもなさそうだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/09/news075.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-09T09:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ce2c616ffcfe2b350cdba8767d084311",
-    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
-    "summary": "「セキュリティ、ちゃんとやってる？」\nこの質問、正直めちゃくちゃ怖い。\nSQLインジェクション対策？　やってる。XSS対策？　エスケープしてる。CSRF？　トークン入れてる。\n——でも、「ちゃんと」って何だ？\nOWASPのチェックリストを上から順に潰して、ESLintのセキュリティプラグインを入れて、dependabotのアラートを処理して。やることはやっている。はずだった。\n自分のコードに自律型...",
-    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-07T21:43:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1ab7773b5aa5ee6788f16ef4e322798e",
-    "title": "AI Agent yagi を作った",
-    "summary": "はじめに\n最近 AI Agent が流行っていますが、Agent とツール、skill や identity の関係がいまいちピンと来ていませんでした。ドキュメントを読むだけでは理解が深まらないので、実際に自分で作ってみるかと手を動かしていたら、知らない間にある程度動く物が出来上がっていました。yagi という CLI チャットクライアントです。\nhttps://github.com/yagi-a...",
-    "link": "https://zenn.dev/mattn/articles/af6b456142dafe",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-07T14:18:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fe1936c2dbdd022544059e2c7a840764",
-    "title": "【ACE-Step-1.5】無料クラウド環境に音楽生成AIを構築する。｜Google Colab初学者向け",
-    "summary": "無料クラウド環境に音楽生成AIを構築する。\n前回ローカルに音楽生成AIを構築する手順を記事にしたのですが\n今回は無料のクラウド環境『Google Colab』にオープンソースの音楽生成AI『ACE-Step-1.5』を構築します。\n何もかも無料で音楽生成AIで遊べるのでお...",
-    "link": "https://qiita.com/abemaki29/items/5f43ab1b1025078f757c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T08:08:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a646115d4e722cb14d48b77d0a4f1470",
-    "title": "再分配は税か給付か？ : Pythonで学ぶ マクロ経済学入門 (32)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n税率ではなく構造を見る ― 消費税・社会保険料・再分配の国際比較 : Pythonで学ぶ マクロ経済学入門 (31)\nhttps://qiita.com/maskot1977/items/b8d...",
-    "link": "https://qiita.com/maskot1977/items/e1939ff20a6e1c6ced3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T15:06:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e51a01fcf9d5eb20f2cb8ea5f69e4b3",
-    "title": "2026/02/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【優勝🥇】防衛省サイバーコンテストをAIで攻略...",
-    "link": "https://qiita.com/ennagara128/items/cd170b99d3b525a0bbf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T02:32:23",
     "ai_summary_done": false
   }
 ]
