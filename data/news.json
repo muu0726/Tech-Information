@@ -1,5 +1,165 @@
 [
   {
+    "id": "7d709d35f6cfdb0c1232bfde50c44fc9",
+    "title": "Python のコンパイラを作りたい #10 - MLIR Dialect 設計と Lowering パス実装",
+    "summary": "こんにちは。前回 (#9 - MLIR の導入と最適化) では、\n\nなぜ LLVM IR 直生成をやめて MLIR に寄せたのか\nTwo Worlds (Boxed / Unboxed) の設計意図\n参照カウント最適化の全体像\n\nを中心に書きました。\n今回は MLIR ダイアレクトの実装そのものに言及します。\nテーマは次の 2 つです。:\n\nLython の MLIR Dialect 設計\n各 L...",
+    "link": "https://zenn.dev/t3tra/articles/248df893b306c8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T15:13:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "deb2ccf2fccb4b13672f6af29a91cede",
+    "title": "金融取引分析エージェント(AIとデータサイエンス)- Python & Google ADKで金融取引戦略を生成",
+    "summary": "本プロジェクトは、Zenn 主催の「第 4 回 Agentic AI Hackathon with Google Cloud」に提出する成果物である。\n今回提出するアプリケーションである、「金融取引分析エージェント(AI とデータサイエンス)」 は、Python と yfinance による金融データの取引手法検証と、Google ADK（Agent Development Kit） を用いたデー...",
+    "link": "https://zenn.dev/mmmot/articles/560829d90036dc",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T14:13:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "edc919afdd87a01f5f06267f7ad49b15",
+    "title": "Streamlit公式Skillsでベストプラクティスに沿ったアプリを瞬時に構築",
+    "summary": "はじめに\nこんにちは！データエンジニアの山口歩夢です。\nStreamlitは便利な関数を数多く提供しており、それらを組み合わせることでデータアプリケーションを手軽に開発できることが魅力のPythonライブラリです。提供されている関数を使って実装するだけで、驚くほど簡単にアプリを構築できます。\n最近では、更にClaudeなどで活用できるSkillsが公開されており、これを活用することで、今まで以上に...",
+    "link": "https://zenn.dev/datum_studio/articles/f202b8075f1b1b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T12:43:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4857b2c4d8057b800b2bc360fd3878e8",
+    "title": "AIコーディングが隆盛する一方でマネジメントが辛い件",
+    "summary": "表記の件で最近色々思うことがあり、若干ネガティブな文章を書く。自分の中のマイナスな気持ちを吐き出してすっきりして、新たな気持ちで業務に向き合っていく。\n\n はじめに\nコード生成AIの品質が最近急激に向上し、AIコーディングを導入することで、開発のリリースサイクルの短縮化や、工数削減のメリットを享受することができる。このため、開発組織にAIコーディングを導入する方向にどの組織も舵を切ることになるだろ...",
+    "link": "https://zenn.dev/hiroharu8864/articles/782ed847d52aae",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T12:07:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "835184486e6b25a8f76dfce6ee44fcb3",
+    "title": "技術発信を後回しにした私が、転職で詰んだ話。",
+    "summary": "書類選考の結果通知を開くたび、目に入るのは「お祈りメール」ばかりだった。\n当時の私は「実力が足りないから落ちるのだ」と思い込んでいた。だが今振り返ると、それは半分しか正解ではない。\n足りなかったのは実力そのものだけではなく、実力を外に伝える材料だった。\n私は新卒時代、技術発信を「すごい人がやるもの」だと思い込み、学びを残さないまま流し続けていた。\nその結果、転職で評価されるはずだった「過程」を、自...",
+    "link": "https://zenn.dev/igz0/articles/skill-without-proof",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T10:13:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b3cce656955168db1159813301ad78b3",
+    "title": "非エンジニアがClaude Codeでアプリを作って公開した全記録",
+    "summary": "自作したタスク管理アプリ「長い長いノート」\nこのアプリを、エンジニアではない人間がAIコーディングツールだけで作りました。\n私はライターです。コードを自分でゼロから書く力はないし、読めているのかも正直自信がない。そんな人間が、Claude Codeを使ってWebアプリを開発し、本番環境にデプロイして、実際にユーザーに使ってもらうところまでやりました。\nかかった期間は約4ヶ月。Claude Code...",
+    "link": "https://zenn.dev/tiaroka/articles/f6a0187b721607",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T09:00:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f362d1ee0cb1505af5ec438ea5c4e82b",
+    "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
+    "summary": "エラーが出る。ターミナルからスタックトレースをコピー。Claude に貼り付ける。返ってきた修正を手でコードに反映する。\n正直、この作業にもう飽きた。\nエラーが出た瞬間に、Claude が勝手にソースを読んで直してくれたらよくないですか？\n作りました。\nhttps://github.com/otomachiiii/DevSonar\n\n DevSonar とは\nランタイムエラーを自動キャプチャし、C...",
+    "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-13T11:12:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2ca038b621e2e059e9190eeb0712e4fe",
+    "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌",
+    "summary": "あなたが今使っているAIエージェント、本当に安全ですか？\n2026年2月、AIエージェント業界に激震が走りました。人気のパーソナルAIエージェント「OpenClaw」のスキルマーケットプレイス「ClawHub」で、341個の悪意あるスキルが発見されたのです。\nこれは全スキル...",
+    "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T08:02:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4247b122797fc401ef745095c3b0c55c",
+    "title": "Claude Code の実装から読み解く Agent Teams の設計思想",
+    "summary": "はじめに\nClaude CodeなどのAIエージェントを使い込んでいると、ある壁にぶつかる瞬間があります。\n「このタスク、1つの Agent だけでは限界があるな」と。\nたとえば、大規模なリファクタリング。アーキテクチャの調査と実装を同時に進めたい。あるいは、コードレビュ...",
+    "link": "https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T04:09:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2b32f135a2e77839c2dc58814e2f0ff2",
+    "title": "エンジニアの勉強って結局どうやれば良いの？を再度考え直してみました",
+    "summary": "はじめに\n最近は生成AIの成長が目まぐるしく、どんどん新しい技術が台頭してきています。\n私自身、この技術の荒波に食らいつくため継続的に自己研鑽を続けていますが、なかなか身についている実感が得られていません。\nそんな中、この前本屋で手に取った『アウトプット大全』という本を読...",
+    "link": "https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-14T23:58:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3203c8370a855d2a2e672cf5e8c3e814",
+    "title": "Strands Agents SDK×OpenAI互換APIでオープンウェイトモデルを使おう！",
+    "summary": "こんにちは、ふくちです。\n日本時間2026/02/11未明、東京リージョンで以下6つのオープンウェイトモデルが利用可能になりました。\n\nDeepSeek V3.2\nMiniMax M2.1\nGLM 4.7\nGLM 4.7 Flash\nKimi K2.5\nQwen3 Code...",
+    "link": "https://qiita.com/har1101/items/216997b0debe22fdd1e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T14:48:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a9605f180ecf8f06bb6bc10f66107a6c",
+    "title": "家のSwitchBotデバイスをLambdaとAmazon Bedrockで定期的に監視し自律的に操作させた",
+    "summary": "はじめに\nAmazon Bedrockの素振りをした時の記録です。\n\nAmazon Bedrockについて\n使う前は、LLMのAPIの代理人のイメージしかなかったです。API直叩きでいいじゃんって思ってました。\n使ってわかったことはそれだけでなかったです。\n特にガードレイ...",
+    "link": "https://qiita.com/kexi/items/b8926d59254b95aec8fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T08:25:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d08afc33ca640dae85683c5a034ae5d7",
+    "title": "結局 Python は遅いのか",
+    "summary": "結局 Python は遅いのか\n\nこの記事では\n\nPython を用いて幾つかの方法で定積分の近似\nC++ で近似\n比較\n\nを行います．\n\nはじめに\n「Python は遅い」，「Python で for 使うな！」 と言われることは多いですが，実際にどれくらい遅いの...",
+    "link": "https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T05:23:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9c1036d1bb8dc54a901921bf03f0c4ad",
+    "title": "文字「i」を赤くするスクリプトを作りました",
+    "summary": "スクリプトはじめました\nAtCoderのコンテスト上で、文字「i」を赤くするスクリプトを作りました。\nJavaScriptの知識は皆無で、読めばなんとなく分かるけど自力で書くのはちょっと…というどうしようもないレベルなので、作ったといってもクラス名の情報を拾ってChatG...",
+    "link": "https://qiita.com/Bigfeet/items/82a316496a968ddd1b61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T07:48:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "369bddfe322287f4cd4cb8c64402f990",
+    "title": "選挙特番で超高速ロボットカメラ活用　テレ朝「BOLT」採用理由は「戦後最短→いまだかつてないスピード→BOLT」",
+    "summary": "高速カメラワークに「面白い」「音楽やスポーツ番組で使ってほしい」「酔う」など、さまざまな反響が集まっている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news068.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-10T01:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "793a62c16a3749c730c75cbb8861e49c",
+    "title": "「AIでSaaSは死ぬ」「SIerは終わる」は本当か？　バズる言説と、実務・監査が示す3つの現実",
+    "summary": "生成AIの進化とともに「AIによってSaaSは不要になる」「SIerは役割を終える」といった言説が話題に。しかし、実務の現場に目を向けると、状況はそう単純でもなさそうだ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/09/news075.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-09T09:00:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -837,166 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2fbf2a2d450f64c2b7ae39019709c409",
-    "title": "Claude Codeがベクトル検索を採用しなくなった理由",
-    "summary": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、なぜClaude Codeがベクトル検索[1]ではなく、agentic search(Agentic RAG)を利用しているのかを簡単に解説していこうと思います。\nhttps://x.com/bcherny/status/2017824286489383315?s=20\n\nClaude Codeの初期バージョンではRAGとローカルの...",
-    "link": "https://zenn.dev/knowledgesense/articles/d015f1b810c05a",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-10T03:01:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "06f47b066dfe0cd376acc9b9caecdfcc",
-    "title": "「アンチパターン」と呼ばれるEAVを、あえて採用した話 ── 数十万件の属性、数十億件の値と向き合って",
-    "summary": "はじめに\n株式会社イエソドのCEO兼CTOの竹内(@chimerast)です。\nデータベース設計の書籍やブログを読むと、EAV（Entity-Attribute-Value）は「アンチパターン」として紹介されることが少なくありません。SQLアンチパターンの代表格として挙げられ、「やめておけ」と言われがちな設計パターンです。\nしかし、筆者はこれまで2つのBtoB SaaSプロジェクトでEAVを採用し...",
-    "link": "https://zenn.dev/yesodco/articles/f047e05bf9b656",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-09T05:30:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "473a9db32297817640eae2ffc75ac8e4",
-    "title": "codex 5.3, opus 4.6, gemini 3.0 proの画像認識能力を比べた",
-    "summary": "TL;DR\nGemini 3.0 Pro Preview、Claude Opus 4.6、GPT-5.3 Codex（Extra High）に同じ画像を説明させた。Geminiの描写が最も正確だった。\n\n プロンプト\n~/Downloads/hennagazou.jpg に写ってるものを可能な限り正確に表現してみて\n\n\n 認識結果\n\n Codex（GPT-5.3 Extra High）\n\n画像には...",
-    "link": "https://zenn.dev/simossyi/articles/f5ef8378959878",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T20:55:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "06e7e940b4730763e20662e8c5861998",
-    "title": "Gemini × NotebookLM 連携で「自分専用エージェント」を量産する：蓄積した履歴を血肉化する究極の活用術",
-    "summary": "!\n【連載】Gemini × NotebookLM で構築する最強の外部脳\n\nナレッジベース編：全チャット履歴を NotebookLM に食わせる\nエージェント活用編：蓄積した履歴から自分専用 Gem を量産する（本記事）\n\n\n\n 1. 【課題】「ただの検索」から「文脈を理解した対話」へ\n前回はデータの準備をしましたが、今回はそのデータを**4人の専門家（エージェント）**として動かし、毎日使える...",
-    "link": "https://zenn.dev/minipoisson/articles/2806b4a0865acb",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T13:41:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b2ffc4a8379150b04e980655e36c6b3b",
-    "title": "Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話",
-    "summary": "Anthropicのエンジニアリングブログに、とんでもない記事が出た。\nhttps://www.anthropic.com/engineering/building-c-compiler\nClaude 16台を並列で2週間回して、10万行のRust製Cコンパイラを作った。 費用$20,000。Linux 6.9のブートに成功。GCCのテストスイートで99%パス。DoomもFFmpegもPostgr...",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-spec-first",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-08T11:26:37",
-    "ai_summary_done": false
-  },
-  {
-    "id": "80ae8708e62701d0246ed87552c69845",
-    "title": "【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ",
-    "summary": "この手の話をもう何万回聞いたかわかりませんが、GitHubリポジトリのコミット数や頻度を見るにかなりの本気度を感じます。\nそんなわけでJavaScriptをそのままネイティブアプリにするプロジェクトのひとつ、OpenWebFがベータ版に到達したようです。\n以下は公式ブログ、...",
-    "link": "https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T11:09:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5c1193b6c2aa4c87063168d4d147fa1b",
-    "title": "ADB-S MCPサーバーを試してみた",
-    "summary": "はじめに\nOracle Autonomous AI Databaseでフルマネージド型のMCPサーバーの提供が開始され、Claude DesktopやOCI AI Agentなどのクライアントがデータベースと直接連携できるようになりました。\nOracle Autonomo...",
-    "link": "https://qiita.com/marfujim/items/dc8e0878a795b325edbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T00:29:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "98da80b41921cebae5155ae169f24f7a",
-    "title": "実機不要！「Gemini Robotics」で学ぶフィジカルAI入門①〜物体の座標を特定〜",
-    "summary": "今回は、Google DeepMind が公開したフィジカル AI 向けモデル Gemini Robotics-ER 1.5 のハンズオン手順をご紹介します。\n「フィジカル AI（Physical AI）」という言葉を耳にする機会が増えてきましたが、実際にどのように動かすの...",
-    "link": "https://qiita.com/kentaro_kawamura/items/df787a587324d418b277?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-10T03:50:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e20ef910c8080380b4f50ccb82ee7c5",
-    "title": "【Generative UI】StrandsAgents + CopilotKit 構成のAIエージェントにMCP Appsを組み込んでみる",
-    "summary": "はじめに\n2026年1月27日頃に、MCPの拡張機能として「MCP Apps」がリリースされました。\nこれにより、チャットアプリなどでAIエージェントとの対話中に、テキストベースだけではなく、動的にUIを表示することが出来るようになります。(= Generative UI...",
-    "link": "https://qiita.com/Takenoko4594/items/f93134254be48d5578da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-10T10:52:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b93f960e76674c64874bfa18619694c0",
-    "title": "【個人開発】暗記学習を「言葉探しゲーム」に変えるWebゲーム風アプリを開発しました（Rails）",
-    "summary": "はじめに\nこんにちは！MOと申します。\n未経験からのWebエンジニア転職を目指して、学習を続けております。\nこの度、プログラミングスクールRUNTEQの卒業制作として、\n言葉探しゲーム風に楽しく暗記学習できるWebアプリ「NeuroWord～仲間の言葉を見つけよう～」を開...",
-    "link": "https://qiita.com/mo_runteq65/items/c9c3e75c1aef7e036700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T02:39:45",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a79ea878c0f0fe2a06447da9dee27b55",
-    "title": "忙しい社会人のための最強勉強術【ChatGPT × Obsidian × NotebookLM】",
-    "summary": "はじめに\nこんにちは。インフラエンジニア2年目で、運用メインたまに設計構築をやらせてもらっています。まだまだ知らないことだらけで日々学習を継続しています。\n去年(2025年)にAZ-104、SOA、SAA、SAP、ANSなどのいわゆるアソシエイトからプロフェッショナルあた...",
-    "link": "https://qiita.com/Lambwool-711/items/f35a9aadc20a0200ff24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T01:40:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "70568d369b97cb62fc11ea89ef628ca6",
-    "title": "【Rails】モデルの上にDBの設計情報が出てくる？ annotateが便利なんだ",
-    "summary": "annotateとは？\nモデルの上にDBの設計情報を自動で書いてくれるGemでござる。\n\n使うとどうなる？\n\n実行前\nclass User < ApplicationRecord\nend\n\n実行後\n# == Schema Information\n#\n# Table na...",
-    "link": "https://qiita.com/metappi/items/d8d4dafec8f185a151b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T13:50:04",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f011793ffd871c6cb7e376d1c377e4f7",
-    "title": "10分で作る生成AIアプリケーション入門（GAS＆Vertex AI）",
-    "summary": "株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。\nこの記事は生成AIを組み込んだ簡単なアプリケーションの実装を、プログラミング初心者でも行えるハンズオンです。\n\nこの記事で作るもの\n英語のテックニュースレター「TLDR」を、生...",
-    "link": "https://qiita.com/take-yoda/items/f1d462ab53f7ffed240f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-10T08:00:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5082f498aad28ee26bc82cbaca42c099",
-    "title": "VBAのツール作成をCopilotに手伝ってもらってみた",
-    "summary": "概要\n今回、Excelで作りたいツールがあったので、VBAの部分をガッツリAIに頼ってみました。\nそのやり取りの実際の流れと、結果的にどうなったのかをまとめました。\n利用したAIはタイトルにもある通りCopilotです。理由は単純で、Microsoftが提供するAIだから...",
-    "link": "https://qiita.com/some_yo/items/46f2c400ce1dadb5cfcc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-09T02:38:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4459d2a69b0972b0b4872973a7538261",
-    "title": "JR東の喜勢社長、相次ぐ「運行トラブル」巡り謝罪　ドローン点検や技術人材の採用強化で対策へ",
-    "summary": "JR東日本の喜勢陽一代表取締役社長が、JR山手線や常磐線などで火災や事故による運行トラブルが相次いだことを受け、謝罪のコメントを発表した。具体的な対策も公表。今後は業務フローの見直しやドローンを活用した点検、技術系人材の採用加速によって改善を目指す。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news112.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-10T09:12:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3f28dec062070af7c8c25df9c16ba0d9",
-    "title": "日本発のAI VTuber「しずく」開発元、米VC大手a16zから資金調達",
-    "summary": "日本発のキャラクターAIスタートアップ・米Shizuku AIが、米ベンチャーキャピタル大手アンドリーセン・ホロウィッツ（a16z）からの資金調達を発表した。a16zによる日本関連の投資は初という。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news075.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-10T03:20:00",
     "ai_summary_done": false
   }
 ]
