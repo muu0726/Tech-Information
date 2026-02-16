@@ -1,5 +1,165 @@
 [
   {
+    "id": "cb3fc5315d0765083e5da36e3b2a0998",
+    "title": "複数エージェント協業で「続く健康習慣」を実現するAIコーチングアプリ「AIZAP」",
+    "summary": "!\nこちらは 第4回 Agentic AI Hackathon with Google Cloud への提出プロジェクトです\n\nhttps://youtu.be/rXbkoSsBVNQ\n「今度こそ痩せる」\n「週3回は運動する」\n「食事を改善しよう」\nこうした決意をしたことがない人は、ほとんどいないはずです。しかし、多くの人が数日〜数週間でその熱意を失ってしまいます。この現象は単なる気持ちの問題では...",
+    "link": "https://zenn.dev/heyhey1028/articles/ai_agentic_hackathon_vol4_aizap",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-15T14:50:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "49881ccb71b20cfabf995f7394215550",
+    "title": "【フィジカルAI x Gemini x MCP】相棒ロボ「Reachy」と楽しくドライブ！",
+    "summary": "〜助手席に座るのは、最高の相棒『ロボ』でした〜\n「ひとりのドライブは少し寂しい」「渋滞中の退屈をなんとかしたい」「運転中に窓から見える景色について話したい」「車内で流れている曲に一緒にノリノリでノって欲しい」……\nそんなドライバーの孤独を解消し、移動時間を最高にクリエイティブな体験に変える。\nそれが、フィジカルAIロボット「ReachyMini」を相棒にした次世代のドライブ体験です！\nGemini...",
+    "link": "https://zenn.dev/beavers_hive/articles/8d4d34d54bec1c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-15T11:09:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "347a031ec3cc9e9148ca54a98c789e44",
+    "title": "結局 Python は遅いのか",
+    "summary": "結局 Python は遅いのか\n!\nこの記事では\n\nPython を用いて幾つかの方法で定積分の近似\nC++ で近似\n比較\n\nを行います．\n\n\n はじめに\n「Python は遅い」，「Python で for 使うな！」 と言われることは多いですが，実際にどれくらい遅いのか，正直わかっていませんでした．\n個人的に，最近は処理速度が必要な場面も増え，「C++ で書くべきか…」と悩むことが多くなってき...",
+    "link": "https://zenn.dev/k2_gc/articles/a6fe00d54b1433",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-15T05:30:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "67b6bd07dd46f69dc19f916b51de2c56",
+    "title": "【RPC比較】tRPC・oRPC・Hono・Elysia 結局どれを選ぶべき？",
+    "summary": "はじめに\n最近、State of Javascript 2025が公開されました。\n中でも個人的に印象的だったのが、Backend Frameworkのセクションです。\nhttps://2025.stateofjs.com/en-US/libraries/back-end-frameworks/\nSatisfactionとInterestのランキングを見ると、Hono・tRPC・ElysiaJSと...",
+    "link": "https://zenn.dev/sc30gsw/articles/6be1b73d3db81b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-15T03:38:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1d0b2663d846469532a41722f44d115e",
+    "title": "【draw.io MCP】AIで ER 図が一瞬で生成できるようになった話 — 実際に使って検証してみた",
+    "summary": "はじめに\ndraw.ioの開発元であるJGraphから公式MCPサーバーがリリースされました。\nhttps://github.com/jgraph/drawio-mcp\nプロンプトで指示するだけでdraw.ioのダイアグラムを自動生成できます。しかも生成後はそのままdraw.io上で手動編集できるので、ちょっとした修正も簡単です。\n本記事では、Claude Desktop・Cursorへの導入手順...",
+    "link": "https://zenn.dev/aya1357/articles/12f4ede03bc32c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-14T09:00:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b5e139f347a2d278e00f2a2d4f460194",
+    "title": "AI時代だからこそ便利ツールを見直そう！",
+    "summary": "はじめに\nMacを使い始めてから、いろいろなツールを試してきました。\nその中で「これはもう手放せない！」と感じたものを、おすすめ度別にまとめてみました。\nすべて実際に日常的に使っているツールです。\n「Macを買ったけど、何を入れればいいかわからない...」という方や、\n「...",
+    "link": "https://qiita.com/kuma_3838/items/45fb6add48b8ee008b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-16T01:50:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "46f282c0f0c31d62a07cd90f4f560807",
+    "title": "数時間かかるアンケートの前処理を、AIを使って数分で終わらせるための5つの方法",
+    "summary": "アンケート分析で最も時間がかかる「前処理」\nアンケートデータは最も手に入りやすいタイプのデータの一つですが、実際に分析を始めようとすると、その前段階の「データ整形」に膨大な時間を取られてしまうという問題があります。\n例えば、列名が「Q1」「Q2」といったコード化された形式...",
+    "link": "https://qiita.com/IkuyaM/items/2ac66a726d0c8f4d780f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-16T00:22:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "da11a1c91b479e913263cb5021f25268",
+    "title": "JOAI2026参加記ーKaggle登録からたった2か月で銅メダルを取った方法ー",
+    "summary": "こんにちは。\n新米機械学習エンジニアのriver0525です。\nJOAI2026で銅メダル（上位40%）を獲得したので、記念記事を書いてみました。\n「機械学習歴たった2か月」の私がメダルを勝ち取った方法についてお伝えしますので、ぜひ最後までお付き合いください！\nなお、本記事...",
+    "link": "https://qiita.com/river0525/items/3110282ae821fc653a06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-16T01:50:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "58f602b01bd3372d33812da8556b51ce",
+    "title": "26ai RACをOCI Compute上に構築してみた",
+    "summary": "先日GAとなったLinux x86-64向けOracle AI Database 26aiの2 node RACをOCI Compute上に構築してみましたので、手順を残しておこうと思います。\nなおOCI上でサポートされるRACはBaseDBやExaDB-DなどPaaSとし...",
+    "link": "https://qiita.com/ssfujita/items/1c848cc5e3a704b23ed0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-15T23:35:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fe1bd84b77b8a88056853564fe2ef944",
+    "title": "OCI 生成AIサービスの AI Guardrails API（On-Demand Mode）を試してみた",
+    "summary": "はじめに\nOCI 生成AIサービス（Generative AI Service）に、AI Guardrails for On-Demand Mode が追加されました（2026年2月9日リリース）。これは、オンデマンドで利用できる事前トレーニング済みモデルに対して、安全性...",
+    "link": "https://qiita.com/yuji-arakawa/items/40e3281e94cef90908ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-16T05:16:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e69f97ce7a425816814eedc9a96a95e",
+    "title": "「AI移民がもっと必要」労働力としての人型ロボット、米で開発加速　2027年までに一般発売",
+    "summary": "AIを用いて機械やロボットを自律的に制御する「フィジカルAI」の開発が米国で加速している。人間に代わる「労働力」として製造業や物流、医療などさまざまな分野で活躍することに期待が高まっている。市場は急成長するとみられ、大手IT企業などが開発に力を入れる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news124.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-16T09:21:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "67b26b054541a16664349c647284442f",
+    "title": "中国、フィジカルAIの社会実装急ぐ　今年は人型ロボ「商業化元年」　販売店やレンタルも",
+    "summary": "中国は、2026年を人型ロボットの「商業化元年」と位置付けており、企業はロボットの販売店やレンタルといった新たなビジネスを次々と立ち上げている。AIを用いて機械やロボットを自律的に制御する「フィジカルAI」の社会実装で世界をリードしようと官民を挙げて対応を急いでいる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news123.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-16T09:18:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "209aea229406a8cfde69e8bf7789e2a8",
+    "title": "Anthropic、トランプ政権副首席補佐官やMicrosoftのCFOを務めクリス・リデル氏を取締役に",
+    "summary": "Anthropicは、元トランプ政権副首席補佐官のクリス・リデル氏を取締役に任命した。同氏はMicrosoftやGMの幹部を歴任し、政府技術の近代化にも携わった経歴を持つ。AIインフラ拡大や国家安全保障が重視される中、同氏の政界・財界における豊富な知見を取り入れ、公共部門との連携とガバナンス体制を強化する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news081.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-16T03:26:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1ef97fa0a638493c5a4a1d20558ef0fb",
+    "title": "確定申告きょうスタート　AIとマイナカードでもっと“ラク”に",
+    "summary": "2025年分の確定申告の受け付けが始まった。自営業や、副業などで20万円以上の収入があった人などが対象。過去1年の収支を細かく仕訳したり、チェックしていく作業は、面倒で憂鬱だが、ITの進化のおかげで少しずつラクになってきた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news072.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-16T02:39:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4459d2a69b0972b0b4872973a7538261",
+    "title": "JR東の喜勢社長、相次ぐ「運行トラブル」巡り謝罪　ドローン点検や技術人材の採用強化で対策へ",
+    "summary": "JR東日本の喜勢陽一代表取締役社長が、JR山手線や常磐線などで火災や事故による運行トラブルが相次いだことを受け、謝罪のコメントを発表した。具体的な対策も公表。今後は業務フローの見直しやドローンを活用した点検、技術系人材の採用加速によって改善を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news112.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-10T09:12:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3f28dec062070af7c8c25df9c16ba0d9",
+    "title": "日本発のAI VTuber「しずく」開発元、米VC大手a16zから資金調達",
+    "summary": "日本発のキャラクターAIスタートアップ・米Shizuku AIが、米ベンチャーキャピタル大手アンドリーセン・ホロウィッツ（a16z）からの資金調達を発表した。a16zによる日本関連の投資は初という。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news075.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-10T03:20:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "7d709d35f6cfdb0c1232bfde50c44fc9",
     "title": "Python のコンパイラを作りたい #10 - MLIR Dialect 設計と Lowering パス実装",
     "summary": "こんにちは。前回 (#9 - MLIR の導入と最適化) では、\n\nなぜ LLVM IR 直生成をやめて MLIR に寄せたのか\nTwo Worlds (Boxed / Unboxed) の設計意図\n参照カウント最適化の全体像\n\nを中心に書きました。\n今回は MLIR ダイアレクトの実装そのものに言及します。\nテーマは次の 2 つです。:\n\nLython の MLIR Dialect 設計\n各 L...",
@@ -837,166 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "74b28d51de236389592629a26f6df441",
-    "title": "AI VTuber開発日記 〜AIキャラクターの作成からOBSを用いたYouTube配信まで〜",
-    "summary": "はじめに\n\n この記事の対象者\n\nこれからAIキャラクターを作りたいと考えている\nOBS Studioの使い方やYouTube配信の方法が知りたい\n15日という限られた期間でどれくらいのことができるようになるのか知りたい\n\n\n 背景\nShizuku AIが米VC大手から大型資金調達を受けて、企業価値が約120億円になったとのことでAI VTuberに興味を持った方も多いと思う。\nこのニュースを受け...",
-    "link": "https://zenn.dev/robustonian/articles/aituber_development_start",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-11T03:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5b7c0b3d7524c23bb0c16302f9fd12ec",
-    "title": "一番の脆弱性は\"人間のコードレビュー\"だった",
-    "summary": "「LGTM 🚀」\nこのたった4文字、何回書いてきただろう。\nPRが来て、差分を見て、ロジックを追って、「まあ問題なさそうだな」でApprove。正直、金曜の夕方に来た30ファイル変更のPRに対して、全行を真剣に読んだかと聞かれたら——答えに詰まる。\nたぶん、あなたもそうだと思う。\n\n はじめに\n認証・認可、入力バリデーション、そのあたりを「ちゃんとやってるつもり」で何年もやってきた。\nでも最近、自...",
-    "link": "https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-10T09:07:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "53ca393e233d34ed57e5f437266edc01",
-    "title": "効果的なCLAUDE.mdの書き方",
-    "summary": "CLAUDE.md は、Claude Code の性能を最大限に引き出すための最も重要な設定ファイルです。しかし、「とりあえず全部書いておけばよい」というものではありません。本記事では、内部メカニズムを踏まえた効果的な書き方を解説します。\n\n CLAUDE.mdとは何か\nCLAUDE.md は、プロジェクトルートに配置する Markdown ファイルです。Claude Code はセッション開始時...",
-    "link": "https://zenn.dev/farstep/articles/how-to-write-a-great-claude-md",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-09T23:29:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b066c342ebf3789444b2a87a4eae0d3a",
-    "title": "1月の攻撃ログを集計したら静的サイトとWordPressで全然違った",
-    "summary": "この記事について\n運用している2つのサイトの1月攻撃ログを集計・比較してみました。\n\n\nサイトA: S3 + CloudFront（静的サイト）\n\nサイトB: Lightsail + WordPress\n\n結論から言うと、攻撃数が3倍多いサイトの方が安全でした。\n\n 1月の数字\n\n 全体比較\n\n\n\n指標\n静的サイト\nWordPress\n\n\n\n\n月間リクエスト\n85,195件\n26,413件\n\n\n1...",
-    "link": "https://zenn.dev/dhc4aki/articles/5a5a0a50d04c6a",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-09T22:31:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8efb2f0c47537430e81d3dfe1a7e5bbe",
-    "title": "Python開発完全ガイド: ゼロから始める基礎入門 2026",
-    "summary": "Python初学者のための体系的な基礎ガイド。環境構築から基本構文、データ構造、型ヒント、クラス、実践まで。ゼロから始めて確実にステップアップできる構成です。",
-    "link": "https://zenn.dev/gaku1234/books/python-basics-complete-guide-2026",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-09T15:35:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "39ccbbad9500c5303c680548182599f3",
-    "title": "高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話",
-    "summary": "はじめに\n僕は都内の高校に通う学生で、普段はPythonで自作ツールを作ったり、技術記事を書いたりしている。先日、学校の課題で「複数のECサイトの公開価格データを比較分析する」必要があったのだが、手動でやるには量が多すぎた。\nスクレイピングスクリプトを自作したものの、案の...",
-    "link": "https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-08T23:41:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ddcd41321454b915aae11d4b2a5ef60b",
-    "title": "「松尾研LLM講座2025応用編」メインコンペの感想をまとめてみた（2/11時点速報）",
-    "summary": "はじめに\n　噂では4000人規模で受講生がいるらしい東大松尾・岩澤研究室主催のLLM講座応用編2025のメインコンペに参加しました。コンペはメインコンペ（予選）とアドバンスドコンペ（決勝）の2トラック制で、メインコンペのスコア上位者がアドバンスドに進めるという仕組みです。...",
-    "link": "https://qiita.com/kuririrn/items/47803fffc3808c77b477?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-11T05:47:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b84e0e73d85a6c1a6c8dbf8817904908",
-    "title": "【悪用厳禁】Cloudflareを”合法的に”突破する技術。セキュリティエンジニアが「Bright Data」で最強のWAFに挑んでみた結果",
-    "summary": "はじめに：「403 Forbidden」に絶望したことはありますか？\n私たちエンジニアが、データ収集（スクレイピング）で最も恐れる敵。\nそれはCloudflareやAkamaiといった、最強のWeb Application Firewall（WAF）たちです。\n「User...",
-    "link": "https://qiita.com/harupython/items/35acc9c006ab1b09f884?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-10T00:55:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "37f537e1494f38aa8cf58037f8513c3c",
-    "title": "Strands Agentsで提供されているツールたちを紹介",
-    "summary": "はじめに\nAIエージェントを作るときに、AIエージェントに様々なtoolを持たせることがあります。リモートまたはローカルMCPサーバーを使うこともあれば、自作したtoolを使うこともあると思います。\nStrands AgentsではCommunity Built Tool...",
-    "link": "https://qiita.com/ry-harada/items/253a5f77cc7027d1d0cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-11T03:07:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "957d58977f3d8a36752a43469ccc612f",
-    "title": "Unity＋リアルタイムサーバー入門１",
-    "summary": "「Unity＋リアルタイムサーバー入門１」は、AI時代でクライアントもサーバーまで一人で作り上げるフルスタックエンジニアを目指すためのガイドです\n\n1. サーバーとクライアントの正体\nサーバー関連の経験がある方もない方も、まずは「クライアント」と「サーバー」という言葉の語源...",
-    "link": "https://qiita.com/nekoya404/items/f611f8b2db5b704d70d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-10T15:31:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d1f906deec3b80891b9082eaa679e429",
-    "title": "“世界最細”が日常を変えた　国産スマートリング「SOXAI RING 2」を約1カ月使って分かったこと",
-    "summary": "「SOXAI RING 2」を使ってみて感じたのは、幅6.7mmという“世界最細”サイズと最大14日間のバッテリー駆動時間が、単なるスペックではないということでした。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/11/news026.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-10T23:24:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
     "ai_summary_done": false
   }
 ]
