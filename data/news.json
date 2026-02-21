@@ -1,5 +1,145 @@
 [
   {
+    "id": "2b5c59416a401d5e1287934b8d9b70ab",
+    "title": "Qwen3-Swallow & GPT-OSS-Swallow",
+    "summary": "はじめに\n東京科学大学 修士2年の藤井です。\n本日(2026/02/20)、Swallow LLM Projectから、Qwen3-Swallow-v0.2、GPT-OSS-Swallow-v0.1をリリースさせていただきました。これらのモデルは、それぞれAlibaba Qwen3とOpenAI GPT-OSSから日本語、英語、数学、コード、科学分野のデータセットを用いて、継続事前学習(Conti...",
+    "link": "https://zenn.dev/tokyotech_lm/articles/fa56f10e51fd7d",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-20T09:15:19",
+    "ai_summary_done": false
+  },
+  {
+    "id": "61a0db56afb43b45fe67699567b03f82",
+    "title": "Cloudflare無料プランだけで個人サイトのセキュリティが完結した話",
+    "summary": "TL;DR\nCloudflareのアドバンテージは、次の3点です。\n\n無料プランだけでWAF・ボット対策まで揃う、セキュリティの充実度\nDNS統合だからこそ、煩雑でリスクの高い設定をワンクリックで実現\nAIクローラー対策やページ先読みなど、最新トレンドへの即応\n\n\nつい3日前にCloudflareへ移転したばかりです。構成はシンプルで、Cloudflareでドメインを取得し、GitHubリポジトリ...",
+    "link": "https://zenn.dev/yostos/articles/cloudflare-benefits",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-20T08:10:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "21733fce3981987b6ab9c3157b7c2380",
+    "title": "DSPyでドメインエキスパートに挑んだ結果、返り討ちにあった話",
+    "summary": "こんにちは！\nCOTENでAIリサーチャーをしているtakaです。COTENでは世界史データベースの構築において、AI技術をどう活かせるかを調査・検証しています。\nこの記事では、世界史データベースの構築のタスクの一つ、「歴史イベント文の正規化」でDSPyによるPromptの自動最適化を試みた際の知見を共有します。\nタイトルにある通り、結果はドメインエキスパートの知見には勝てなかったのですが、そこか...",
+    "link": "https://zenn.dev/coten/articles/8a3628b07f8fd1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-20T05:50:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "96c099b24829964409f3bbc76f2bb1fd",
+    "title": "\"世界変わる\"——非エンジニアでもできる、 Claude Code による n8n ワークフロー開発",
+    "summary": "こんにちは。 Ubie の syucream です。最近は組織開発とか生成AI社内活用とかやってます。\n「業務を一番よく知っている人が、自分で自動化できる。」 この状態を、AI の力でどう実現するか。本記事では、 Ubie が Claude Code と n8n を用いたワークフロー開発効率化・民主化による業務効率化の実例を紹介します。\n\n\n 「一番無理な仕事かも」\n社内の業務自動化ツール n8n...",
+    "link": "https://zenn.dev/ubie_dev/articles/6b23a74187766b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-20T03:49:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3a1f4c4b8b7f28a3c2fb02847a962610",
+    "title": "プロンプトインジェクション3層防御 — AIエージェント時代のセキュリティ実践",
+    "summary": "社内チャットボットが同僚に突破された日\n先日、チーム内で使うAIチャットボットを公開しました。社内のナレッジベースに接続して、業務の質問に答えてくれるシンプルなエージェントです。\n公開して数日後、ちょっとITに詳しい同僚から「これ、システムプロンプト見えちゃったよ」とSl...",
+    "link": "https://qiita.com/kenimo49/items/45e64e43fe623fcbe1dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T03:00:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d2c317b84db44255e5372769bd3423cb",
+    "title": "JOAI 2026 | 3位公式解法",
+    "summary": "第2回日本人工知能オリンピックで総合3位（選抜枠3位）をいただいた解法を振り返ります。\n\nPrivate LB: 0.6970（ベースライン: 1.1283）\n\nはしがき\n執筆に先立ちまして、昨年に引き続き、最高なコンペティションの機会を与えてくださったJOAI委員会...",
+    "link": "https://qiita.com/Element138/items/5da083ab0199996a2c1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-20T15:18:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f1b4b91665e3a3291960836c79eb472a",
+    "title": "Daily AlpacaHack 2/20 Dancing Cursorのwriteup",
+    "summary": "Daily AlpacaHackで可愛い動画が撮れたので、writeupと称して掲載することにしました。\n\nDancing Cursor\n\nTopic: Control Sequences\nAuthor: rsk0315\nカーソルが左や上に動いたらどう思う？\n\nprint-...",
+    "link": "https://qiita.com/mizore_fuyu/items/5727ed96f75a0ed29a28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T07:52:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "53a32d1d6b53906e0bcfcc86c685dd4f",
+    "title": "Dev ContainerでLaTeXの環境構築",
+    "summary": "はじめに\nはじめまして、初投稿です。\nいままでDockerというものを名前しか聞いたことがなく、なんか難しそうだと思って触ったことがなかったのですが、Dev Containerを使う環境構築が速いかつローカル環境を汚さないということで、試しにLaTeXの環境構築を行ったの...",
+    "link": "https://qiita.com/ZuyaTepo/items/cb51a844419e8c11551f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-20T12:16:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1359d701d9ed2cd00b6a8597a8e705c8",
+    "title": "2026/02/21 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nAIに「ユーザーペルソナ」を与えるだけで、UI...",
+    "link": "https://qiita.com/ennagara128/items/4ba2cbb497d1913b3fb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T02:50:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5e7eb74e07a0743ebadd9bfaeda268ee",
+    "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
+    "summary": "アイディアが枯渇したとき、ただ言葉を読むのではなく、身体で浴びるように感じたり、無意識に情報を頭へ流し込みたい。そんな思いから、言葉が画面上を流れ、降り注ぐWebアプリをAIで制作しました。\n\nhttps://koto-dama.netlify.app/\nチームや集団で思考...",
+    "link": "https://qiita.com/nakau0605/items/d6c9735ce0f7426a4fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T08:38:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bb894c45c057aa630e4502d4dad51354",
+    "title": "【革命】コンテキスト長の限界を100倍突破！「Recursive Language Models」が2026年のAI開発を変える",
+    "summary": "結論から言うと、AIが自分自身を再帰的に呼び出して超長文を処理する「Recursive Language Models（RLM）」が登場し、コンテキスト長の限界を100倍突破しました。これは2026年のパラダイムシフトです。\n\nあなたのAIエージェント、すぐに「忘れる」問題...",
+    "link": "https://qiita.com/emi_ndk/items/394a21f2a49d6b4e22a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T08:03:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5b227857a6405dd993e244c54a229afe",
+    "title": "async/awaitはなぜ生まれたのか ~ 非同期処理の歴史を辿る ~",
+    "summary": "現在42Tokyoで最後のチーム課題（Webアプリ開発）に取り組んでいて、仕事でもなんとなくasync/awaitで書いてるけど、なぜこの書き方なんだろう？、とふと疑問に思ったので、非同期処理の歴史を辿ってみました。\n\nJavaScript非同期処理の進化史：コールバックか...",
+    "link": "https://qiita.com/MoriP-K/items/c9590934c7e72638107b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T06:19:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "85bc47b2c6d62d3555a90c23f8193672",
+    "title": "結局Pythonは遅いのか？を“最小ベンチ”で決着：プロファイル→ベクトル化→Numba",
+    "summary": "forループで回すと遅い…でも「Pythonは遅い」で片付けていいのか？\nこの記事は、ダミーデータの“最小ベンチ”で どこが遅いのかをプロファイルし、NumPyベクトル化 と Numba で改善する流れを紹介します。\nGoogle Colabで実行可能な 1セル→主要結果→...",
+    "link": "https://qiita.com/Seine_A_Shintani/items/fef850878d8c89bad47a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-20T10:58:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "48641a4a92b940c3e9b13ac1c1b7f8ca",
+    "title": "Geminiに数学と電気回路を教わったら爆速だったけど、「画像の撮り方」で精度が激変した話",
+    "summary": "はじめに\n2025年、生成AIの画像認識（マルチモーダル）が大きく覚醒しました。\n高校生の僕は、数学や電気回路の勉強でわからない問題があると、スマホで写真を撮ってGeminiに投げるようになりました。Geminiは公式ヘルプでも学習ツールとしての利用が案内されている通り、...",
+    "link": "https://qiita.com/harupython/items/e2179396fb3828c26fb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-21T00:46:12",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -857,146 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-02-16T14:08:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "785fdcc7cf458f559a7cb32c9a4cbcb0",
-    "title": "MCPによるプラセボ効果：AI図表生成の「魔法」は本物か？",
-    "summary": "はじめに\n前回の記事から約2か月は経過したでしょうか。\nずっと書こうとしていたネタ？を公開できる日がやってきました。\nそうそう、最初に言っておきますが、作文にはAIの力を借りてます( ｰ`дｰ´)ｷﾘｯ\n\n背景\nここ最近、エンジニアや開発者のタイムラインで「draw.io...",
-    "link": "https://qiita.com/___nix___/items/47a4d66c82f1c419b73a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-17T12:37:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6b366ce9ee3cf2206c2e93b684999cc2",
-    "title": "アイデア出しに困ったら、Agent Skillsを使って8人の専門家とブレストしてみませんか？",
-    "summary": "アイデアが出ないこと、ありませんか\n新機能の方向性を決めなきゃいけない。社内提案の締切は明日。技術選定で候補を洗い出したい。──でも、壁打ち相手がいない。\n深夜のオフィスで一人。リモートワークの自室で一人。自分の頭だけでアイデアをひねり出す、あの時間です。\nChatGPT...",
-    "link": "https://qiita.com/nogataka/items/e49ae37c8534addd6cee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-17T07:43:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "731ad561909ec1ac8927cf4d92234853",
-    "title": "さようなら「ハモるん」──宇宙で“AI作曲”に成功した超小型人工衛星、流れ星になる",
-    "summary": "リーマンサット・プロジェクトは17日、「ハモるん」こと超小型人工衛星「RSP-03」が大気圏に再突入した模様だと公表した。SNS上ではハモるんを労う声が相次いでいる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/17/news129.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-17T11:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "121e768365250e7ffe1e833969ae899d",
-    "title": "ニトリから「AIマットレス」登場　硬さを自動調節、ストレッチも　39万9900円",
-    "summary": "ニトリは17日、エアスプリングの硬さを自動調整して寝心地を高める「AIマットレス」を発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/17/news098.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-17T04:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9770dad9d528291cf35a3fade780f9eb",
-    "title": "生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表",
-    "summary": "米Googleは、Google Cloud、Android、FirebaseなどGoogleテクノロジーの公式ドキュメントの情報を取得し、生成AIから参照できるDeveloper Knowledge APIおよびそれに対応したMCP（Model Context Protocol）サーバのパブリックプレビューを発表しました。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/17/news090.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-17T04:18:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8dbbd5cc0bb2c49c88a4a79076d466e0",
-    "title": "Appleの「ポッドキャスト」、HLS採用で動画と音声の切り替えスムーズに　クリエイターは動画広告挿入可能に",
-    "summary": "Appleは、「Apple Podcasts」（日本では「Apple Podcast」）に動画配信機能を追加した。独自規格「HLS」を活用し、音声と動画のシームレスな切り替えや、通信環境に応じた安定再生を実現。YouTube等と異なり、外部サーバを通じた自由な配信や広告挿入が可能な点が特徴だ。今春の正式リリースに向け、iOS 26.4等のβ版で提供を開始している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/17/news067.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-16T22:24:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cb3fc5315d0765083e5da36e3b2a0998",
-    "title": "複数エージェント協業で「続く健康習慣」を実現するAIコーチングアプリ「AIZAP」",
-    "summary": "!\nこちらは 第4回 Agentic AI Hackathon with Google Cloud への提出プロジェクトです\n\nhttps://youtu.be/rXbkoSsBVNQ\n「今度こそ痩せる」\n「週3回は運動する」\n「食事を改善しよう」\nこうした決意をしたことがない人は、ほとんどいないはずです。しかし、多くの人が数日〜数週間でその熱意を失ってしまいます。この現象は単なる気持ちの問題では...",
-    "link": "https://zenn.dev/heyhey1028/articles/ai_agentic_hackathon_vol4_aizap",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-15T14:50:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "49881ccb71b20cfabf995f7394215550",
-    "title": "【フィジカルAI x Gemini x MCP】相棒ロボ「Reachy」と楽しくドライブ！",
-    "summary": "〜助手席に座るのは、最高の相棒『ロボ』でした〜\n「ひとりのドライブは少し寂しい」「渋滞中の退屈をなんとかしたい」「運転中に窓から見える景色について話したい」「車内で流れている曲に一緒にノリノリでノって欲しい」……\nそんなドライバーの孤独を解消し、移動時間を最高にクリエイティブな体験に変える。\nそれが、フィジカルAIロボット「ReachyMini」を相棒にした次世代のドライブ体験です！\nGemini...",
-    "link": "https://zenn.dev/beavers_hive/articles/8d4d34d54bec1c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-15T11:09:37",
-    "ai_summary_done": false
-  },
-  {
-    "id": "347a031ec3cc9e9148ca54a98c789e44",
-    "title": "結局 Python は遅いのか",
-    "summary": "結局 Python は遅いのか\n!\nこの記事では\n\nPython を用いて幾つかの方法で定積分の近似\nC++ で近似\n比較\n\nを行います．\n\n\n はじめに\n「Python は遅い」，「Python で for 使うな！」 と言われることは多いですが，実際にどれくらい遅いのか，正直わかっていませんでした．\n個人的に，最近は処理速度が必要な場面も増え，「C++ で書くべきか…」と悩むことが多くなってき...",
-    "link": "https://zenn.dev/k2_gc/articles/a6fe00d54b1433",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-15T05:30:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67b6bd07dd46f69dc19f916b51de2c56",
-    "title": "【RPC比較】tRPC・oRPC・Hono・Elysia 結局どれを選ぶべき？",
-    "summary": "はじめに\n最近、State of Javascript 2025が公開されました。\n中でも個人的に印象的だったのが、Backend Frameworkのセクションです。\nhttps://2025.stateofjs.com/en-US/libraries/back-end-frameworks/\nSatisfactionとInterestのランキングを見ると、Hono・tRPC・ElysiaJSと...",
-    "link": "https://zenn.dev/sc30gsw/articles/6be1b73d3db81b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-15T03:38:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1d0b2663d846469532a41722f44d115e",
-    "title": "【draw.io MCP】AIで ER 図が一瞬で生成できるようになった話 — 実際に使って検証してみた",
-    "summary": "はじめに\ndraw.ioの開発元であるJGraphから公式MCPサーバーがリリースされました。\nhttps://github.com/jgraph/drawio-mcp\nプロンプトで指示するだけでdraw.ioのダイアグラムを自動生成できます。しかも生成後はそのままdraw.io上で手動編集できるので、ちょっとした修正も簡単です。\n本記事では、Claude Desktop・Cursorへの導入手順...",
-    "link": "https://zenn.dev/aya1357/articles/12f4ede03bc32c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-14T09:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b5e139f347a2d278e00f2a2d4f460194",
-    "title": "AI時代だからこそ便利ツールを見直そう！",
-    "summary": "はじめに\nMacを使い始めてから、いろいろなツールを試してきました。\nその中で「これはもう手放せない！」と感じたものを、おすすめ度別にまとめてみました。\nすべて実際に日常的に使っているツールです。\n「Macを買ったけど、何を入れればいいかわからない...」という方や、\n「...",
-    "link": "https://qiita.com/kuma_3838/items/45fb6add48b8ee008b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-16T01:50:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "46f282c0f0c31d62a07cd90f4f560807",
-    "title": "数時間かかるアンケートの前処理を、AIを使って数分で終わらせるための5つの方法",
-    "summary": "アンケート分析で最も時間がかかる「前処理」\nアンケートデータは最も手に入りやすいタイプのデータの一つですが、実際に分析を始めようとすると、その前段階の「データ整形」に膨大な時間を取られてしまうという問題があります。\n例えば、列名が「Q1」「Q2」といったコード化された形式...",
-    "link": "https://qiita.com/IkuyaM/items/2ac66a726d0c8f4d780f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-16T00:22:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "da11a1c91b479e913263cb5021f25268",
-    "title": "JOAI2026参加記ーKaggle登録からたった2か月で銅メダルを取った方法ー",
-    "summary": "こんにちは。\n新米機械学習エンジニアのriver0525です。\nJOAI2026で銅メダル（上位40%）を獲得したので、記念記事を書いてみました。\n「機械学習歴たった2か月」の私がメダルを勝ち取った方法についてお伝えしますので、ぜひ最後までお付き合いください！\nなお、本記事...",
-    "link": "https://qiita.com/river0525/items/3110282ae821fc653a06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-16T01:50:24",
     "ai_summary_done": false
   }
 ]
