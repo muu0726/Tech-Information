@@ -1,5 +1,215 @@
 [
   {
+    "id": "5dd3a2e981339099b05b849ca2dc3448",
+    "title": "拡張機能や Selenium に頼らない、LLM ネイティブなブラウザ開発入門",
+    "summary": "本記事は何？\n本記事は、Firefox フォークの Floorp を開発している大学 2 年生が、未踏 IT（2025）採択プロジェクト 「Floorp OS」 の開発で得た知見を、「拡張機能や Selenium に頼らず、ブラウザ内部に LLM 実行基盤を組み込む」 という観点で公開するために書いた記事です。文章の校正などに生成 AI を用いていますが、設計判断や実装方針は実装経験に基づいて記述...",
+    "link": "https://zenn.dev/surapunoyousei/articles/ac6af129c8ee70",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-27T06:08:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "caaa501f91c10758e427a7bb7794345e",
+    "title": "AIの時代にエンジニアとして何を磨くか",
+    "summary": "AIの時代にエンジニアとして何を磨くか\n実装はAIが進め、一次reviewもAIが行い...\n実際のところこの半年間はAIで開発し、\nそこに対して自分が修正が必要と判断した箇所は修正、\nAIにreviewさせてテスト回して...\nreviewも人間の確認はまだ必要だけれど、わりと近い将来、\nそれすら無くなるだろうと思っています。\n「 AIが当たり前になったこの時代に、エンジニアとして自分はどこをど...",
+    "link": "https://zenn.dev/airiswim/articles/78d5e95bed7be0",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-26T14:34:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4785cee367db312a6d6b3272eaad5103",
+    "title": "AIでUdonSharpをそれなりに上手く書けるSkillsを公開しました",
+    "summary": "はじめに\nAIにUdonSharpを書かせようとしたことがある人なら、たぶんわかると思います。\nあいつら、平気で List<T> を使ってくる。async/await も書いてくる。同期変数を山盛りにして、挙句の果てに、こっちが丁寧に書いたコードまで壊してくれる。\n最初は単純な好奇心でした。AIにUdonSharpを書かせたらどうなるんだろう、と。結果、「使い物にならない」が第一印象。でも、工夫を...",
+    "link": "https://zenn.dev/nayushi/articles/ai-udonsharp-agent-skills",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-26T13:31:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d5faae265dfc34a38de8b50d838be9ad",
+    "title": "仕事でObsidianをどのように使っているか",
+    "summary": "GA technologiesでソフトウェアエンジニアをしている中坂です。\n今回は日々の業務におけるPersonal Knowledge Management（PKM）について、自分が普段実践している方法を書いてみます。最近はLLMと組み合わせることで通常業務でも活躍しており、自分にとってはすでに第二の脳として十分機能していることを実感しています。\n\n 前提\nもう気づけばアラフォーなのでワーキング...",
+    "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-26T13:16:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "72a3f658bf638054d06ef9bbd669d02c",
+    "title": "git-wtとbareリポジトリの組み合わせがClaudeCodeに馴染む",
+    "summary": "要約\n\nClaudeCodeなどを使う際にgit worktreeを使って、1つのリポジトリで並列稼働させたいことがある\nworktreeのディレクトリがリポジトリから遠いと、ちょっと使いにくい\n\nworktreeとリポジトリの2つの管理が発生する\n\n\nリポジトリの中にworktreeを切ると、とても近くて良い\nそれをサポートしてくれるgit-wtはとても素晴らしい\n\nhttps://github...",
+    "link": "https://zenn.dev/maruloop/articles/acdd949906a4d7",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-26T10:35:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "432593b1f90d0c4be391b069919b1217",
+    "title": "Qwen3.5-27B-Q4 をローカルで動かしてみた",
+    "summary": "Qwen3.5の27Bをローカルで動かしてみた\n最近32GBメモリのM2のMacBook Proを買ったので、ローカルLLMを動かしてみようと思い、数日前にリリースされたQwen3.5を動かしてみました。\nローカルLLM自体あまり触ったことがなかったので、ダウンロードして実行してみただけの記録です。Claude Codeに手伝ってもらいながらやりました。\n\n 環境\n\nMacBook Pro（App...",
+    "link": "https://zenn.dev/monjofight/articles/a70692fb752603",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-25T15:21:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b37d4891ebb398724abddc1f07e9c1da",
+    "title": "git worktreeを使用した開発の個人的詰まりポイント",
+    "summary": "1. はじめに\n実装タスクをAIに投げている間、別のタスクを進めたいというニーズがあります。\nしかし、そのたびにブランチを切り替えるのは不便です。\nそこで便利なのが git worktree です。\ngit worktree は、ブランチを切り替えるのではなく、別ディレク...",
+    "link": "https://qiita.com/I635230/items/c23d334cc5adb9e8efd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T03:14:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9c570168fb36286002d371a6c9bead20",
+    "title": "NotionでMermaidを書くテクニック",
+    "summary": "はじめに\nNotionのページではMermaidをコードブロックとして記述でき、フローチャートやシーケンス図、構成図などをページ内にそのまま埋め込めます。\n本記事では、Notion上でMermaidを扱う際に押さえておきたいポイントやテクニックを、いくつかピックアップして...",
+    "link": "https://qiita.com/b-mente/items/d2bd94f3dafd7ace1014?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T06:06:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c33ce92f70acbe8dd8e3a61bea003fbe",
+    "title": "ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜",
+    "summary": "この記事の対象読者\n\nOllamaやLM StudioでローカルLLMを動かしている方\n「ローカルで動かしてるから脆弱性は関係ないでしょ？」と思っている方\nセキュリティ対策が必要かどうか判断したいエンジニアの方\n\nこの記事で得られること\n\nローカルLLM基盤を狙う主...",
+    "link": "https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-26T00:52:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3bdade67a73d5184ce06b0cc54b25788",
+    "title": "提案スライドに10枚の挿絵を自動生成 — Claude Code × Gemini画像生成【プロンプト全文公開】",
+    "summary": "はじめに\nGMOコネクトの永田です。\n前回の記事で書いた通り、Claude Codeを使って提案スライドのドラフトを自動生成するワークフローを構築しました。\n\nアーキテクチャ図は別途作成が必要（次回、Google AI Studio連携にチャレンジ予定）\n\nClau...",
+    "link": "https://qiita.com/ntaka329/items/32ef2c0b27878f083c85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T00:59:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e6512187f0ce576d29494bc0fe9ecfa",
+    "title": "Isolation Forestを使ってみた",
+    "summary": "はじめに\n異常検知モデルのIsolation Forestを触ってみたので、Isolation Forestの大まかな仕組みとPythonで分析した流れを説明します。\n\n異常検知とは\n異常検知は、データの中から正常なパターンと異なる異常なデータを識別する技術です。検知した...",
+    "link": "https://qiita.com/ssc-karasawa/items/5facca343fc873b8ab4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T01:26:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1f7a0d06c81dd093258dec1254b1dd3d",
+    "title": "Oracle AI DB 26aiが高精度EmbeddingモデルのONNXインポートに対応したので試してみた (23.26.1 新機能)",
+    "summary": "Oracle AI Database 26aiは RU23.4 の頃から、ONNXフォーマットでエクスポートされた埋め込みモデルのインポート機能を提供してきました。\n本機能により、埋め込みモデルを提供する外部サービスを使わずとも、DB内でベクトル化ができます。\n主にクラウド...",
+    "link": "https://qiita.com/ssfujita/items/bc5860e558acef135a22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-26T23:19:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "03ed9add8aa952936d3bbb26233f4a5c",
+    "title": "Nano Banana 2が出たらしいので、ここ1年のAIスライド生成を振り返ってみる",
+    "summary": "こんにちは！ひさふるです。\n日本時間の2026年2月27日(金)の0時ごろ、Gemini上でNano Banana 2なるモデルが呼び出されるようになったという報告をみかけました。\n\n今回はこのNano Banana 2を使ってみた感想を共有すると共に、せっかくなのでこ...",
+    "link": "https://qiita.com/kyuko/items/b63b603aaf9ba1e93e18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-26T18:31:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f5d107215514470eaeb9fd8affa889c8",
+    "title": "【登壇レポート】「おとうさん、AIが発達したらクビじゃない？」──47歳、生涯エンジニア宣言。 / Developers Summit 2026",
+    "summary": "はじめに\n2026年2月18日〜20日、有明セントラルタワーホール&カンファレンスで開催された Developers Summit 2026（デブサミ2026） に登壇しました。今年のテーマは 「Beyond the Code」。コードの先にあるもの――技術だけでなく、...",
+    "link": "https://qiita.com/y-morimatsu/items/7a7fe23b4832a395e3c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T02:58:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8b8f7408361b87bc969dd86d73af1b7b",
+    "title": "AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話",
+    "summary": "はじめに\n前回の記事では、n8n を MCP サーバーとして OpenClaw に統合し、ワークフロー自動化の基盤を作りました。記事の最後に「今後の展望」としてこう書きました:\n\nセキュリティアラート自動トリアージ: Sysdig アラート → 情報収集 → 重大度判定 ...",
+    "link": "https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-27T14:01:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bb2dacec2d1e8e83a5ac985ef5ec1e57",
+    "title": "完全ローカルで動くRAGチャットBotをバイブコーディングだけで作ってみた 〜Claude Opus 4.6 vs 4.5比較もやってみた〜",
+    "summary": "はじめに\n最近話題のバイブコーディング（Vibe Coding）をご存知でしょうか？\n従来のプログラミングでは、開発者がコードを一行一行書いていました。\nバイブコーディングでは、AIに自然言語で「こういうアプリを作って」と指示するだけで、AIがコードを生成してくれます。\n...",
+    "link": "https://qiita.com/yamada_tarou/items/bedf6972bdf30a52359e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-25T05:23:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2aea8fc3a0a89da2f1971ce8eab7fe32",
+    "title": "「18歳未満の画像をAIで性的加工」2025年に114件　被害者は中高生が9割　警察庁",
+    "summary": "警察庁が、2025年に発生した少年非行や子どもの性被害に関するレポートを公開した。生成AIやそうと思しきツールを悪用して18歳未満の性的画像を作成・加工した事案についても公表。警察が把握している事案は計114件で、被害者は9割が中高生、加害者は約6割が同級生や同じ学校の生徒だった。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-27T10:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5e3bd89cb1686181fe8264ba73e7c873",
+    "title": "日本語入力の老舗「ATOK」の生成AI新機能を試す　無料IMEが充実するなか、実質値上げに見合うのか",
+    "summary": "老舗日本語入力ソフトATOKが2026年2月、新バージョンVer.36を投入した。目玉は生成AIを活用した文書補助ツール「ATOK MiRA」で、ビジネス文書のトーンを自動で書き換えてくれる。一方でプランは事実上の値上げとなった月額660円のプレミアム一本化。無料のAI対応IMEが台頭するなか、ATOKの新機能はその価格に見合う価値を示せるのか。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news125.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-27T07:30:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1952fcfdcc3c517bac89189b3be8f62e",
+    "title": "AnthropicのCEO、米国防総省のAI規制撤廃要求を拒否　「自律型兵器への転用」を懸念",
+    "summary": "AnthropicのアモデイCEOは、米国防総省によるAIセーフガード撤廃要求を拒否する声明を出した。大規模監視や完全自律型兵器への悪用を懸念しており、軍からの契約解除や国防生産法発動の警告を受けても姿勢を崩していない。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news098.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-27T03:04:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "48c6ee7d0a9cb6beffa9cf017e680a1d",
+    "title": "AWS、サブエージェントごとにフロントエンド／バックエンド担当を任せられる「Kiro 0.9」リリース",
+    "summary": "米Amazon Web Servicesは、同社が提供するAIコードエディタの新バージョン「Kiro 0.9」のリリースを発表しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news086.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-27T01:52:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "80085d921452a2180bcef4069d4d9544",
+    "title": "香川県の廃校がAIデータセンターに　NVIDIA「A4000」「H100」など設置へ　GPUクラウドのハイレゾ",
+    "summary": "GPUクラウド事業を手掛けるハイレゾ（東京都新宿区）が、3月3日に香川県綾歌郡の廃校を転用したデータセンターを開所する。既存施設を改装して使うことで建設費や工期を抑え、低廉なサービス提供につなげる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news084.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-27T01:35:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -787,216 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d6d1b7239a4623f2ae290f40238637ae",
-    "title": "AI、今そんな一生懸命キャッチアップしなくてもいいのよね",
-    "summary": "きっかけ\nhttps://uiuret.hatenablog.com/entry/2026/02/22/024509\nこれがバズっていたり、色んな理由でAIが話題になって界隈がピリつき\n\nSNSを見ていると誰もがすべてのことをAIに結びつけて語ろうとしている。一歩引いて見ると、明らかにバランスを欠いた意見がほとんどになっている。\n\nなどと言われているので、バランスを欠いていない意見を投下しようと思...",
-    "link": "https://zenn.dev/tesla/articles/27e0834d429c66",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-23T00:55:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a1d44a6434cfa31a3ad8db93f65720e0",
-    "title": "【ハッカソンでClean Architecture】4人対戦ババ抜きWebSocketサーバーの設計と7つのこだわり",
-    "summary": "はじめに\n2026年2月21-22日に AWS Startup Loft Tokyo で開催された Progateハッカソン powered by AWS に参加しました。学生エンジニア向けの2日間ハッカソンです。\nチームで作ったのは 「ババ抜きに、革命を！」 — 4人オンライン対戦のババ抜きに、テーマルーレットとAI画像生成を組み合わせたゲームです。(ババ抜きに革命はないのがポイントです)\nht...",
-    "link": "https://zenn.dev/teba_eleven/articles/1765035114d00b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-22T14:43:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3f6fbfaad4cfed6397179e4b853a0c47",
-    "title": "コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ",
-    "summary": "はじめに\nコーディングエージェントのデモは魔法のように見えます。しかし、実際のコードベースに向けると：\n\nコンテキストウィンドウがすぐに埋まる\n古いコードに対してハルシネーションが起きる\n処理が遅すぎて、grepした方が早い\n\n大規模なRust/Python/TSリポジトリでAIワークフローを構築する中でこの壁にぶつかったので、自分のスタックに本当に欲しかったものを作りました：ASTベースの超軽量...",
-    "link": "https://zenn.dev/badmonster/articles/92338955317115",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-22T04:22:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fd062d8d373323c8334adbc68a3268f8",
-    "title": "devcontainer + git worktree で並列開発するぞ！",
-    "summary": "AI エージェントと git worktree を組み合わせた並列開発の話題を X でよく見かけるようになりました。ブランチごとにエージェントを走らせて、同時に複数の機能を開発する。魅力的なワークフローです。でも、devcontainer を使っている自分が気になっていたのが、「みんな、ポートのコンフリクトとかデータベースの管理ってどうしてるの？」 ということでした。\n!\nこの記事では、devco...",
-    "link": "https://zenn.dev/kenfdev/articles/222fe622d42f0d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-22T00:52:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "815d158a1b62608c0daba2b426941fb4",
-    "title": "Pythonの__init__.pyはなぜ必要なのか？importの安定化・API設計・pytestとの関係",
-    "summary": "概要\nPythonの開発をする中で、__init__.pyを何のためのファイルなのか、どこに配置すべきなのかが分からなかったので調べてみました。\n結論は、\n\n基本的に全てのパッケージディレクトリに__init__.pyを置くべき\nWebアプリ開発の場合、namespace packageが必要なケースはほぼ無い\n\n__init__.pyはアクセス制御ではなく、API設計\n大規模開発・チーム開発では...",
-    "link": "https://zenn.dev/headwaters/articles/b6573a66d5749b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-22T00:41:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7d2d1e89636fa7d4376a871974271c67",
-    "title": "確定申告を自動化する Agent Skill \"shinkoku\" を OSS にした",
-    "summary": "確定申告、めんどくさくないですか？\n年に1回しかやらないから毎年やり方を忘れる。レシートの山を前にしてうんざりする。帳簿をつけて、決算書を作って、税額を計算して、申告書を提出する――気が遠くなるほど長い道のりです。個人事業主やフリーランスの方なら、この苦しみに共感してもらえると思います。\n「もう全部 AI にやらせたい」。そう思って作ったのが、確定申告を自動化する Agent Skill「shin...",
-    "link": "https://zenn.dev/kazukinagata/articles/83fe82191db01b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-21T22:37:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "397d8c9f7bf6ebd013202d652a9003e0",
-    "title": "この先生きのこるには",
-    "summary": "こういった、昨今のLLM事情を憂いる記事は親の顔より見ているが、やはり書かずにはいられなかった。\n一点言い訳をしておくと、私は普段からLLMを使いまくっている。LLMを使っている人を批判したい意図は無い。\nこの記事を読んで、今一度LLMの使い方を俯瞰して見てもらえたら嬉しい。\n\n\n LLM とわたし\n\n これでいいんだっけ？\nもともと自分はコーディングが好きだった。面倒なことも多かったが、目的達成...",
-    "link": "https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-21T13:38:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "caa8fce7b9f19d954746e71d6cd8f93e",
-    "title": "AIの使い方は教えない — 生成AI時代に本当に必要な思考力",
-    "summary": "21年のIT現場経験を持つAIメンタリストが、生成AIを使いこなすために本当に必要な能力を体系化。プロンプトのコツではなく「自分の頭の中を言葉にする力」こそが全ての根幹であることを、メンタリングの現場、コンテキストエンジニアリング、認知科学の知見から解き明かす。",
-    "link": "https://zenn.dev/shio_shoppaize/books/ai-mentoring-thinking",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-21T09:15:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7852df392e214e32227c72f013e49afd",
-    "title": "OpenClaw チートシート｜これだけ覚えればOKなコマンド・設定・ワークフロー集",
-    "summary": "OpenClawを使い始めた人・使いこなしたい人向けのチートシートです。この記事をブックマークしておけば、必要なときにさっと参照できます。\n\n🚀 インストール\n# ワンライナーインストール（推奨）\ncurl -fsSL https://openclaw.ai/install...",
-    "link": "https://qiita.com/akira_papa_AI/items/f3d52c314329127b3bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T02:39:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c433ee081bc4d5efbbc6d33cf991a639",
-    "title": "JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件",
-    "summary": "ということを書いた手前、async/awaitの歴史について書いておかないといけない気がした。\nなお補足しておきますと、元ネタの記事はJavaScriptの async/await の歴史についていえば、間違ってないと思います。\n\nただ、 async/awaitは...",
-    "link": "https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-22T21:07:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "30edb4c79e89093b5889587970ca7280",
-    "title": "Claude Agent SDKとは何か — 初心者向け完全ガイド【Python/TypeScript対応】",
-    "summary": "Claude Agent SDKは、Claudeに「手足」を与えるライブラリです。ファイルの読み書き、コマンド実行、Web検索などをClaudeが自律的に行えるようになります。\nこのSDKを使うと、自律的に動くAIエージェントを驚くほど短いコードで作れます。ツール呼び出しの...",
-    "link": "https://qiita.com/nogataka/items/07c0b334a419c944cbf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T02:21:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f4e8e88a9b01cb73d0095c742d1febe9",
-    "title": "LangChainについて",
-    "summary": "LangChainとは\n\nChatGPTなどの大規模言語モデルの機能拡張を効率的に実装するためのライブラリです。\n\nLangChainの６つの機能\n\nModel I/O:OpenAIをはじめとした様々な言語モデル・チャットモデル・エンべディングモデルを切り替えたり、組み...",
-    "link": "https://qiita.com/sea_news_yass/items/85e4892f300e0c096459?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-21T11:03:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "41ba97173ad375b36173fd9419c03497",
-    "title": "2026/02/23 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n製造業のための統計学・機械学習\nhttps:/...",
-    "link": "https://qiita.com/ennagara128/items/0fd3bace4d53b9b3b698?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-22T23:03:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a2eadf428db05d10e41d690f1485afdc",
-    "title": "AWS Bedrock × LambdaでRAGパイプラインを2日で実装してみた話 with Gemini CLI",
-    "summary": "今回、【2026年１発目】Progateハッカソン powered by AWSに初参加しました！\n\nその時の経験を踏まえて、Gemini CLIを使用したAWS Bedrock × LambdaによるRAGパイプライン開発を2日で実装した話を記事に書きました！\n\n...",
-    "link": "https://qiita.com/rikum0730/items/a145802b210b965badac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T12:01:45",
-    "ai_summary_done": false
-  },
-  {
-    "id": "365967734bda952e880a8aafbd688743",
-    "title": "【初心者】JRubyによるJavaFX(FXML)アプリの基本",
-    "summary": "動機\n今どき、JavaやRubyでGUIのデスクトップアプリを作りたいという人は少ないかもしれませんが、CUIコマンドの引数指定を忘れた時、GUI画面があったほうがいいと思うことがあります。(Tcl/Tkで作っていた人もいたかもしれません)\nJavaには、Swing、Ja...",
-    "link": "https://qiita.com/SeijiMiwa/items/10927d287bdaa1f7eb02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T04:27:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dfb6e9c21c909e00640ae5f71aa8f610",
-    "title": "【.NET 10】FastAPIユーザーが Minimal API を試してみた〜本当に代替になるのか検証",
-    "summary": "【.NET 10】FastAPIユーザーが Minimal API を試してみた〜本当に代替になるのか検証\n\nはじめに\n普段は Python の FastAPI でAPIサーバーを書いているのですが、\n「.NET 10 の Minimal API がかなり進化しているらし...",
-    "link": "https://qiita.com/syaryn/items/17ceaf0c65f2b53e8a30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-22T11:49:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "64b1be286f047c9dfbe80871fabb1d9b",
-    "title": "「CLAUDE.mdを入れるだけで10倍」は半分本当。実は効いているのは“AIへの指示書”より“チームの運用設計”だった話",
-    "summary": "最初に言うと、これかなり本質を突いてる\n正直、この手の「入れるだけで10倍」は少し強い言い方だと思う。\nでも、今回のポストが刺さっている理由はちゃんとあって、CLAUDE.mdそのものよりも、チームの知見をAIに再利用させる仕組みを見せているからなんだよね。\n話題のポス...",
-    "link": "https://qiita.com/taketsuyo/items/5615f38115ca82988c72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-22T21:25:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ea929362c305c65f71066b6a3027f7be",
-    "title": "生成AIは知識０を>1にする力（2025年、生成AIを使ってみて）",
-    "summary": "生成AIは無知な私よりもよく知っている\nタイトルで出落ち感はありますが、多くのことについて生成AIの方がよく知っており、とても助けられました。\n私は専門がプログラミングではなく、BASICなどでなんとなくプログラムを知っている程度の人間だと思っています。\n未だにクラス、特...",
-    "link": "https://qiita.com/calcMCalcm/items/753414cb995f9e079181?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T01:31:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "96b5b31397747c915516f7fe8bf19825",
-    "title": "AIをいつでもどこでも動かそうとしたら、気づけば自宅インフラ沼にはまっていた話 【ミニPC/Proxmox/Tailscale】",
-    "summary": "3行要約\n\nClaude CodeなどのAIエージェントをいつでもどこでも動かしたくて、ミニPCを購入した。\n気づけばProxmoxを導入し、LXCコンテナで環境を分割し、TailscaleでVPN網を構築していた。\nいつの間にか自宅インフラエンジニアになり、最高のAIエ...",
-    "link": "https://qiita.com/endo-ly/items/167c80b277b4850c4869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-23T15:02:51",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a30b2903f39ff122c59410eaaab32fb9",
-    "title": "OpenAIのアルトマンCEO、「宇宙データセンターは馬鹿げている」　インドでの対談で",
-    "summary": "OpenAIのサム・アルトマンCEOは、インドでのインタビューでAIの未来について語った。AGIやASIの実現が近づいているとし、AIインフラ整備を「人類史上最大のプロジェクト」と表現。また、AppleとGoogleの提携や、イーロン・マスク氏についての質問にも答えた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/23/news014.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-22T22:25:00",
     "ai_summary_done": false
   }
 ]
