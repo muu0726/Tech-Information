@@ -1,5 +1,145 @@
 [
   {
+    "id": "8e51c923ef35fd53918c889d5934c084",
+    "title": "Mixed-input matrix multiplication performance optimizations",
+    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
+    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-26T19:56:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "261abb7ec700de064a20f980fddef477",
+    "title": "例を増やしたらLLMの性能が下がる ── few-shot collapseの発見と検出方法",
+    "summary": "プロンプトに例を増やすと回答の精度が上がる、と言われています。\nしかし、実際に計測してみると、例を増やすことで性能が下がるケースが見られました。\nそこで、few-shot promptingで渡す例を増やしたときにモデルの性能がどう変化するかを計測するツールを作って色々と試してみました。 AdaptGauge というツール名にしてオープンソースで公開しています。\n\n やったこと\n実務に近い以下4種...",
+    "link": "https://zenn.dev/okuma/articles/few_shot_collapse",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-28T12:29:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b59f7eecc2934ccda4ff2618301c8168",
+    "title": "GoとRustのざっくり性能比較",
+    "summary": "はじめに\n2026年現在のGoとRustの性能差が気になったので調べました。\n今回は、標準出力CLI と JSON APIサーバ という2つのパターンで、GoとRustの性能を比較しています。\nビルドの最適化オプションも含めて、LLMの力を借りて出来る限り実用的な観点で検証しています。\n\n 検証環境\n\n\n\n項目\nバージョン\n\n\n\n\nOS\nmacOS (darwin/arm64)\n\n\nGo\n1.26...",
+    "link": "https://zenn.dev/ponyo877/articles/ae398e081464ff",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-28T10:57:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "859c1dd5d494e344ce54fd186a3bf968",
+    "title": "Obsidian × 生成AI で業務に活きる資格の勉強方法",
+    "summary": "はじめに\n「資格は取ったけど、実務に活きていない」\n「勉強した内容をすぐ忘れてしまう」\nそんな悩みを解決するために、私は Obsidian × 生成AI を\n組み合わせた学習環境を構築しました。\nこの記事では、\n\n知識を“蓄積”できる環境構築\n生成AIを活用した効率的なノート作成\n忘却曲線を意識した復習ダッシュボード\n\nまで、具体的に解説します。\n\n\n 1. 環境構築\n\n 1-1. 全体構成イメー...",
+    "link": "https://zenn.dev/peace_walker/articles/51640b2c6aa117",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-27T17:22:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9e37e0e71f1da6852b45dfecda59e7e1",
+    "title": "Rust 仕事 ない",
+    "summary": "おことわり\nこの記事は私がRustを書く仕事を探しているのであれば教えてほしいといった趣旨の記事ではありません。\nタイトルの内容をいざTwitterで呟こうものならどこからともなく転職エージェントが現れ高単価案件を紹介するというホラを吹いたり、うちはRustを書いている、ちゃんと探したのか、みんなRustを書いている、そんなにRustを仕事にしたいなら起業したらどうだといったいくつかのクソリプに収...",
+    "link": "https://zenn.dev/tkithrta/articles/0ce4f16c0cbdd3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-27T17:00:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "515eba9ae8645c7ea0cd625cd060f6f8",
+    "title": "よくわからないで使っていたFastAPIの復習",
+    "summary": "はじめに\nFastAPIは非常に使いやすいフレームワークで、BottleなどのPythonのWebフレームワークを触ったことがあれば、深く考えずに使えます。そのため、公式のドキュメントなどを読まなくても、それっぽく動くものは作ることができます。\nとはいえ、そういった基本を飛ばして書かれたものは検証段階では動作しても、いざ本番で動かそうとすると問題が出たりします。\n今回はよくわからないで使っていたF...",
+    "link": "https://zenn.dev/mima_ita/articles/26b59e6cfae3ab",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-02-27T11:23:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "977121971218ab18d1a5e2d7a30e3d18",
+    "title": "OpenClawの登場で何が変わったのか？10の注目ツールで見るAIの「実行力」",
+    "summary": "こんにちわ、Youichi Yamamotoです。最近、GitHubトレンド等で「〇〇Claw」という名前のプロジェクトが爆増していることに気づきませんか？\n2024年が「対話型AI」の年なら、2026年は間違いなく「自律実行（Agent）」の年。その起爆剤となったのが、W...",
+    "link": "https://qiita.com/yamamoto0/items/c47ce205344b95bb26df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-28T04:22:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c003a9798623d5590220069bda3e6b4d",
+    "title": "【AWS】Strands Labs ー フォーマット変換・型変換・カラム名修正を全部ai-functionsに丸投げする",
+    "summary": "はじめに\nAWSからStrands Labsというのが発表されましたね。\n色々いじってみたので今回はai-functions中心に記事を書いていきたいと思います。\nなお、Strands Labsには他にも以下のプロジェクトがあります。\n\nRobots：AIエージェントを...",
+    "link": "https://qiita.com/yakumo_09/items/58e733b16e96b255dfec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-01T02:25:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ceda4dfaa42fb957d7af118f95949b67",
+    "title": "VSCode｜チャットの Enter キーでプロンプトをうっかり送信してしまうミスを無くす設定変更の全手順",
+    "summary": "概要\nVSCode の GitHub Copilot などのチャット欄で、プロンプトを入力している最中にうっかり Enter キーを押してしまい、文章の途中で生成AIを動かしてしまった経験はありませんか？\nEnter キーを押しても勝手に送信されず、任意のキーを設定してこ...",
+    "link": "https://qiita.com/to3izo/items/72fdcab6e24b089f5aa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-01T02:41:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "678d07cff68965606a94e6c513563bbd",
+    "title": "【実装ログ】AntiGravityでデイリータスク自動抽出スキル（daily_briefing）を作った手順と設計思想",
+    "summary": "はじめに\n「毎朝PCを開いて、今日やるべきことを確認するまでに10分かかる」\nこれ、地味にストレスじゃないですか？\nカレンダーを開いて、Slackを確認して、昨日のログを開いて…という時点で、もう集中力のゴールデンタイムを食っている。\n今回は、AIエージェント（Anti...",
+    "link": "https://qiita.com/rehab-datascience/items/7b07df3fe0b1ac3dd8fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-02-28T01:03:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6b545519b02ce156ed1a5793f649cb5c",
+    "title": "2026/03/01 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nMarkdownを日本の伝統的な雰囲気のあるW...",
+    "link": "https://qiita.com/ennagara128/items/d9b41a8d24cedf6fcf40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-01T01:17:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "87712ed9bac5e3749f8527428d3b6c67",
+    "title": "Codexが開く新たなプログラミングの進化 ～データで見る2026年2月のAI Codingの動向まとめ～",
+    "summary": "AI Coding Agentの2026年2月の動向\nAI Coding.Infoというサイトを2025年7月から運営しています。\n\nこれは、Claude CodeやCodex CLI、あるいはGithub Copilot、Geminiなど、AI Coding ...",
+    "link": "https://qiita.com/kotauchisunsun/items/8ff87803193ff448f4eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-01T12:58:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b25609e0cc51481337c15f7dd078903e",
+    "title": "米国防長官、Anthropicを「サプライチェーンリスク」に指定へ　同社は法廷闘争を宣言",
+    "summary": "ヘグゼス米国防長官は、AI安全策の撤廃を拒むAnthropicを「サプライチェーンリスク」に指定するよう指示した。米国企業への適用は史上初で、Anthropicは法廷で争う構えだ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/01/news020.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-28T22:52:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "15bdbdb7df2171c0506a01e5b4bc66c8",
+    "title": "OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請",
+    "summary": "OpenAIは、米国防総省（DoW）の機密網へのAI導入で合意した。トランプ政権が安全策撤廃を拒むAnthropicの排除を決めた直後の発表だ。OpenAIは「クラウド限定運用」や「保護条項」の明文化により、自律型兵器への転用を防ぐ多層的な安全網を維持。政府の強硬姿勢を軟化させ、業界全体の合理的な合意を目指す姿勢を示した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/01/news019.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-02-28T22:16:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6d72168ab508298c1a4b2c2621b540d8",
     "title": "Exphormer: Scaling transformers for graph-structured data",
     "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
@@ -857,146 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-02-25T20:34:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "85df1a1847c9011db68d8690f7b5c875",
-    "title": "エレコムが半固体電池のモバイルバッテリーで他社に出遅れた理由　「超安全を考えていたら……」",
-    "summary": "エレコムは25日、半固体電池を採用して安全性を高めたモバイルバッテリーを3月から順次発売すると発表した。「超安全を考えていたら他社に出遅れました」という。一体、何があったのか。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news140.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-25T11:55:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cfdd6f3c5cb1049cef1dce38dc749d8e",
-    "title": "AIエージェント「OpenClaw」がメールを全削除している──MetaのAI研究者、Mac Miniまで全力ダッシュ",
-    "summary": "AIが言うことを聞かず、Gmailの受信トレイの中身を削除されてしまったこと──米MetaのAI研究者が遭遇した危機とは。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news125.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-25T08:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "79f387a7a50830553a0c97d201cc8b18",
-    "title": "「ブッダロイド」、京都の寺院で“合掌”　仏教特化の生成AI搭載で対話も　京大など開発",
-    "summary": "仏教の経典を学習した生成AIを搭載するヒューマノイドロボット「ブッダロイド」公開。仏教思想に基づいて対話できる他、合掌や礼、座禅といった宗教的所作も再現する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news096.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-25T03:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7de78db7aee6c58a5400e97faac210f1",
-    "title": "「怒鳴り声を穏やかにするAI」に本気で怒鳴ってみた　カスハラ対策で話題の技術、どんな声色になる？",
-    "summary": "「怒鳴り声を穏やかにするAI」に本気で怒鳴ってみたら、どんな声に変換されるんだろう──ソフトバンクの協力を得て、実際に試してみた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/24/news014.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-25T03:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "340d026f407e5baf7568d5c212c0373a",
-    "title": "“AIインプレゾンビ”に大打撃？　XがAPIの仕様変更　自動返信しにくく",
-    "summary": "米XがAPIの仕様を変更し、投稿への自動返信をしにくくした。AIを使ったスパム行為への対策という。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news078.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-25T02:04:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1686d091b657908d6bacfdfdec5b5b51",
-    "title": "Meta、AMDと戦略提携　最大6ギガワット相当のGPU導入とワラント契約",
-    "summary": "MetaとAMDは、最大6GW相当のGPU導入に関する戦略的提携を締結した。5年で最大1000億ドル規模の契約とみられ、次世代GPUやCPUを導入する。また、導入実績に応じ最大1.6億株の普通株を取得できるワラント割り当てでも合意。MetaはNVIDIAとの大規模契約に続き、AIインフラの多様化と調達の安定化を加速させる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news070.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-02-24T21:42:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3f29b3b82e786fd951bc9ab8e3b7fe0a",
-    "title": "地方で技術カンファレンスをやりたい人へ〜Go Conference mini in Sendai 2026 を終えて伝えたいこと〜",
-    "summary": "はじめに\n2026年2月、Go Conference mini in Sendai 2026 を無事に終えることができました。\nまずは、参加してくださった皆さん、登壇者、スポンサー、スタッフ、そして応援してくれたすべての方に感謝しています。\nこの記事は、イベントの成功を誇るためのものではありません。\n地方で技術カンファレンスをやってみたいと思っている人に向けて、\n実際にやってみて分かったこと、感じ...",
-    "link": "https://zenn.dev/senoue/articles/71397b1f651518",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-23T23:46:33",
     "ai_summary_done": false
   }
 ]
