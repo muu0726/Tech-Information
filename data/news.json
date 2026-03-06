@@ -1,5 +1,155 @@
 [
   {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "069a6e09ec8a420a91127153cd47594d",
+    "title": "OSSにおけるAI Slop問題の何が問題なのか？",
+    "summary": "Honoは2021年の12月に開発が始まって4年と少し経つ。たぶん、あなたが想像する以上に大きくなっている。GitHubのスターは現時点で29.2K。これは日本人発OSSで観測する限り第3位の数字だ。最近ではMCP公式SDKの依存に入り、ダウンロード数はうなぎのぼり。月間1億ダウンロードが近い。Cloudflareは多くのプロダクトでHonoを使っている。\nこれだけ大きな規模のOSSに、クリエータ...",
+    "link": "https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-06T03:51:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a994f9e45bd5e4cea3a29454994d612c",
+    "title": "Figma不要論はまだ早い。かもしれない。AIは「りんご」の味を知らないから。",
+    "summary": "!\n本記事は、『試して学ぶ Figma MCPサーバー AIを活用したプロダクト開発』の著者が、書籍には書き記せなかった内容を補足するために著者自身が手作業で執筆したものです。\n本記事の内容は、著者の個人的な見解であり、著者が所属する会社の公式見解ではありません。\nまた、特定のSNS投稿や投稿者を否定するものではなく、Figmaを活用したデザインプロセスの考察を目的としています。\n本記事で使用して...",
+    "link": "https://zenn.dev/kazhack/articles/ca8dcebdd9f10b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-05T09:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "adcf3447ba3943a584ab5b1707ab4b19",
+    "title": "AI エージェント基盤を、OS を作るように設計する",
+    "summary": "AI エージェント基盤を、OS を作るように設計する\n\n想定読者:\n\nClaude Code（または類似の AI コーディングエージェント）を使ったことがある、または興味がある\n複数の issue を並列で処理させたいと考えている\n\nTL;DR:\n\nClaude Code の上に並列エージェント基盤 cekernel を作った\nOS のプロセスモデル（プロセス管理、プロセス間通信、シグナル、リソー...",
+    "link": "https://zenn.dev/r_kawaiimura/articles/addf6348bf064b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-05T02:57:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c044dfb8bc44d111c4e6c6c650983e4f",
+    "title": "久々にOllamaを触ったら、量子化で別物になってた",
+    "summary": "本記事の構成について\nこの記事は、AIを使用して構成の整理や下書きを支援してもらっています。\nしかし、内容は精査の上理解を表現しています。\n\n まずはじめに\n久々にOllamaのドキュメントを開いたら、見慣れない単語が目に入った。\n量子化（Quantization）\n以前にOllamaを触ったとき（前回の記事）は、gemma3を動かして「ローカルでLLMが動いた！」という体験がメインだった。\n当時...",
+    "link": "https://zenn.dev/dassimen/articles/fb7c9c893479ee",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-04T16:25:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "876016afb78ddb96076e6c23353e4b9f",
+    "title": "MCPはなぜCLIに負けたのか —— 経緯と構造を整理する",
+    "summary": "2024年11月、AnthropicがMCP（Model Context Protocol）を発表したとき、業界は一気に動いた。各社がMCPサーバーを競って実装し、「AI first」の証明としてMCP対応をアピールした。\nそれから約1年半。2026年3月現在、MCPの優位性はほぼ失われている。MCP不要論がHacker Newsのトップに繰り返し上がり、Anthropic自身がMCPのスケーリン...",
+    "link": "https://zenn.dev/hiraly/articles/3409b886607274",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-04T07:09:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dbee22d7074c70cc692e2fffc734cc38",
+    "title": "【Rails 7】cookies. の後に繋げるメソッド完全ガイド（signed / encrypted / permanent の使い分け）",
+    "summary": "はじめに\nRailsでログイン機能などを実装していると、cookies.signed[:user_id] や cookies.permanent といった書き方がよく登場します。\n「なんとなく使っているけれど、それぞれの違いが曖昧……」という方向けに、この記事では coo...",
+    "link": "https://qiita.com/shibata1111/items/bb3306a3c8f33a438cd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-06T06:29:19",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2f03dc55a575fd426ca01d511f396952",
+    "title": "AIエージェントだけでスクラムを回してみた",
+    "summary": "この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い、5体のAIにスクラムチームを組ませて実際にアプリを開発させた実験の全容と、やってみて感じた可能性・課題をまとめています。\n\nAIの賢さとツールが洗練されてきました\nOpus4.6やGPT-...",
+    "link": "https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-05T23:26:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cd8e9163d3a5d8194177224afac2a2a7",
+    "title": "【セキュリティ】なぜAPIキーは流出するのか？2026年最新データと実例から学ぶ原因と対策",
+    "summary": "はじめに\n生成AIの普及により、OpenAI・Anthropic・Google などのAPIキーを扱う開発者が爆発的に増えました。それに伴い、APIキーの流出事故も急増しています。\nセキュリティ企業 GitGuardian が公開した「State of Secrets S...",
+    "link": "https://qiita.com/ktdatascience/items/588b63bcae18cd1f5f16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-06T01:37:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7c731b16cbe8078b1d59c496f84aa86b",
+    "title": "サーバー代0円で「自分専用の警備員」を。Cloudflareで作るLINEセキュリティ通知ツール",
+    "summary": "Webサイトを運営していると、避けて通れないのがサイバー攻撃や不審なアクセスです。\n未だ蔓延するフィッシング詐欺に引っかかる人が一人でも減るように、という願いを込めてこのツールを作りました。\n今回活用したのは、Cloudflare Workers と OpenAI API。...",
+    "link": "https://qiita.com/YUKYCO/items/4bffeefaabe353b63aa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-05T03:49:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "24b2565b3564effb96bab39868d40abc",
+    "title": "株式会社Kaienの社内SE、AWS移行に伴いSAA（ソリューションアーキテクト – アソシエイト）に挑戦する",
+    "summary": "はじめに\n株式会社Kaienで社内SEを務めているfujikawaです。\n現在、弊社では社内インフラのAWS移行を推進しています。これに伴い、社内でもAWSの高度な設計・運用知識を持つ技術者の必要性が高まってきました。\nこれまでAWS Cloud Practitioner...",
+    "link": "https://qiita.com/fuji333/items/6b7125f1666447dc3800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-06T07:03:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "13ef61c6dacd5b3045e96c636a7520bd",
+    "title": "現役ソフトウェアエンジニアが感じる開発現場の変化",
+    "summary": "はじめに：コーディングの主役が変わり始めた\nAIコーディングエージェントが登場してから、開発現場は「コパイロットとして人間を支援する」フェーズを越えて、「AIが実装の主役を担い、人間が方向付けと品質を担う」フェーズに移りつつあります。\n現場にいると、体感としていちばん大き...",
+    "link": "https://qiita.com/you_13/items/8d3e9c0237c075e49353?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-06T00:28:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c97de62f310fe090aaecae0ff6cb8b36",
+    "title": "動画編集ソフト使わずに動画制作する。Remotionで動画を\"書く\"という選択肢の話",
+    "summary": "動画を作りたいけど、編集が億劫な人へ\n自分はずっと、動画制作にコンプレックスがありました。\nAI教育の発信をやってて、テキストの記事やXのポストは書ける。コードも書ける。でも「動画もやった方がいいよね」と思いつつ、Premiere Proを開くたびに「...うん、今日は...",
+    "link": "https://qiita.com/akira_papa_AI/items/95c3851e0540020b7564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-05T17:03:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6ab668991efdc4a1459d41273cbaf7cc",
+    "title": "日記2327件をAIに分析させたら、テキストの「構造」が見えてきた",
+    "summary": "数年間、毎日書き続けた日記が2327件になった。\n短い日は「出勤」の一言。長い日は数千字。\nここまで増えると、書いた本人でも全体像を把握できない。\nそこで、自作の日記アプリに AI分析機能 を組み込んだ。\nAnthropic Claude API を使い、日記を複数の視点か...",
+    "link": "https://qiita.com/kuroda_suketaro/items/6568f04795f6080fa083?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-06T07:33:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4274ff5556e7a8bf48abd365fbfc549a",
+    "title": "新作ゲーム「ぽこ あ ポケモン」の偽攻略本、Amazonで出現中　生成AIを悪用か　購入時には要注意",
+    "summary": "ポケモン社の新作ゲーム「ぽこ あ ポケモン」の偽物と思われる攻略本がAmazonで確認された。記載内容に正しくない部分もあり、注意が必要だ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/06/news139.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-06T10:32:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "93bdee08059d4490ad4a0f304177ce8f",
     "title": "Claude Code に向いているプログラミング言語",
     "summary": "English version →\n\n TL;DR\nClaude Code に 13 言語で簡易 git を実装させたところ、Ruby・Python・JavaScript が最速・最安・最安定でした。静的型付けの言語は 1.4〜2.6 倍遅く、生成コストがかかる傾向がありました。\n\n\n はじめに\nAIコーディングエージェントに向いているプログラミング言語はなんでしょうか。\n「AIのバグを防ぐため、...",
@@ -847,156 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-03-02T05:44:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6134aa24ca1ae0286a0db5fcf6ce7de4",
-    "title": "【導入編】Claude Codeとは？Windowsで始めるAIコーディング支援",
-    "summary": "Claude Code は、Anthropic社が提供するエージェント型のAI搭載コーディング支援ツールです。\n単なるエディタのコード補完やチャット型AIとは異なり、コードベース全体を読み込んでタスクを計画し、ファイル編集、コマンド実行、検証までを自律的に行うことを目的とし...",
-    "link": "https://qiita.com/sh-ohtani/items/1be6f1888e7642fe227c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-02T00:42:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "971f3dab973f00a961c67bee7b75d48b",
-    "title": "【Vibe Coding】1行もコードを書かずに、OCIを爆速管理できるVSCodeプラグインを作ってみた！",
-    "summary": "始めに\n普段の業務で OCI (Oracle Cloud Infrastructure) を利用しているエンジニアの皆様、OCI Console での操作に「ちょっとした手間」を感じていませんか？\n今回、**Vibe Coding（AIと自然言語で対話しながらの開発）**...",
-    "link": "https://qiita.com/engchina/items/55bbd0f799b3c0d83186?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-28T12:56:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "388faacf20ec6ea91c9bfb91d32e1937",
-    "title": "【自分用メモ】TypeScript × Node.jsでスクレイピング基礎",
-    "summary": "今回やること\nTypeScriptとNode.jsを用いてスクレイピングを試す。\n\nTypeScriptを書く\nNodeで実行\nWebサイトからHTMLを取得\n必要なデータだけ抽出する\n\n用語の整理\n\n■ TypeScriptとは？\nJavaScriptに「型」を追加...",
-    "link": "https://qiita.com/Pechan/items/29e25554a802964707c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T15:37:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "95c303bab1a6f07aa5d65dd98b273eeb",
-    "title": "「iPad Air」に新モデル　M4チップ搭載、メモリは12GBにアップ　9万8800円からと据え置きに",
-    "summary": "米AppleがM4チップ搭載の新「iPad Air」を発表した。前世代のM3モデルより最大30%高速で、ユニファイドメモリは50%増の12GBに引き上げながら、11インチの価格は9万8800円、13インチは12万8800円からで据え置きとなる。Apple設計のN1（Wi-Fi 7対応）とC1Xセルラーモデムを初搭載し、3月11日に発売する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/03/news063.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-02T16:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b30b6dc9af068b745c6fcacf808ad34e",
-    "title": "米軍のイラン攻撃に「Claude」が使われたことが判明　トランプ大統領による「使用停止命令」後",
-    "summary": "トランプ大統領が国防総省にAnthropic製品の使用停止を命じた直後、米軍がイラン攻撃で同社のAI「Claude」を使用したことが判明した。安全策撤廃を巡る対立で同社が「サプライチェーンリスク」に指定され排除が決定的となる中、現場では依然としてAIが実戦投入される状況が浮き彫りとなった。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/02/news064.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-01T23:16:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "261abb7ec700de064a20f980fddef477",
-    "title": "例を増やしたらLLMの性能が下がる ── few-shot collapseの発見と検出方法",
-    "summary": "プロンプトに例を増やすと回答の精度が上がる、と言われています。\nしかし、実際に計測してみると、例を増やすことで性能が下がるケースが見られました。\nそこで、few-shot promptingで渡す例を増やしたときにモデルの性能がどう変化するかを計測するツールを作って色々と試してみました。 AdaptGauge というツール名にしてオープンソースで公開しています。\n\n やったこと\n実務に近い以下4種...",
-    "link": "https://zenn.dev/okuma/articles/few_shot_collapse",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-28T12:29:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b59f7eecc2934ccda4ff2618301c8168",
-    "title": "GoとRustのざっくり性能比較",
-    "summary": "はじめに\n2026年現在のGoとRustの性能差が気になったので調べました。\n今回は、標準出力CLI と JSON APIサーバ という2つのパターンで、GoとRustの性能を比較しています。\nビルドの最適化オプションも含めて、LLMの力を借りて出来る限り実用的な観点で検証しています。\n\n 検証環境\n\n\n\n項目\nバージョン\n\n\n\n\nOS\nmacOS (darwin/arm64)\n\n\nGo\n1.26...",
-    "link": "https://zenn.dev/ponyo877/articles/ae398e081464ff",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-28T10:57:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "859c1dd5d494e344ce54fd186a3bf968",
-    "title": "Obsidian × 生成AI で業務に活きる資格の勉強方法",
-    "summary": "はじめに\n「資格は取ったけど、実務に活きていない」\n「勉強した内容をすぐ忘れてしまう」\nそんな悩みを解決するために、私は Obsidian × 生成AI を\n組み合わせた学習環境を構築しました。\nこの記事では、\n\n知識を“蓄積”できる環境構築\n生成AIを活用した効率的なノート作成\n忘却曲線を意識した復習ダッシュボード\n\nまで、具体的に解説します。\n\n\n 1. 環境構築\n\n 1-1. 全体構成イメー...",
-    "link": "https://zenn.dev/peace_walker/articles/51640b2c6aa117",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-27T17:22:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9e37e0e71f1da6852b45dfecda59e7e1",
-    "title": "Rust 仕事 ない",
-    "summary": "おことわり\nこの記事は私がRustを書く仕事を探しているのであれば教えてほしいといった趣旨の記事ではありません。\nタイトルの内容をいざTwitterで呟こうものならどこからともなく転職エージェントが現れ高単価案件を紹介するというホラを吹いたり、うちはRustを書いている、ちゃんと探したのか、みんなRustを書いている、そんなにRustを仕事にしたいなら起業したらどうだといったいくつかのクソリプに収...",
-    "link": "https://zenn.dev/tkithrta/articles/0ce4f16c0cbdd3",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-27T17:00:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "515eba9ae8645c7ea0cd625cd060f6f8",
-    "title": "よくわからないで使っていたFastAPIの復習",
-    "summary": "はじめに\nFastAPIは非常に使いやすいフレームワークで、BottleなどのPythonのWebフレームワークを触ったことがあれば、深く考えずに使えます。そのため、公式のドキュメントなどを読まなくても、それっぽく動くものは作ることができます。\nとはいえ、そういった基本を飛ばして書かれたものは検証段階では動作しても、いざ本番で動かそうとすると問題が出たりします。\n今回はよくわからないで使っていたF...",
-    "link": "https://zenn.dev/mima_ita/articles/26b59e6cfae3ab",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-02-27T11:23:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "977121971218ab18d1a5e2d7a30e3d18",
-    "title": "OpenClawの登場で何が変わったのか？10の注目ツールで見るAIの「実行力」",
-    "summary": "こんにちわ、Youichi Yamamotoです。最近、GitHubトレンド等で「〇〇Claw」という名前のプロジェクトが爆増していることに気づきませんか？\n2024年が「対話型AI」の年なら、2026年は間違いなく「自律実行（Agent）」の年。その起爆剤となったのが、W...",
-    "link": "https://qiita.com/yamamoto0/items/c47ce205344b95bb26df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-28T04:22:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c003a9798623d5590220069bda3e6b4d",
-    "title": "【AWS】Strands Labs ー フォーマット変換・型変換・カラム名修正を全部ai-functionsに丸投げする",
-    "summary": "はじめに\nAWSからStrands Labsというのが発表されましたね。\n色々いじってみたので今回はai-functions中心に記事を書いていきたいと思います。\nなお、Strands Labsには他にも以下のプロジェクトがあります。\n\nRobots：AIエージェントを...",
-    "link": "https://qiita.com/yakumo_09/items/58e733b16e96b255dfec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T02:25:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ceda4dfaa42fb957d7af118f95949b67",
-    "title": "VSCode｜チャットの Enter キーでプロンプトをうっかり送信してしまうミスを無くす設定変更の全手順",
-    "summary": "概要\nVSCode の GitHub Copilot などのチャット欄で、プロンプトを入力している最中にうっかり Enter キーを押してしまい、文章の途中で生成AIを動かしてしまった経験はありませんか？\nEnter キーを押しても勝手に送信されず、任意のキーを設定してこ...",
-    "link": "https://qiita.com/to3izo/items/72fdcab6e24b089f5aa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T02:41:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "678d07cff68965606a94e6c513563bbd",
-    "title": "【実装ログ】AntiGravityでデイリータスク自動抽出スキル（daily_briefing）を作った手順と設計思想",
-    "summary": "はじめに\n「毎朝PCを開いて、今日やるべきことを確認するまでに10分かかる」\nこれ、地味にストレスじゃないですか？\nカレンダーを開いて、Slackを確認して、昨日のログを開いて…という時点で、もう集中力のゴールデンタイムを食っている。\n今回は、AIエージェント（Anti...",
-    "link": "https://qiita.com/rehab-datascience/items/7b07df3fe0b1ac3dd8fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-02-28T01:03:02",
     "ai_summary_done": false
   }
 ]
