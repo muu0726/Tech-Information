@@ -1,5 +1,175 @@
 [
   {
+    "id": "9eb7e1148060372aa2295bfa4007f6bb",
+    "title": "Advances in private training for production on-device language models",
+    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
+    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-21T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4222b2e5269191225ade5447558e5d08",
+    "title": "Learning the importance of training data under concept drift",
+    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
+    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-14T18:32:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a6ff7713a3286bc1c095173d7c20823c",
+    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
+    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-13T22:11:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e02492272ea60f06560533d5feb1dc4",
+    "title": "Graph neural networks in TensorFlow",
+    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
+    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-06T19:17:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d7b8ec1c42c25825b0ea6642653ad412",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
+    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T19:07:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "657d8a6a5c12c6edb1141ff848711085",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
+    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T17:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bc74a58eed458a97404588f0a5960fa6",
+    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
+    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
+    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-31T21:59:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a69c4a5225b42feec525bdcbd82936e4",
+    "title": "まだAIコードをレビューするか、しないかで言い争ってるの？",
+    "summary": "AIが生成したコードをレビューするべきかどうか、という議論は定期的に起こります。\n3カ月以上その問題に悩んでいる人は、たぶんとっくに何らかの結論に達していると思います。\n\n2025.03.08 改修メモ\nレビュー0に拘り過ぎているように読めたので、表現を全体的に柔らかくしました。\nつまりナーフして少し火力を下げました。\n\n\n 私の結論\n\nAIコードのレビューが必要ないプロセスを確立するしかない\n\n...",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-07T22:44:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5d1c16d67a86b28e4b8098ca5544fb7c",
+    "title": "Markdown ドキュメント間の整合性を検証する contextlint を作っている話",
+    "summary": "はじめに\nAI を活用したソフトウェア開発では、要件・仕様・設計といった構造化ドキュメントを SSOT（Single Source of Truth: 信頼できる唯一の情報源）として管理し、それを基に AI がコードを生成する、いわゆる 仕様駆動開発（SDD） のようなアプローチが定着しつつあります。\nこうしたアプローチでは、ドキュメントの品質が生成されるコードの品質に大きく影響します。\nつまり、...",
+    "link": "https://zenn.dev/nozomi_cobo/articles/contextlint-introduction",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-07T13:38:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "913b1cb46d7222a5e9194454a8e3c9f0",
+    "title": "AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方",
+    "summary": "英語で書いた記事の日本語版です。\nhttps://newsletter.daishikato.com/p/my-thoughts-on-ai-generated-prs-for-my-oss-projects\n\nこんにちは。\nAI支援コーディングは素晴らしいものです。これは間違いないです。ただ、OSSへのコントリビュートという文脈になると、話は少し複雑になります。\n\n 問題点\n自分のOSSプロジェ...",
+    "link": "https://zenn.dev/dai_shi/articles/a686bdf7fd5800",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-07T04:22:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "663683e4aeab01311dbaf1dc8746339f",
+    "title": "Claude Max (20倍プラン) を1ヶ月以上契約して感じたこと",
+    "summary": "はじめに\n普段プログラマーとして働いています。職場でもAIを開発にガンガン使っていますが、趣味でclaude max 20倍を契約して色々開発しています。\n感じたことを箇条書きレベルでまとめます。\n公開しているものはあまりないですがいくつか紹介します。\n\n ゲーム: Capsulitas\nCapsulitasというゲームを開発しています。体験版をSteamに公開するまでは至りました。ドット絵は自分...",
+    "link": "https://zenn.dev/soyukke/articles/b1529facaea27f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-06T15:06:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "71aba0646af1363ec21f41c5da4b409b",
+    "title": "スピードも品質も諦めたくない！そんな願いを叶える「仕様駆動開発」のススメ",
+    "summary": "はじめに\nSecureNavi株式会社でSecureLightのエンジニアをやっているホッケ肉厚（@HokkeNikuatsu）です🐟️\nAIを活用した開発が当たり前になりつつありますが、皆さんのチームではどのような仕組みを取り入れているでしょうか👀\n私のチームではAI駆動開発の効率をさらに高めるために 仕様駆動開発（Spec-Driven Development） を導入しました。\nこの記事では...",
+    "link": "https://zenn.dev/securenavi_tech/articles/20260301-sdd-introduction",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-06T03:00:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f548fd542e5fec839c9509863affdf3a",
+    "title": "Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた",
+    "summary": "はじめに\nPythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。\n表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...",
+    "link": "https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T16:58:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "42dd74acd0868ff07d6d5380ffeb792e",
+    "title": "観光客が増えてもお金が回らない ― 日本の中に生まれる“外国経済圏” のメカニズム : Pythonで学ぶ マクロ経済学入門 (56)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n「なぜ日本だけ財政破綻を信じているのか ― \"国の借金1000兆円\" という物語 : Pythonで学ぶ マクロ経済学入門 (55)」\nhttps://qiita.com/maskot1977/...",
+    "link": "https://qiita.com/maskot1977/items/7689412cc9d5a1bbab88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T16:07:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "089a3ee3d8dc732f5090e92700ed6e50",
+    "title": "【経験談】GeminiからchatGPTに乗り換えたワケ",
+    "summary": "この記事は、AIを使わずに全て手作業100%で作られています。私の実体験をもとにした考えを記事にしたものです。\n\nはじめに\n私は基本的に業務ではGeminiを使っていて、仕様書の要約であったりわからないことがあると質問していたり、マトリクスの作成をして情報の整理をお願いして...",
+    "link": "https://qiita.com/kamome_susume/items/5f1816a30d5bb691c60a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T08:47:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2c3cb469cadbc5ba9a3386559b8430ca",
+    "title": "2026/03/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nClaude Codeはプロンプトインジェクシ...",
+    "link": "https://qiita.com/ennagara128/items/e76bf0f37d2bcc9f70aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-08T01:13:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "814de27f01ef6aa83e142d64d84f28da",
+    "title": "11tyで作ったブログの使用感がなかなか良い",
+    "summary": "はじめに\n11tyというJavaScriptのフレームワークでブログを作成しました。私はJavaScriptフレームワークの経験がほとんどない状態でしたが、11tyは思いのほかスムーズに導入できました。本記事では、11tyの具体的な説明というよりは、11tyを選定した理由...",
+    "link": "https://qiita.com/hukusima65/items/e59acb6600f0464a1bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T09:28:35",
+    "ai_summary_done": false
+  },
+  {
     "id": "8e51c923ef35fd53918c889d5934c084",
     "title": "Mixed-input matrix multiplication performance optimizations",
     "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
@@ -827,176 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-06T18:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "926fb0b411cfc68cdf609a0db59ab101",
-    "title": "Google at APS 2024",
-    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
-    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-04T15:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2df65c24e00cfb307ae7046ddd875b73",
-    "title": "VideoPrism: A foundational visual encoder for video understanding",
-    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
-    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e61a2f5f4a2b5eeb4ac93035b21e5b90",
-    "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
-    "summary": "こんにちは！エーアイセキュリティラボのはるぷです。\n2026年2月下旬、オープンソース界隈を揺るがす自動攻撃キャンペーンが実施されました。ターゲットとなったのは、誰もが名前を知るような大手企業のプロジェクトを含む主要なリポジトリ群。攻撃の主導者は 「hackerbot-claw」 と呼ばれる、AI（Claude-Opus-4.5）を搭載した自律型セキュリティ調査エージェントです。\nこのボットはわず...",
-    "link": "https://zenn.dev/aeyesec/articles/417578718dcced",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-03T00:37:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "63846453b36148815c790aa745195526",
-    "title": "Contextを引数でバケツリレーするのはもう辞めよう",
-    "summary": "はじめに\n下記のように、データベースのコネクションやアプリケーション全体で共有する値がある場合、\n関数の引数として延々とバケツリレーしていった経験をしたことはありませんか。\n// あくまで例示のためにコネクションの解放などは省略しています。\napp.get('/user/:id', (c) => {\n  const result = userDetailsHandler(\n    {\n      ...",
-    "link": "https://zenn.dev/praha/articles/9aa56e6ca4ad40",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-02T11:05:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3a7513393f6f99860b2f6679102e7da6",
-    "title": "予測市場のオッズはニュースより速い？Polymarket CLIで変動監視を作った話",
-    "summary": "はじめに\nこんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock labでエンジニアをしている小原です。\nPolymarketは世界最大の分散型予測市場プラットフォームです。Polygon上に構築されていて、「BTCは今月$100Kを超えるか」「日銀は利上げするか」「次の米大統領は誰か」といったイベントの確率が、リアルタイムで取引されています。\n2024年の米大統領選では累...",
-    "link": "https://zenn.dev/komlock_lab/articles/polymarket-cli-terminal-2026",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-02T10:00:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5cb3ba6b57fd9c0082c91749b0d88316",
-    "title": "LLM出力の精度90%→98%に。LLM-as-judgeとClaude Codeで自律チューニング",
-    "summary": "はじめに\nGMOコネクトの永田です。\n同じLLM、同じプロンプトで30件のIssueを2回分類・要約して、完全一致は66.7%でした。\nLLMの出力精度を測ろうとして最初にぶつかったのがこの壁です。正解データ自体がLLMの生成物だと、文字列の完全一致では精度を測れません。...",
-    "link": "https://qiita.com/ntaka329/items/ecc075eed19afedbc8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T04:26:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c6b7ce6bd44efd0ea0d108d76652806f",
-    "title": "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話",
-    "summary": "はじめに\n自分の思考・知識・アイデアを全て外部に書き出し、検索可能にする——いわゆる「第二の脳（Second Brain）」。\nNotion、Obsidianで実践している人は多いと思います。私はこれをGitリポジトリ + Claude Codeで構築しました。\n最初は「...",
-    "link": "https://qiita.com/yamapiiii/items/cc2450f410b64329d275?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T03:15:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "78c3f6afc44b97b308e261f77281bf4a",
-    "title": "AIが答えを出してくれる時代に、それでも基礎を積む意味",
-    "summary": "はじめに\n便利さの落とし穴——AI依存が生むリスク\n基礎を積み上げると何が変わるか\n地力が活きる瞬間\nAIと共に、基礎を積み上げる実践法\nまとめ\n\nはじめに\n昨今の生成AIやエージェントの進化は、本当に目を見張るものがあります。コードを書いてもらい、設計の相談をして、ド...",
-    "link": "https://qiita.com/CodeLeaf/items/488bb58725e94eb615ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T19:16:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a22fa9bfdb0f4850885672550830547f",
-    "title": "中学生がAIと作った関数型言語「Zenith」",
-    "summary": "最近、AIの力を借りながら Zenith というちょっと変わった関数型言語を自作してみたので、その設計の面白さを紹介したいと思います！\nGitHub: nezmickey/Zenith\n\n1. Zenithってどんな言語？\n一言で言うと、「ポーランド記法（前置記法）」 と ...",
-    "link": "https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T01:34:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "acd6fa71fa828bd686e13b27e37ad020",
-    "title": "OpenFangとは？OpenClawからの進化と特徴",
-    "summary": "皆さんもAI Agent作ってますか？最近「OpenClaw」がめちゃくちゃ流行りましたよね。\n「よし、これでバリバリ自動化するぞ！」と意気込んでTypeScriptで動かしてみたら、メモリを500MB近く食ってしまって、「これ、本番環境で複数動かしたらサーバー代ヤバくない...",
-    "link": "https://qiita.com/Yuuto127/items/a574a91f87d8231534b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T05:51:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3d742d8a1b0d98ccc913a6c60ba6c6fa",
-    "title": "【Vouch】低品質なユーザによるCotributeを拒否するツールVouch誕生",
-    "summary": "AIによるコーディング量の増加が目覚ましいですが、いっぽうでAI生成による低品質コード・低品質ユーザによるOSSへの攻撃も深刻なものとなっています。\nCurlはブチ切れて報奨金制度から撤退し、また様々な組織が歯止めのない仕組みに苦言を呈しています。\n一部のWebサイトでは、...",
-    "link": "https://qiita.com/rana_kualu/items/9280f2ae9b30defe93b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-02T12:18:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "72ddddad72319b051134770e2403919b",
-    "title": "XIAO ESP32S3を監視カメラにしてみる",
-    "summary": "「Seeed Studio XIAO ESP32S3 Series」を買ってきたので、とりあえずカメラで撮った画像をサーバに転送するプログラムを作っていきます。\n今回もプログラマはGeminiです。\n\nXIAO ESP32S3 Series のスペックまとめ\nXI...",
-    "link": "https://qiita.com/Toshiaki0315/items/8116eaacc084cf4563c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T04:55:03",
-    "ai_summary_done": false
-  },
-  {
-    "id": "71cd0878b825021baee90c41ac761f0d",
-    "title": "Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。",
-    "summary": "はじめに\n先日、X（旧Twitter）で気になるポストを見かけました。\n内容は、「Claude Code」と「Google ドライブ for Desktop」を組み合わせて、散らかったGoogle ドライブのフォルダを一瞬で整理した、というもの。\n\n「Googleドライブ...",
-    "link": "https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T11:14:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88a3126271fed4f34f78db25f6dd949a",
-    "title": "賃上げはお願いではなく構造で決まる : Pythonで学ぶ マクロ経済学入門 (51)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第51回を始めましょう。まず\n「初心者でもわかる！Pythonで学ぶマクロ経済学入門 全50回 総復習」\nhttps://qiita.com/maskot1977/items/e9408dffaede4c4c29e4\nを...",
-    "link": "https://qiita.com/maskot1977/items/fbad3aab0d0f3b91bf65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-02T15:08:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7ee0ff1be0c95112820a40aa2c4f3785",
-    "title": "JavaScript初心者がUdemyのReact講座を受けて感じたこと",
-    "summary": "記事の内容は、2024年中旬にドラフト記載された草案をそのまま掲載したものとなります。ご承知おきの上でお楽しみいただければ幸いですー！\n\nはじめに\nReact学習を始めたきっかけや、今回の記事の目的を簡単に説明します。\n\n学んだこと\n\n1. Reactを学ぶ前に知っ...",
-    "link": "https://qiita.com/loveRetroberry/items/556f006606541fbb5e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-01T12:57:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "27c0054a9bcf1eaf11312faf3f7e4f05",
-    "title": "MacBook Proに「M5 Pro」「M5 Max」登場　AI性能はM4世代比で最大4倍　若干値上げも",
-    "summary": "米Appleは3月3日、「MacBook Pro」に新チップ「M5 Pro」「M5 Max」を追加した。「AI向けにゼロから設計した」としており、前世代の「M4 Pro」「M4 Max」と比べてAIパフォーマンスを大幅に向上したという。4日から予約受付を開始し、11日に販売を開始する。また、M5チップモデルは標準ストレージを1TBに増量。3万円高い27万8800円スタートとなる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/04/news073.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-03T15:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "259d69395e3e5a84bc8e3cff8213c2d0",
-    "title": "M5になった新型「MacBook Air」登場　標準ストレージは倍の512GBに　18万4800円から",
-    "summary": "米Appleは3月3日、新型「MacBook Air」を発表した。M5チップに刷新したほか、標準ストレージも前世代の2倍となる512GBに増量された。価格は13インチが18万4800円、15インチが21万9800円から。4日から予約を受け付け、11日に発売する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/03/news164.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-03T14:30:00",
     "ai_summary_done": false
   }
 ]
