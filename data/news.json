@@ -1,5 +1,175 @@
 [
   {
+    "id": "926fb0b411cfc68cdf609a0db59ab101",
+    "title": "Google at APS 2024",
+    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
+    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-04T15:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2df65c24e00cfb307ae7046ddd875b73",
+    "title": "VideoPrism: A foundational visual encoder for video understanding",
+    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
+    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-22T20:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "11d13bfc6c3507b83db1ab424b1f6f5c",
+    "title": "AIコーディングの原則",
+    "summary": "AIコーディングツールを使い始めて、しばらく経った。進歩は目覚ましく、便利だし役に立つ。一方で、OSS界隈ではAI Slop (AIが生成する低品質なコードやテキスト) が問題になっている。個人なら自分で気づいて直せるが、チームでは人数分だけ増幅される。誰かが流したSlopのレビューとリワークにチーム全体が巻き込まれ、AIコーディングのメリットを上回る生産性の低下を招く。この記事では、チームでその...",
+    "link": "https://zenn.dev/baleenstudio/articles/ai-coding-principles",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-08T09:43:55",
+    "ai_summary_done": false
+  },
+  {
+    "id": "188a8060b63eb69d513d7f1553968867",
+    "title": "Claude Code / Codexの弱点を解決するOSS「GSD」の設計が良かった",
+    "summary": "こんにちは！ブロックチェーンエンジニアの山口夏生です。\nブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。\n\n GSD（GET SHIT DONE）とは何か\n「How We Built The World's Most Powerful Coding Agent」というXの投稿が114K Viewsを記録して話題になっている。\n\nhttps:/...",
+    "link": "https://zenn.dev/komlock_lab/articles/gsd-guide-handson",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-08T06:53:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "38381ef9e070807143ffdccbb51ace6c",
+    "title": "Mac Studio に MacBook から SSH 接続したい",
+    "summary": "TL;DR\nMac Studio を自宅に置いたまま、MacBook から SSH 接続すれば、Mac Studioの性能とmacbookの携帯性を両立できます。\n\n家の中では Mac Studio のローカル IP に接続します。\n外出先では Tailscale 経由で接続します。\n公開鍵認証と ~/.ssh/config も最初に整えておくと、ターミナルでも Cursor でも扱いやすくなりま...",
+    "link": "https://zenn.dev/ryomac/articles/9ed864db75c19b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-08T04:32:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "92131b6d1b9c46cde3f9a188b5f288f7",
+    "title": "Claude Code が RAG を捨てた理由 -「Agentic Search」という選択肢",
+    "summary": "先日、YouTube で公開された技術チャンネル The Pragmatic Engineer のインタビュー動画（2026年3月公開）を見ていて、興味深い話を耳にしました。ゲストは Claude Code の中心的な開発者である Boris Cherny 氏。動画全体では Claude Code の開発経緯や、AI がエンジニアの働き方をどう変えるかといったテーマが語られていますが、その中で特に...",
+    "link": "https://zenn.dev/acntechjp/articles/c1296f425baf03",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-07T13:32:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a908831622289ecf6a7261380fcb2b72",
+    "title": "M5Stack CoreS3 x gpt-realtime-1.5 - （ｽﾀｯｸﾁｬﾝはじめる） -",
+    "summary": "はじめに\n2/28 に、AgentCon - Tokyo のイベントがありました。\nhttps://globalai.community/chapters/tokyo/events/agentcon-tokyo/\n私はこのイベントで登壇させていただいたのですが、そのときに Maki-san が「Azure AI Agent のフロントエンドとしてのロボット： ｽﾀｯｸﾁｬﾝで実践するAIロボット開...",
+    "link": "https://zenn.dev/nomhiro/articles/stack-chan-poc-001",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-07T12:35:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "79f789fcbfe8e83b424a34cdc4b8dda8",
+    "title": "あなたはAIに「待った！」が言えるか？  ― AI時代に必要な「レビューする力」の話 ―",
+    "summary": "あなたはAIに「待った！」が言えるか？\n\n0. まえがき\n弊社にはTips発表会という文化があり、一週間に一回、交代制で30分ほどの発表を行います。10月入社だった私ですが、ついに出番が回ってきて発表したのです。\n弊社のメンバーはほとんどがエンジニア未経験でスタートしなが...",
+    "link": "https://qiita.com/qwertyhoge/items/e3d1aa1ab112062c146e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T03:09:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fe5d4914ae3c52d618da30d36fdbf532",
+    "title": "試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法",
+    "summary": "こんなことあるよね？\n「仕事が忙しく、気づけば資格試験まであと1週間……」\n「諸事情で、7日以内に合格しなきゃいけない（かなり滅茶苦茶な話）」\nこんなことってよくありますよね？ね？（あってはならない）\n丁度筆者もそのような絶望的な状況でしたが、GeminiとNoteboo...",
+    "link": "https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-08T12:19:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "13d4edd13ff27644da44ec4aba4b62cd",
+    "title": "Claude CodeのEffort、実は4段階ある ― \"max\" の使い方とソースコード調査",
+    "summary": "はじめに\nこんにちは。スタディング開発担当の山本です。最近の悩みはAIによるコードレビューの壁打ちが終わらないことです。\nさて、Claude Code（Anthropic公式CLI）には、モデルの推論深度を制御する effortLevel という設定があります。Claud...",
+    "link": "https://qiita.com/shohei_yamamoto/items/f326f5c343a4a35e63bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-09T01:00:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2cf4f08da2c358b9492c89ad35c14d31",
+    "title": "日常から始めるユーザーストーリーマッピングとBacklog運用",
+    "summary": "はじめに\nこんにちは、QAエンジニアのヨシナです。\nAIによって実行作業は効率化され、人はより「タスクを管理する側」の役割が求められています。そこでタスク管理の体系的な理解を深めるため、Jeff Patton著『ユーザーストーリーマッピング』を読みました。\n本記事では、日...",
+    "link": "https://qiita.com/s-yoshina/items/a1d0e8f87d076dbd3cd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-09T01:00:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b3758ea7ccfc4dd156c870d79b0a57e",
+    "title": "【コピペ可能】いつの間にか Gemini CLI で Subagent が作成できるようになっていたので、Subagent 作成をサポートをしてくれる Skill を作った（自己改善ループあり）",
+    "summary": "🏰 作ったもの\n最近 「Gemini CLI に『 Subagent の設定ファイル』を対話形式で作らせる Skill（subagent-creator）」 というものを作りました。\n\n「サブエージェントを作りたい」と伝えるだけで、必要な情報をヒアリングし、定義ファイル（...",
+    "link": "https://qiita.com/Ryo-Nakano/items/b6d7ad48cdf31cedb040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-08T14:43:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a4cab7cc86a03acfd00042faa392491c",
+    "title": "ホームラボに外から安全にアクセス出来る環境を整える【Tailscale】",
+    "summary": "Mini PCに構築したホームラボをいじります。\n\n構築イメージ\nTailscaleを使って、ProxmoxVE上のZorin OS VMと外に持ち運んでいるWindows PCやZorin PC間でVPNを敷設します。\nインターネットを経由して自宅のVMに安全にアク...",
+    "link": "https://qiita.com/ohtsuka-shota/items/1e8512e187c6abf6b5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-07T16:04:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "161ec7fec5fa4b1ca55f0c2d75ccd93b",
+    "title": "校務に生成AI活用する学校は2割　「学校だより」執筆も　文科省のデジタル化調査で判明",
+    "summary": "業務に生成AIを利用している学校の割合が17.2％に上ることが、文部科学省の学校のデジタル化に関する調査で明らかになった。家庭に配布する「学校だより」のたたき台を作らせたり、授業で集めた子供の感想文を分析させたりするほか、子供の生活態度や長所などを記載する通知表の所見欄の作成に使うケースもあった。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/09/news104.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-09T09:43:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "73a9e6ad839f95b0b10f5110a5dd17e7",
+    "title": "「なんJ語」うますぎAI現る→ワイ、悩み相談を“なんJスレ風”にして救われる",
+    "summary": "先週は、米OpenAIのAIモデル最新版「GPT-5.4」もリリースされた。推論やコーディング力だけでなく、日本語を操る力も向上しているようで、「GPT-5.4に小説を書かせたら面白かった」などと話題になっている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/09/news076.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-09T05:45:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3c1235eb125b86685767d7d054a2de73",
+    "title": "X、画像投稿時に「Grokによる修正をブロック」選べるように",
+    "summary": "Xに画像を投稿する際、生成AI「Grok」による編集を一部ブロックする設定が選択可能になった。3月9日時点では一部ユーザー向けに提供しているとみられ、ITmedia NEWS編集部が確認した限りでは、Grokの公式アカウントにメンションしての画像編集を拒否できた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/09/news075.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-09T03:41:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d475ee447311b4260ed728ec46278059",
+    "title": "”AWS上ですぐ使えるOpenClaw”提供開始　仮想プライベートサーバ「Amazon Lightsail」のインスタンスイメージとして",
+    "summary": "米Amazon Web Services（AWS）は、仮想プライベートサーバ（VPS）のAmazon Lightsailで簡単にOpenClawが導入できる、事前設定されたOpenClawインスタンスイメージの提供を開始しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/09/news058.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-09T01:46:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9eb7e1148060372aa2295bfa4007f6bb",
     "title": "Advances in private training for production on-device language models",
     "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
@@ -827,176 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-03-04T03:23:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0ccd87a6783251cb5e0694946aaa05a6",
-    "title": "ローカルLLMで動くAIコーディングエージェントをPySide6で作った話",
-    "summary": "はじめに\n「プロジェクトの目標を日本語で入力するだけで、Pythonファイルの設計・実装・テスト・デバッグまで全部やってくれるツールがあったら便利じゃないか？」\nそんな発想から生まれたのが Agentic Coder です。\nGitHub CopilotやChatGPTの...",
-    "link": "https://qiita.com/rikiza1989/items/e9f3a26e21792ae6db2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T08:25:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "59c233ead8c293b6f9704ea63e4e451d",
-    "title": "MediaPipeのランドマーク検出でマスクをした人の顔がどのように判定されるか調べてみた",
-    "summary": "はじめに\n前回の記事PythonでMediaPipeを使って顔のランドマーク検出をやってみたでMediaPipeを使ってみたのですが、マスクをしている人がどのような判定をされるか気になったので調べてみました。\n\nマスクをした画像で分析\nマスクをした画像とマスクをしていない...",
-    "link": "https://qiita.com/ssc-karasawa/items/70991a5ac68ad1f6dc61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-04T00:33:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "02ece07e5d383fc3cc14cc00ea39f03b",
-    "title": "NotebookLMに神アプデ！インフォグラフィックス カスタム作成機能がロールアウト",
-    "summary": "ちょっと前にGemini Nano Bananaを使って、インフォグラフィックスを作成する方法を記事にしました。\n\n今回紹介するのは、NotebookLMを使ってインフォグラフィックスを作成する方法です。\n本日（3/3）にインフォグラフィックスをカスタム作成できる機能が...",
-    "link": "https://qiita.com/yi_sugii/items/5f8698e6dfd3d07b47c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T02:23:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "31efe095c560ef349053b4fa1f4b1bff",
-    "title": "Oracle Cloud AI Speech で動画の音声をテキストに変換してみてみた",
-    "summary": "Oracle Cloud Infrastructure (OCI) には、音声をテキストへ変換できる OCI Speech というAIサービスがあります。\n\nOCIコンソール、CLI、SDK、REST API などから利用でき、音声認識結果を JSON や SRT 形式で取...",
-    "link": "https://qiita.com/shirok/items/00e3d706baea5297cd89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T23:14:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "77f0b0676e0785e4d072af9376d34e59",
-    "title": "OWASP「Secure MCP Server Development」完全解説 ― AI Agent時代の実行基盤セキュリティ設計",
-    "summary": "はじめに\n2026年2月、OWASPはGenAI Security Projectの一環として 「A Practical Guide for Secure MCP Server Development v1.0」 を公開した。\nこのガイドが示す最大のメッセージは一つだ。...",
-    "link": "https://qiita.com/keitah/items/eeae1d26c1a81035ab1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T12:01:03",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9fbbe25cad09ede13a92785f584613b3",
-    "title": "Claude Code Skills で「使うほど賢くなる」投資分析AIを作った話 Vol.2【Neo4j × 個人開発】",
-    "summary": "前回の記事（Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】）で、Claude Code Skills による投資分析の自動化を紹介した。あれから数ヶ月、システムは「使うほど賢くなる」仕組...",
-    "link": "https://qiita.com/okikusan-public/items/405949f83e8a39a49566?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-03T23:40:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b89ddc7ff5ca75a8a34d090c9e0757fb",
-    "title": "毎日のAI活用ログ、手作業だと3日で飽きるのでClaudeに丸投げした【Cowork × Schedule Tasks】",
-    "summary": "はじめに\nGMOコネクトの永田です。\n\n朝PCを起動して Claude Desktopを開くと、昨日のAI活用内容がもう Google Calendar に入っている。\n誰が何のタスクで Claude を使い、どんな知見が得られたかが YAML でまとまっている。\n\n...",
-    "link": "https://qiita.com/ntaka329/items/bb970bc940a98b26ab3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-04T03:11:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fe1356e58b462987cce12edd786992ca",
-    "title": "えっ！？ドキュメントがない？(AIで)できらぁ！",
-    "summary": "こんにちは、 @nobu34 です。\nエンジニアとして働いていると、こんな場面に遭遇することはありませんか？\n「このプロジェクトの仕様、把握しておいてね」\nと言われてリポジトリや共有フォルダを開いてみると……\n\nドキュメントが、ない。（特に歴史あるレガシープロジェクト）\n...",
-    "link": "https://qiita.com/nobu34/items/9781a4afcb4f2b75bbbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-04T06:59:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "675c756da303e5a11b91a17daf259843",
-    "title": "「MacBook Neo」正式発表　9万9800円から　iPhoneチップを採用した“廉価版MacBook”",
-    "summary": "米Appleは3月4日、新型ノートPC「MacBook Neo」を発表した。これまで“廉価版MacBook”として噂されていたもので、iPhone用のチップを採用することで、9万9800円からとリーズナブルな価格設定になっている。3月5日に予約受付を開始し、11日に発売する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/04/news163.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-04T14:30:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e02ca50a4c3bcd8bd7a8628215802504",
-    "title": "“AI生成”明かさず戦争の動画を投稿すると収益化停止、2度目で永久停止──Xの新方針",
-    "summary": "AIで生成した武力紛争に関連する動画を、AI生成と明かさずに投稿したユーザーは、収益分配を90日間停止される。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/04/news131.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-04T05:57:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7e346447bbdeda42fe839f40a87906ca",
-    "title": "「まんが日本昔ばなし」公式サイト公開、“遺跡発掘のように\"手作業でデジタル化　「こんな時代だからこそ」共創パートナー募集",
-    "summary": "AIを活用し、故・市原悦子さん、常田富士男さんの懐かしい声による多言語吹き替え版を用意するといった計画も。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/04/news089.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-04T01:36:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d87533506074d92002fbc3a9084bc5bf",
-    "title": "Microsoft Build 2026、今年はサンフランシスコで2日間の開催に",
-    "summary": "Microsoftは年次開発者会議「Build 2026」を6月2日からサンフランシスコで開催すると発表した。会場は旧米軍基地のフォートメイソン。従来のシアトルから“AIの聖地”へ場を移し、サティア・ナデラCEOらが登壇する。基調講演のライブは日本時間の6月3日午前0時からだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/04/news086.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-04T00:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
-    "title": "Talk like a graph: Encoding graphs for large language models",
-    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
-    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-12T21:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "14147e2b87b2bd9460733296794ee39f",
-    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
-    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
-    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-11T19:08:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a0e6680ebb78e8ce1d32793638e17487",
-    "title": "Health-specific embedding tools for dermatology and pathology",
-    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
-    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-08T19:33:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "565840782e257bf5057ffdc55abd1ef5",
-    "title": "Social learning: Collaborative learning with large language models",
-    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
-    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-07T18:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "736efd35c3bae73802329487368692ad",
-    "title": "Croissant: a metadata format for ML-ready datasets",
-    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
-    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-06T18:26:00",
     "ai_summary_done": false
   }
 ]
