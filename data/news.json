@@ -1,5 +1,195 @@
 [
   {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a31931eb1ef4a366be8ee4f93def7b95",
+    "title": "Vibe-Codingでアプリを作ってみたけど、結局やめた話",
+    "summary": "昨今のVive-Codingを見て、サーファーとして、サーフィンのスコア予報アプリ作れたらなと思い、やってみましたが、結局やめた話です。\n\n\n Vibe-Codingとは\nAIに指示を出しながら、自分はほぼコードを書かずにアプリを作るスタイルのことです。\nClaude Codeに「こういうものを作って」と言えば、ファイルを読み、コードを書き、エラーを直してくれる。自分はアーキテクチャと方向性だけ決...",
+    "link": "https://zenn.dev/mato/articles/65cf1b36537cca",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-11T12:49:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "55a2250a06021f645bf2fa0604b2b6a2",
+    "title": "Reactでsignalsは必要ない、Jotaiがあるから",
+    "summary": "こんにちは、Jotai作者です。\nだいぶ前のことですが、signals について React 文脈で思うことを英語で書いた記事があります。\nhttps://blog.axlight.com/posts/why-you-dont-need-signals-in-react/\n関連して、以前こんな記事も書いています。\nhttps://zenn.dev/dai_shi/articles/01813b22...",
+    "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-11T03:54:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b73162012d2768e9e377b0abd3f179f2",
+    "title": "データエンジニア・LLM エンジニア採用のスキルテストをリニューアルしました",
+    "summary": "こんにちは、ナウキャストでリードエンジニアをしている六車です。\nナウキャストでは、エンジニア採用の選考ステップの一つとして、書類選考を通過したエンジニア候補の方にスキルテストを受けていただいています。\nこの度、そのスキルテストをリニューアルしました。具体的には、グループ会社である Finatext が運用しているソフトウェアエンジニア共通スキルテスト（参考記事）を、ナウキャストのデータエンジニアお...",
+    "link": "https://zenn.dev/finatext/articles/skill-test-renewal-data-llm-engineer",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-11T00:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bd6fa140ad1edbd9c7d6b2661bcd3363",
+    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
+    "summary": "はじめに\n前回の記事では、Claude Codeに出戻りした話と、コンテキストエンジニアリングの考え方について書いた。\n今回は「じゃあ実際に実務でどう使うの？」という話だ。\n個人開発のプロジェクトなら思いついたままにClaude Codeを走らせて実装すればいい。それはそれで楽しいし、それなりの成果物もできる。\nただ、それでは再現性がない。\n以前書いた記事でも触れたが、モデルの精度が上がったとはい...",
+    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-10T17:09:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a4deb976ac57a3d6e26a836ffe4567df",
+    "title": "GitHubで見つけた「便利ツール」を解析したらマルウェアだった話",
+    "summary": "はじめに\nこの記事は前回の記事の続きです。\n前回はソーシャルエンジニアリングの手法として「ClaudeのArtifacts悪用したマルウェア配布」や「Open Clawの偽リポジトリでのマルウェア配布」についての記事を紹介しました。\nhttps://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-...",
+    "link": "https://zenn.dev/hiyoko_sauna/articles/74dd12a7cabafa",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-10T13:36:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3e343edf4ee95c347e10fde97851fc28",
+    "title": "Claude Codeで自分好みの朝刊が届く仕組みを作った",
+    "summary": "はじめに\nこんにちは、まっくすと申します。\n普段Flutter を使ったフリーランスのエンジニアとして働いています。\nエンジニアになって大事だなぁと感じるのは、\n言語や技術の最新情報を追いかける、ということです。\n特に昨今のAI技術の発展を追いかけることは、\n自分の仕事の生産性を上げることにつながるため、非常に重要だと考えます。\nただ、情報収集のために毎日複数のサイトを巡回するのは結構な手間です。...",
+    "link": "https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-10T11:37:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6cae84ef2da4046334f4c0e88066a50a",
+    "title": "夜中もOpenClawに働かせ続けよう🌜🦞",
+    "summary": "暗闇の中でロボットに仕事をさせよう\n中国では夜間にも工場のロボットを稼働させるのが当たり前になってきていますが、ソフトウェア開発も同じであるべきです。\nApple Silicon Macを常時起動し、AIを稼働させておけば、我々も就寝中に開発プロジェクトを前に進めることができます。\n\n\nこの記事では、私が実際に回している OpenClaw + cron + GitHub看板運用 のやり方を、実運用...",
+    "link": "https://zenn.dev/iototaku/articles/c7f87e5ba76c5f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-10T10:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bc646a9178685a308ecec346f3f8b596",
+    "title": "「テストコードは仕様書になる」クリーンアーキテクチャの各層で「振る舞い」をテストするべき理由",
+    "summary": "はじめに\nこんにちは！株式会社Schooで内定者インターンをしている@takishun_schooと申します！\n現在私は、とあるプロジェクトのバックエンド開発に携わっており、プロジェクトではGo言語とクリーンアーキテクチャを採用しています。\n今回は、そのインターン中の機能...",
+    "link": "https://qiita.com/takishun_schoo/items/5b5fd06d488119daa899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-12T05:48:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "df1814fe08cafe2b883278ed08773b6f",
+    "title": "LLMからエージェントへ：2026年に学ぶべきオープンソースAIプロジェクトまとめ",
+    "summary": "2024年まで、AIの学習といえば「モデルのファインチューニング」が主流でした。でも2026年の今、完全にゲームが変わりました。\n今のAI開発の主戦場は 「モデルの精度を0.1%上げること」ではなく、「AIにシステム権限を与えて、自律的にタスクを実行させるアーキテクチャをど...",
+    "link": "https://qiita.com/yamamoto0/items/5f9ba2cdb2a9e9e93105?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-12T06:30:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "384622370aeb4e902761ddec7ccc465b",
+    "title": "gpt-ossの推論を6倍速に。Thinking OFF設定と、Ollamaで効かない理由",
+    "summary": "はじめに\nGMOコネクトの永田です。\nローカルLLMの推論をもっと速くしたい！\nLLMを利用するタスクによっては1件あたり数十秒〜かかり、処理件数が多いとかなりの処理時間になります。\ngpt-ossの場合、推論時間の8割はreasoning tokens、つまりモデルが内...",
+    "link": "https://qiita.com/ntaka329/items/35f156dbe526121e66f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-11T04:55:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ce92934c2ca72957945514c6d6f91980",
+    "title": "税収12兆円の代償 ― 日本の土地は誰のものになるのか : Pythonで学ぶ マクロ経済学入門 (57)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n「観光客が増えてもお金が回らない ― 日本の中に生まれる“外国経済圏” のメカニズム : Pythonで学ぶ マクロ経済学入門 (56)」\nhttps://qiita.com/maskot197...",
+    "link": "https://qiita.com/maskot1977/items/ac027bc03be2d105fb83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-11T22:39:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7c1d6e287657f120c4647e4314d3fdeb",
+    "title": "AIコーディングの「理解負債」— 技術負債の次に来る落とし穴",
+    "summary": "はじめに\nAIコーディングツールの普及が止まらない。GitHub Copilot、Cursor、Claude Code——開発者の多くが何らかのAIアシスタントを日常的に使っている。生成されたコードは動く。テストも通る。PRも出せる。\nしかし、ここで見落とされている問題が...",
+    "link": "https://qiita.com/nogataka/items/d85df55f384b06161af3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-12T12:53:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "536f81690260b54d94bd25d82d6284d1",
+    "title": "LLMにコードを書かせるなら知っておきたい「Karpathy Guidelines」を解説する",
+    "summary": "LLMにコードを書かせるなら知っておきたい「Karpathy Guidelines」を解説する\n\nはじめに\nAIにコードを書かせる時代になりました。GitHub Copilot、Cursor、Claude Code——ツールは増え続けていますが、LLMが書くコードには共通...",
+    "link": "https://qiita.com/kotai2003/items/e88e7c247c6cb70c57dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-09T22:55:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6edb13effae1b17bdf9d9c6a8b29e17c",
+    "title": "Manus元リードが語る「function callingをやめた理由」— 2年のエージェント開発から得た実践知見",
+    "summary": "はじめに\nAIエージェント開発において、function callingは「当たり前」の選択肢とされてきた。OpenAIが2023年にAPIとして提供して以来、ほぼすべてのエージェントフレームワークがfunction callingを前提に設計されている。\nしかし、話題の...",
+    "link": "https://qiita.com/nogataka/items/9924c97a74f63c5452eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-12T12:54:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "092eadc38b81b294e15716392873aca6",
+    "title": "Meta、Facebook、Messenger、WhatsAppに詐欺対策ツールを追加",
+    "summary": "Metaは、Facebook、Messenger、WhatsAppに新たな詐欺検出ツールを導入する。AI技術を活用し、不審なアカウントからの接触や詐欺パターンを検知してユーザーに警告を表示する仕組みだ。あわせて、法執行機関との連携により東南アジアの詐欺拠点を標的とした15万以上の不正アカウント停止も発表した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news073.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-12T02:11:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "113eb3f88c7f8ec91c5b368c60e3865e",
+    "title": "Google、クラウドとAIセキュリティのWiz買収を完了　過去最大の案件に",
+    "summary": "Googleは、クラウドとAIセキュリティ企業Wizの買収を320億ドルで完了した。WizはGoogle Cloud部門に統合されるが、ブランドは維持され、AWSやAzureなどマルチクラウド環境へのサービス提供も継続する。Wizの専門知識とGoogleのAI技術の融合により、サイバー攻撃への対応迅速化と運用コスト削減を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news069.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-12T00:46:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "08359698015a6445ea3faa9beee9592b",
+    "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
+    "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-11T23:46:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b3bdac89ef7e4a69b59dc3176e302d7b",
+    "title": "Anthropic、AIリスク専門のシンクタンク設立──米政府の規制リスクに直面する中で",
+    "summary": "Anthropicは、AIの社会的影響を研究する新部門「Anthropic Institute」を設立した。高度なAIがもたらす経済や雇用へのリスクを分析し、政府の政策決定を支援するシンクタンクとして機能する。ワシントンD.C.にも拠点を設け、サプライチェーンリスク指定を巡る議論が深まる中、情報の公開と外部連携を強化する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-11T22:43:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -807,196 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-03-07T22:44:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5d1c16d67a86b28e4b8098ca5544fb7c",
-    "title": "Markdown ドキュメント間の整合性を検証する contextlint を作っている話",
-    "summary": "はじめに\nAI を活用したソフトウェア開発では、要件・仕様・設計といった構造化ドキュメントを SSOT（Single Source of Truth: 信頼できる唯一の情報源）として管理し、それを基に AI がコードを生成する、いわゆる 仕様駆動開発（SDD） のようなアプローチが定着しつつあります。\nこうしたアプローチでは、ドキュメントの品質が生成されるコードの品質に大きく影響します。\nつまり、...",
-    "link": "https://zenn.dev/nozomi_cobo/articles/contextlint-introduction",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-07T13:38:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "913b1cb46d7222a5e9194454a8e3c9f0",
-    "title": "AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方",
-    "summary": "英語で書いた記事の日本語版です。\nhttps://newsletter.daishikato.com/p/my-thoughts-on-ai-generated-prs-for-my-oss-projects\n\nこんにちは。\nAI支援コーディングは素晴らしいものです。これは間違いないです。ただ、OSSへのコントリビュートという文脈になると、話は少し複雑になります。\n\n 問題点\n自分のOSSプロジェ...",
-    "link": "https://zenn.dev/dai_shi/articles/a686bdf7fd5800",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-07T04:22:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "663683e4aeab01311dbaf1dc8746339f",
-    "title": "Claude Max (20倍プラン) を1ヶ月以上契約して感じたこと",
-    "summary": "はじめに\n普段プログラマーとして働いています。職場でもAIを開発にガンガン使っていますが、趣味でclaude max 20倍を契約して色々開発しています。\n感じたことを箇条書きレベルでまとめます。\n公開しているものはあまりないですがいくつか紹介します。\n\n ゲーム: Capsulitas\nCapsulitasというゲームを開発しています。体験版をSteamに公開するまでは至りました。ドット絵は自分...",
-    "link": "https://zenn.dev/soyukke/articles/b1529facaea27f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-06T15:06:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "71aba0646af1363ec21f41c5da4b409b",
-    "title": "スピードも品質も諦めたくない！そんな願いを叶える「仕様駆動開発」のススメ",
-    "summary": "はじめに\nSecureNavi株式会社でSecureLightのエンジニアをやっているホッケ肉厚（@HokkeNikuatsu）です🐟️\nAIを活用した開発が当たり前になりつつありますが、皆さんのチームではどのような仕組みを取り入れているでしょうか👀\n私のチームではAI駆動開発の効率をさらに高めるために 仕様駆動開発（Spec-Driven Development） を導入しました。\nこの記事では...",
-    "link": "https://zenn.dev/securenavi_tech/articles/20260301-sdd-introduction",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-06T03:00:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f548fd542e5fec839c9509863affdf3a",
-    "title": "Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた",
-    "summary": "はじめに\nPythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究、PoC用途で使う、簡単な解析や簡単なシミュレーションに使ってきました。\n表計算で広く使われるPandasですが、Pandasを最近あまり使わなくなったというSNSの投稿をみて、使用するライブ...",
-    "link": "https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-07T16:58:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "42dd74acd0868ff07d6d5380ffeb792e",
-    "title": "観光客が増えてもお金が回らない ― 日本の中に生まれる“外国経済圏” のメカニズム : Pythonで学ぶ マクロ経済学入門 (56)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n「なぜ日本だけ財政破綻を信じているのか ― \"国の借金1000兆円\" という物語 : Pythonで学ぶ マクロ経済学入門 (55)」\nhttps://qiita.com/maskot1977/...",
-    "link": "https://qiita.com/maskot1977/items/7689412cc9d5a1bbab88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-07T16:07:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "089a3ee3d8dc732f5090e92700ed6e50",
-    "title": "【経験談】GeminiからchatGPTに乗り換えたワケ",
-    "summary": "この記事は、AIを使わずに全て手作業100%で作られています。私の実体験をもとにした考えを記事にしたものです。\n\nはじめに\n私は基本的に業務ではGeminiを使っていて、仕様書の要約であったりわからないことがあると質問していたり、マトリクスの作成をして情報の整理をお願いして...",
-    "link": "https://qiita.com/kamome_susume/items/5f1816a30d5bb691c60a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-07T08:47:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2c3cb469cadbc5ba9a3386559b8430ca",
-    "title": "2026/03/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nClaude Codeはプロンプトインジェクシ...",
-    "link": "https://qiita.com/ennagara128/items/e76bf0f37d2bcc9f70aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-08T01:13:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "814de27f01ef6aa83e142d64d84f28da",
-    "title": "11tyで作ったブログの使用感がなかなか良い",
-    "summary": "はじめに\n11tyというJavaScriptのフレームワークでブログを作成しました。私はJavaScriptフレームワークの経験がほとんどない状態でしたが、11tyは思いのほかスムーズに導入できました。本記事では、11tyの具体的な説明というよりは、11tyを選定した理由...",
-    "link": "https://qiita.com/hukusima65/items/e59acb6600f0464a1bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-07T09:28:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f93fcbc9c17c349d2f077f206052a047",
-    "title": "Symphony - OpenAIが発表したチケット駆動AI開発ツールについて",
-    "summary": "こんにちは！ブロックチェーンエンジニアの山口夏生です。\nブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。\nコーディングエージェントを複数並列で自律的に回すマルチエージェント開発が、ここ数ヶ月でエンジニアの間に急速に広まっていますが、まだそれぞれ試行錯誤しているフェーズで、最適解はない認識です。\nOpenAIが最近発表したSymphonyに注目...",
-    "link": "https://zenn.dev/komlock_lab/articles/openai-symphony",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-06T07:48:55",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7eb268bdb2105f7d9669e433bc23b07c",
-    "title": "Vibe Codingは実プロジェクトで通用するのか？ 約6ヶ月試してわかったことと必要なスキル",
-    "summary": "1. はじめに：この記事の前提と、私の定義する「Vibe Coding」\n本題に入る前に、少しだけ私の立ち位置とこの記事の前提をお話しさせてください。\n私はプログラマーとして約5年働いた後、現在はデータサイエンティストとしてAI構築とシステム構築を並行して行っています。\nそのため、この記事でお話しする 「Vibe Codingは実プロジェクトで通用する」という結論は、あくまで私が身を置くデータサイ...",
-    "link": "https://zenn.dev/mkj/articles/9827c9d7686a73",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-06T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3ec0ed5cf0a3de931064496cf0ea4798",
-    "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
-    "summary": "はじめに\nこんにちは！\nみなさんは、コードレビューの負担に悩んでいませんか？マイクロサービスが増えるにつれて、レビュー対象のコードも増え続け、セキュリティやパフォーマンス、テストカバレッジなど、チェックすべき観点も多岐にわたるようになりました。レビュー待ち時間が開発速度のボトルネックになってしまう…そんな経験、ありませんか？\n私たちも同じ課題を抱えていました。AIレビューを導入していたものの、求め...",
-    "link": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-05T06:45:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5fbdf0fe6eab8406a0c77ee3f28a69c4",
-    "title": "コミットメッセージを自分で書かない",
-    "summary": "git alias を使ってコミットメッセージをAIに書かせる\n最近はこれを git alias に入れて、コミットメッセージをゼロから書くことがほぼなくなりました。\naicommit = \"!f() { COMMITMSG=$(claude --no-session-persistence --print 'Generate ONLY a one-line Git commit message ...",
-    "link": "https://zenn.dev/hfm/articles/commit-message-generated-by-ai",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-05T01:14:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2045d0a60585e0a5355912c5607f898a",
-    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
-    "summary": "Unityの AI Assistant v2.0.0-pre.1 から、\nUnity MCP（Model Context Protocol） が使えるようになりました。\nMCPを使うと、AIからUnity Editorを操作できるようになります。\n今回は\n\nCodex C...",
-    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-06T07:24:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8a07f751137dff34fe803c212ac9fbd3",
-    "title": "5分でできる！PicoClawでClaude CodeをClaw化してみた",
-    "summary": "はじめに\nClaude Codeはターミナルで動く強力なAIコーディングエージェントです。ただし、使えるのはターミナルの前にいるときに限られます。「外出先からTelegramで指示を飛ばしたい」「定期的にリポジトリの状態をチェックさせたい」と思ったことはないでしょうか。\n...",
-    "link": "https://qiita.com/nogataka/items/d4b6bdea821f1c43bc24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-07T03:22:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f06f7d48651a813511dfd16789784c7d",
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\nエンジニアあるあるだと思います。APIが使える...",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-06T11:18:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0cbd988592ae022fa4dc137fc8708c88",
-    "title": "生成AI活用の変化に追いつくのに必死だった1年の記録（Cursor → Claude Code, Codex → AIオーケストレーション）",
-    "summary": "はじめに\n2025 年は、私にとって開発業務で生成 AI を使うことが当たり前になった年でした。\nただ、自分から主体的に生成 AI の波に乗っていたというより、最新情報を追っているメンバーと同じ船に乗っていただけ、という感じです。\n詳しいチームメンバーから「このやり方がい...",
-    "link": "https://qiita.com/ryamate/items/b0c907d28bc438c92a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-06T10:32:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8ad7577c119354dbea3b6cce898171fc",
-    "title": "便利すぎるAIは、なぜ技術者の思考を弱くするのか",
-    "summary": "「空洞化した精神」から考える、IT技術者のためのAIとの付き合い方\n生成AIが開発現場に入り込んでから、仕事の進め方はかなり変わりました。エラーの原因調査、設計のたたき台、SQLや正規表現の作成、コードレビュー観点の洗い出し、ドキュメント要約、未知の技術のキャッチアップ—...",
-    "link": "https://qiita.com/mhamadajp/items/7e64e1e2143d6d4bacf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-05T00:37:40",
     "ai_summary_done": false
   }
 ]
