@@ -1,5 +1,105 @@
 [
   {
+    "id": "926fb0b411cfc68cdf609a0db59ab101",
+    "title": "Google at APS 2024",
+    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
+    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-04T15:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2df65c24e00cfb307ae7046ddd875b73",
+    "title": "VideoPrism: A foundational visual encoder for video understanding",
+    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
+    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-22T20:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7e3e3e245f2dd8924bef7c3f54c0316c",
+    "title": "私のOSS活動元年を振り返ったらAIと下心が原動力だった",
+    "summary": "1年前、自分のGitHubプロフィールを開いても、ほぼ何もなかった。\nGitHubの公開レポはほとんどなし。あるのは数年前に作ったちょっとしたものくらいで、寂しいものだった。OSS活動？「いつかやりたいな」とは思っていたけど、何を作ればいいかわからない、公開しても誰も見ないだろうし、仕事との時間のバランスを考えると腰が重い。そんな状態でした。\nそれが今、気づいたら20個以上のOSSを公開していて、...",
+    "link": "https://zenn.dev/jackchuka/articles/473ef7cc70efbc",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T04:15:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4bf367aa13fab3d5e39dab6942c68122",
+    "title": "Coding Agent に loop して欲しいのは prdじゃない skill だ",
+    "summary": "要約\nRalph loopから始まり、Harness Engineering, AI-DLCと名前を変えてcoding agentを長期実行するコンセプトは世の中を席巻している。\nせっかくなので自分が使いやすい形でloopの実行をするためのOSSを作ってみたので中身を解説したい。\nhttps://github.com/takumiyoshikawa/skill-loop\n\n モチベーション\n私が最...",
+    "link": "https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-14T09:38:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "13baf9532376baac0efd57a3d1ad1987",
+    "title": "生成AIでパワポを作る方法一覧【2026年3月版】",
+    "summary": "はじめに\n生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。\n本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPT...",
+    "link": "https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-14T00:14:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c835d9b2c7935133950c8823c02b1d1a",
+    "title": "現代貨幣理論は本当に危険なのか？ ― 日本経済で検証する5つの誤解 : Pythonで学ぶ マクロ経済学入門 (59)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず\n「復興税は本当に必要だったのか？ ― 4つの経済シナリオで検証する : Pythonで学ぶ マクロ経済学入門 (58)」 https://qiita.com/maskot1977/items/2...",
+    "link": "https://qiita.com/maskot1977/items/e12e5c07548b173c68b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T00:38:19",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7569a7b93ed09acd2075be93f05f7863",
+    "title": "バイクの写真を送るだけで車種を判定するAIをLaravelで作った",
+    "summary": "バイクの写真を送るだけで車種を判定するAIをLaravelで作った\n\nはじめに\n「このバイクなに？」と思ったことはありませんか？\n街で見かけたバイク、友人が乗っているバイク、昔のカタログに載っていたバイク。名前がわからなくてモヤモヤした経験は、バイク好きなら誰でもあるはず...",
+    "link": "https://qiita.com/auchida1982/items/f53aab7afcf80057c25b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T04:33:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "73eba2cf8d36831f8e99d3521afc65a6",
+    "title": "ObsidianとローカルLLMを連携するAIプラグイン「Local LLM Hub」を作りました",
+    "summary": "はじめに\nこのプラグインは、私が開発しているobsidian-gemini-helper のローカルLLM専用版です。\nobsidian-gemini-helperはRAGやMCPやSkillsがObsidianのアプリ上でチャット形式で使えたり、ワークフローを組むことが...",
+    "link": "https://qiita.com/takeshy/items/00213a75e7e71cc66269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T08:42:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3d554e772a90b3940790ed1835cdc738",
+    "title": "2026/03/15 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nClaude Code Skills 完全活用...",
+    "link": "https://qiita.com/ennagara128/items/afc04f2a5a1f1880236e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T03:40:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "229973d2ab128c161587933a437a1f58",
+    "title": "「MacBook Neo」をiFixitが分解　「過去14年で最も修理しやすいMacBook」",
+    "summary": "iFixitは、Appleが発売した「MacBook Neo」の分解レポートを公開した。18個のネジによるトレイ固定式バッテリーを採用した点や、モジュール化された部品へのアクセスのしやすさを高く評価している。過去14年で最も修理しやすいMacBookだと評した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/15/news018.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-14T22:26:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9eb7e1148060372aa2295bfa4007f6bb",
     "title": "Advances in private training for production on-device language models",
     "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
@@ -897,106 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-03-10T23:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d280bc81782e40604b95e9f8bad767e0",
-    "title": "Google、WorkspaceにGeminiを深く統合　アプリ横断のAI活用が可能に",
-    "summary": "Googleは、Gemini AIをWorkspaceの各アプリに深く統合した新機能を発表した。ドキュメントやスプレッドシート等で、メールやファイルを横断的に参照したコンテンツ作成や情報検索が可能になる。法人向けテスト参加者や特定の有料プランユーザーを対象に英語圏から順次展開され、数カ月以内に一般提供される予定だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news059.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-10T23:38:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3272d19475dfbc7b77c46aac95a4e4a3",
-    "title": "Meta、AIエージェント向けSNS「Moltbook」を買収　創設者はMSL入り",
-    "summary": "MetaがAIエージェント専用SNS「Moltbook」を買収したとAxiosが報じた。開発チームは次世代AI部門に参画する。Metaは当面サービスを継続する方針だが、将来的には技術統合による単独サービスの終了も示唆している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news058.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-10T22:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
-    "title": "Talk like a graph: Encoding graphs for large language models",
-    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
-    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-12T21:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "14147e2b87b2bd9460733296794ee39f",
-    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
-    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
-    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-11T19:08:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a0e6680ebb78e8ce1d32793638e17487",
-    "title": "Health-specific embedding tools for dermatology and pathology",
-    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
-    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-08T19:33:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "565840782e257bf5057ffdc55abd1ef5",
-    "title": "Social learning: Collaborative learning with large language models",
-    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
-    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-07T18:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "736efd35c3bae73802329487368692ad",
-    "title": "Croissant: a metadata format for ML-ready datasets",
-    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
-    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-06T18:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ed173dea8f974b2b49a8fbf37c07567b",
-    "title": "LLVMに対する32ビット定数除算の改善",
-    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic c...",
-    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T02:00:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d0d9a9c226136c1f80410d76b0b808b3",
-    "title": "Emacs ユーザが3ヶ月くらい Zed 使って Emacs に戻った",
-    "summary": "前回の記事:\nhttps://zenn.dev/hyakt/articles/02f3a76187ca2a\nで Zed を使い始めましたが、結論から言うと、いまは Emacs に戻っています。\nZed は速いし、開発も活発で、良いエディタだと思います。\nただ、自分のユースケースには最終的に Emacs の方が合っていました。\nこの記事は Zed を下げる話ではなく、\n「3ヶ月使ってみて、自分に必要...",
-    "link": "https://zenn.dev/hyakt/articles/feb205646fc9f1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-09T10:21:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4ccfcad39a11de78177561c68783fd17",
-    "title": "SQL で区間同士の重なり（interval overlap）を一発で判定する方法",
-    "summary": "こんにちは！株式会社 MeDiCU で学生インターンをしている村山です。普段は、MeDiCU の管理するデータベース OneICU を使った臨床疫学研究や医療 AI 研究に関わっています。\n\n はじめに\nSQL で時系列データを扱っていると、「2つの区間が重なっているか」を判定したい場面が頻繁に出てきます。\n\nあるイベントが発生していた時間帯と\n別のイベントが発生していた時間帯\n\nが重なっているか...",
-    "link": "https://zenn.dev/medicu/articles/cd97674e6faa91",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-09T09:23:48",
     "ai_summary_done": false
   }
 ]
