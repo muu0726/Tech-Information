@@ -1,5 +1,235 @@
 [
   {
+    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
+    "title": "Talk like a graph: Encoding graphs for large language models",
+    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
+    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-12T21:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14147e2b87b2bd9460733296794ee39f",
+    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
+    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-11T19:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a0e6680ebb78e8ce1d32793638e17487",
+    "title": "Health-specific embedding tools for dermatology and pathology",
+    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
+    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-08T19:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "565840782e257bf5057ffdc55abd1ef5",
+    "title": "Social learning: Collaborative learning with large language models",
+    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
+    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-07T18:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "736efd35c3bae73802329487368692ad",
+    "title": "Croissant: a metadata format for ML-ready datasets",
+    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
+    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-06T18:26:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cbeafd02993fd6a2750f61e8c258868a",
+    "title": "Claude Code / CodexでKaggle金メダルを取った話",
+    "summary": "TL;DR\n\n実装と分析をAIに任せることで、実験量が桁違いに増えた（5-Fold CV合計1,515回）\n実装から解放された分、人間はアイディアとデータ観察に集中できた\nただし、スコアを押し上げたアイディアのほとんどは人間発。AIの提案の打率は低かった\nAIに素早く実験を回させるための環境・構成づくりも重要だった\nこの構図はKaggleに限らず、定量評価できるR&D全般で起きうると感じている\n\n...",
+    "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-16T00:04:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dc153cff652f8cf9bc537fb072127d98",
+    "title": "音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する",
+    "summary": "はじめに\n!\nこの記事はすべて人力で記述しています。\n誤りがあれば、こっそりと教えてください。\n\nhttps://github.com/ace-step/ACE-Step-1.5\n最近、AIで音楽を生成できるオープンソースモデル「ACE-Step 1.5」を試す機会があったので、備忘録として残します。\n性能や操作感において、Sunoなどの商用モデルに匹敵するクオリティで、しかもローカル環境で動かせ...",
+    "link": "https://zenn.dev/asap/articles/6a717d7a68ec02",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T16:21:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c7ee090ae5e754c95da434a01afb8eb2",
+    "title": "Claude CodeのReact習熟度を測る",
+    "summary": "皆さんこんにちは。コーディングエージェントの発展により、プログラムの多くの部分をAiが書いてくれるようになりました。\nしかし、筆者が得意とするReactに関しては、動くものを作ることはできるにせよ、人間が十分に指図しなければ質のいいコードが書けないことも多いと感じています。\nそこで、今回は、Claude CodeのReact習熟度を測るための簡単なベンチマークを作ってみたので、その結果を共有します...",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T15:23:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e056164e4173c8b88f5cc8408f754a4c",
+    "title": "GitHub Copilotのスラッシュコマンドやサブエージェントを使って、簡易レビュー実装",
+    "summary": "はじめに\n自分が参画している現場で、GitHub Copilotを用いて、ローカルでAIレビューする仕組みを作ってみたので、どのようなものを作ったのかを紹介していきます。\nGitHub Copilotも知らないうちに結構進化していて、VScodeで使う分には使いやすいと感じたので、「こういう部分が便利！」みたいな情報も合わせて伝えられればと思います。\nClaude Codeなどと比べて、GitHu...",
+    "link": "https://zenn.dev/peishim/articles/f1030e6102946c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T14:20:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c82c459f5f5a6adb89c76d4c81e48e62",
+    "title": "課題ベースで学ぶClaude Code便利機能",
+    "summary": "この記事について\n「とりあえずClaude Codeを入れてみたけど、なんか使いこなせていない気がする」「あの機能の存在は知っているけど、自分には関係ないと思っていた」という方はいませんか？\n本記事では、Claude Codeを使いはじめた人が日々の作業の中で感じるよくある「つまずき」や「不満」を出発点に、それを解消するClaude Codeの機能を紹介していきます。\n\nClaude.aiチャット...",
+    "link": "https://zenn.dev/hsaki/articles/why-claude-code-function",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T12:00:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8455bc2d3b25ef09c788e41f6c91259a",
+    "title": "Webサービスを作って公開したらなんか知らないアカウントが開発者を自称していた",
+    "summary": "@satetsu888 です。最近AIエージェントで開発が高速化した結果、作った機能の動作確認が間に合わなくなっていく感じがしているので、QAをAIに任せるためのハーネス的なことをするサービス aqua を作っていました。\nこのサービスの紹介を書こうと思っていたんですが、なんか知らないアカウントが僕の作ったサービスの開発者を自称してXに投稿しているのを見つけたので、注意喚起も兼ねて調べたことをまと...",
+    "link": "https://zenn.dev/satetsu888/articles/ab3b195c7603b0",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T08:11:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f8324663b87fd94aa9d144880f302313",
+    "title": "コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。",
+    "summary": "私は現在、B2B向けのニッチな自動化APIミドルウェアをSaaSとして完全な個人で運用し、広告費ゼロ・従業員ゼロで毎月およそ300万円ほどのMRR、定額の月次収益を生み出している。しかも実を言うと、この半年間、エディタを開いて人間が手入力する従来のコーディング作業など1秒たりともおこなっていない。ローカルのターミナルからClaude Codeを呼び出し、AIに要件と仕様を突っ込んでシステム全体を保...",
+    "link": "https://zenn.dev/nnze/articles/e3f648e335a947",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-15T02:05:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "06049f7df91de7b49b00490f248de3ae",
+    "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
+    "summary": "古（いにしえ）のFORTRANコード\nChatGPT5.4 Codexを使います。MacのCodexアプリを使います。\nこのWebサイトでは、物理学で使う計算手法のコードが公開されています。FORTRANです。DMFTと呼ばれる手法の超有名なレビューで使われている関数でし...",
+    "link": "https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-16T10:12:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "83c95e5396f9d1eb102625d232dc68a5",
+    "title": "Rust バックエンドで htmx を使ってみた",
+    "summary": "htmx とは\n\nhtmx は「HTML中心で動くフロントエンド」を実現するための軽量な JavaScript ライブラリです。\nReact / Vue などのフロントエンドフレームワークとは異なり、\nバックエンドからは JSON ではなく HTML を受け取り、DO...",
+    "link": "https://qiita.com/nakamura-yzrh/items/8793a51e71ef76b0f5d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T14:07:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dc92c7588725e148ed3c56242a22c6f6",
+    "title": "[DGX Spark] 卓上スパコン2台をケーブル1本で繋いで、Qwen3.5-397Bのモンスターモデルを動かしてみた",
+    "summary": "はじめに\nNVIDIA DGX Spark 2台をConnectX-7（200Gbps）で直結し、Qwen3.5-397B（3970億パラメータ）をローカルで動かすことに成功しました。生成速度は約21〜23 tok/s。クラウドに依存せず、手元のハードウェアだけでGPT-...",
+    "link": "https://qiita.com/Humanophilic_development/items/1747a9a07be57e8ecf6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-16T05:12:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "321cdd880fb8298f95a1269f8e7c6e11",
+    "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
+    "summary": "はじめに\nUnity で演出を作っていると、ほぼ確実にスキップ機能が必要になります。\nリザルト画面、ガチャ演出、ストーリーパート。やりたいことは「ボタンが押されたら、実行中の演出を飛ばして次へ進む」だけなのに、実装は毎回つらい。\n私自身、この問題にかなり悩みました。その末...",
+    "link": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T21:56:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "95f112e343357e4d4a494bfac71b0dd3",
+    "title": "[小ネタ] Excelでセルにローカルフォルダの画像を表示する時は IMAGE 関数 + Caddy ワンライナーが便利",
+    "summary": "はじめに\nAIの学習データ整理のために、ローカルにある画像をExcelシート上で一覧表示したいことがあったので、手法をメモしておきます。\nExcelには =IMAGE(URL) という関数があり、URL先の画像をセル内に表示できます。ただしこの関数には以下の制約があります...",
+    "link": "https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-16T06:55:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fa01b9ba1fa9cd2a183dabfb2c22d5e3",
+    "title": "IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう",
+    "summary": "IBM BobはIBMが開発したVS Codeを利用したAIコーディングエージェントです。\nVS Codeプラグインではなく、IBM Bobを導入して専用アプリとして起動します。CLIもあります。\nかわいいキャラクター&人の名前がついているので、使ってるとBobという人型ロ...",
+    "link": "https://qiita.com/nishikyon/items/af47a0b003df619ef006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-16T00:13:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bb76901ad4c10bf63fea6b1d5edbfd7f",
+    "title": "AIコーディングエージェントに「rm -rf」を実行させるまでの手法から対策法を考える",
+    "summary": "はじめに\n\n本記事はセキュリティ啓発を目的としています。紹介する攻撃手法を悪用することは、不正アクセス禁止法等の法律に違反する可能性があります。必ず自身の管理下にある環境でのみ検証してください。\n\nこんばんは、mirukyです。\n最近AIエージェント系のセキュリティ記...",
+    "link": "https://qiita.com/miruky/items/0aa2c4a7ec05fd1158ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T12:20:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "085b4fdcec5024dd5c0318ba53fd7bea",
+    "title": "Oracle Autonomous AI Database に高性能な大規模埋め込みモデルをロードしてインデータベースでベクトルを生成する",
+    "summary": "はじめに\nOracle Database 26ai（23.26.1）から、ONNX 形式の埋め込みモデルのサイズ制限（従来は 1GB 上限）が撤廃され、multilingual-e5-large のような高性能な多言語対応モデルをデータベース内にロードできるようになりまし...",
+    "link": "https://qiita.com/yuji-arakawa/items/29e20088cebdd2bd7296?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-15T16:00:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ee3568a893af3930f06c520b8421e531",
+    "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に",
+    "summary": "米NVIDIAが、年次カンファレンス「GTC 2026」でAIエージェントプラットフォーム「OpenClaw」向けソフトウェアスタック「NemoClaw」を発表した。1コマンドでNemotronモデルとOpenShellランタイムをインストールし、プライバシーとセキュリティを担保したままAIエージェントを常時稼働できる環境を構築できるという。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/17/news056.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-16T21:10:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4d21daee9e9897c148270385fe3cce9e",
+    "title": "Apple、新ヘッドフォン「AirPods Max 2」発表　ノイキャン性能は最大1.5倍に　8万9800円",
+    "summary": "米Appleは、H2チップ搭載のオーバーイヤー型ヘッドフォン「AirPods Max 2」を発表した。ANCの効果は前世代比最大1.5倍に向上し、ライブ翻訳などのAI機能や、USB-C接続による24ビット48kHzのロスレスオーディオに対応する。価格は8万9800円で3月25日に予約受付を開始する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/16/news117.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-16T14:50:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2e84dff67d57033933bc703e70773853",
+    "title": "もしもAIバブルが“投資回収フェーズ”に至ったら？　「AIより人間の方が安い」がもたらす課題",
+    "summary": "AIモデルの開発やGPU投資、クラウドインフラ・データセンター整備には莫大な資金が投入されており、そのコストを短期的に回収することは想定されていません。むしろ、ユーザーを囲い込むために、ある程度のコストを“我慢”している状態だといえるでしょう。この状況は、通信インフラの歴史と非常によく似ています。",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/16/news064.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-03-16T03:32:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "926fb0b411cfc68cdf609a0db59ab101",
     "title": "Google at APS 2024",
     "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
@@ -767,236 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88dfb095f483f772db776af07d176b77",
-    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
-    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-14T19:38:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2fbdfefe3eda1dd2cbb037ddfcb2801c",
-    "title": "Claude Code の PR Review は「念の為」：念の為になるレビューと任せられるレビューの違いについて",
-    "summary": "はじめに\nClaude Code PR Review がリリースされましたね。\nhttps://x.com/claudeai/status/2031088171262554195\nhttps://code.claude.com/docs/en/code-review\nドキュメントを読んでみると、カスタマイズの手段として CLAUDE.md と REVIEW.md が用意されています。\nレビュー時に...",
-    "link": "https://zenn.dev/nrs/articles/bf0e68a1ab75bd",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T10:54:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e776025f3bf198d60d70866fc2f4c4b2",
-    "title": "Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件",
-    "summary": "!\nこの記事ではdraw.ioを使ってClaude Codeで作図する実践パートがありますが、MCPサーバーもSkillsも使っておりません。すべてOpus4.6の性能だけで作図してます。\n\n\n はじめに\n「LLMは空間的な推論が苦手」「テキストベースで座標を扱うのだから、複雑な図はぐちゃぐちゃになるはず」──これは自分がずっと持っていた前提でした。おそらく同じように考えている方も多いのではないで...",
-    "link": "https://zenn.dev/acntechjp/articles/4ab4491afd5a8b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T09:18:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c1247e4e33e278659efa6d34f528bf16",
-    "title": "LLMに長期記憶を実装する",
-    "summary": "--2026.03.10 21:04 ヘブ則、💡追加\n--2026.03.10 20:09 memory_server.py アップし忘れてた。GitHubに追加\n\n LLMと長期記憶\nLLMには記憶がない。正確に言えば、コンテキストウィンドウという短期記憶はあるが、会話が終われば全て消える。人間の脳が持つ長期記憶（エピソード記憶、意味記憶、手続き記憶、そしてそれらを支える情動的重みづけや連想ネッ...",
-    "link": "https://zenn.dev/acntechjp/articles/efcc4f224cc8ca",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T04:50:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f860f41c3e954096f06bd6af1fe46c24",
-    "title": "散らばった E2E テストのガイドラインをリポジトリに一本化する",
-    "summary": "はじめに\nこの記事は KNOWLEDGE WORK Blog Sprint 7 本目の記事になります。\nナレッジワークで新卒フロントエンドエンジニアをしている tosaken です。普段は新規プロダクト開発グループでフロントエンドの実装を担当しつつ、E2E テストの基盤整備に取り組んでいます。\nAI Agent を活用して E2Eテストを実装する際、ガイドラインは一箇所にまとまっている状態が理想的...",
-    "link": "https://zenn.dev/knowledgework/articles/0199eb40d47bc1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T03:00:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7482d015c39c816ee95cd456393f281e",
-    "title": "VS CodeでMarkdownプレビューのまま編集したくて拡張機能を作った",
-    "summary": "はじめに\nAI駆動開発を進める中で、設計メモや仕様整理を *.md で扱う時間がかなり増えました。\n私は普段 VS Code を使っていますが、既存のMarkdown編集体験は「ソース編集」と「プレビュー確認」を行き来する前提です。業務で長時間使うには手数が多いと感じていました。\n「プレビュー表示のまま直接編集できる」「日常利用に耐える」「安心して使える」拡張を探しましたが、要件に合うものが見つか...",
-    "link": "https://zenn.dev/jishii/articles/5b9d2eb8f9ec9a",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T01:02:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "87349974ccee717bdc3d199aa494dc00",
-    "title": "Goでクリーンアーキテクチャを導入するとinterfaceが爆発する問題への処方箋",
-    "summary": "はじめに\n!\n本記事は私がGoでクリーンアーキテクチャを採用したプロジェクトを運用する中で得た気づきをまとめたものです。各セクションの根拠となる一次情報源は、該当箇所に参照リンクを記載しています。\n\nGoでクリーンアーキテクチャを導入したとき、私が最初にぶつかった壁は「interfaceが多すぎる」という問題でした。\nRepository、InputPort、OutputPort、UseCase、...",
-    "link": "https://zenn.dev/135yshr/articles/f2027369b648cc",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-10T00:57:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f22095bb210d3e619e3ac5111de32785",
-    "title": "[AI時代でも生き残る] シンプルに優秀な人がやっていること７選",
-    "summary": "はじめに\n仕事ができる人の特徴というと、なんとなく\n「頭の回転が速いのかなぁ」\n「地頭がいいんだろうな」\n「とにかく仕事が好きなんだろうなぁ」\nなどを思ったりする人も多いと思います。\nただ、実は案外シンプルなことをやっているみたいです。\n今回は、シンプルだけど、実際に仕事...",
-    "link": "https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T00:08:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "23f0cd0612edeabd82a89b9a8ad815a1",
-    "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう",
-    "summary": "拡張機能に頼る\n下はいろいろ試した自動承認の拡張機能\n自動実行は動いているからどれかが有効なはず・・・(調査中)\n\nVS CodeのGitHub CopilotやAIエージェント機能を使っていて、こんなストレスを感じたことはありませんか？\n「AIが提案してくれたコマンド、毎...",
-    "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-09T21:58:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0f6e1fff59c47fc2cf2e55ba48b87426",
-    "title": "【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい",
-    "summary": "１.はじめに\nこんにちは。\nみなさん、『 いいパソコン 』持っていますか？\n\nGPUが積まれた高性能マシン。\nメモリたっぷり。\nローカルでLLMをブン回せる環境。\n\n私は持っていません。\n（パソコンってお高いですからね...設定も大変だし。）\nそれでもローカルLLMで社内...",
-    "link": "https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T01:13:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e82785c8c2271bc370bb96de8abe3ec3",
-    "title": "SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）",
-    "summary": "Webエンジニア転職活動の振り返り\n最近、自社開発企業から内定をいただき転職活動を終えました。\nこの記事では自分の転職活動を振り返る意味も込めて\n\n転職活動の期間\n応募社数\n面接回数\n通過率\nやってきた自己学習\n面接で聞かれたこと\n転職活動の進め方\n\nなどをまとめておきま...",
-    "link": "https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-10T22:21:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "74ee009265d1a1e848b2b1e592f57257",
-    "title": "WordPressはAI時代に終わる？エンジニア目線で本音を書く",
-    "summary": "はじめに\n実務で新サイト作成を依頼されたのですが、クライアントから相談されたのは「新サイトでは旧サイトのWordPressは削除し、運営側でAIを使い更新していきたい」というご要望でした。（加えて、運営へのAI導入の講義も依頼されました）\nシェアで言えばWordPress...",
-    "link": "https://qiita.com/gmo-connect-ogawa/items/009c8b85ddd49ffb47c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-10T08:24:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5bb8175193ee3497b86e138b8615e2e8",
-    "title": "AIが大成功しても企業は儲からない—Noah Smithの「航空会社シナリオ」をエンジニア視点で読む",
-    "summary": "はじめに\n経済学者Noah Smithの記事「The AI bust scenario that no one is talking about」が話題になりました。はてなブックマークで179usersを記録し、日本語訳も広く読まれています。\nAIの未来を語るとき、多くの...",
-    "link": "https://qiita.com/nogataka/items/4fd4d07f82ee22cfc7d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T01:19:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fc4d318f62a0eed7212068422536e3d7",
-    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
-    "summary": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった\n\nはじめに：エンジニアの「積ん読あるある」\nAWS Solutions Architect、情報処理技術者試験、LPIC、TOEIC……\nエンジニアなら一度は「今年こそ取る」と決意した経験はない...",
-    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-10T22:06:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cc8cd5d45251f61fdab6268abc4f56cf",
-    "title": "Obsidian × Claude Code — .claude/ ディレクトリ設計パターンと35個のコマンド実例",
-    "summary": "はじめに — Obsidian に Claude Code を入れたら、35個のコマンドが生まれた\nノートは1000を超え、Daily Notes、タスクリスト、プロジェクトメモ、議事録...あらゆるものが Vault に溜まっていった。でも、不思議なことに、ノートが増え...",
-    "link": "https://qiita.com/akira_papa_AI/items/4ac1edc7e93604b0199a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-10T13:30:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "672231d53caffdbb3c13dbe4397d6438",
-    "title": "偽物のClaude Codeインストールページが本物そっくり—新しい攻撃の手口と対策",
-    "summary": "はじめに\n以前、「Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本」という記事を書きました。AI開発ツールの便利さと危険性は表裏一体です。今回はさらに直接的な脅威の話です。\n2026年3月、セキュリティ企業Push Securityが...",
-    "link": "https://qiita.com/nogataka/items/8448956292aa9cf2d89f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T01:19:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b10c0a394f18252cd805d2c16922b1c8",
-    "title": "【2026年3月最新版】コーディングが楽になったからこそ気をつけるべきセキュリティ",
-    "summary": "はじめに\nこんばんは、mirukyです。\n今回はいつものAWSシリーズとは少し毛色を変えて、AIコーディング時代のセキュリティについて書きます。\n2025年から2026年にかけて、GitHub Copilot、Claude Code、Cursor、Cline、Amazon...",
-    "link": "https://qiita.com/miruky/items/dfb3509ade7d4ad67b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T14:53:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "46b3bdc2bb466c5e20523691cdd9eea3",
-    "title": "2026/03/11 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nClaude Codeにバックドア入りOSSを...",
-    "link": "https://qiita.com/ennagara128/items/ace0377d4973bb835e88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-11T01:06:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "507d351f7a60bff000f115fca31db761",
-    "title": "個人開発こそ、GitHub × AI × スクラムで回したほうがいい",
-    "summary": "はじめに\n個人開発で意外と難しいのは、コードを書くことそのものより、何を先にやるかを決め続けることです。\n一人で進めていると、自由に動けるぶん、別のアイデアに引っ張られやすくなります。少し触るつもりだった作業が、そのまま別の作業に広がることも珍しくありません。\n最近はAI...",
-    "link": "https://qiita.com/reinf0rce/items/fc90f2751a2e4ccab41e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-10T12:03:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5e1cf3dfdd1f685f1da5e18a6007a521",
-    "title": "パナソニックHD、27年度採用は前年度比200人減の1100人　技術系の学校推薦廃止",
-    "summary": "パナソニックホールディングス（HD）が2027年度の新卒採用計画を発表した。パナソニックHDと主な事業会社の採用数は計約1100人で、26年度計画の約1300人から200人減る。内訳は大学・大学院卒が約800人、高校・高専卒が約300人。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news087.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-11T05:01:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "872b621187a8f4014efbd404652b772a",
-    "title": "Photoshopに「AIアシスタント」登場　言葉だけで画像を自動編集、パブリックβを公開",
-    "summary": "Adobeが、Photoshop向け新機能「AIアシスタント」のパブリックβを公開した。言葉で指示するだけで背景変更・不要物削除・ライティング調整ができ、モバイル版では音声操作にも対応する。同日、「Adobe Firefly」の画像エディターにも5つの新AI編集ツールなどが追加された。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news080.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-11T03:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a023c2a9569a933c477c929ac555cc8c",
-    "title": "Microsoft、対DoW訴訟でAnthropicを支持するアミカスブリーフを企業として提出",
-    "summary": "Microsoftは、Anthropicが米国防総省（DoW）を相手取った裁判で、同社を支持するアミカスブリーフ（法廷助言書）を提出した。AnthropicがAIの軍事利用制限を巡り製品利用を禁止されたことに対し、Microsoftは法人の立場で支持を表明。DoWの措置が米軍の活動やIT業界に悪影響を及ぼすと警告し、解決に向けた現状維持を求めている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news062.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-11T00:34:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cb8a49898533f990c5379c063e5cbbd4",
-    "title": "NVIDIA、ムラティ氏率いるThinking Machines Labに大規模出資　Vera Rubin導入でAI開発加速",
-    "summary": "ミラ・ムラティ氏率いるThinking Machines Labは、NVIDIAと複数年にわたる戦略的提携を締結した。1GW規模の次世代AIシステム「Vera Rubin」を導入し、最先端モデルの学習とカスタマイズ可能なAIプラットフォーム構築を推進する。NVIDIAは同社へ大規模出資も実施する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news060.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-10T23:59:00",
     "ai_summary_done": false
   }
 ]
