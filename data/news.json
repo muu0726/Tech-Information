@@ -1,5 +1,175 @@
 [
   {
+    "id": "88dfb095f483f772db776af07d176b77",
+    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
+    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-14T19:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "16fae1ca8dbaa518792bc88adbc86e89",
+    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
+    "summary": "AIにゲームを作らせようとして苦戦している話をよく見かける。\nコードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。\nでは、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？\n2005年頃からブログやTwitterに書いた日記...",
+    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-28T17:43:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3e6179b1f608bf13d436e1f62c976d73",
+    "title": "本棚Webアプリ「BiblioCanvas」をCLI+スキルでAIから使いやすくしました",
+    "summary": "本棚Webアプリ「BiblioCanvas」を公開しています。\nhttps://karaage.hatenadiary.jp/entry/2026/01/25/112910\nKindleの蔵書をブックマークレットでインポートして、テーマ別の本棚を作って公開できるサービスです。無料で1万冊まで登録できます。自分の蔵書は2600冊以上あって、ブラウザで眺めるのは楽しいのですが「AIに蔵書・本棚を管理さ...",
+    "link": "https://zenn.dev/karaage0703/articles/8daffce3c7391f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-28T11:12:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8254af11af4435bc55ad576cc541f669",
+    "title": "図形入りの PowerPoint を Markdown に変換",
+    "summary": "0. 元にした記事・リポジトリ\n日本マイクロソフトの Kazuki Ota さんによる\n\n図形フル活用の PowerPoint を GitHub Copilot に読ませてみた\nhttps://github.com/runceel/github-copilot-excel-lab\n\nを自分の環境で実行してみたところ、動作させる際に詰まる点がいくつかあったので、備忘録として記載する\nまた、GitHu...",
+    "link": "https://zenn.dev/headwaters/articles/convert-pptx-with-shapes-to-markdown",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-28T09:04:32",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1f5fc75c1da405abb18c928ea8ac3ec4",
+    "title": "AIエージェント導入で「セキュリティどうするの？」と聞かれたときの技術的な答え方",
+    "summary": "この記事を読んでほしい人\n\nClaude Code / Cursor などのAIエージェントをチームに導入したいエンジニア\n情シスから「セキュリティ面の対応は？」と聞かれて技術的に答えたい人\nAIツール導入のセキュリティ面の検討材料を探している情シス担当\n\n!\n本記事はAIエージェントのセキュリティ面の技術対策に焦点を当てています。実際の導入判断には、コスト・運用体制・社内規程・契約面など他の要素...",
+    "link": "https://zenn.dev/sharu389no/articles/e07c926d87ac57",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-28T08:19:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5b2c77621d030f2b98436d1d96106ae2",
+    "title": "ハーネスエンジニアリング、それGit Workflowをbashで書き直してるだけでは",
+    "summary": "!\nこのシリーズが初めての方はこちらから\n\nhttps://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1\nhttps://github.com/yohey-w/multi-agent-shogun\n\n\n 結論から言う\n2026年3月、AIエージェント界隈で「ハーネスエンジニアリング」が急にバズった。Anthropic、OpenAI、逆瀬川さん、Ma...",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-harness-engineering",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-28T00:43:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "28ef1d7da9d6c8a7a6c418ad6bf6b006",
+    "title": "サプライチェーン攻撃対策の社内展開したやつの抜粋(SHA pinning必須化/min-release-age/Takumi Guard)",
+    "summary": "この記事では、弊社でサプライチェーン攻撃対策として社内にアナウンスやガイドライン化した項目の抜粋を紹介します。\n昨今のSupply Chain Attackの激化、特にTrivy, LiteLLMの侵害による影響範囲の大きさを懸念し実施したものとなります。幸い直接の影響は出ていませんでしたが、どちらも社内で使っているというのあり、温度感高く対応しました。\n何が起こってるの〜というのは、Flatt ...",
+    "link": "https://zenn.dev/primenumber/articles/d966cc3e2ed441",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-27T15:45:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "72d4123db2eb0695f9e274c38afa44a8",
+    "title": "国産LLMは作れるのか？ - RakutenAI 3.0の炎上から考える",
+    "summary": "はじめに\n2026年03月17日、楽天グループが「国内最大規模」と謳う大規模言語モデル（以下、LLM）「Rakuten AI 3.0」を発表しました。約7000億パラメータのMoE（Mixture of Experts）モデルで、日本語ベンチマークではGPT-4oを上回るスコアを記録したといいます。\nhttps://huggingface.co/Rakuten/RakutenAI-3.0\nしかし公...",
+    "link": "https://zenn.dev/nitic_students/articles/e2e331dea0c616",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-27T13:39:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "546e1fb77ea4393bb6d81ccd040c7a52",
+    "title": "Docling で PDF を Markdown に変換してみる",
+    "summary": "はじめに\nフクロウラボの渋谷です。\nLLM を活用する中で、PDF や Word、PowerPoint などの資料をそのまま扱いづらいと感じたことはないでしょうか。\nテキストを抽出すること自体はできても、レイアウトが崩れたり、表や見出しといった文書構造が失われたりすると、内容を十分に活かせないことがあります。LLM の精度を高めるには、単に文字列を取り出すだけでなく、文書の構造をできる限り保ったま...",
+    "link": "https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-03-27T11:18:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d3ea751124f19b01f87672498b0f8417",
+    "title": "【Claude Code】ralph-loop で寝てる間に約700ファイルもの大規模ライブラリ移行を終わらせてわかった AI の真価【Jest → Vitest】",
+    "summary": "700ファイル、差分は13,000行。\nJest から Vitest への移行。単純なテストファイルだけでなく、CI設定、ESLintルール、関連する設定ファイル諸々含めて 694ファイル、+6,782 / -6,728 の差分。手作業でやったら何日かかるでしょうか。\nこ...",
+    "link": "https://qiita.com/semba_yui/items/8c7125722844cf426e12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-27T02:25:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5032f616f54246997de917761f6229d4",
+    "title": "新人プログラマがLLM APIを使う前に知っておくべきセキュリティの基本 🔐",
+    "summary": "はじめに\nI'm a fullstack coding instructor. Every bootcamp cycle, I see the same pattern: new developers get excited about LLM APIs, build s...",
+    "link": "https://qiita.com/zivuch/items/30b92fbe4eae72f99b69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-28T17:16:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3fa1ada30ef7f1c714e6668d90273933",
+    "title": "AIネイティブな時代への準備",
+    "summary": "Codingエージェントの進化が日々凄まじいですが、自分の肌感覚としても感じている、今年～来年のメイントレンドになりそうな事をまとめてみました。\n領域や組織規模によるので一概には当然言えないですが、簡単な社内での振り返りやディスカッションのきっかけにして頂ければ嬉しいです。...",
+    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-29T13:37:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "373aeb5983506868825d30be643ca1b3",
+    "title": "AIが同じミスを学習し自律的に学習し成長する仕組みを作った",
+    "summary": "はじめに\nClaude Code を半年くらい使ってきて、正直しんどいなと思うことがあった。\nそして、僕は気付いた「Aiがより人間らしくなっている」と\nどうしたAIに気持ちよく仕事してもらえるか、\nどうしたらAIをハンドリングできるかと考えてみた\nAIが同じミスを何度も繰...",
+    "link": "https://qiita.com/Keita-0025/items/0ba97947c9a2ca2303ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-27T11:02:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fc3d574f199354b153c477fe5ad056e6",
+    "title": "Gemini Embedding 2 の集約エンベディングを試してみた（カレー画像 × ラベルで検証）",
+    "summary": "はじめに\n前回の記事では、Gemini Embedding 2 を使ってカレー画像の類似度を比較しました。\n👉 前回の記事\n\nその結果、画像Embeddingだけでは見た目が似ているだけで高スコアになるという課題が見えました。\n👉 画像に「意味」を補えないか？\nGem...",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/f9e8f26e1501ca02b2f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-28T21:33:15",
+    "ai_summary_done": false
+  },
+  {
+    "id": "93928672502679724177fbd12f3f2672",
+    "title": "結局どの言語を学べばいいのか？に対する僕なりの答え",
+    "summary": "■ 概要\n新人プログラマが考えるべきことは、\nどの「言語」を学ぶかではなく、\n「やりたい」ことは何なのかかもしれない・・・\n\nプログラミングを学び始めたとき、最初にぶつかる悩みの一つが、\n「結局、どの言語を勉強すればいいの？」\nではないでしょうか。\nPython、Ja...",
+    "link": "https://qiita.com/shioume/items/cd3b9c2610e9b5e8160e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-28T15:14:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f6894cf6b0e8f06aab1008cda9b51701",
+    "title": "【AI活用個人用セキュリティLPICレベル３学習教材】LPIC-3 メルヘンセキュリティ学習図解アプリの全体像とポイント",
+    "summary": "前提\nAI駆動でLPICレベル３セキュリティVer3.0を学習するための個人ツールのシェアです。\nもしあなのお役に立てれば嬉しいです～\n\n成果物（メルヘン図解完全合格ガイドツールの簡易説明）\nこだわり：ちびキャラ × セクション対応\nキャラセクションスコア🧙‍♀️\n全員S...",
+    "link": "https://qiita.com/yukikoblog8376/items/02959512f3c887aaac65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-28T23:56:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "da41c518773ed760007ca8244d311044",
+    "title": "Snowflake AI Data Meetup WEST レポート",
+    "summary": "イベント概要\n　関西のSnowflakeユーザーコミュニティ「SnowVillage WEST」が主催する Snowflake AI Data Meetup WEST が，グランフロント大阪タワーにて開催された．「Snowflake × 生成AI」をテーマに，現地33名＋...",
+    "link": "https://qiita.com/mshdtksk/items/65db59b3fa225e58885d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-03-28T14:14:05",
+    "ai_summary_done": false
+  },
+  {
     "id": "b02cf407941b46f7ff4d3bbd5527fae3",
     "title": "Talk like a graph: Encoding graphs for large language models",
     "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
@@ -827,176 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
-    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
-    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a207bdf87d0005de57b2d9bd0e02d448",
-    "title": "ナレッジワークにカムバック入社して1ヶ月半経って感じたこと",
-    "summary": "はじめに\nこの記事はKNOWLEDGE WORK Blog Sprintの16本目の記事です。\n2026年の2月よりナレッジワークでソフトウェアエンジニアとして働いているtenntennです。2022年12月〜2024年7月まで在籍しており、その後別の企業に転職しましたが、今年の2月にカムバック入社しました。\n前回在籍時はEnablement Groupと呼ばれるソフトウェアエンジニアに対するイネ...",
-    "link": "https://zenn.dev/knowledgework/articles/b7b9cf7bb68653",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-24T03:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d276bfb47575f1bbef29c771f9097e69",
-    "title": "JavaScriptとTypeScriptのpolyglot",
-    "summary": "Polyglot とは、複数のプログラミング言語 (あるいはより一般に、何らかのファイルフォーマット) で解釈できるプログラムのことで、多言語話者にちなんでこの名前がつけられています。Polyglotはしばしば、プログラミングに関する非実用的な探求として遊ばれます。\nTypeScriptはJavaScriptのスーパーセットであるため、JavaScriptコードは自然にJavaScriptとTyp...",
-    "link": "https://zenn.dev/qnighy/articles/e65e0995161ade",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T13:50:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "23c6aa82410312fbac916ae492e21f6f",
-    "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
-    "summary": "みなさんは、複雑な要件を前にして「自分の実力不足」を痛感したことはないでしょうか。\n「もっと効率的なデータ構造はないか」「このアルゴリズムをより簡潔に表現できないか」「並行処理のバグが取れない……」といった悩みは、エンジニアなら誰もが一度は通る道です。\nしかし、その悩みは本当にあなた自身の「実力不足」だけが原因でしょうか。もしかすると、今使っている言語のパラダイムが、その問題に対して「最適ではない...",
-    "link": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T13:28:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1427fdf669f575af985e56e498acec0f",
-    "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
-    "summary": "Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——\n\nでも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」\n\n本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、...",
-    "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T10:21:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "de71e813a08d2de780b7e296d15760df",
-    "title": "技育祭で引いた文字化けおみくじを解読してみた",
-    "summary": "はじめに\nこんにちはトラマトです。\n先日、虎ノ門ヒルズで開催された国内最大級の学生特化テックカンファレンス、技育祭2026 春に参加してきました！\nhttps://geek.supporterz.jp/geeksai/2026spring\n人生でこのようなイベントに参加するのは初めてだったのですが、最高に楽しくて脳に汗かく2日間にできました。\nなんと会場には神社も設置されており、おみくじが引けたん...",
-    "link": "https://zenn.dev/toramutton/articles/garbled-omikuji",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T09:51:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ed6b6ea3acfdc4e227072559b90df47b",
-    "title": "人間のコードレビュー辞めにしたくてコードレビューエージェント作ってみた",
-    "summary": "はじめに\nAIコーディングエージェントを使って実装はめちゃくちゃ速くなりました。\n実装だけなら生産性は数十倍くらいになってると思います。\nそしてそれは自分以外の人も同じです。\nそのため、これまででは考えられないほどのスピードでプルリクが上がってきます。\nレビュー終わり、さてAIに指示出すか、と思ったら次のレビューが来ます。\n(少し盛ってますが共感できる人も多いはずですw)\n自分が担当しているプロダ...",
-    "link": "https://zenn.dev/gvatech_blog/articles/8f0be815036eaa",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T01:27:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e92ec75bbc3d993e0d825e37dfcdcd79",
-    "title": "【2026年版】Claude Code フロントエンド特化の設定・ツールまとめ",
-    "summary": "はじめに\n現在、私が所属するプロジェクトではReact・Next.jsを用いたリアーキテクチャを進めています。\nその際、導入したClaude Code周辺の設定・ツールが非常に開発スピードを上げてくれたので、この記事ではそれらを紹介していこうと思います。\n「なんとなく動かせているけど、もう少しAI開発に乗っかりたい・使いこなしたい」という方の参考になれば幸いです。\n\n 紹介する設定・ツール\n本記事...",
-    "link": "https://zenn.dev/enechange_blog/articles/9288d67beed7b4",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-23T01:13:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0e0363e93b86a0dea917efbe8820bfa3",
-    "title": "「CursorよりもClaudeのほうがいいですよ」と言ってしまって気付いた間違い",
-    "summary": "CursorよりもClaudeのほうがいいですよ\n\nエンジニアの人と開発ツールの議論をしていたとき僕は得意げにこう言いました。\nCursorよりもClaudeのほうがいいですよ(キリッ、と。\n相手の表情が曇り「いや、それ比較するものじゃなくない?」と返されて、はっと自分の間違いに気づきました。CursorはAI機能を搭載したコードエディタです。Claudeは大規模言語モデルの名前。エディタとモデル...",
-    "link": "https://zenn.dev/karamage/articles/f6d3ace485fdd0",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-22T11:37:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1767a1c6393ad01db3fe08a5086453b8",
-    "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
-    "summary": "はじめに\nこんばんは、mirukyです。\n今回は、転職・就職活動で差がつくGitHubリポジトリの作り方を体系的にまとめます。\nエンジニア採用において、GitHubはもはや「履歴書の補足資料」ではなく 「実力を証明するポートフォリオそのもの」 です。しかし、多くのエンジニ...",
-    "link": "https://qiita.com/miruky/items/726d9210cc8666866f86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-24T00:40:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a77312315e30814daf59aac7e2a3032e",
-    "title": "ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する",
-    "summary": "RAGの限界 ── ベクトル検索では解けない問い\nRAGは外部知識をLLMに注入する手法として定着しました。\nしかし、ベクトル検索には構造的な弱点があります。\n具体例で確認します。\n\n2ホップ推論の壁\n社内ドキュメントをRAGで検索するシステムを考えます。\n以下の情報がそ...",
-    "link": "https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-24T01:36:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "50b64613828877825aa58430fba74f12",
-    "title": "[小ネタ] Webサーバ、Node.js は無限ループで停止するが Go は停止しない",
-    "summary": "はじめに\nそれぞれNode.jsとGoでは以下のように並行処理方式が異なるので、無限ループに遭遇すると、理屈で考えると以下のようになるはずですが……\n\nNode.js: mainスレッドが一つのみの実質的なシングルスレッドなので、サーバ全体が停止します\n\n回避するために...",
-    "link": "https://qiita.com/ssc-ksaitou/items/c22fabfc35a897896aab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-24T01:35:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "645bf862f91f3a13973124d33aac8166",
-    "title": "Lighthouse CI & GitHub Actions でパフォーマンスを自動計測する",
-    "summary": "この記事はAIの支援を受けて執筆しました。内容の正確さには注意を払っていますが、誤りがあればコメントでご指摘ください 🙏\n\nシリーズ： Webパフォーマンス最適化 — 第5回/全10回\nタグ： JavaScript GitHub Actions Lighthou...",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/d513a921bd416a8b63d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-24T04:13:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fec2e67ba694f84fb90b678ae390fd13",
-    "title": "ハーネスエンジニアリング入門 ── CLAUDE.mdの次に来るAIエージェント制御パラダイム",
-    "summary": "本稿では、AIエージェントの出力品質は「構造」で大きく変わるという前提のもと、CLAUDE.mdの次のパラダイムとして注目される「ハーネスエンジニアリング」の概念・構成要素・導入方法を、実運用の経験を交えて解説します。\n\nなぜハーネスが必要になったのか\n半年ほど前、筆者はC...",
-    "link": "https://qiita.com/nogataka/items/d1b3fcf355c630cd7fc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-24T01:36:39",
     "ai_summary_done": false
   }
 ]
