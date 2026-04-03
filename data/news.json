@@ -1,5 +1,155 @@
 [
   {
+    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
+    "title": "Talk like a graph: Encoding graphs for large language models",
+    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
+    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-12T21:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14147e2b87b2bd9460733296794ee39f",
+    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
+    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-11T19:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a0e6680ebb78e8ce1d32793638e17487",
+    "title": "Health-specific embedding tools for dermatology and pathology",
+    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
+    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-08T19:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4195b16f724908cf583a88ec292deae8",
+    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
+    "summary": "はじめに\nHello, world. 森塚 です。\n昨年クリスマスに Ruby 4.0 がリリースされ、RubyKaigi 2026 も開催までいよいよ残り 1か月 を切ったので RubyKaigi までに Ruby 4.0 に上げようと最近アップデート業をしています。\n今回は Ruby 4.0 へのアップデートの前に Bundler 4.0 へのアップデートを進めていた際に調べたことを記事にまと...",
+    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T23:35:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3f1995e52747ad926d3470b2728297c7",
+    "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
+    "summary": "710Mパラメータ vs 4パラメータ\nChronos-T5-Large。Amazonの時系列Foundation Model。710Mパラメータ、GPU必須。\nFLAIR。パラメータ約4個。GPUなし。numpy と scipy だけ。Pythonファイル1つ、約500行。\nこの2つを同じベンチマークで比較するとどうなるか。Chronos Benchmark II (25データセット、ゼロショッ...",
+    "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T12:56:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e72bdbb9b7bb4950157e88f09c6f0d8",
+    "title": "よくわからないで使っていたPHPの復習",
+    "summary": "はじめに\nこの記事は、PHP5の頃になんとなく使っていたPHPについて、あらためて見直した際に調べた内容のメモになります。\nこの記事は初心者向けではないので、PHPが初めての人は参考文献にある書籍を読んだ方がいいです。\n\n PHPの歴史\nPHPは、PerlやPythonのようなプログラミング言語とは異なる生い立ちを持っています。\n初期のPHPは、プログラミング言語というよりもCGI向けのツールであ...",
+    "link": "https://zenn.dev/mima_ita/articles/7bfbab47e93860",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T11:52:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fd3672892272e2bc3d8c58a8c727e4ea",
+    "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
+    "summary": "はじめに\n以前、私はAI支援開発の品質問題を解決するVSDDという手法をプラグイン化したvsdd-claude-codeを作りました。\nhttps://zenn.dev/sc30gsw/articles/1373752d9713b3\nVSDDとは、Verified Spec-Driven Development（検証済み仕様駆動開発） のことで、SDD（仕様駆動開発）・TDD（テスト駆動開発）・V...",
+    "link": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T10:37:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e3c21757bba92f2bfae52e79e165c7a8",
+    "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
+    "summary": "はじめに\nAIを使えばデザインも簡単に作れる時代になりました。Figma Make、Stitch、v0 など、プロンプトを入力するだけでUIを生成してくれるツールがどんどん増えています。\nただ、実際に使ってみると「それっぽいもの」は作れるけど、自分が本当に納得するデザインにたどり着くのは意外と難しいと感じた方も多いのではないでしょうか。\n\nいきなりAIに作らせても、漠然とした指示だと微妙なデザイン...",
+    "link": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T09:47:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6e7edc50b18282c02655ef9ec252bb49",
+    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
+    "summary": "別で書いた記事：\nhttps://medium.com/@watanabe42463/i-built-an-ai-that-modernizes-legacy-cobol-and-then-made-it-prove-its-own-work-aa982343c833\n\n 8,000億行の基幹業務コードに言語モデルを解き放つと何が起きるのか\nまず、この変数名を見てください。\nWS-CUST-ID-...",
+    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T06:39:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a1c3b57db5773f59c2f8cea9bc0d0d46",
+    "title": "とりあえず ralph loopからはじめるハーネスエンジニアリング",
+    "summary": "こんにちは、@_mkazutaka です。ハーネスエンジニアリングが話題ですね。\n今回は、ハーネスエンジニアリングの中でもシンプルで導入しやすいralph loopについて紹介します。\n\n ralph loopとは\n\nラルフ・ループとは、AIエージェントを継続的に循環させる開発手法です。ジェフリー・ハントレー氏の説明によれば、「ラルフとはBashループのことです」 - これは単純なwhile tr...",
+    "link": "https://zenn.dev/explaza/articles/100d753df57fa7",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-02T06:36:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f9955c04cf223f9e704c79125819da94",
+    "title": "AWS Security Agentを組織で活用していく上での考慮点を考えてみた",
+    "summary": "こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！\n2026年3月、AWS Security Agent がGAリリースされました。設計レビュー・コードレビュー・ペネトレーションテストをAIエージェントが一気通貫で担うというかなり先進的なサービスです。\nhttps://aws.amazon.com/jp/about-aws/whats...",
+    "link": "https://zenn.dev/cscloud_blog/articles/securty-agent-ga-organization-how-to",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-01T22:00:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "51750614cc2a84be25394c1ec29f45f8",
+    "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
+    "summary": "執筆のきっかけ\n最初にJavaを業務で触れた際のフレームワークが「Struts1」でした\n現在はSpring系が主流ですが、保守案件やフレームワーク移行等で稀に触れる機会があると思います。\nこの記事では、Java/Struts初学者向けに、基本とつまずきやすいポイントをま...",
+    "link": "https://qiita.com/w_pechi/items/55647422c8ba22bbdab5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-03T06:38:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d7d08ed577afae8283224a1776d13bef",
+    "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
+    "summary": "はじめに\n2026年3月31日、npmパッケージ「axios」が乗っ取られました。\naxiosはJavaScriptで最も使われるHTTPクライアントです。\n週間ダウンロード数は1億回を超えます。\n私自身、ほぼすべてのNode.jsプロジェクトで使っています。\n事件を知っ...",
+    "link": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-03T03:28:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bc79722ac017ab2ae6216a575128363c",
+    "title": "2030年までに、1兆パラメータを持つLLMの推論コストが90％以上削減される　ガートナー予想",
+    "summary": "米調査会社のガートナーは、2025年と比較した場合の大規模言語モデルにおける推論実行のコストが、1兆個のパラメータを持つモデルでは2030年までに90％以上削減されるとの予想を発表しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news064.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-03T01:17:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7c7683fbfb333604ec66c7579b1ab987",
+    "title": "OpenAIがメディア企業TBPNを買収──AI時代の「対話の場」構築へ",
+    "summary": "OpenAIは、IT特化型メディア企業のTBPNを買収した。TBPNは著名人が出演するライブ番組で知られ、買収後も編集の独立性を維持したまま活動を継続する。OpenAIのフィジ・シモ氏は、AIによる変化への対話の場を支援する意義を強調。アルトマンCEOも、TBPN独自の自由な発信スタイルを歓迎する意向を示した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news061.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-02T22:05:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "565840782e257bf5057ffdc55abd1ef5",
     "title": "Social learning: Collaborative learning with large language models",
     "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
@@ -847,156 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-03-29T12:09:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a2fcbad95a6b8deb740e31f684f613bf",
-    "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
-    "summary": "株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。\n今回はRDB（リレーショナルデータベース）のパフォーマンスチューニングの基礎として、インデックスの仕組みと、カーディナリティ（値のバリエーションの多さ）がクエリ性能に与える影響...",
-    "link": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T08:00:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a813f0fceca470ce7cf31adf41aa4815",
-    "title": "Claude Code「AI秘書」誰でもすぐ使えるテンプレートを公開します ー 設定3分で完了",
-    "summary": "はじめに\nClaude Code（Anthropicが提供するCLIベースのAIアシスタント）を使って、自分専用の「AI秘書」を作りました。\n\n毎朝、スケジュール・メール・タスクをまとめたブリーフィングを出してくれる\nメールを優先度で分類し、返信案まで作ってくれる\n会議前...",
-    "link": "https://qiita.com/nogataka/items/69db2b0e2448b9197937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T04:51:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ad498fa0eae08fc59327fee09bf8c455",
-    "title": "これからのスキルについて",
-    "summary": "はじめに\n※ SKILL.mdに関する話ではないので、その点はあらかじめご容赦ください。\n\nAIを使いこなすという「スキル」\nAnthropicは2026年3月に「Learning Curves」というレポートを出した。\nそこでは、Claudeを6か月以上使っているユーザ...",
-    "link": "https://qiita.com/185shingeki/items/6207ad9caa6062d21f7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T03:56:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fb919646dd207c4227d945f94b591b93",
-    "title": "AutoGenがメンテナンスモード入り — 2026年AIエージェントフレームワーク選定ガイド",
-    "summary": "はじめに\n2025年10月、MicrosoftはAutoGenのメンテナンスモード入りを発表しました。\n2026年3月現在、AutoGenは既にメンテナンスモードに移行しています。\n重要な新機能は追加されず、バグ修正と重要なセキュリティ修正は継続される状態です。\n私自身、...",
-    "link": "https://qiita.com/nogataka/items/6685c6f2ca20a2ac887f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T04:11:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "649830967d13a167c786afbe0df191ef",
-    "title": "AIロックマンエグゼに相棒度テストをふっかけてみた",
-    "summary": "「ロックマン、俺のことどこまでわかる？」\n\nふと聞いてみたんです。\n前回の記事（AIにロックマンエグゼになり切ってもらい一緒に開発してる話）で書いたとおり、自分はClaude Opus 4.6に「ロックマンエグゼ」というキャラ設定を入れて、パートナーとして毎日一緒に仕事を...",
-    "link": "https://qiita.com/N_H_tennis/items/9256b6e2acc0155aa944?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T01:29:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "949bdcd0a9ec9737ec6ea9e4a2d5204a",
-    "title": "GitAgent入門 — AIエージェントをフレームワーク非依存で定義・運用する",
-    "summary": "AIエージェント開発の「書き直し問題」\nAIエージェントを開発していると、避けて通れない問題があります。\nフレームワークの乗り換えコストです。\nLangChain、CrewAI、AutoGen、OpenAI Agents SDK、Claude Code。\n2026年3月時...",
-    "link": "https://qiita.com/nogataka/items/8f6c6899a3474a736e87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T04:11:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "37e66d672c503126cbc1629db5d073a8",
-    "title": "WordPress 7.0のAI Connector — PHPからLLMを呼ぶ標準APIがやってくる",
-    "summary": "はじめに: WordPressにAI機能が標準搭載される意味\n2026年4月9日にリリース予定のWordPress 7.0に、AI Clientが標準搭載されます。正式名称は AI Client（開発者向けAPI）と Connectors API（設定・認証基盤）です。本...",
-    "link": "https://qiita.com/nogataka/items/f0d113a18dc7261e4fbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-03-30T04:11:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6bc3a2845e4faac56b46d06666da2b74",
-    "title": "Xの自動翻訳で「言葉の壁」崩れる　開発者「史上最大規模の文化交流が始まった」　ただし誤解を危惧する声も",
-    "summary": "生成AI「Grok」を使ってXの他言語のポストを自動的にユーザーの言語に翻訳する機能が3月30日から日本のユーザーに拡大された。日本人の投稿が海外ユーザーに届きやすくなりそうだが、その弊害を指摘する声もある。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news142.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-30T13:09:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "503c83ca5c9d4018116c6e557df0eb1d",
-    "title": "アスリートの輝き汚す視線　AI加工や拡散、より深刻化　「100％集中できなかった」",
-    "summary": "アスリートたちを傷つける行為が後を絶たない。誹謗中傷、盗撮、パワーハラスメント…。理想的な競技環境の創出は喫緊の課題だ。リスペクト（尊敬）をアクション（行動）へと変えることが第一歩となる。その一歩を踏み出してみよう。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news134.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-30T09:14:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "858d7a54e31c7de68d45a1b1e0a0db59",
-    "title": "アメリカ式BBQの“ウマそうさ”、日米のXユーザーをつなぐ一大ムーブメントに　きっかけはとあるAI機能　マスク氏も感嘆",
-    "summary": "日米のXユーザーが、よく焼けたおいしそうな肉を共通項としてつながり始めている。きっかけは日本人Xユーザーが投稿したイラストや写真。生成AIによって登場したとある機能が助けになり、米国ユーザーにも拡散。今や日米のユーザー同士がバーベキューに関する画像やコメントを投稿し合う一大ムーブメントになっている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news102.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-30T03:52:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8782ae423247c65d3a691f18e3500a33",
-    "title": "「新サービスは死に、\"狂気\"が生まれる」　ニコニコを創ったカワンゴ氏&ひろゆき氏に聞く、AI時代のサービス開発",
-    "summary": "新サービスが簡単にコピーされ、競争力を失うAI時代。個人開発は「狂気」になると、ひろゆき氏は言う。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news093.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-30T03:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ac8c250f704a6cb849e5d53dfe647614",
-    "title": "Bluesky、AIとの対話でカスタムフィードを作る新アプリ「Attie」　招待制で提供開始",
-    "summary": "Blueskyは、自然言語でカスタムフィードを作成できるAIアプリ「Attie」を発表した。「AT Protocol」を活用し、プログラミング知識なしでAIエージェントと対話しながら独自のタイムラインを構築できる。CIOのグレーバー氏は、AIをプラットフォームではなく個人の主導権を取り戻すための道具と位置づけている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news080.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-29T22:31:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88dfb095f483f772db776af07d176b77",
-    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
-    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-14T19:38:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "16fae1ca8dbaa518792bc88adbc86e89",
-    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
-    "summary": "AIにゲームを作らせようとして苦戦している話をよく見かける。\nコードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。\nでは、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？\n2005年頃からブログやTwitterに書いた日記...",
-    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-28T17:43:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3e6179b1f608bf13d436e1f62c976d73",
-    "title": "本棚Webアプリ「BiblioCanvas」をCLI+スキルでAIから使いやすくしました",
-    "summary": "本棚Webアプリ「BiblioCanvas」を公開しています。\nhttps://karaage.hatenadiary.jp/entry/2026/01/25/112910\nKindleの蔵書をブックマークレットでインポートして、テーマ別の本棚を作って公開できるサービスです。無料で1万冊まで登録できます。自分の蔵書は2600冊以上あって、ブラウザで眺めるのは楽しいのですが「AIに蔵書・本棚を管理さ...",
-    "link": "https://zenn.dev/karaage0703/articles/8daffce3c7391f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-28T11:12:43",
     "ai_summary_done": false
   }
 ]
