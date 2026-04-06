@@ -1,5 +1,145 @@
 [
   {
+    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
+    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-19T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e0cd04876dce9e8c066e58a7238bf112",
+    "title": "AIがコードを書くほど、要件定義は上に移動する――Spec・Context・Harness三層設計",
+    "summary": "想定読了時間: 25分（detailsを展開する場合 35分）\n対象読者: B2B SaaSの要件定義に関わるエンジニア・PM。前作の8ステップを知っていると理解が深まるが、未読でも本記事単独で読み進められる。\n先に全体像だけ掴みたい場合は、TL;DR → 「3つの新概念」 → 「チェックリスト」 → 「次アクション」だけ読めば十分です。\n前作: 「要望」「要求」「要件」は別物――役割別観測点を同...",
+    "link": "https://zenn.dev/gvatech_blog/articles/30f79910d111bb",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-05T11:39:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f6c6deb5c5a49fa9f82184ffcb4af63b",
+    "title": "データエンジニアのためのオントロジー入門 ― Semantic Layer との違いと役割分担",
+    "summary": "はじめに\n最近、データエンジニアリング界隈で「オントロジー」という言葉を見かける機会が増えてきました。X のポストやブログ記事でも、コンテキストエンジニアリングや AI エージェントの文脈で「オントロジー」が取り上げられることが増えています。\nX投稿:\nhttps://x.com/takimo/status/2039518588269379738?s=20\nhttps://x.com/ikki_m...",
+    "link": "https://zenn.dev/bare64/articles/ecac1bbf510ce4",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-05T11:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "25fbb5044dc7f0b8df933da117513d2b",
+    "title": "Rust向けのECS駆動な双方向通信サーバーフレームワークをリリースしました(Ecson)",
+    "summary": "Ecson\nRust向けのECS駆動な双方向通信サーバーフレームワーク、Ecson（エクソン） を開発しています。先日v0.1.0をリリースしました。\n\n\n 作り始めた理由\nもともとは大人数に耐えられるメタバースをいつか作りたいと思ったからです。\n双方向通信に最適化されており、低レイテンシよりも「高負荷対応」「多クライアント対応」を求めるフレームワークが必要でした。\n\n ECSによる恩恵\nとにかく...",
+    "link": "https://zenn.dev/hino_rs/articles/73f711641e34df",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-05T02:56:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b590723291cdc205a24df6ab7766641e",
+    "title": "誰もがGitを触る時代に、やさしい入門サイトを作った",
+    "summary": "きっかけ\n非エンジニアの同僚から、Gitの使い方を聞かれることが増えてきました。デザイナー、ライター、ディレクター、営業企画。立場は違えど、AI時代に入ってバージョン管理が自分ごとになってきた人たちです。\n最初は既存の入門記事を紹介していたんですが、どれもしっくり来ないようでした。用語の説明が少ない、コマンドの意味がイメージできない、失敗が怖い。話を聞いていると、エンジニアが見落としがちな壁がたく...",
+    "link": "https://zenn.dev/nabewata/articles/d5261127bdd3c5",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-05T00:12:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5485b632c7d92da8691a342b679e31aa",
+    "title": "Raspberry Pi 4でBonsaiを動かしたよ",
+    "summary": "こちらを見まして、二番煎じ記事でございます。\n\nBonsaiという新しいLLMで、1ビットモデルなんですって。\n\n細かいことはよくわかりませんが、 Raspberry PiでLLMが動く というところに興味がありまして、やってみました。\n\n環境\n\nRaspberry...",
+    "link": "https://qiita.com/moritalous/items/96cdc8bcd48d8a193556?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-05T04:52:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2fadf172a4907de27f95f9fb08f8191e",
+    "title": "🎯 初めての C# 非同期処理：実務で使う async/await の基本と注意点",
+    "summary": "「async/await は聞いたことあるけど、正直よく分からない…」\n「とりあえずコピペで動かしてるけど、これで合ってるのかな…」\n非同期処理は、初学者がつまずきやすいテーマの代表格です。\nですが実務に入ると、API 呼び出し・ファイル I/O・DB アクセスなど、避けて...",
+    "link": "https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T07:41:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "49d0162505f6389a02ebf21512a27f51",
+    "title": "ラムダ式に戸惑った時の備忘録",
+    "summary": "はじめに\nこれまでの案件で、比較的古いバージョンのJavaに触れることが多く、\nラムダ式に馴染みがありませんでした。\nしかし、とある案件で実装中にラムダ式を使う場面があり、最初は->など馴染みのない記号があり、苦手意識がありました。そこで、今回はラムダ式の基礎的な部分につ...",
+    "link": "https://qiita.com/aito1234/items/1506a98b6cb2d05a12c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T08:02:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c86ac4ac4d4fb0f8f989909a1ec31de9",
+    "title": "AWS AIFに1,000点満点で合格した勉強方法",
+    "summary": "はじめに\n\nみなさん、こんにちは～\n\nこの度、AWS Certified AI Practitioner（以下AIF）に1,000点満点で合格できました！\n\nこの記事では、AIFの勉強方法、学習時に意識したことを書いていきます。\n\n自己紹介\n\n社会人歴：1年目\n職種：SE...",
+    "link": "https://qiita.com/yuki01_a/items/b7f5cac745d374e64360?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T00:31:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aeb84570d19b10fe985df960f5aa5dfb",
+    "title": "「コードを書くより、知識を編む」元Tesla AI責任者が公開した、AIにWikiを自律生成させる異次元の活用術",
+    "summary": "元TeslaのAI責任者であり、OpenAIの創設メンバーの一人でもあるアンジェレイ・カーパシー（Andrej Karpathy）氏。AI界の巨星である彼が、最近「コードを書くこと以上にトークンを費やしている」と語る、驚きのLLM活用術を公開しました。\n今回は、彼が提唱する...",
+    "link": "https://qiita.com/KIITA-DAISUKI/items/8db8c38e23e2196258b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-04T01:26:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f1eafd2f772f0b2ec992f562b1629850",
+    "title": "JSP × JavaScript (+ Ajax) の基本について 【初心者向け】",
+    "summary": "執筆のきっかけ\nJavaのサーバサイドから開発業務を始めることになり、\nそれから約1年後、ある日突然フロントサイドをJavaScriptと一部Ajaxで修正する業務が回ってきました。\n画面描画にはJSPを使用しているシステムでしたが、とにかく各役割が混同してしまい\nどのよ...",
+    "link": "https://qiita.com/w_pechi/items/6053654a303ad236818f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T10:06:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "652bc76b82e922522715a7cc36f9380f",
+    "title": "【事前構築済みツール編】インデータベースのAIエージェントをSelect AI Agentで構築してみる",
+    "summary": "はじめに\nAutonomous AI Database内でAIエージェントを作成・管理するため機能として、Select AI Agentがリリースされました。\nSelect AI Agentは、データベース内でエージェントを直接実行するため、データを外部サービスに送信する...",
+    "link": "https://qiita.com/marfujim/items/eb9b3af2ef6e5b6b71ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T05:45:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cefa01d0d6fd672b67bc4da5e106fe2c",
+    "title": "実務経験ゼロでもシステムエンジニア　派遣会社が経歴詐称を強要　早期の退職で精神的苦痛",
+    "summary": "システムエンジニア（SE）の派遣会社に採用され、取引先で勤務した元SEの男性3人が、実務経験がないのに経歴詐称を強要されて精神的苦痛を受けたなどとして派遣会社代表らに賠償を求めた訴訟で、最高裁は、賠償を命じた東京高裁判決を不服とした代表らの上告を棄却した。原告の支援者らは「派遣会社は名前を変えながら従業員の経歴詐称を続けており、問題は終わっていない」と警鐘を鳴らしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/06/news054.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-06T01:36:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6e25d47c5d588c8ac446917ac27446c3",
     "title": "SCIN: A new resource for representative dermatology images",
     "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
@@ -857,146 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-04-01T06:07:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2d3f6c13249228b8e09c5ff084477eed",
-    "title": "Struts経験者がSpringで困惑したポイントまとめ（初心者向け）",
-    "summary": "執筆のきっかけ\nプログラミングって何？という全くの未経験状態からJavaのStrutsを触り始め、そこからSpringで開発することになりました\n始めはStrutsを使って経験を積んでいたこともあり、\n「同じJavaならフレームワークが異なるSpringも流れですぐ理解で...",
-    "link": "https://qiita.com/w_pechi/items/58486c7303ecefe234c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-01T10:20:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "290d197b66250fe9a4b52e536cbd1825",
-    "title": "【2026年最新版】エンジニアが知っておくべきセキュリティインシデント8選",
-    "summary": "はじめに\n2025年度（2025年4月〜2026年3月）は、サプライチェーン攻撃の高度化、AI悪用の本格化、そしてランサムウェア被害の深刻化が際立った1年でした。\nこの記事では、エンジニアとして特に押さえておきたいセキュリティインシデントを8つピックアップし、それぞれの概...",
-    "link": "https://qiita.com/kawabe0201/items/d698429413a1c9703b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-01T03:39:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7dd940b1c446f23fc5dad1e1b7cea2d9",
-    "title": "【朗報】スレタイと1コメを書く→AIがレスを生成する匿名掲示板シミュレーター登場　想像以上に「おまいら」だった件",
-    "summary": "「○○だけど質問ある？」「○○したやつが優勝」といったスレタイ（見出し）と、最初のコメント（1コメ）を入力すると、AIが2ちゃんねる風のUIでレスを生成してくれる──こんなシミュレーターが登場した。東京都内在住の会社員が生成AIを活用して開発したといい、Xでは4月1日午前2時点で約50万インプレッションを集めるなど話題になり始めている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news096.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-01T06:04:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "390fe88ad11177d42a41a26e5ecc7a2d",
-    "title": "Meta、初の度付きレンズ対応AIメガネ発表　日本での発売計画も",
-    "summary": "Metaは、初の度付きレンズに対応した最新AIメガネ「Ray-Ban Meta Blayzer Optics（Gen 2）」と「Ray-Ban Meta Scriber Optics（Gen 2）」を発表した。Meta AIによる栄養トラッキングやメッセージ要約機能を搭載し、フィッティングのカスタマイズ性も向上。今後日本を含む国際市場での販売や日本語のライブ翻訳対応も予定している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news069.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-01T02:33:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f4a17637f09d99317c517f96fcfc66b5",
-    "title": "Gmailのアドレス変更、米国の全ユーザーが可能に　日本も今後、対応か",
-    "summary": "旧アドレスでの各種Googleサービスへのログインも引き続き利用可能だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news071.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-01T02:30:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dc1ac812584b8e606d4344af60c8385f",
-    "title": "OpenAI、ソフトバンクGなどから約19兆円調達　「AIスーパーアプリ」構想を加速",
-    "summary": "OpenAIは、総額1220億ドルの資金調達を完了し、企業価値は8520億ドルに達した。AmazonやNVIDIA、ソフトバンクGらが主導し、初の個人投資家枠も設けられた。調達資金は計算資源の確保やインフラ構築に充てられる。最終的には「AIスーパーアプリ」を開発し、世界的な経済インパクトの創出を目指す。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news059.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-01T00:31:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0eb5511cd6f6b37088bacd71e30b3181",
-    "title": "AnthropicのAIツール「Claude Code」でコード露出、ソースマップの誤混入で",
-    "summary": "Anthropicの「Claude Code」のソースコードが一時アクセス可能な状態になり拡散した。原因はnpmパッケージへのソースマップファイルの誤混入で、同社はセキュリティ侵害ではなく人為的ミスと説明している。顧客データの漏えいは否定したが、公開されたコードの解析や再実装の動きが広がっている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news056.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-31T23:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "830a40663bfb834de1b4ffef818c0c80",
-    "title": "サイバー子会社・AI Shift、名前が似た企業との混同に注意喚起　「SHIFT」や「SHIFT AI」との誤認が発生か",
-    "summary": "サイバーエージェントの子会社でAI事業を手掛けるAI Shiftが、自社への問い合わせや評価において、似た名前の企業・サービスとの混同が見られるとして注意喚起した。生成AI関連のスクール事業を手掛けるSHIFT AI（東京都渋谷区）や、ITコンサルティング事業を手掛けるSHIFTとの誤認が起きているとみられる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/27/news112.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-03-27T07:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "099731e6e4b87e151dc68344d778e14d",
-    "title": "Computer-aided diagnosis for lung cancer screening",
-    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
-    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T20:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b54afe11505f9fc9f92089f929c4eee",
-    "title": "Using AI to expand global access to reliable flood forecasts",
-    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
-    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
     "ai_summary_done": false
   }
 ]
