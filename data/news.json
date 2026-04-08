@@ -1,5 +1,235 @@
 [
   {
+    "id": "9eb7e1148060372aa2295bfa4007f6bb",
+    "title": "Advances in private training for production on-device language models",
+    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
+    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-21T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4222b2e5269191225ade5447558e5d08",
+    "title": "Learning the importance of training data under concept drift",
+    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
+    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-14T18:32:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a6ff7713a3286bc1c095173d7c20823c",
+    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
+    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-13T22:11:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e02492272ea60f06560533d5feb1dc4",
+    "title": "Graph neural networks in TensorFlow",
+    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
+    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-06T19:17:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d7b8ec1c42c25825b0ea6642653ad412",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
+    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T19:07:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "657d8a6a5c12c6edb1141ff848711085",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
+    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T17:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "19f65cce83a574f6f833d352a42cbc46",
+    "title": "デザインシステムを丸ごと Skills にする",
+    "summary": "デザインシステムを Skills にしたら使いやすくなった\nサイボウズのプロダクトである kintone では、社内向けに kintone Design System と呼ばれるデザインシステムが提供されています。\nhttps://note.com/amishiratori/n/n0d8467106f27\nAI Agent を用いた開発向けに、このデザインシステムの Skills 化を試みたところ...",
+    "link": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-08T01:09:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c1681bb7bd83f83f4fd5775f3318ef6a",
+    "title": "こんなAI時代に、新しいCSS設計フレームワークを作る理由",
+    "summary": "最近は なんでもかんでも、ぜーーーーんぶ、 Tailwind CSS。\nなぜならAIが吐き出すのがTailwindだから。AIにCSSなんて書かせたら余計カオスになるから。\nそんな、Tailwind CSSが圧倒的一強となった世の中で、自分は今「Lism CSS」 という CSS設計フレームワークを開発しています。\nしかし「こんなAI時代に今さら新しいCSS設計理論？フレームワーク？バカじゃねーの...",
+    "link": "https://zenn.dev/ddryo_loos/articles/why-create-new-css-framework-in-ai-era",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-07T04:25:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cc7741dfc60a0938c618861735a38ac1",
+    "title": "共有スキルを2分類で管理する――AIスキル設計の理想と現実",
+    "summary": "!\nこれは筆者が業務の経験をもとに考察した内容であり、筆者が所属する会社の実際の方針や運用を示すものではありません。あくまで一考察としてお楽しみください。\n\nスキルとは、今や多くのコーディングAIエージェントに組み込まれた機能です。自然言語で示された条件を元にAIが自動的にスキルを起動することで、スキルとして設定されたプロンプトをAIが読み込み、それに従ってAIが動くというものです。また、いわゆる...",
+    "link": "https://zenn.dev/uhyo/articles/ai-skill-modular",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-07T03:37:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9b6a667de02a58ebcb2aa66df6accf78",
+    "title": "全PRの83%をAIレビューだけでマージできるようにした",
+    "summary": "はじめに\nカウシェでは、PRの83%が人間のコードレビューを経ずに自動でマージされています。\nGitHub Actions上で動くAIレビュー（Claude Code Action）がPRを自動でApproveし、CIが通ればそのまま自動マージされる仕組みです。\n本記事では、レビュールールを毎晩自動改善する仕組みを作ることで、自分たちの運用で許容できるレベルまでAIレビューの精度を引き上げた話を書...",
+    "link": "https://zenn.dev/kauche/articles/e051583461c181",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-07T01:33:39",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0c2f105cbf5bdbb9ec57cd719e3f57db",
+    "title": "1年で 1,000 GitHub Starまで育てた秘訣、全部書きました",
+    "summary": "はじめに\nこんにちは、英国リバプール大学のGeographic Data Science LabでPhDをしている佐藤と申します。\n私はCity2Graphという、地理空間データをグラフニューラルネットワーク（GNN）向けのグラフ表現に変換するPythonライブラリを開発しています。以前Zennでも紹介記事とOverture Maps対応の記事を書かせて頂きました。\n\nhttps://github...",
+    "link": "https://zenn.dev/yutasato/articles/0b0fbc69066f0a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-06T22:59:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6033562112d0166053a368f2c0fcea82",
+    "title": "前編：Claude Codeで便利だと感じた点（概要・考え方）",
+    "summary": "はじめに\nこれまでの私のAI活用は、私生活での子育てや、趣味のスポーツなどの悩み相談、文章の添削が中心でした。\n実務でも生成AIの利用は許可されていましたが、主にコード検索やエラーログの分析など、\nいわば「少し便利な検索ツール」としての使い方に留まっていました。\nしかし今...",
+    "link": "https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T03:30:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7a1da4f192166232ea11fc6e66de7e4b",
+    "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
+    "summary": "Oracle ACFS NAS Maximum Availability eXtensions（Oracle ACFS NAS MAX） は、Oracle ACFS 上で NFS や SMB の共有を高可用化できる機能です。\nOracle RAC クラスタ内で VIP とエ...",
+    "link": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-07T23:45:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7f191eba13f495fa5833e8eb2c63de64",
+    "title": "SDD×マルチエージェントシステムによるAI駆動開発",
+    "summary": "エ、AI駆動開発ッ？\n本記事で使用している「AI駆動開発」という用語について最初に注釈しておきます。\n開発手法としてよく知られているSDD、TDD、BDDなどは、「何を起点として開発を進めるか」を示す概念という認識です。一方、「AI駆動開発」は決して「AIを起点に開発...",
+    "link": "https://qiita.com/shuto_nakatsubo/items/5d3c83b65c40197ea33d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T02:09:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "87f047487f38afadd3c54ad630e50313",
+    "title": "【スマホでローカルLLM検証】Gemma 4をiPhoneで動かしてみた！",
+    "summary": "はじめに\nみなさんこんにちは。\n最近は「ローカルLLM」という言葉を見かける機会が増えました。\nただ、実際に触ろうとすると、PCやGPUが必要そうで少しハードルが高いと感じるかもしれません。\nそこで今回は、3月31日にリリースされたGoogle DeepMindの「Gem...",
+    "link": "https://qiita.com/kentaro_kawamura/items/d631b9c5c85d6daf336d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T02:01:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d96cdf0b6c0ff7054c8455355e52bbd1",
+    "title": "mdベースのナレッジ管理は大企業で通用するか？組織構造から考えるAIデータ活用の現実",
+    "summary": "最近、Xでこんな投稿が話題になりました。\n\n「LLM Knowledge Bases」：ソースドキュメントをraw/ディレクトリに集め、LLMがMarkdownのwikiに自動コンパイル。Q&Aで使い、その結果をwikiにフィードバックして強化していく循環構造\n\n「...",
+    "link": "https://qiita.com/atsushi_0000/items/ba17a0e770430a7927d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-06T09:58:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "355770cc917a287ca696318447be5850",
+    "title": "国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する",
+    "summary": "2026年4月3日、国立情報学研究所（NII）が国産LLM「LLM-jp-4」を公開しました。日本語MT-Benchで GPT-4o のスコアを上回ったという発表は、国内外で大きな注目を集めています。\nこの記事では、LLM-jp-4 の技術的な中身を掘り下げながら、「なぜ日...",
+    "link": "https://qiita.com/nogataka/items/6821e5d530938d269e58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T00:50:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "71c09b656a5f7b7bfab610c72eb555cd",
+    "title": "Claude CodeもCodexもCSRFを見落とした ── AIコーディングツールのセキュリティ検証能力の限界",
+    "summary": "AIが書いたコードは「動く」が「安全」ではない\n2025年12月、セキュリティ企業Tenzaiが衝撃的なレポートを公開しました。Claude Code、OpenAI Codex、Cursor、Replit、Devinの5つのAIコーディングエージェントに同一仕様のWebア...",
+    "link": "https://qiita.com/nogataka/items/6eb7cda3237358fdbe34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T00:50:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "40a2ae1d82b100d35b65c32253d1958c",
+    "title": "最新AI「Claude Mythos」がSFすぎる件　研究者の作った”牢”を脱出、悪用懸念で一般公開なし──まるで映画の序章",
+    "summary": "すでに“AI界隈”では注目の的になっている「Claude Mythos Preview」。性能や安全性に関する情報をまとめた「システムカード」には、開発初期のテスト過程も記載されており、その内容はまるでSF小説さながらだ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news110.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-08T08:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "759b98a8e8e1d753a4d209ed48b6e1df",
+    "title": "全盲の4人、AIで「映像監督」に　音から広がるイメージを生成AIでMV化",
+    "summary": "音から得た感性を生成AIで映像化。目が見えるクリエイターがサポートしながら完成させた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news098.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-08T06:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8b528cccb8721a48ff9b6d4c0f6a46d0",
+    "title": "AIコーディングエディタ「Cursor 3」リリース AIエージェントを中心に新たに構築",
+    "summary": "AIコーディングエディタ「Cursor」の開発元であるAnysphereは、Cursorの最新版となる「Cursor 3」のリリースを発表しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news070.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-08T01:59:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2214df5e1eb2a3e141497ce6acc417f9",
+    "title": "「今月の経理業務をまとめて処理して」──マネフォからAIエージェント機能　あいまい指示で自律処理",
+    "summary": "マネーフォワードは4月7日、AIが経理・労務・法務などのバックオフィス業務を自律処理するサービス「マネーフォワード AI Cowork」を7月に提供開始すると発表した。自然言語指示で複数のAIエージェントが並列に動作し業務を完結させる。マネーフォワード クラウドのユーザーが対象で、MCP設定不要で利用できる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news051.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-07T23:30:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b2dccbf1ffe197874b7f72161fef26d0",
+    "title": "Intel、イーロン・マスク氏の「Terafab」構想に参画　次世代AIチップ生産を支援",
+    "summary": "Intelは、イーロン・マスク氏が主導する次世代半導体工場「Terafab」プロジェクトへの参画を発表した。TeslaやSpaceX、xAI向けのAIやロボティクス用チップの内製化を目指す本構想に対し、Intelは設計や製造技術を提供し、大規模生産を支援する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news057.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-07T22:52:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -767,236 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-04-04T06:14:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
-    "title": "Talk like a graph: Encoding graphs for large language models",
-    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
-    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-12T21:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "14147e2b87b2bd9460733296794ee39f",
-    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
-    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
-    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-11T19:08:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a0e6680ebb78e8ce1d32793638e17487",
-    "title": "Health-specific embedding tools for dermatology and pathology",
-    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
-    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-08T19:33:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4195b16f724908cf583a88ec292deae8",
-    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
-    "summary": "はじめに\nHello, world. 森塚 です。\n昨年クリスマスに Ruby 4.0 がリリースされ、RubyKaigi 2026 も開催までいよいよ残り 1か月 を切ったので RubyKaigi までに Ruby 4.0 に上げようと最近アップデート業をしています。\n今回は Ruby 4.0 へのアップデートの前に Bundler 4.0 へのアップデートを進めていた際に調べたことを記事にまと...",
-    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T23:35:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3f1995e52747ad926d3470b2728297c7",
-    "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
-    "summary": "710Mパラメータ vs 4パラメータ\nChronos-T5-Large。Amazonの時系列Foundation Model。710Mパラメータ、GPU必須。\nFLAIR。パラメータ約4個。GPUなし。numpy と scipy だけ。Pythonファイル1つ、約500行。\nこの2つを同じベンチマークで比較するとどうなるか。Chronos Benchmark II (25データセット、ゼロショッ...",
-    "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T12:56:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e72bdbb9b7bb4950157e88f09c6f0d8",
-    "title": "よくわからないで使っていたPHPの復習",
-    "summary": "はじめに\nこの記事は、PHP5の頃になんとなく使っていたPHPについて、あらためて見直した際に調べた内容のメモになります。\nこの記事は初心者向けではないので、PHPが初めての人は参考文献にある書籍を読んだ方がいいです。\n\n PHPの歴史\nPHPは、PerlやPythonのようなプログラミング言語とは異なる生い立ちを持っています。\n初期のPHPは、プログラミング言語というよりもCGI向けのツールであ...",
-    "link": "https://zenn.dev/mima_ita/articles/7bfbab47e93860",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T11:52:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fd3672892272e2bc3d8c58a8c727e4ea",
-    "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
-    "summary": "はじめに\n以前、私はAI支援開発の品質問題を解決するVSDDという手法をプラグイン化したvsdd-claude-codeを作りました。\nhttps://zenn.dev/sc30gsw/articles/1373752d9713b3\nVSDDとは、Verified Spec-Driven Development（検証済み仕様駆動開発） のことで、SDD（仕様駆動開発）・TDD（テスト駆動開発）・V...",
-    "link": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T10:37:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e3c21757bba92f2bfae52e79e165c7a8",
-    "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
-    "summary": "はじめに\nAIを使えばデザインも簡単に作れる時代になりました。Figma Make、Stitch、v0 など、プロンプトを入力するだけでUIを生成してくれるツールがどんどん増えています。\nただ、実際に使ってみると「それっぽいもの」は作れるけど、自分が本当に納得するデザインにたどり着くのは意外と難しいと感じた方も多いのではないでしょうか。\n\nいきなりAIに作らせても、漠然とした指示だと微妙なデザイン...",
-    "link": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T09:47:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e7edc50b18282c02655ef9ec252bb49",
-    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
-    "summary": "別で書いた記事：\nhttps://medium.com/@watanabe42463/i-built-an-ai-that-modernizes-legacy-cobol-and-then-made-it-prove-its-own-work-aa982343c833\n\n 8,000億行の基幹業務コードに言語モデルを解き放つと何が起きるのか\nまず、この変数名を見てください。\nWS-CUST-ID-...",
-    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T06:39:28",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a1c3b57db5773f59c2f8cea9bc0d0d46",
-    "title": "とりあえず ralph loopからはじめるハーネスエンジニアリング",
-    "summary": "こんにちは、@_mkazutaka です。ハーネスエンジニアリングが話題ですね。\n今回は、ハーネスエンジニアリングの中でもシンプルで導入しやすいralph loopについて紹介します。\n\n ralph loopとは\n\nラルフ・ループとは、AIエージェントを継続的に循環させる開発手法です。ジェフリー・ハントレー氏の説明によれば、「ラルフとはBashループのことです」 - これは単純なwhile tr...",
-    "link": "https://zenn.dev/explaza/articles/100d753df57fa7",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T06:36:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f9955c04cf223f9e704c79125819da94",
-    "title": "AWS Security Agentを組織で活用していく上での考慮点を考えてみた",
-    "summary": "こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！\n2026年3月、AWS Security Agent がGAリリースされました。設計レビュー・コードレビュー・ペネトレーションテストをAIエージェントが一気通貫で担うというかなり先進的なサービスです。\nhttps://aws.amazon.com/jp/about-aws/whats...",
-    "link": "https://zenn.dev/cscloud_blog/articles/securty-agent-ga-organization-how-to",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-01T22:00:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "51750614cc2a84be25394c1ec29f45f8",
-    "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
-    "summary": "執筆のきっかけ\n最初にJavaを業務で触れた際のフレームワークが「Struts1」でした\n現在はSpring系が主流ですが、保守案件やフレームワーク移行等で稀に触れる機会があると思います。\nこの記事では、Java/Struts初学者向けに、基本とつまずきやすいポイントをま...",
-    "link": "https://qiita.com/w_pechi/items/55647422c8ba22bbdab5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-03T06:38:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7d08ed577afae8283224a1776d13bef",
-    "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
-    "summary": "はじめに\n2026年3月31日、npmパッケージ「axios」が乗っ取られました。\naxiosはJavaScriptで最も使われるHTTPクライアントです。\n週間ダウンロード数は1億回を超えます。\n私自身、ほぼすべてのNode.jsプロジェクトで使っています。\n事件を知っ...",
-    "link": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-03T03:28:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc79722ac017ab2ae6216a575128363c",
-    "title": "2030年までに、1兆パラメータを持つLLMの推論コストが90％以上削減される　ガートナー予想",
-    "summary": "米調査会社のガートナーは、2025年と比較した場合の大規模言語モデルにおける推論実行のコストが、1兆個のパラメータを持つモデルでは2030年までに90％以上削減されるとの予想を発表しました。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news064.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-03T01:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7c7683fbfb333604ec66c7579b1ab987",
-    "title": "OpenAIがメディア企業TBPNを買収──AI時代の「対話の場」構築へ",
-    "summary": "OpenAIは、IT特化型メディア企業のTBPNを買収した。TBPNは著名人が出演するライブ番組で知られ、買収後も編集の独立性を維持したまま活動を継続する。OpenAIのフィジ・シモ氏は、AIによる変化への対話の場を支援する意義を強調。アルトマンCEOも、TBPN独自の自由な発信スタイルを歓迎する意向を示した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news061.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-02T22:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "565840782e257bf5057ffdc55abd1ef5",
-    "title": "Social learning: Collaborative learning with large language models",
-    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
-    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-07T18:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "736efd35c3bae73802329487368692ad",
-    "title": "Croissant: a metadata format for ML-ready datasets",
-    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
-    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-06T18:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "926fb0b411cfc68cdf609a0db59ab101",
-    "title": "Google at APS 2024",
-    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
-    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-04T15:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2df65c24e00cfb307ae7046ddd875b73",
-    "title": "VideoPrism: A foundational visual encoder for video understanding",
-    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
-    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4f1920b9bf796e99cfea6eb99a2993a2",
-    "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
-    "summary": "2ヶ月で21体のAIエージェントによる自律開発パイプラインを構築した。GitHub Issueに要求を書いて寝れば、朝にはマージレディのPRが上がっている。本記事では、2026年2〜3月に何を作り、何が動き、何がまだ動いていないのかを記す。\n出発点は、2月時点で既に 57万行 に膨れていたモノレポだった。モバイルアプリ＋管理画面＋バックエンドが詰まったこのコードベースを、AIエージェントに正しく理...",
-    "link": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-01T11:51:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b9baa8dc839b12041c14cb562262c3f4",
-    "title": "主キーはもう「UUIDv7」一択なのか？ 〜 ID技術の歴史的変遷と現時点の最適解 〜",
-    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint  の137週目の記事です！3年間連続達成まで残り22週となりました！\n\nデータベースの主キーはもう UUIDv7 一択――というのが最近の流れかもしれません。特に今は AI が「核心です！本質です！UUIDv7 です！」と自信満々に採用してくる時代です。だからこそ、人間の側もその背景をしっかり理解してお...",
-    "link": "https://zenn.dev/loglass/articles/c2db7e85702571",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-01T04:46:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3a7acd18eda86dde894c02b0cfbde566",
-    "title": "ユーザーが使うほど成長するAIエージェントを作る（最適化パイプライン編）",
-    "summary": "こんにちは、インターンを卒業し、現在無職のぽるしぇです。\n前回書いたAIエージェント開発の続きを書いていこうと思います。\n具体的には、AIエージェントシステムの推論後のデータパイプラインと最適化システムについて書いていきます。\n\n 前回のあらすじ\nhttps://zenn.dev/porche1223/articles/6aab9973d2681a\n前回の記事では、以下の3点を中心に話しました。\n...",
-    "link": "https://zenn.dev/porche1223/articles/90287ab85bba43",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-03-31T14:59:28",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e62e327371ffb234adcebebc2c47b336",
-    "title": "【Private Agent Factory】Select AI（NL2SQL）をGUIでセットアップしてAIエージェントを作ろう",
-    "summary": "Private Agent Factoryの新機能！Select AI連携を試す！\n\nOracle AI Database Private Agent Factory（PAF) に、2026年3月後半の 25.3.0.0.8 リリース でいくつか新機能が追加されました。\n...",
-    "link": "https://qiita.com/yushibats/items/38f702c584c057a0650c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-02T00:48:57",
     "ai_summary_done": false
   }
 ]
