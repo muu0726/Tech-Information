@@ -1,5 +1,205 @@
 [
   {
+    "id": "88dfb095f483f772db776af07d176b77",
+    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
+    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-14T19:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cf30029dca114511aac1877ca53af67c",
+    "title": "\"なんとなく改善\"からの脱却。Langfuseで作る、精度を改善し続けられるAI開発基盤",
+    "summary": "バクラク事業部ソフトウェアエンジニアのyataです。\n生成AI機能、最近よく見ますよね。\n現在では非常に多くのプロダクトに組み込まれ、日常的に触れることが当たり前になるほど世間に広まってきました。\nただ、今までの開発と同じコストや難易度でこの機能が実現できるわけではありません。\n「精度は微妙だが、それっぽい挙動をするもの」は簡単に作ることができても、「お客様に継続的に使っていただける、安定した精度...",
+    "link": "https://zenn.dev/layerx/articles/cd04dd1350bac5",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-09T11:00:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fef08d604d7d701bad2c1cd2be3e2c49",
+    "title": "Playwright CLI + Claude Code で自律UI修正開発の提案",
+    "summary": "はじめに — コーディングエージェント に「目」を与える\nClaude Code や Codex CLI は非常に強力なコーディングエージェントであるが、UI の問題に関しては必ずしも万能ではない。\n特に以下のようなケースは苦手である。\n\nMarkdown のレンダリング崩れ\nCSS の微妙なズレ\nレスポンシブのレイアウト崩れ\nスクロール後に発生する UI 問題\n\nこれらはコードを読んだだけでは判...",
+    "link": "https://zenn.dev/catatsumuri/articles/22227c79a94a86",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-09T09:53:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ae8f3c2dba707d0dbf2fb5604c4366ae",
+    "title": "転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話",
+    "summary": "こんにちは。アルダグラムのテクニカルフェロー(自称?)をしている蓬莱です。\n（特に社内外でアナウンスされているわけでもないので、本当に自称かも知れない。。）\nとあるMから始まるGAFAM企業をやめてブラブラしていたところを、縁があってアルダグラムに入社させていただく事になりました。（もうちょっとで半年になります）\n突然ですが、皆さん、エクセルファイルを読んでますか？\n「普通に仕事でエクセル使ってる...",
+    "link": "https://zenn.dev/aldagram_tech/articles/c472e358412864",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-09T09:00:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cfd531988c36f0ebbc132f61e3d134d3",
+    "title": "コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由",
+    "summary": "はじめまして！株式会社モアの片山です！\n普段はフルスタックエンジニアとしてWebサービスの開発をしています。\n\n 「分かった」と「書ける」のあいだを埋めたい\n生成AIでコードを書くハードルが下がったいま、逆に差が出やすくなったのは「どう実装するか」といったコーディング力よりも、「どう分けるか」「どこに責務を置くか」といった設計力のほうだと感じています。\nAPIやUI画面は作れても、ユースケースの責...",
+    "link": "https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-09T03:56:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e3a0a86021d4c56689bc16f6297543d3",
+    "title": "AI Agentと数理最適化で飲み会会費の傾斜配分を決める",
+    "summary": "はじめに\n3月、4月、それは別れと出会いの季節です。\nやりたいことはタイトルの通りです。早速行きましょう。\n\n 課題\n会社飲み会の幹事をやったことがある方なら経験があるでしょう。上司にちょっと多めに払ってもらったり、入社年次の浅い若手は割り引かれたりするアレです。全体額が一致することが大前提の上で、一旦どれくらいの傾斜をつけてよいのか、頭を悩ませるものです。特に歓送迎会関連の飲み会になると人数も多...",
+    "link": "https://zenn.dev/green_tea/articles/cf25e680fa97b0",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-09T02:45:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fc7170b3e848d1e5758e34b5dc9b1925",
+    "title": "【保存版】読書→即アウトプット→記事化までを完全自動化する方法（AI活用）",
+    "summary": "🎯 この記事は誰向け？\n\n本を読んでもアウトプットが続かない人\nQiitaやブログに記事を書きたいエンジニア\nインプットをキャリアに繋げたい人\n\n🚀 結論\n👉 「読書 → 箇条書き → AI整形」だけで記事は作れる\nしかもこの流れを仕組み化すれば、\n\nアウトプット習慣が...",
+    "link": "https://qiita.com/Nao52/items/847105d460df6531da7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-10T00:23:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aa64d9a913851b446f76d808f63c4d02",
+    "title": "【AWS】AWS Agent Registryを使ってみた！",
+    "summary": "はじめに\nAgent Registryが発表されましたね。早速試してみました。\n\nこの記事では、公式ドキュメントをもとにAgentCore Registryの概要を整理しつつ、実際にPythonからAPIを叩いて動作確認した内容をまとめます。\n\nAgent Regis...",
+    "link": "https://qiita.com/yakumo_09/items/233352ffd6f508f46352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-09T21:05:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b42de8cfded455adc71c40ee7c1abd4",
+    "title": "Java（Spring）とPHP（Laravel）のDBアクセスの違い　【初心者向け】",
+    "summary": "はじめに\nJava（Spring）での開発経験がある状態で、PHP（Laravel）の現場に入ることになりました。\n事前にサンプルコード等で学習を進めようと奮闘しているところです\nまず感じたのが、\n「DBアクセスの書き方が違う」\nという違和感でした。\nDBアクセスは開発に...",
+    "link": "https://qiita.com/w_pechi/items/830a2e991e82ce2d6bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-09T10:14:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "733539d2122460015bffca2df8874ee0",
+    "title": "\"再発明された車輪\"をメンテナンスする羽目になったお話",
+    "summary": "はじめに\nエンジニアの世界では「車輪の再発明」1を避けるべきだという格言があります。しかし、保守では、稀に出くわすことがあります。\n今回は、独自実装に苦戦させられた経験をお話できればと思います。\n\n独自実装という名の「負債」\n私が保守を担当したのは、Javaで構築されたシ...",
+    "link": "https://qiita.com/km23/items/93d6ead5df3303e2df17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-09T09:54:39",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cf60e9495ffb72c9e73474240d2c6a77",
+    "title": "5年間で凝り固まったRDB脳をNoSQLに順応させる〜DynamoDB入門〜",
+    "summary": "概要\n筆者はエンジニアになって5年間ずっとRDB（リレーショナルデータベース）のMySQL（MariaDB）やPostgreSQLを使ってきました。\nこの度転職をきっかけにNoSQL（非リレーショナルデータベース）のDynamoDBを使う事になりました。\nDB周り以外にも...",
+    "link": "https://qiita.com/miriwo/items/1063cd9368e00ad1a006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-08T15:03:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3bd9eb310b6b3e08357ccad9b56a96e4",
+    "title": "n8nで「三権分立AIエージェント」を構築したら、寝ている間にバグのないコードが勝手に完成した話",
+    "summary": "1. はじめに：プロにとって「Vibe Coding」は退屈だ\n\nCursorやWindsurfなどのAIエディタを駆使して、自然言語だけでアプリを作る 「Vibe Coding」 がもてはやされています。\n「コードを書かなくていい！最高！」と界隈は熱狂していますが、現場...",
+    "link": "https://qiita.com/YushiYamamoto/items/9a53b6f957f809089881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-09T02:31:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6246f623081f06c0019a0434590cff55",
+    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
+    "summary": "はじめに\nこんばんは、mirukyです。\n「MCPはもう死んだ」「Skillsが新しい標準だ」、、などなど。\nニーチェ？\nここ数週間、特に英語圏のX（旧Twitter）やHacker Newsでこの手の議論が絶えません。2026年4月2日に投稿された下記の記事は、特に話...",
+    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-10T15:49:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b6d71003cddcda11009a2d7d4e4571af",
+    "title": "ローカル LLM で AI コーディング支援環境を構築する①",
+    "summary": "はじめに\n!!!!! モデルおよびコードの利用は自己責任でお願いします !!!!!\n\nクラウドの生成 AI を使いたいが、セキュリティポリシーやコストの都合で使えない──そんな環境に置かれている方も多いと思います。\n近頃は、\n\n外部の生成 AI サービスは原則利用不可\nそ...",
+    "link": "https://qiita.com/koutaro_harada/items/d45e346f099af9b9a9c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-09T08:32:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "50e7b415d8cb30ac3d77d92664671f4e",
+    "title": "小野田紀美AI戦略担当相、自身のAI利用は「業務で必要性感じず」　人材育成を推進",
+    "summary": "小野田紀美人工知能（AI）戦略担当相が記者会見で、自身のAIの利用状況を問われ、「私自身は今のところ、自分の業務の中では必要性を感じていないので、必要な時には使おうと思う」と述べた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T12:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "19817b6d066a71885f8ea0892e8f9192",
+    "title": "米財務長官とFRB議長が銀行幹部に警告　Anthropicの最新AI巡り、サイバーセキュリティに懸念",
+    "summary": "ベセント米財務長官とパウエル連邦準備理事会（FRB）議長が今週に、銀行幹部との緊急会合を開き、米Anthropicの最新AIモデル「Claude Mythos」がもたらすサイバーセキュリティ上のリスクについて警告したと、複数の関係筋が9日明らかにした。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news131.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T11:40:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f05957faa9541408ab7eee04783479f7",
+    "title": "IntelとGoogle、次世代AIインフラで提携強化",
+    "summary": "IntelとGoogleは、次世代AIおよびクラウドインフラ推進に向けた戦略的提携の強化を発表した。Google Cloudへの「Xeon 6」プロセッサ導入に加え、インフラ処理を効率化する専用チップ「IPU」の共同開発を加速させる。CPUと専用インフラを統合し、AIワークロードの性能向上とコスト削減の両立を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news114.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T05:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "46f818b4c7177498acc7b1c107a9e11a",
+    "title": "“エアドロの輪”にAndroidも──Googleが連携できる端末の拡大を報告　「もう、思い出の共有から取り残されない」",
+    "summary": "Google Japanは10日、iPhoneの「AirDrop」機能と写真などをやり取りできるAndroid端末が増えたことをアピールした。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news099.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T04:04:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7a5213a0925b8c8be499f2d06e459b4f",
+    "title": "「AWS DevOps Agent」正式提供開始　Azureやオンプレミスのインシデント対応もサポート",
+    "summary": "米Amazon Web Services（AWS）は、AIエージェントがインシデントの防止や調査、解決を自律的に行う「AWS DevOps Agent」の正式提供開始を発表しました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news089.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T03:23:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "741b5fc0ffcf94520a517b9663a803af",
+    "title": "ダウンロード数1億超、人気ライブラリ「Axios」を襲ったサプライチェーン攻撃　発端は巧妙なアカウント乗っ取り",
+    "summary": "オープンソースのJavaScript HTTPクライアント「Axios」に不正なコードを仕込んで流通させるサプライチェーン攻撃が発生した。MicrosoftやGoogleは、北朝鮮の集団が関与する極めて巧妙な攻撃だったと推測しており、影響の拡大が懸念されている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news023.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-10T03:00:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b02cf407941b46f7ff4d3bbd5527fae3",
     "title": "Talk like a graph: Encoding graphs for large language models",
     "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
@@ -797,206 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-04-05T04:52:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2fadf172a4907de27f95f9fb08f8191e",
-    "title": "🎯 初めての C# 非同期処理：実務で使う async/await の基本と注意点",
-    "summary": "「async/await は聞いたことあるけど、正直よく分からない…」\n「とりあえずコピペで動かしてるけど、これで合ってるのかな…」\n非同期処理は、初学者がつまずきやすいテーマの代表格です。\nですが実務に入ると、API 呼び出し・ファイル I/O・DB アクセスなど、避けて...",
-    "link": "https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T07:41:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "49d0162505f6389a02ebf21512a27f51",
-    "title": "ラムダ式に戸惑った時の備忘録",
-    "summary": "はじめに\nこれまでの案件で、比較的古いバージョンのJavaに触れることが多く、\nラムダ式に馴染みがありませんでした。\nしかし、とある案件で実装中にラムダ式を使う場面があり、最初は->など馴染みのない記号があり、苦手意識がありました。そこで、今回はラムダ式の基礎的な部分につ...",
-    "link": "https://qiita.com/aito1234/items/1506a98b6cb2d05a12c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T08:02:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c86ac4ac4d4fb0f8f989909a1ec31de9",
-    "title": "AWS AIFに1,000点満点で合格した勉強方法",
-    "summary": "はじめに\n\nみなさん、こんにちは～\n\nこの度、AWS Certified AI Practitioner（以下AIF）に1,000点満点で合格できました！\n\nこの記事では、AIFの勉強方法、学習時に意識したことを書いていきます。\n\n自己紹介\n\n社会人歴：1年目\n職種：SE...",
-    "link": "https://qiita.com/yuki01_a/items/b7f5cac745d374e64360?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T00:31:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "aeb84570d19b10fe985df960f5aa5dfb",
-    "title": "「コードを書くより、知識を編む」元Tesla AI責任者が公開した、AIにWikiを自律生成させる異次元の活用術",
-    "summary": "元TeslaのAI責任者であり、OpenAIの創設メンバーの一人でもあるアンジェレイ・カーパシー（Andrej Karpathy）氏。AI界の巨星である彼が、最近「コードを書くこと以上にトークンを費やしている」と語る、驚きのLLM活用術を公開しました。\n今回は、彼が提唱する...",
-    "link": "https://qiita.com/KIITA-DAISUKI/items/8db8c38e23e2196258b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-04T01:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f1eafd2f772f0b2ec992f562b1629850",
-    "title": "JSP × JavaScript (+ Ajax) の基本について 【初心者向け】",
-    "summary": "執筆のきっかけ\nJavaのサーバサイドから開発業務を始めることになり、\nそれから約1年後、ある日突然フロントサイドをJavaScriptと一部Ajaxで修正する業務が回ってきました。\n画面描画にはJSPを使用しているシステムでしたが、とにかく各役割が混同してしまい\nどのよ...",
-    "link": "https://qiita.com/w_pechi/items/6053654a303ad236818f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T10:06:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "652bc76b82e922522715a7cc36f9380f",
-    "title": "【事前構築済みツール編】インデータベースのAIエージェントをSelect AI Agentで構築してみる",
-    "summary": "はじめに\nAutonomous AI Database内でAIエージェントを作成・管理するため機能として、Select AI Agentがリリースされました。\nSelect AI Agentは、データベース内でエージェントを直接実行するため、データを外部サービスに送信する...",
-    "link": "https://qiita.com/marfujim/items/eb9b3af2ef6e5b6b71ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T05:45:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cefa01d0d6fd672b67bc4da5e106fe2c",
-    "title": "実務経験ゼロでもシステムエンジニア　派遣会社が経歴詐称を強要　早期の退職で精神的苦痛",
-    "summary": "システムエンジニア（SE）の派遣会社に採用され、取引先で勤務した元SEの男性3人が、実務経験がないのに経歴詐称を強要されて精神的苦痛を受けたなどとして派遣会社代表らに賠償を求めた訴訟で、最高裁は、賠償を命じた東京高裁判決を不服とした代表らの上告を棄却した。原告の支援者らは「派遣会社は名前を変えながら従業員の経歴詐称を続けており、問題は終わっていない」と警鐘を鳴らしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/06/news054.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-06T01:36:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4614a135f97a302433c51f353db1d46a",
-    "title": "コーディング規約のAgent Skillを作って実装時の手戻りを減らそう",
-    "summary": "この記事で分かること\n\nAI実装で毎回同じレビューをしているときに、Agent Skillで前提共有を楽にする考え方\n最初に入れた3項目と、あとから足した観点\nGitHub Copilotで試すときの配置場所と、効きにくいときの見直しポイント\n\n\n AIに実装させるたび、同じ指摘をしていた\n私はKotlin Multiplatformで動くスマホアプリを、AIを使いながら個人開発しています。\nAI...",
-    "link": "https://zenn.dev/j____takumi/articles/create_agent_skill",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-04T16:33:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fc2085e2d46d4434291f4ff0ce828f49",
-    "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
-    "summary": "なぜRAGを学んだか\nRAGという技術を知り、検索の仕組みにもこうした手法が使われていることに興味を持ったのがきっかけ。自分でもRAGを活用した検索アプリを作ってみたいと思った。\nとりあえず、基礎から応用まで網羅してるRAGの教材を読み込んだ。ボリュームはかなりあった。\n読む前の自分の理解はこの程度。\n\nドキュメントをベクトル化して、質問が来たら似てるやつ検索して、LLMに渡す。\n\n以上だけだった...",
-    "link": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-04T15:36:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4ba865fbcc69eb5e862c4a8b8b93f23f",
-    "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
-    "summary": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawエージェントから使う\n2026年4月にGoogleがリリースしたオープンウェイトモデルGemma 4。その最大モデルである31Bを、NVIDIA DGX Spark上でllama.cppを使いローカルサーバーとして起動し、自作のOpenClawサンドボックス環境「suisou」から接続するまでの記録です。\n\n OpenC...",
-    "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-04T12:36:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cc3b04b747b245498186169ac4180eed",
-    "title": "AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
-    "summary": "はじめに\nAIエージェントのPoCや検証は多くの現場で行われるようになりましたが、「本番環境で安定して運用する」となると、途端にハードルが上がります。従来のソフトウェア開発の常識だけでは対処しきれない課題が次々と出てくるからです。\nこうした課題に対して、IBMとAnthropicが共同で「ADLC（Agentic Development Lifecycle）」というガイドラインを公開しています。\n...",
-    "link": "https://zenn.dev/dxclab/articles/9f015ee80cd809",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-03T16:12:51",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4ec113737a81228f328dac1a94cf627d",
-    "title": "React の Container/Presentational × Hooks を関数型アーキテクチャで再設計する",
-    "summary": "はじめに\n私はもともとContainer/Presentationalパターンに対して懐疑的でした。このパターンを広めたDan Abramov氏（React core team）自身も2019年に元記事へ補足を加え、「もうこの分け方は推奨しない。Hooksで同じことができる」と述べています。自分もその流れに沿って、ロジックの分離はHooksで十分だと考えていました。\nhttps://medium....",
-    "link": "https://zenn.dev/appleworld/articles/advanced-container-presentational-pattern",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-02T22:00:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "772097f5ac75a78c2d02d32515d4826e",
-    "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
-    "summary": "はじめに\nこんにちは、Watanabe jinです。\nAIが発展して多くの人がReactでアプリを作っているのをみてすごい時代だなと改めて実感しております。\nしかし、AIがReactを(綺麗に)書くのは課題が多く難しいというのが私の感覚です。\nReactを書こうとすると...",
-    "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-05T08:00:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1f02aac832bd7e98f1305ce7ce1e6a65",
-    "title": "「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース",
-    "summary": "みなさんこんにちは！omatsumanです！\n株式会社GitSBTの代表をしております。\n今回がQiitaで初の投稿になります。（緊張...）\nさて、今回なぜ私がQiitaの記事を書こうか思い立ったのかと言いますと...\n\n良いプロダクトが開発できたから！！\n私はITエンジ...",
-    "link": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-05T01:00:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9627c1396ec7dca4a042b09963eaa7c5",
-    "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
-    "summary": "はじめに\nOCI Enterprise AI は、Oracle Cloud Infrastructure（OCI）上で LLMや埋め込みモデルへのAPIアクセス、AI エージェントの構築、デプロイ、ガバナンスをワンストップで提供するマネージドサービスです。Cohere、...",
-    "link": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-04T15:58:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "39355362310a85f10c5884940da2cc11",
-    "title": "総務省が出したAIセキュリティのガイドラインを読んで軽くまとめた",
-    "summary": "令和8年3月、総務省が「AIのセキュリティ確保のための技術的対策に係るガイドライン」を公開した。LLMを組み込んだシステムが普及してきた中で、脅威が顕在化してきたので整理しましたという内容。対象読者はAI開発者とAI提供者。\n\n脅威は主に2種類\nガイドラインが主に扱う...",
-    "link": "https://qiita.com/naokami/items/1373aa0dba37a5a3683c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-04T21:04:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8f744553805de95e32080934c34f20fa",
-    "title": "Bonsai-8B考察 — 1-bit LLMは使い物になるのか",
-    "summary": "Bonsai-8B考察 — 1-bit LLMは使い物になるのか\n\n自分用メモとして書きました。PrismML（Caltech発）がリリースした真の1-bit LLM「Bonsai-8B」。モデルサイズわずか1.15GB。海外LLMコミュニティの議論を調べ、技術的な仕組み...",
-    "link": "https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-04T15:47:00",
     "ai_summary_done": false
   }
 ]
