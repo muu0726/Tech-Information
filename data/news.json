@@ -1,5 +1,195 @@
 [
   {
+    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
+    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-19T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5e82aa4bc8b9aa9f32383ed197414e22",
+    "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
+    "summary": "はじめに\n「AI時代に価値を持つのは、良質な問いを立てられる人だ」\nここ最近、こうした論調をよく目にするようになりました。生成AIが急速に普及するなかで、「答えはAIが出してくれる。だから人間は問いを立てる側に回るべきだ」という主張は、直感的にもっともらしく聞こえます。\nただ、自分自身の体験を振り返ると、少し違う景色が見えてきます。\n特に明確な問いもない状態で、自分が書きたいことや背景知識を殴り書...",
+    "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-11T15:37:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a19f0d6b9b3349d7b458d13df8da3223",
+    "title": "【CTF】cryptoの始め方（入門）",
+    "summary": "※) この記事は次の動画の下書きを兼ねた記事になります。こういうのもあるよとか、こういう考え方もあるよというのがあれば教えていただけると嬉しいです。\n\n この記事の対象者\n\n\ndaily Alpacahack の crypto のhard までを解くことができない人\n\n\n この記事ではどういうことが書いているの？\n\ncryptoってどういうジャンル？何が楽しいの？\ncryptoの難しい問題は何が難...",
+    "link": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-11T11:43:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "95b7c667fdae9f8ccd959d9d492dea36",
+    "title": "agent-browser入門：Claude Codeからブラウザを自在に操る！導入＆他ツール使い分けガイド",
+    "summary": "生成AI全盛の昨今、『ブラウザ操作』に関しても生成AIを介して良い感じに効率化、高速化対応させてしまおう！という動きが非常に活発化しています。私も最近色々触っている状況ではあります。(先日以下のブログでも取り上げたりしていました)\nhttps://zenn.dev/shinyaa31/articles/dd315ea4868eb1\nそんな中、上記エントリで言及・紹介したPlaywright、Bro...",
+    "link": "https://zenn.dev/shinyaa31/articles/082457e115885c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-11T07:19:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fcd90ebf12196e6e4c0d3da37d952f46",
+    "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
+    "summary": "AI-Readyなデザインシステムmelta UIを作った\nmelta UIは、AIエージェント（Claude Code、Cursor等）がUI生成時に参照するためのデザインシステム。Tailwind CSSベースで、28コンポーネント・99デザイントークン・MCPサーバーを備えている。OSSとして公開中。\n\nhttps://melta.tsubotax.com\n普通のデザインシステムとの違いは「...",
+    "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-11T07:06:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bfc03fda7874d8a8abfc686b019ddd85",
+    "title": "分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計",
+    "summary": "はじめに\n「自然言語でデータを分析できる」──デモでは魅力的に見えても、 本番導入に足る品質をどう担保するか、そもそも担保しきれるのか と疑問に感じたことはないでしょうか。\nこの記事では、 自然言語でデータを分析するAIエージェントが実務で安定しにくい理由 を考察しつつ、近年話題の セマンティックレイヤーとの組み合わせにより、そうした課題を緩和しうる可能性 について紹介します。\n題材にはBigQu...",
+    "link": "https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-10T09:23:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "40b75a91e16a72aed4fe78feb2af39c6",
+    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+    "summary": "先に結論\nAIを導入すると、実装スピードは確実に上がります。\nただ、チーム開発で本当に問題になるのは、コードを書く速さではなくコードを理解し、判断を共有する速さです。\n今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。\n\n仕様書は「ずっと保守する正本」で...",
+    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-11T02:24:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a52ca6fad83d4b33cbcf3479cfa97d6d",
+    "title": "AI駆動開発で開発期間90%短縮 — 未経験エンジニアが3週間で48,000行のアプリを作った全記録",
+    "summary": "Flutter未経験・スクラッチ開発未経験の状態から、AI（Claude Code）と一緒に3週間でプロダクション品質のWebアプリを作りました。 従来なら6〜9ヶ月かかる開発を、AI駆動開発で90%短縮した実績と具体的な数値を公開します。\nこの記事では、従来の人間主体の開...",
+    "link": "https://qiita.com/teppei19980914/items/4957e8545ecd21167189?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-12T06:47:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f3f0a7a061b49d4f3f472b12dd2c5353",
+    "title": "2026/04/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n日本発、LLMの推論を「桁違い」に効率化する新...",
+    "link": "https://qiita.com/ennagara128/items/c56aa243e1fef118cfe2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-12T03:05:27",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0ade82040425e8fed7d568533590a107",
+    "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
+    "summary": "VimからEmacsに移った経緯\nもともとはVimを1年ほど使っていました。\n自分がVimを触っていた当時は、Python、Node.js、Deno、Rubyなど、さまざまな言語でプラグインが作られていました。\n当時の自分の会社では、そのあたりが規約や運用方針と少し相性が...",
+    "link": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-11T14:51:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a0c476c550857ed0d38a99b16438de89",
+    "title": "DrawIO ワイヤーフレームを「共通言語」にしたら、AIエージェントとのUI開発が劇的にスムーズになった",
+    "summary": "AIエージェントにUIを実装させるとき、テキストだけで意図を伝えるのは難しい。DrawIOでワイヤーフレームを描き、それを設計の Single Source of Truth にしたところ、人間のイメージとAIの出力のズレが大幅に減り、開発速度が上がった。\n\nはじめに\nA...",
+    "link": "https://qiita.com/R61/items/d7e1b9c5595265163861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-11T02:27:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3e519c2b018d597db14307667d98db25",
+    "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
+    "summary": "設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？\n仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の...",
+    "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-12T06:23:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "417124f99d2712ca9858fe32f570ee0a",
+    "title": "2026/04/10 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【35歳未経験でも理解できた】SPAへの進化\n...",
+    "link": "https://qiita.com/ennagara128/items/4fb1c2150a73249fb2f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-10T02:02:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1a6b7bce0f930535f7aec34ea0a41ed4",
+    "title": "2026/04/11 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【35歳未経験でも理解できた】Web API\n...",
+    "link": "https://qiita.com/ennagara128/items/68460704f5818098f228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-11T01:39:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "99782646064c266ee203dc3b8dd6ec6d",
+    "title": "「バイブコーディング」と「ちゃんとした開発」の間 — AI時代の初心者はどこから始めるべきか",
+    "summary": "「バイブコーディング」という言葉を最近よく目にするようになりました。AIに指示を出すだけでコードが生成される開発スタイルのことです。\n一方で、「バイブコーディングだけでは本物のスキルが身につかない」という声も増えています。エンジニア歴の長い方からは「基礎をちゃんと学べ」とい...",
+    "link": "https://qiita.com/ennagara128/items/dcf30542bfcb7f61300e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-12T04:06:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4774a23f9f5bf57ba87cb051fecb06cb",
+    "title": "DuckDBを試してみたら、Pandasとの相性が良くて便利だったので使い方をまとめてみた",
+    "summary": "はじめに\n私は機械学習エンジニアをしており、現在はLLMを扱うことが多く、RAGシステムの構築などを行っています。\nバリバリのバックエンドエンジニアというわけではないので、SQLを日常的に使う機会はそれほど多くありません。\nただ、こういった場面ではDBを使用したくなること...",
+    "link": "https://qiita.com/atsushi11o7/items/d9daab9a05552fdc0579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-11T00:38:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b79a9990fdd9ae67a165ba1996c23e3b",
+    "title": "OpenAIのアルトマンCEO、批判的報道と自宅への火炎瓶事件についての個人ブログ公開　家族写真も",
+    "summary": "OpenAIのサム・アルトマンCEOは、自身を批判する報道や自宅への火炎瓶投げ込み事件を受け、個人ブログで心境を明かした。AIへの不安に理解を示しつつ、過度な扇動が暴力を招くリスクを指摘。AGIを巡る権力争いを「権力の指輪」に例え、技術を広く共有し、民主的なプロセスで管理する重要性を強調している。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-12T00:19:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "eb34a846feb918aaddf28cddabfc5a31",
+    "title": "判読困難な「中世ギリシャ語」を読み取り、TOPPANがAI-OCR開発　日本語の「くずし字」解読技術を活用",
+    "summary": "TOPPANグループは4月7日、中世ギリシャ語の写本を解読するAI-OCRエンジンを開発したと発表した。くずし字解読で培ったAI画像認識技術を転用し、ヴァチカン教皇庁図書館保有の写本50点と翻刻テキストを学習データに活用。認識精度95%以上を目指す。4月25日から印刷博物館の企画展でデモ公開する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/07/news124.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-07T11:50:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6e25d47c5d588c8ac446917ac27446c3",
     "title": "SCIN: A new resource for representative dermatology images",
     "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
@@ -807,196 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-20T20:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b54afe11505f9fc9f92089f929c4eee",
-    "title": "Using AI to expand global access to reliable flood forecasts",
-    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
-    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0915b6af68b739f002caf0aee4819f11",
-    "title": "Prime Intellect Labで始めるAgentic RL ―― 4BモデルでGPT-5を超える",
-    "summary": "松尾研究所の太田・尾崎です．\n昨今自律的な行動をとることのできるエージェントが流行っていますが，これらはLLMに外部環境との作用が可能なツールを持たせたものとみなすことができます．なのでAgentが適切に行動するにはWeb検索や書類作成等のツールを適切に利用することが必須であり，そのためには正しい指示（ツールのマニュアル）やロバストなツール設計（MCPといったプロトコル化）が重要になります．\nそう...",
-    "link": "https://zenn.dev/mkj/articles/prime-rl-20260401",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-07T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "762791d2dc271c3d8fd47ebc6a93a5a1",
-    "title": "Bonsai-8B-mlx × Goose でフルローカルの AI エージェント環境を作る",
-    "summary": "Mac (M1 - メモリー16GM) でローカル LLM を動かして、それを AI エージェントのバックエンドにしたい——そういう用途に Bonsai-8B-mlx と Goose の組み合わせが使えます。この記事では両者の概要を紹介しつつ、実際につないで動かすまでの手順と詰まりやすいポイントをまとめます。\n\n Bonsai-8B-mlx とは\nBonsai-demo は PrismML が公開...",
-    "link": "https://zenn.dev/geeknees/articles/52f2b7ca6b81e4",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-06T11:37:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a050a0dc5525df50423d01268aa37a35",
-    "title": "クラウド上の機密PDFを、URLを漏らさずブラウザで安全に見せる方法",
-    "summary": "はじめに\nPKSHA Technology のソフトウェアエンジニアの許です。私が担当する PKSHA AI ヘルプデスクでは、社内ドキュメントをもとに AI が回答を生成する RAG（Retrieval-Augmented Generation）ベースのチャットエージェント機能を提供しています。ユーザーが質問を投げると、AI がクラウドストレージ上のドキュメントを検索し、根拠を示しながら回答を返...",
-    "link": "https://zenn.dev/pksha/articles/b7a7d20f40fc3f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-06T08:05:22",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6349f6905a6f37e79baa5354a4f6067c",
-    "title": "Gemma 4がリリース！ローカルLLM勢に嬉しい話",
-    "summary": "🚀 はじめに\nおぐまです。\nGoogle が 2026年4月2日に Gemma 4 をリリースしました。Apache 2.0 ライセンスで使えるオープンモデルで、ローカルで動かしている人にとってかなり嬉しい内容になっています。「また(新しいモデル)かよ、、」と思う方もいるかもしれませんが、今回は個人開発者・ローカルLLM勢的に注目ポイントが多いので紹介します。\n\n 📰 何が発表された？\nGemma...",
-    "link": "https://zenn.dev/ap_com/articles/gemma4-release-local-llm-20260406",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-06T03:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f799ba37e495219ae9f09fc44b9e8288",
-    "title": "Claude CodeにCLIツールを渡して精度と効率を上げる",
-    "summary": "Claude Codeを使い始めたときに驚いたのは、ファイルを探索して構造や問題点を探し当てるのが上手なことでした。詳細なコマンドを指示しなくても、grepやfindを自ら実行して、コードベースを読み解いて回答を返してくれます。\nでも、精度が期待よりも低かったり、何かよくわからない処理を延々と繰り返していることもあります。たとえば次のようなことです。\n\n直前のやり取りや自分の回答に引っ張られて、遠...",
-    "link": "https://zenn.dev/chot/articles/d0cd0425edd869",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-06T01:00:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dc135458ff8f2f3fc3dba241713739ae",
-    "title": "Claude Agent SDK でつくる！対話型AIエージェント開発",
-    "summary": "この本では、Claude Agent SDK (Python) を用いて、Claude Code方式の「ヒアリング → 深掘り → 成果物を出す」対話型ワークフローを持つAIエージェントを開発していきます。つくりながら学ぶことを重視し、最小限のコードでSDKを動かすところから始めて、MCP連携やサブエージェントを活用するアプリ開発まで、ステップバイステップで学べます。\n\n旅行プランナーを題材に、タ...",
-    "link": "https://zenn.dev/ml_bear/books/f2d52a3bc0b33c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-06T00:27:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "016044372030c61eb9481bf7beba3e39",
-    "title": "Claude Codeのセキュリティ設定を本気で固めた話【2026年版】",
-    "summary": "はじめに\nClaude Codeを業務で使い倒していると、ふとこんな不安がよぎります。\n「AIがローカルの .env 読んだりしないよな…？」\n「会話履歴ってどこまで残ってるんだろう」\n「サンドボックスなしで野良コマンド実行させていいのか」\n今回は、Claude Codeのセキュリティ設定を本格的に固めた手順をまとめました。\n設定ファイルを直接いじるので少し技術的な内容ですが、コードブロックはその...",
-    "link": "https://zenn.dev/momozaki/articles/10cf58b08de335",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-05T19:52:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0edc8b86e2cf4af6b28d77c8f928ed77",
-    "title": "エンジニア未経験でも一目置かれるポートフォリオ。ビジネス視点で顧客に価値を届ける。",
-    "summary": "未経験からエンジニア転職を目指して、個人開発に励む方々へ。\nそのポートフォリオ、もしかしたら面接官やユーザーに刺さらないプロダクトになっているかもしれません。\nAIがコードを書くことが当たり前となった2026年現在、エンジニアに求められるのは「何を作るか」以上に 作ったプロ...",
-    "link": "https://qiita.com/masa20057/items/3237a14437fbaad63f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-07T02:50:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b688c78d8660d0c9c2e1fcb2c5bf87ff",
-    "title": "【参加レポート】 Security Days Spring 2026 Tokyoに参加しました！",
-    "summary": "こんにちは。KIYOラーニングでスタディングの開発をしている @skoda007 です。\n普段の業務では開発に加えてサーバー監視などの保守も行っています。\n生成AI・AIエージェントの普及も進んできた中でセキュリティ関連のニュースやトレンドをよく見かけるようになったので、セ...",
-    "link": "https://qiita.com/skoda007/items/651d9dc904aefe4f411f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-07T03:55:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f8a8b3523393293ba15df7e75dc6a0d4",
-    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-    "summary": "仕様駆動開発は、ウォーターフォールへの回帰ではない。\nみなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？\nGitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。\n国内外の...",
-    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-07T00:41:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bd14d035e9fe5392a95d37ccfd8ccf1c",
-    "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話",
-    "summary": "👋 はじめに\n皆さん 「AIと声で会話したい」 って思ったこと、ありませんか？\nテキストのチャットは便利なんですが、やっぱり声で返ってくると没入感が全然違いますよね。\n人間同士の会話って、相手の言葉が終わってからだいたい200〜500msくらいで返事が始まりますよね。さす...",
-    "link": "https://qiita.com/kikuziro/items/35f8fd0f56e63b25854f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-05T21:13:22",
-    "ai_summary_done": false
-  },
-  {
-    "id": "592b575e228f9c7b22a773607273f0b6",
-    "title": "「提案力」のあるエンジニアになろう！",
-    "summary": "提案力ってなに?\n「提案力ってなんだ...?」\n「企画書を書けるようになれってことか...?」\n「AIツール導入のための稟議書を書こうみたな...?」\nいえ、そんな難しい話ではないので安心してください。一言で言ってしまえば、提案力とは、「自分はこれがいいと思う」ということ...",
-    "link": "https://qiita.com/Terao-Takumi/items/73b6116174279541f601?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-07T00:57:28",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fab220c009241075bd053fc26f1cf875",
-    "title": "動かして検証する新世代ローカルLLM対決 on Windows　1Bit LLM Bonsai-8b vs Gemma4",
-    "summary": "TL;DR\n\nGemma4は実用レベルの良好な出力を誇り、本格的なローカル運用が期待できる\nBonsai-8Bはメモリ利用の少なさとクイックレスポンスに強みがある、精度は今後に期待\n\nはじめに\nLLMの世界はフロンティアモデルの進化が著しいですが、オープンLLMのニュー...",
-    "link": "https://qiita.com/mi-ta/items/0ea828992c96075e9563?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T17:32:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "32e646fa926e61cf1f63cdddae78e61b",
-    "title": "Java Stream APIをfor文と比較【初心者向け】",
-    "summary": "執筆のきっかけ\nJavaのシステムを業務で触り始めてそれなりに慣れてきた頃合いで、\n同じくJavaであるもののフレームワークが異なる別システムの業務を担当することになりました。\nそのソースコードではよくStream APIが使用されていましたが、\nぱっと見てどのような処理...",
-    "link": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-07T10:07:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "afa2cfd8936938de4bfca1d90891f6af",
-    "title": "1-bit LLM の Bonsai を Google Pixel 7aのLinuxターミナルで試す",
-    "summary": "はじめに\nPrismMLが開発した 1-bit LLM の Bonsai-8B と Bonsai-1.7B を Google Pixel 7a の Linuxターミナルで試します。Bonsai-8B はモデルサイズが 1.15GB と小さく、Raspberry Pi 4B...",
-    "link": "https://qiita.com/revsystem/items/d1573be74bdd4b04b1fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-06T17:07:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1d800651a346c257041d893476e3c578",
-    "title": "AIが考えた「きのこたけのこ戦争」の結末は“融合”？　「きたきたのこのこの山里」発売",
-    "summary": "明治は7日、「きのこの山」と「たけのこの里」の合体商品を発表した。AIとの対話を重ねて開発したという。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/07/news126.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-07T12:10:00",
     "ai_summary_done": false
   }
 ]
