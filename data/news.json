@@ -1,5 +1,145 @@
 [
   {
+    "id": "9b54afe11505f9fc9f92089f929c4eee",
+    "title": "Using AI to expand global access to reliable flood forecasts",
+    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
+    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T16:06:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
+    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-19T20:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bc74a58eed458a97404588f0a5960fa6",
+    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
+    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
+    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-31T21:59:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8e51c923ef35fd53918c889d5934c084",
+    "title": "Mixed-input matrix multiplication performance optimizations",
+    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
+    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-26T19:56:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "efca0b0fffce288796671d0ebc8e182d",
+    "title": "ざっくりClaude Designを触ってみたので共有する",
+    "summary": "!\nこの記事は人間が書き、記事の校正に生成AIを使用しています。\n\n\n はじめに\nClaude Designが発表されました。\nhttps://claude.ai/design/\n2026/4/18現在はPro, Max, Team, Enterpriseプランでリサーチプレビューとして利用可能です。\nhttps://x.com/claudeai/status/204515626769021364...",
+    "link": "https://zenn.dev/yokomachi/articles/202604_claude_design_chottodake",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-17T20:18:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6f07b99763e0537f7e875871d562fd96",
+    "title": "データを見てみよう【統計学の利用禁止】",
+    "summary": "はじめまして\n株式会社インテージの桝田です。\nいわゆるデータサイエンティストとして、普段は広告効果測定や時系列データ分析の業務を行っています。\n業務外では統計学・マーケティングサイエンスの研究活動も行っています。（牛の歩みですが）\n\n データ分析について考える\n時は2014年！　一般社団法人データサイエンティスト協会は、データサイエンティストに求められるスキルセットとして「ビジネス力」「データエン...",
+    "link": "https://zenn.dev/intage_tech/articles/art012-analysis-withoutstat",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-17T10:51:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c2ad36a6bbbca3c6a70b84a9e5eb39b6",
+    "title": "【n8n】Gmailの領収書を自動でGoogle Driveに日付別保存する仕組みを作ってみた",
+    "summary": "はじめに\n日々こんなこと思いませんか？\n\n領収書の整理めんどくさい\nGmailに埋もれて後から探せない\n月別・日別で自動整理したい\n\nそこで今回は、\nGmailに届いた領収書を自動で判別し、Google Driveに日付ごとに整理して保存する仕組み\nをn8nで構築しました...",
+    "link": "https://qiita.com/wan-code/items/b0984991f051e1ca6d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-17T10:01:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "45e86a4eb45f91920d35b272c244d33c",
+    "title": "【AI for Science 研究者向け】GraphRAG で科学文献ナレッジグラフを構築する ─ Azure AI Foundry 実践ガイド",
+    "summary": "はじめに\nMicrosoft GraphRAG は、LLM を使って文書コーパスから 知識グラフを自動構築 し、グラフベースの RAG（Retrieval-Augmented Generation）を実現するオープンソースフレームワークです。\n従来のチャンクベース RAG...",
+    "link": "https://qiita.com/hisaho/items/0d779317551f86091bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-17T00:52:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5c5477a68eb2a84e6d7fa2294a0feb30",
+    "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
+    "summary": "はじめに\nClaude Code、Codex CLI、Gemini CLI の比較記事は、ここ半年で一気に増えました。\n多くは「どれが最強か」を問う記事です。読むと参考になる一方、結局どれか 1 つを選ばされる構図になりがちで、実務の体感とは少しずれます。私の手元では、3...",
+    "link": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-17T02:18:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2867c6dfed18888d36b601a7398728f9",
+    "title": "【備忘録】Salesforce TDX 2026 ― イベント後の公式情報をキャッチアップするための全体像整理",
+    "summary": "はじめに\nSalesforce の開発者向けカンファレンス TrailblazerDX 2026（TDX 2026） が、2026年4月15〜16日にサンフランシスコ Moscone West で開催されています。Salesforce+ での無料配信もあり、現地に行けなく...",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/4c33ed9cc728094d8bd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-16T15:46:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "015d4c82c342e903b3fdb9eff42e85cb",
+    "title": "PrologでLLMの論理推論を強化するMCPサーバーを作ってみた",
+    "summary": "はじめに\nLLMに論理パズルを出すと、簡単な三段論法は解けるのに、制約が絡む問題になると間違える。\nたとえば覆面算（SEND + MORE = MONEY）。各文字に0-9の異なる数字を当てはめるだけの問題だが、Claude Sonnetでも間違える。組み合わせが多すぎて...",
+    "link": "https://qiita.com/rikarazome/items/d78fcb4a810035493c23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-18T00:21:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "559d1db9a7d4f24e3267fcba3dd24cdd",
+    "title": "Anthropic、「Opus 4.7」ベースのAIデザインツール「Claude Design」発表　Canvaとの連携も可能",
+    "summary": "Anthropicは、AIデザインツール「Claude Design」をリサーチプレビューとして発表した。最新モデル「Claude Opus 4.7」を基盤とし、指示やファイルからプロトタイプを自動生成する。Canvaとの提携強化により、生成物をCanvaで直接編集することも可能。プロトタイプから実装まで、業務プロセスのAI統合を加速させる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-17T23:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7a787c20a8f9125fa75aa5cf71ebd9c7",
+    "title": "“100メガショック”再び　「NEOGEO AES＋」11月発売　HDMI出力もある",
+    "summary": "PLAIONはゲーム機「NEOGEO AES＋」を発表した。SNKが協力し、1990年発売の「NEOGEO」を現代風にアレンジして復活させた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/18/news019.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-17T22:14:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "6e25d47c5d588c8ac446917ac27446c3",
     "title": "SCIN: A new resource for representative dermatology images",
     "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
@@ -857,146 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-04-14T07:52:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "72104589a874642918e4197caf170a61",
-    "title": "【M365 Copilot】GitHub Copilotで気づいた「AIとの付き合い方」は、M365でも同じだった",
-    "summary": "この記事はGitHub Copilotと一緒に書きました。\n\nはじめに\n私は普段コードを書く仕事をしていません。IT系の業務に携わっていますが、いわゆる「開発者」ではない立場です。そんな私ですが、GitHub Copilot を日常的に使っています。ブログの執筆や資...",
-    "link": "https://qiita.com/yuyanz/items/fd44da66ebb8860d0750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-12T14:32:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67b274599ef1462609fad2bdfd2a24c0",
-    "title": "エージェントを追え！OCI Enterprise AI Agents - Responses API を LangSmith でトレーシング",
-    "summary": "はじめに\n前回の記事では、OCI Enterprise AI Agents と Responses API を使って、MCP サーバー（DeepWiki）を呼び出すエージェント「GitHub DeepInsight」を作りました。たった数十行の Python コードで、サ...",
-    "link": "https://qiita.com/yuji-arakawa/items/3861ed531b888bceae3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-13T23:12:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ad3942db892903e83ee4c3901efdba65",
-    "title": "Webクローラーのベストプラクティスを定めるI-D「Crawler best practices」(draft-illyes-aipref-cbcp-03) を精読してみた",
-    "summary": "はじめに\nこんばんは！\nGMOコネクトで執行役員CTOしている菅野哲（かんの さとる）です。\nお元気ですか？ ワイは元気です。\n今回は、2026年4月8日に-03版が公開されたばかりのInternet-Draftである draft-illyes-aipref-cbcp-0...",
-    "link": "https://qiita.com/satokan3/items/9d1f08d68ebc8cd397f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-13T12:18:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f1dc026e49c2ed035d545e94c983e97e",
-    "title": "Ansibleでサーバ構築を完全自動化してみたい！パート1",
-    "summary": "はじめに\nインフラ構築をしていると、\n\n手順書どおりにコマンドを実行する\n同じ設定を何台にも適用する\n作業ミスが発生する\n\nといった課題ありますよね…\nそこで活躍するのが構成管理ツール Ansible です。\n本記事では、Ansibleについて述べます！\nゴールはAIも入...",
-    "link": "https://qiita.com/r_arashi/items/89b5b1eafa716e6653b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T01:20:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d56ecfb2b9cc290c70d0d06a31c39a46",
-    "title": "AIに「良い設計」をさせるためのプロンプト設計パターン集",
-    "summary": "設計書をAIに任せてみたものの、「なんか薄い」「実務で使えない」「結局自分で書き直した」——そんな経験はありませんか？\nAIは使い方次第で、優秀なアーキテクトのように動いてくれることもあれば、教科書のコピペを返すだけのツールになってしまうこともあります。その差を生むのは、A...",
-    "link": "https://qiita.com/kamome_susume/items/4f25850a2ae0095d1edc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-12T06:28:04",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6afed0d6bfdbad95eee7c705461854e0",
-    "title": "AI時代の開発を支えるハーネスエンジニアリングの重要性",
-    "summary": "概要\n本記事では、AIエージェントを活用した開発が主流になりつつある中で重要となる\n\nハーネスエンジニアリングの概念\nなぜ必要なのか\n実務での考え方\n\nについて整理する。\n\n背景と目的\nAIによるコード生成やテスト自動化の進展により、開発プロセスは大きく変化している。\n...",
-    "link": "https://qiita.com/Y-Y-dev/items/e61b89d806682d1c8258?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T01:42:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e801f0a58d7c610185e80db81779e0c5",
-    "title": "日産、「AIドライブ」搭載車を9割に　長期ビジョン発表　ジュークEVと新型エクストレイルを初公開",
-    "summary": "日産自動車が、今後の戦略の道標となる長期ビジョンを発表した。AIを核に据えた次世代車両コンセプト「AIディファインドビークル」（AIDV）を主軸とし、将来的にラインアップの約9割にAI自動運転技術を搭載する方針だ。また、新型「エクストレイル／ローグ e-POWER」と「ジュークEV」を初公開した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T12:45:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1679aeff7497d441cca8be7868c5f3ca",
-    "title": "トヨタのバスケロボに新型　「CUE7」を初お披露目　一発でシュート成功",
-    "summary": "トヨタ自動車、AIバスケロボの新モデル「CUE7」を初お披露目した。一発でシュートを成功させたほか、人間らしい動的な振る舞いも見せた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news137.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T11:14:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1512aa13dc4daf8e23102b760d414a94",
-    "title": "国産AI開発「取り組みは重要」小野田紀美担当相　ソフト・NEC・ホンダ・ソニー連合",
-    "summary": "小野田紀美人工知能（AI）戦略担当相は14日の記者会見で、国産AIの基盤モデル作りについて、「民間企業の取り組みは非常に重要だ」と述べた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news121.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T09:38:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e2afdbf3732ad964a51e89be64e79028",
-    "title": "賞金総額1000万円　日本コロムビアG、AIアニメコンテスト開催へ",
-    "summary": "日本コロムビアGが、賞金総額1000万円のAIアニメコンテストを開催する。13日から参加登録の受付を開始した。「次の100年愛されるアニメ」をテーマにプロ・アマチュアを問わず、海外からの応募も受け付ける。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news116.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T08:13:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2513fd486d2854b27659751736db8dae",
-    "title": "AI関連のスクレイピングか　Twilogに「通常の数十倍」のアクセス　ログイン必須の緊急制限中",
-    "summary": "「攻撃もしくはAI関連の悪質なスクレイピング」とみており、簡易的な対応では防御が難しい状況。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news080.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T03:20:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7d29c1d3a0c16e1aaa7e7c3110046a82",
-    "title": "動画編集ソフトなのに写真レタッチが可能に　「DaVinci Resolve 21」β公開、「Photo」新設",
-    "summary": "豪Blackmagic Designは4月14日、映像編集ソフト「DaVinci Resolve 21」のパブリックβ版を、米ラスベガスで開催中の「NAB Show 2026」に合わせて公開した。静止画編集専用の「Photoページ」を新設したほか、AIツールを中心に100以上の新機能を追加した。基本版は無料でダウンロードでき、有料の「Studio」版は295ドルだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news075.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T03:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f77ab9fb7580eeae34f5a92bf28793c1",
-    "title": "OpenAIアルトマンCEO宅への火炎瓶攻撃の20歳男、複数の罪で起訴",
-    "summary": "司法省は、OpenAIのサム・アルトマンCEOの自宅に火炎瓶を投げ込んだダニエル・モレノ＝ガマ被告（20）を、器物損壊未遂などの罪で起訴した。被告はAIへの強い反発から本社ビルも襲撃し、銃器やマニフェストを所持していた。爆発物を用いた器物損壊未遂について最長20年、未登録銃器所持について最長10年の禁錮刑が科される可能性がある。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T01:24:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "31a982eb9252aa042b49b3803d8f1192",
-    "title": "Amazon、「Project Kuiper」改め「Amazon Leo」で航空機向け高速Wi-Fi参入",
-    "summary": "Amazonは衛星ネットワーク「Amazon Leo」の航空機用新型アンテナを発表した。機体に1基搭載するだけで最大1Gbpsの高速通信を実現し、動画視聴も可能にする。Delta Air Linesなどが導入を予定する。2025年に「Project Kuiper」から名称変更した同サービスは、先行するSpaceXのStarlinkを追う。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news062.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T00:18:00",
     "ai_summary_done": false
   }
 ]
