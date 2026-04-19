@@ -1,5 +1,105 @@
 [
   {
+    "id": "23ebdd16a466a706e756e24cf366a20d",
+    "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
+    "summary": "AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。\n\n tl;dr\n\nプロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる\n思い込みは当人に修正できないバイアスなので、別の AI に実際にやらせて詰まった箇所をレポートさせる\nこれを繰り...",
+    "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-19T08:04:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c499ad7105c1567c1434eb8723e6b542",
+    "title": "Windows で Ternary Bonsai を動かしてみた",
+    "summary": "1.58 ビット 3 値量子化 LLM「Ternary Bonsai」を Windows で動かすため、q2 packed ONNX を q4 に変換して CPU で推論してみました。（一応動きましたが遅いです…）\n変換スクリプトや詳細な実行手順は以下のリポジトリで公開しています。\n\nhttps://github.com/7shi/ternary-bonsai-test\n\n!\n本記事は Claud...",
+    "link": "https://zenn.dev/7shi/articles/20260419-ternary-bonsai",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-18T19:34:38",
+    "ai_summary_done": false
+  },
+  {
+    "id": "585e588ab036832092859389eb1aeafc",
+    "title": "C#15.0を試すためにDev Containersを使う【VSCode】",
+    "summary": "新しい言語バージョンを試したい時のなやみの種\nといえば、プレビュー版のSDKをインストールすることです。\nいや、インストール自体はいいんですけど、管理とかアンインストールとかその後が大変です。\n\n検証プロジェクト以外でもプレビュー版のSDKが使われちゃう\n古いプレビュー版SDKが残り続ける\n\nみたいな問題があります。\nC#のSDKである「.NET SDK」は、インストールしたあとは簡単で困ることは...",
+    "link": "https://zenn.dev/inuinu/articles/csharp15-with-dev-container",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-18T15:48:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dc1cef626e4cc051d8271e12d23f7d73",
+    "title": "Pythonで作る！デスクトップアプリ入門",
+    "summary": "本書ではPythonを使ってパソコン上で動くデスクトップアプリを作成します。\n\nデスクトップアプリの作成には「Tkinter」を使用します。\nTkinterとは、Pythonの標準ライブラリにあるGUIツールキットで、Pythonのプログラミング環境さえあればすぐに使用できます。\n\n※GUIとは「Graphical User Interface」の略で、マウスで操作できる画面のことです。\n\n本書で...",
+    "link": "https://zenn.dev/python_academia/books/96e585c0c59972",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-18T00:25:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "82ea530a51790200b792a9141d517d0f",
+    "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
+    "summary": "AIエージェントから Chrome DevTools を操作・解析するための chrome-devtools-mcp 完全ガイド\nchrome-devtools-mcp は、AI コーディングエージェントから 生きた Chrome ブラウザを操作し、調査し、解析する ための...",
+    "link": "https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-18T06:59:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4660f36703ae6892ef9d5451dcb79cb3",
+    "title": "13時間で900万円請求事件の裏側 - AI生成コードが招くAPIキー漏洩を静的解析で止める",
+    "summary": "Qiitaトレンドで回ってきた「Google APIキー漏洩で13時間で約900万円請求」の記事、正直心臓が止まりかけた。新しい話ではない。新しくないから怖い。\n私はAI生成コード特化のセキュリティスキャナー CodeHeal を個人開発していて、この手の「APIキー1本で...",
+    "link": "https://qiita.com/pythonista0328/items/f9eb8b7fb6a14087df35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-18T19:52:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "003fae4dc095c863502537a98b4793c7",
+    "title": "【AWS】CDK初心者がAgentCoreをデプロイするまで",
+    "summary": "はじめに\nとある事情でCDKをやることになり、勉強も兼ねています。\n今回はCDKを利用してAgentCore Runtimeを作成してみました。\n\nAgentCoreはAWSが2025年に発表したAIエージェントを動かすためのマネージドサービスです。詳しくは以下をご覧...",
+    "link": "https://qiita.com/yakumo_09/items/f5e0e9424b557743678a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-18T23:23:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "24ff767d44a35c8335c5874bb8f05f5a",
+    "title": "移民で解決できるのか？ ― 欧州データが示す“低賃金構造”の限界と日本の選択 : Pythonで学ぶ マクロ経済学入門 (73)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第73回を始めましょう。まず\n「なぜ現場が疲弊するのか ― “財源幻想”と“移民ではない建前”が自治体に押し付けるコスト構造 : Pythonで学ぶ マクロ経済学入門 (72)」 https://qiita.com/ma...",
+    "link": "https://qiita.com/maskot1977/items/7ed27bd20761d144f33c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-19T15:03:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d12818ec6ca4c3b7453a121604bb120f",
+    "title": "ハーネスエンジニアリング時代の「環境構築」を一撃で終わらせるAPM",
+    "summary": "AIエージェントを使い始めると、ほぼ全員がぶつかる壁があります。\n「エージェントがコンテキストを理解してくれない」\nClaude Code、Cursor、GitHub Copilot、OpenCode。\nどのツールも、適切な指示（コンテキスト）を与えないと真価を発揮しません...",
+    "link": "https://qiita.com/TKfumi/items/0751732005097816296c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-18T15:26:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b790063e8419b3a748530e5771cfcf6c",
+    "title": "StrandsAgentsをAG-UI対応するアダプタのコードを読みながらAG-UIを学びたい",
+    "summary": "はじめに\n今回は、AIエージェントとフロントエンドを繋ぐプロトコル「AG-UI」に入門してみたいと思います。\n題材として、AWSが提供するStrandsAgentsというSDKでAIエージェントを構築するケースを想定します。\nStrandsAgentsをAG-U対応するた...",
+    "link": "https://qiita.com/Takenoko4594/items/2e9e171d60854d77652f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-19T16:07:11",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -897,106 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "099731e6e4b87e151dc68344d778e14d",
-    "title": "Computer-aided diagnosis for lung cancer screening",
-    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
-    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T20:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f9e9a819821fb85e7f3a70454339b9d5",
-    "title": "データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う",
-    "summary": "はじめに\nこんにちは、@glassmonekey です。Ubie 株式会社でソフトウェアエンジニア（SWE）をしています。\nhttps://x.com/glassmonekey\n最近、テックリードとしての活動に加えて、データプロダクトマネージャーという役割に踏み込み始めました。同じようにキャリアの方向性を考えているエンジニアの方に、参考になればと思って書きます。\n\n AI時代にエンジニアが向き合う...",
-    "link": "https://zenn.dev/ubie_dev/articles/ad3f556639d44e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T00:49:45",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8f87a420974f7fc1b0ce12ba0fb19944",
-    "title": "ところで、Rustのtrait/型システムもチューリング完全らしいのでフィボナッチ数列求めてみた",
-    "summary": "前作はこちら\nhttps://zenn.dev/oumi0804/articles/450d54afafa303\n\n!\n追記: かなりの内容がYOSHIMURA YuuさんのRustで型レベルプログラミングと被っています。\nWhileの実装やLeanとの対比などは独自内容になっていますが、こちらの偉大な先人の記事もご参照ください。\n\nhttps://zenn.dev/yyu/articles/1e...",
-    "link": "https://zenn.dev/saqula/articles/2361ce8de47570",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-13T15:24:43",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c52cbd994d8b2cdb8d290035feb515ae",
-    "title": "AIエージェントと組んだら、データサイエンスプロジェクトはどう変わる？実験してみた（前半戦）",
-    "summary": "はじめに\n近年、生成 AI の進化は目覚ましく、その波はデータサイエンス領域にも確実に広がっています\nでは、生成 AI はデータサイエンスの仕事をどこまで代替・拡張できるのでしょうか\n機械学習モデルそのものの数理計算やアルゴリズム処理は、依然として従来の手法に依存しています\nしかし一方で、データ前処理・特徴量生成・推論結果の解釈といった “モデル前後の工程” においては、生成 AI の活用により生...",
-    "link": "https://zenn.dev/mimochiz/articles/2c27b16a3e03fd",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-13T12:26:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "32f14521a00f421153fb05ef10c92c77",
-    "title": "技術書典に初参加して3冊しか売れなかったので、AIと振り返りした",
-    "summary": "はじめに\n技術書典20にサークル初参加しました。\nいろんな技術に触れることができ、とても刺激のある時間を過ごすことができました。\n今回はオフラインで初参加し、頒布したのはこちら\n「FrankenPHPはじめの一歩 組込み機能で作るリアルタイム通知アプリ」\nhttps://techbookfest.org/product/vmbC8YLZXr3U03J91izdeD?productVariantID...",
-    "link": "https://zenn.dev/ma_me/articles/909e4eece32175",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-13T11:27:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d9c966f5c8b94058a43e1bbe4b307264",
-    "title": "Coding AgentをRustで自作してみた",
-    "summary": "はじめに\nEpicAIの吉崎です。\n先日、弊社の佐藤さんが書かれた『Claude CodeのOSS版 OpenCodeの内部挙動を理解する』という記事が公開されました。\nhttps://zenn.dev/epicai_techblog/articles/20b78066cac63f\nこちらの記事では、OpenCodeにおけるユーザーの要求がテキストで入力されてから最終的にクエリが消化されるまでの流...",
-    "link": "https://zenn.dev/epicai_techblog/articles/0fb630fc14af7e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-13T08:30:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1344a6de749a513ed4f43f62dddbb401",
-    "title": "AWS Frontier Agentsで変わるSREの仕事、変わらないSREの仕事",
-    "summary": "2026年3月31日、AWSがDevOps AgentとSecurity Agentを一般提供（GA）しました。re:Invent 2025で「Frontier Agents」として発表された自律型AIエージェントのうち、最初の2つです。GA後は2ヶ月の無料トライアルが提供されており、その後は従量課金に移行します。\nhttps://aws.amazon.com/blogs/mt/announcin...",
-    "link": "https://zenn.dev/genda_jp/articles/349257b6d83fd2",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-13T06:57:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2f645496f849475c4fae89980d4b241b",
-    "title": "Python開発環境をスッキリ整える：uv / Ruff / Taskfile",
-    "summary": "はじめに\nしばらくの間、自分のPython開発環境はこんな構成だった。\n\npyenv：Pythonのバージョン管理\nPoetry：依存関係と仮想環境の管理\nflake8：リント\nblack：フォーマット\nisort：インポート整列\nMakefile：よく使うコマンドのまとめ\n\n\n 感じていた課題\n組み合わせとして以前から広く使われていた構成（と思っている）でもあるが、使っている中で色々な課題を感じ...",
-    "link": "https://zenn.dev/zaspa/articles/3cc9a01f0d69f6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-12T23:00:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9a6fa8b74cfa5e387dd52ad75c1af602",
-    "title": "AI時代に実装だけでは足りないと気づいた話",
-    "summary": "はじめに\n社内でAIを活用した開発について考える機会があり、これまでの記事では、AIエージェントの考え方や、Claude Codeの概念・設計について整理してきました。\n\n前回：プロンプトの書き方でどこまで変わる？実際に検証してみた\n\n生成AIを活用することで、ある程度...",
-    "link": "https://qiita.com/aito1234/items/4b685e45dfdb4779392f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T08:10:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b44992b417dc84fb47c2c99765e0e5e3",
-    "title": "Javaのジェネリクスについて整理する",
-    "summary": "はじめに\nJavaでリストやマップを定義する際、基本的にこのような書き方をすると思います。\nList list = new ArrayList<>();\nMap map = new HashMap<>();\n\nこの",
-    "link": "https://qiita.com/S_kamon/items/95126138423a132e8cdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T07:52:52",
     "ai_summary_done": false
   }
 ]
