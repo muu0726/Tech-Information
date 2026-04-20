@@ -1,5 +1,195 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "50bd5a0f7e56c362384e7b964cdec772",
+    "title": "GoのWebフレームワークEcho のコードを読んでみた",
+    "summary": "最近、GoのWebフレームワークであるEchoを使い始めたので、echo.go を読んでみました。\nhttps://echo.labstack.com/\n\n 読んだバージョン\nEcho v5.1.0\n本記事で引用するコードは、github.com/labstack/echo/v5@v5.1.0 の echo.go から抜粋したものです。\n\n 出発点となるサンプルコード\necho.go のパッケージ...",
+    "link": "https://zenn.dev/aki_artisan/articles/2ef58663ecf20b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-19T12:27:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ab0dcf64370645ed757a1df4eb8c68c0",
+    "title": "ローカルLLM用の簡易版スキルとしてトリガーという機能を考えてみました",
+    "summary": "最近、DGX Spark上でローカルLLMをどれだけ使えるかという実験をしています。\nhttps://zenn.dev/karaage0703/articles/fcca40c614dffd\nローカルLLM、単純におしゃべりをさせたり、単一の作業をさせるだけなら、使える場面も増えてきたのですが、Claude CodeやCodexみたいに、スキルを使って汎用的に様々な作業をさせようとすると、うまくい...",
+    "link": "https://zenn.dev/karaage0703/articles/89631872ca5a86",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-19T07:51:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e65f6e65d10060bc4853efcae49058a3",
+    "title": "管理者目線でGitHub Copilotの方が優れていること",
+    "summary": "はじめに\nこの記事では、GitHub Copilotが組織として導入・管理しやすい理由を、主にClaude Codeと比較しながら、管理者の目線で説明します。\nはじめに白状しておくと、私は現在GitHub Copilotを使っていません。ClaudeのTeamプランでClaude Codeが使えるようになったとき、1日で社内稟議を通して即導入しました。そのままClaudeに移行して、自分の分のGi...",
+    "link": "https://zenn.dev/ncdc/articles/ee35ef7974d279",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-19T05:13:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "db96a2cc68bc1bff90d29dda096b2edd",
+    "title": "AI時代にわざわざRuby on Railsを使う理由",
+    "summary": "こんにちは、フリーランスとして働いてるハルクです\n最近自分の会社を立ち上げたことで、「AI時代にフィットしたwebフレームワークとは何か」を考えるようになりました。\n私はRubyでコンピューターサイエンスの世界に入ってから、最近流行りのTypescript(Next.js, Nuxt.js)、Go、Rustなどを使ってサイドプロジェクトを立ち上げてきましたが、\n結局のところ、RubyやRuby o...",
+    "link": "https://zenn.dev/higakijin/articles/730a734b6b9009",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-19T02:03:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2e4dbe5d8473efdf3b7e9c88b1b0f7e0",
+    "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
+    "summary": "はじめに\n\n記憶を持たないはずのAIが、私を覚えている\nLLM自体は記憶を持ちません。直前の会話で何を話したかを本当は「覚えていない」はずなのです。それなのに、ChatGPTのようなチャットアプリや最近のエージェントと会話すると、まるで相手が自分を覚えていてくれて、記憶...",
+    "link": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-19T22:39:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dbbb24f0ad7fde115b9e48fde9d67120",
+    "title": "[TypeScriptシリーズ - Part 1] Conditional Types & infer",
+    "summary": "📝 注記\n私は日本語に堪能ではありません。この記事はAIのサポートを受けて執筆・翻訳されています。ご了承ください。よろしくお願いいたします。\n\n📖 目次\n\n問題の提示 – どんな時にこのテクニックが必要か\n悪い例 – まずはダメなコードを見せる\n良い例 – TypeS...",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/c4553f452d8457f86060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T04:40:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "be9c6eee5e7b0e14b9ac770307e82fed",
+    "title": "React初心者がつまずきやすいJavaScript記法をわかりやすく整理してみた",
+    "summary": "React を触っていると、JavaScript のさまざまな書き方が自然と登場します。\nしかし、JavaScript の記法をしっかり理解していないと、React のコードが「なんとなく」でしか読めなくなってしまいます。\nこの記事では、React で頻出する JavaSc...",
+    "link": "https://qiita.com/hiroki_notes/items/3de8503e5f5f9e33e2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T07:23:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4d404f6904bacb2fcca24a911bf65ef9",
+    "title": "[TypeScriptシリーズ] シニアエンジニアのためのTypeScript入門",
+    "summary": "[TypeScriptシリーズ] シニアエンジニアのためのTypeScript入門\n\n私は日本語が得意ではありません。この記事はAIのサポートを受けて書いています。ご了承ください。\n\nはじめに\nTypeScriptは、開発者がJavaScriptを書く方法に革命をもた...",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/e310461c8a2e13bf64b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T04:07:39",
+    "ai_summary_done": false
+  },
+  {
+    "id": "08c4a3dba722e98d4dac4c79193c7e0a",
+    "title": "関数型インターフェース入門 — Function / Predicate / Consumer / Supplier を整理する",
+    "summary": "はじめに\nJava 8でラムダ式とStream APIが導入されたとき、合わせて関数型インターフェースという概念が登場しました。\nList names = List.of(\"田中\", \"佐藤\", \"鈴木\");\nnames.stream()\n     .fi...",
+    "link": "https://qiita.com/S_kamon/items/d4df15743c952e7af31d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T08:23:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d9cdde918a285cfba40c78edabe285a5",
+    "title": "[TypeScriptシリーズ - Part 2] Mapped Types",
+    "summary": "[TypeScriptシリーズ - Part 2] Mapped Types\n\n📝 注記\n私は日本語が得意ではありません。この記事はAIのサポートを受けて書いています。ご了承ください。\n\n📖 目次\n\n問題の提示 – どんな時にこのテクニックが必要か\n悪い例 – まずは...",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/4a1f4897893985b669c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T04:48:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ddd9446e4bd75e20e85ab99abcc27d58",
+    "title": "AI に送る前に機密情報を伏せるライブラリ「makkuro」を作った",
+    "summary": "こんにちは。細々とプログラミングをしている sotanengel です。\n今回は、生成AIをもっと安全に使うためのローカルプロキシ makkuro を作った話を書きます。\n簡単に言うと、以下のようなプロンプトを AI に投げたときに、\n田中さん (tanaka@exampl...",
+    "link": "https://qiita.com/sotanengel/items/626d51ce3efd3d641885?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-19T21:20:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4ba6c89e2be7f01af47732ef479f611d",
+    "title": "AI時代のSEに残る仕事は「責任を持つ」ことかもしれない 〜単体テストを題材に〜",
+    "summary": "AI時代のSEに残る仕事は「責任を持つ」ことかもしれない 〜単体テストを題材に〜\n\n投稿内容は私個人の見解に基づくものであり、所属企業・部門見解を代表するものではありません。\n\nはじめに\nAI にコード生成を任せる場面がかなり増えてきました。実装だけを見ると、かなり...",
+    "link": "https://qiita.com/moyomoyomoyo/items/3194853a811a7281b6e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T01:28:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8eddef39800b2c0c2133678f400a52f7",
+    "title": "元診療放射線技師が基本情報技術者試験を受けてみた",
+    "summary": "はじめに\n異業種からIT企業に転職して半年の初心者です\nタイトルにもある通り、私は元診療放射線技師という全くの畑違い出身の社会人です。\nそんな私ですが2026年1月に基本情報技術者試験を受験して、無事合格することができました\n今回は新年度となり、新しくエンジニアになられる...",
+    "link": "https://qiita.com/pb-otsuka20/items/4617d2b529ffbeb31e36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-17T23:15:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cde37a70769767139c748eff02741650",
+    "title": "Figmaの株価を一夜で7%下落させた「Claude Design」がやばすぎたので徹底解説します",
+    "summary": "2026年4月17日、AnthropicがAIデザインツール「Claude Design」をリリースしました。\nリリース当日には、Figmaが7%・Adobeが2.7%・Wixが4.7%と、デザイン／Web制作系の株価が軒並み下落するほどのインパクトでした。\n実際に触ってみ...",
+    "link": "https://qiita.com/ot12/items/92ec6ea6e5a3a0b57226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T01:39:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9ad25b091b223c47ae38186dcc4fd98f",
+    "title": "# [TypeScriptシリーズ - Part 3] Template Literal Types",
+    "summary": "📝 注記\n私は日本語が得意ではありません。この記事はAIのサポートを受けて書いています。ご了承ください。\n\n📖 目次\n\n問題の提示 – どんな時にこのテクニックが必要か\n悪い例 – まずはダメなコードを見せる\n良い例 – TypeScriptの高度機能で解決する\nPl...",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/0d1fc0e63b79cdcb1f17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-20T06:28:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "313f4dfdf05afb3b05c382bfac582410",
+    "title": "Google検索「AIモード」に個人情報を入力しないで――立教大など、学内に注意喚起",
+    "summary": "AIモードに入力した情報はGoogleのデータベースに蓄積され、AI学習に利用されるため、入力自体が情報漏えいになるとし、注意を呼び掛けている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/20/news069.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-20T02:46:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8fae0304f54c324ace2203bc908b766e",
+    "title": "中国でAIエージェント急拡大　「24時間無休の秘書」活用　政府は情報漏えいリスク警戒",
+    "summary": "中国で、PC上などでさまざまな作業を自律的にこなすAIを活用したソフトウェア「AIエージェント」の利用が今年に入り急拡大している。人間が関わらずに電子メールの自動返信といった作業を行うことができ、「24時間無休の個人秘書」などともてはやされている。中国IT大手のみならず地方政府も活用を後押しするが、個人情報漏洩（ろうえい）などの問題も浮かぶ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/20/news056.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-20T01:10:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "11b60b8ca34d5e183ef12a6739a85941",
+    "title": "OpenAI幹部3人が退社　「Sora」や科学研究部門の縮小が背景か",
+    "summary": "OpenAIの幹部3人が退社を発表した。「Sora」責任者のビル・ピーブルズ氏、「OpenAI for Science」担当のケビン・ワイル氏、B2Bアプリケーション担当CTOのスリニバス・ナラヤナン氏だ。OpenAIはSoraや科学研究などの「副次的事業」を縮小する方針を固めたと報じられている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/20/news052.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-19T22:41:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "23ebdd16a466a706e756e24cf366a20d",
     "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
     "summary": "AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。\n\n tl;dr\n\nプロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる\n思い込みは当人に修正できないバイアスなので、別の AI に実際にやらせて詰まった箇所をレポートさせる\nこれを繰り...",
@@ -807,196 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e657f170c39db700cdf0e2c7dcbeccef",
-    "title": "AI×乗換案内！基礎から学ぶMCPサーバー入門 - 「駅すぱあと API MCPサーバー」ハンズオン",
-    "summary": "このハンズオンでは、実際にMCPサーバーを動かしながらMCP（Model Context Protocol）の基礎を学ぶことができます。また、「駅すぱあと API MCPサーバー」の使い方や活用方法を知ることができます。",
-    "link": "https://zenn.dev/val_api_team/books/ekispert-api-mcp-server-handson",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-15T02:36:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b276a32f8f982b3891b2f2e4a1147f1f",
-    "title": "セキュリティ分析AIエージェント実装にみるハーネスエンジニアリング",
-    "summary": "先日、zennの記事にて紹介したセキュリティアラートに関する分析を担うAIエージェント Warren のハーネスエンジニアリングについて社内で共有したところ、思いの外盛り上がったので記事にしてみました。一般的な生成AIエージェントの話だけでなくセキュリティ分析に特化した話も織り交ぜていますが、何かのご参考になれば幸いです。\n\n今回対象となるWarrenは各サービス・監視装置から受け取ったアラートを...",
-    "link": "https://zenn.dev/ubie_dev/articles/sec-agent-harness-eng",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T23:24:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b08a79b4e01d8cc91bb66e54fec34198",
-    "title": "VRAM(ビデオメモリ)32GBのローカルLLM環境(AI PC)をコスパ重視で構築してみる",
-    "summary": "ローカルでそれなりに使えるLLM環境(AI PC)を用意してみようと思い、それならVRAMはやはり32GBは欲しいなということで、コスパ重視の構成を考えて実際に構築してみたという内容になります。\n※2026/04時点での情報です。\n\nコスパ重視\nVRAM 32GBは欲しい\nNVIDIA GPU\n\n\n NVIDIA GeForce RTX 5060 Ti 16GB x2という選択肢\nNVIDIAのG...",
-    "link": "https://zenn.dev/playree/articles/2376eee1d9d24d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T12:36:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2b5657c7f650e23148ecb0260e79a98b",
-    "title": "仕様駆動開発を「やめる」タイミング",
-    "summary": "執筆者：Hideyuki Goto\n2026年3月現在、Claude Codeなどの台頭により、個人開発でもSpec-Driven Development（仕様駆動開発、以下SPEC）を実践するハードルが劇的に下がりました。「まずAIと自然言語で仕様書を作り、それをベースにコードを書かせる」というアプローチは確かに強力で、実際に試してみたという記事も多く見かけます。\nしかし、巷の記事であまり語られ...",
-    "link": "https://zenn.dev/acntechjp/articles/031acfe6379ebe",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T05:40:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1a29d2699c0a8d19c10a1bd8d388adeb",
-    "title": "プロンプト改善は後回し: LangGraphでさっさと実装、MLflowで誤りから暗黙知を吸収&改善",
-    "summary": "はじめに\nこんにちは。生成AIを使ったアプリを作った/作ろうとしている皆さん、プロンプト改善に苦労していませんか？\n私はしていました。新規で何かを実装するときには、プロンプト修正で1つ不具合を消したら新しい不具合が出てきて……と、もぐらたたきのいたちごっこをしてました。既存業務の置き換えのトライアルでも、「なんで人間と同じ判断ができないの？」 ⇒ 「どこにもドキュメントがないからだよ！」 なんてこ...",
-    "link": "https://zenn.dev/nttdata_tech/articles/11f406b0f1cfd4",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T02:23:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "92bd8d132393719e5b5edf0b768b196f",
-    "title": "【RAG】企業のナレッジを、AIで書き直す。",
-    "summary": "本記事では、RAGの性能を高めるための「WriteBack-RAG」という手法について、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、RAGのナレッジベース自体をAIで書き直すことで精度を上げる手法「WriteBack-RAG」の論文[1]について、日本語で簡単にまとめ...",
-    "link": "https://zenn.dev/knowledgesense/articles/5a50d06fce072d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T00:30:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a5ae2441cf377928762c84bee2f9f6dc",
-    "title": "【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する",
-    "summary": "はじめに\nこんにちは！「PayPayで！」バーコードリーダーを画面に直接押し当ててくるのは止めてください。たろう眼鏡です。\nクラシル社でサーバサイドの開発をしています。\n前回の記事ではKarpathy氏のautoresearchを紹介して、バックエンドのパフォーマンスチューニングに転用しました。今回もKarpathy氏です。もう完全にファンクラブです。\n2026年4月、Karpathy氏がLLM ...",
-    "link": "https://zenn.dev/dely_jp/articles/8b55114cc0b958",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-14T00:19:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cd43c4519a26fc39541ddf46cd00f89b",
-    "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
-    "summary": "この記事は約5分で読めます。\n\n筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。\n👉 ポートフォリオ: 筆者ホームページ\nCla...",
-    "link": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T11:57:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3640a678a9399641bff599807155b699",
-    "title": "JavaのListとMapの種類を整理する",
-    "summary": "はじめに\nJavaでコレクションを使うとき、こんな疑問を持ったことはありませんか？\n\nArrayList と LinkedList ってどう違うの？\n\nHashMap と LinkedHashMap と TreeMap、何を使えばいい？\nとりあえず ArrayList ...",
-    "link": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-15T08:07:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5237cf2602b140f707e175e96dbedaab",
-    "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
-    "summary": "はじめに\n「冷蔵庫にあるものを把握する＋それを使ったレシピを考える問題」を解決したくて、\nLINEで食材把握からレシピ提案までしてくれるBotを作りました。\nやっていることはシンプルで、\n\nGoogleスプレッドシートに食材を管理\nLINEで「夜ご飯」「おつまみ」など送る...",
-    "link": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-15T09:52:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "14d130fc2b45b3fb54b74fafd67dace6",
-    "title": "OCI Enterprise AI で作る RAG アプリ入門  〜 Object Storage / Vector Store / file search を試してみてみた",
-    "summary": "Oracle Cloud Infrastructure (OCI) Enterprise AI は、Oracle Cloud Infrastructure 上で AI アプリケーションや AI エージェントを構築・導入・統制するためのエンタープライズ向け基盤です。\n\n単に ...",
-    "link": "https://qiita.com/shirok/items/42817c3ca57404911d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-14T23:00:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "312e439d78cdc99cdba320e877e887e0",
-    "title": "【AI】Claude Codeが劣化すると開発者の言葉遣いが悪くなる",
-    "summary": "先日からClaude Codeでいくつも問題が噴出しています。\n最も大きなところではソースコード流出という大事故が発生し、コピーリポジトリが雨後の筍のように生えてきています。\nAnthropicは削除申請で乗り切ろうとしているようですが、この行動は当然全力で笑いものにされて...",
-    "link": "https://qiita.com/rana_kualu/items/1d019f33fd59fcbf1494?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-13T11:50:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "34363750ad7df15742289ccda3442624",
-    "title": "Google、ChromeにAIプロンプト保存機能「Skills」を追加（まずは米国で）",
-    "summary": "Googleは、Chromeブラウザ上で頻繁に利用するAIプロンプトを保存・実行できる新機能「Skills in Chrome」を発表した。異なるWebページでも同じプロンプトを再利用でき、サイトをまたいでの一貫した作業が可能になる。まずは米国でChromeの言語設定を英語にしているユーザー向けに提供を開始した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news113.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-15T05:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3781abce1379f652c6596dc4e04c9bff",
-    "title": "列車が「動くデータセンター」に？――フィジカルAIは社会インフラにも“効く”　NVIDIAと日立の見立て",
-    "summary": "「フィジカルAI」という言葉が急速に広まっている。ただその多くはロボットの文脈で語られる事が多い。だが現実にAIが浸透しようとしているのは、工場で働く機械の同僚だけではない。列車、発電所、ワクチンの製造ラインなど、日常を支える社会インフラそのものが、次の舞台になりつつある。NVIDIA×日立のトークセッションから、フィジカルAIの社会実装をひもとく。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news069.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-15T05:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "425b5820f78787e3363680507f835b36",
-    "title": "JALカード、コンタクトセンターでAI導入　問い合わせ対応で活用　検証時の正答率は9割超",
-    "summary": "日本航空とジャルカード、ソフトバンク傘下のGen-AXは、JALカードのコンタクトセンターにAIを導入すると発表した。AI活用により、定型的な入電対応の効率化と顧客体験の向上を図る。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news102.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-15T04:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7b4fc09302138b6d39f61b16ad2489bb",
-    "title": "「来週の予定は？」→GoogleカレンダーやGmail参照してAIが回答　Gemini「パーソナルインテリジェンス」日本でも",
-    "summary": "Geminiに「明日の予定は？」と尋ねると、Googleカレンダーから翌日の予定を回答。「来月の旅行の予定を教えて」と聞くと、Gmailから予約確認メールを参照し、最近視聴したYouTube動画からレストランを提案する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news092.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-15T02:47:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1cd8075066d949f37f738b5396a0fda4",
-    "title": "光ファイバーを“マイク化”する盗聴攻撃　振動センサーとして悪用し会話を盗み聞き　中国の研究者らが発表",
-    "summary": "中国の香港理工大学や香港中文大学などに所属する研究者らが発表した論文「Hiding an Ear in Plain Sight: On the Practicality and Implications of Acoustic Eavesdropping with Telecom Fiber Optic Cables」は、通信データではなく、光ファイバー自体を振動センサーとして悪用し、周囲の音を盗...",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-14T22:30:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
     "ai_summary_done": false
   }
 ]
