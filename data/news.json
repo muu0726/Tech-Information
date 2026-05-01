@@ -1,5 +1,175 @@
 [
   {
+    "id": "bc48293faf0aa43dc3945e6d83348d5c",
+    "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
+    "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。\nこれまで 社内MCP群の全体像、DB Graph MCP、Biz Graph、Sandbox MCP と、社内向けに作っているMCPサーバーを順に紹介してきました。\n今回はその運用の中で見えてきた、自作MCPサーバーのトークン消費を減らすTips の話を書きます。\n\n 困りごと：MCPは意外とトークンを食う\nMCPでAIエージェント...",
+    "link": "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T01:10:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "746bf3e76a866123978de4f75d4dc51a",
+    "title": "RubyKaigi 2026 に参加しました",
+    "summary": "ごきげんよう🙋‍♀️ツクリンクでエンジニアリングマネージャーをしているあっきー（@kuronekopunk）です。\n函館で開催されたRubyKaigi 2026に参加してきました。\n\n 🟢 ツクリンクとしての参加\n今回、ツクリンクはシルバースポンサーとして協賛させていただきました。会社からのサポートもあり、エンジニア4名で参加しました。会場のスポンサーボード前では、日頃から開発を支えてくださってい...",
+    "link": "https://zenn.dev/tsukulink/articles/2026-04-rubykaigi-2026",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T00:00:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d81921478117d094fd83f073a4d92c69",
+    "title": "セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話💰",
+    "summary": "!\n📢 アップデート版を公開しました（2026/05/01）\nこの記事のあと、3スキル体制に分割 + テストハーネスで検出率100%を達成 しました。最新の使い方は以下の記事をどうぞ。\n👉 claude-security-scanを3スキル体制にアップデートしたら月$1未満で検出率100%を達成した話🎯\n\n\n はじめに\nこんにちは、Sabakanです。\n今回、Claude Code 用のセキュリテ...",
+    "link": "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-30T10:44:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "992c15b51bee6589adc8c819afbb7a12",
+    "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
+    "summary": "はじめに\nチューリングでは毎日、データ収集車両による走行データと走行実験による実験結果データが蓄積されていきます。私たちはこれらを可視化するツールに非常に力を入れて開発しており、充実した可視化ツールはAIモデルを開発するエンジニアにとってもデータ収集を担うドライバーにとっても多くの洞察と気付きを提供します。\n本記事では、それらのデータ可視化実装の中から、走行動画と各種メトリクスを同期再生する「走行...",
+    "link": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-04-30T06:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3f3cda58d1e473134be2ef8d42d1bdec",
+    "title": "Copy Fail とは？（結構詳しめ）",
+    "summary": "要約\nCopy Fail(CVE-2026-31431) という脆弱性が報告されました。\n\nLinux にて簡単に特権昇格(root権限でコマンドの実行が出来るようになる）が出来る脆弱性\n2017 年以降にリリースされた全ての Linux ディストリビューションが対象とさ...",
+    "link": "https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T15:59:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "66a3ceacf83dd589876c60726424508a",
+    "title": "【AI】MicrosoftCopilotを使って動く自律型コーディングツール「Cell‑Code」を作成！",
+    "summary": "0.はじめに\n最近はClaude CodeやCodexなど、AIコーディングツールが次々と登場しています。\n正直、私も使ってみたいと思いました。\nしかし、料金を調べてみると…\n\n比較項目\nClaude Code (Anthropic)\nOpenAI Codex (Op...",
+    "link": "https://qiita.com/keikyufun/items/d827383095eef69bb66c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T11:17:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bd2825d31fb5be6baedb3d427aa15905",
+    "title": "カルパシーが語る「バイブコーディングからエージェント・エンジニアリングへ」 〜 YouTube動画が興味深かったのでまとめてみた 〜",
+    "summary": "はじめに\nGWは、AIから離れて好きな TrySail の動画でも観ようと YouTubeを開いたら、Andrej Karpathy（アンドレイ・カルパシー）さんの新しいインタビュー動画がレコメンドに上がっていました。「バイブコーディングからエージェント・エンジニアリン...",
+    "link": "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T15:45:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "41812f700a42ec0063cfb0b09e6f8d70",
+    "title": "【備忘録】Gemini Embedding 2 がGAに ― Embeddingの代表的なユースケースを整理する",
+    "summary": "はじめに\n2026年4月22日、Gemini Embedding 2 が GA（一般提供開始）となりました。\nGemini Embedding 2 は、テキストだけでなく、画像・動画・音声・PDF を単一の埋め込み空間にマッピングできる、Gemini API 初のマルチモ...",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/69196e01b021bbf8759d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T06:12:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1730f7bfb5234e3278f9473118b1a1af",
+    "title": "人口政策と少子化・貧困・年金・医療をつなぐ経済構造 : Pythonで学ぶ マクロ経済学入門 (77)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第77回を始めましょう。まず\n「相続税・低賃金・移民政策はどうつながるのか？―欧米の教訓から考える成長と財政の設計 : Pythonで学ぶ マクロ経済学入門 (76)」 \nhttps://qiita.com/maskot...",
+    "link": "https://qiita.com/maskot1977/items/b805a0ecf3be390b297d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T15:37:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2418b6846f28a6a88de415e11a2ebb06",
+    "title": "RubyKaigi 2026 に参加してきました",
+    "summary": "こんにちは Qiita 株式会社の @tomoasleep です。今年も Qiita として RubyKaigi 2026 に参加してきました。\n\n(Qiita としては何度か RubyKaigi に参加しています。過去のレポートはこちらから見れます)\n\nRubyKaigi...",
+    "link": "https://qiita.com/tomoasleep/items/03f5d7a7b03d3d8a3a78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T09:22:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14bb5c45cc984aa7973d8d37e5e91438",
+    "title": "【Phase1 AI×AWS】Claude Code の skill 機能で AWS コスト確認を自動化してみた",
+    "summary": "【Phase1 AI×AWS】Claude Code の skill 機能で AWS コスト確認を自動化してみた\n\n目次\n\nはじめに\n3行まとめ\n完成デモ\n前提・環境\nスキルの仕組み\nskill ファイル（GitHub）\nまとめ\n\nはじめに\nAWSを使っていると、こん...",
+    "link": "https://qiita.com/Aratabiz/items/a95f93b0e69072c687ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T23:26:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0e728d4915637d198da71ece80e6ee1d",
+    "title": "【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】",
+    "summary": "IBM Bobで出力した内容、Copilotへのプロンプトを含みます。\n\n生成AIを利用する上で、意外と気にされないことが「トークンの節約」です。\nAI駆動開発において実際の開発に取り組むと、やり取りしているだけでトークンを消費し、結果的に  「開発のためのトークンが...",
+    "link": "https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T08:59:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f1c0577a2386f6af50a48c71d3856d5d",
+    "title": "Select AIで複数データソースを横断検索する：BaseDB 19c × Snowflake Iceberg",
+    "summary": "Oracle Autonomous AI Databaseは、外部データソースを含めた複数のデータをつなぐ AI検索のハブ として利用できます。\nデータをすべてADBに取り込むのではなく、ADBを窓口として外部データに接続し、Select AI によって自然言語で問い合わせ...",
+    "link": "https://qiita.com/yushibats/items/36ddd7dcb955a7a7bb9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T08:26:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3ee2f3134cd5d996ca6eba57fe9cec4d",
+    "title": "「Gemini」「NotebookLM」のエンタープライズ版、“政府認定サービス”入り　政府調達の対称に",
+    "summary": "",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/01/news109.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-01T08:28:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "55ead3c441228e3035099b7df3fd9741",
+    "title": "OpenAI、「ChatGPT」に物理キー対応の高度なセキュリティ機能「AAS」を導入",
+    "summary": "OpenAIは、ChatGPTユーザー向けの保護機能「Advanced Account Security」を発表した。パスキーや物理キーによる認証を導入し、アカウント回復手段を制限することで安全性を高める。有効化によりAI学習の対象からも自動で除外される。Yubicoとの提携による専用キーの優待販売も実施し、全ユーザーが利用可能だ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-01T02:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c475206e42bff76dfa0b2e085294fccc",
+    "title": "Spotifyが人間アーティスト認証バッジ導入──AI生成コンテンツとの識別を強化",
+    "summary": "Spotifyは、人間のアーティストであることを示す認証バッジ「Verified by Spotify」の導入を発表した。認証にはリスナーの持続的な支持などの実在証跡が必要で、AIアーティストは対象外。判定にはアルゴリズムと人間によるレビューを組み合わせる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/01/news065.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-01T00:30:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0c567877bc9df38a49b2f7278a11f050",
+    "title": "Google搭載車でも「Gemini」　自然な会話でナビやメッセージ送信が可能に",
+    "summary": "Googleは、「Android OS」を車両に直接組み込んだ「Google搭載車」向けに、AIアシスタント「Gemini」の提供を開始すると発表した。従来のGoogleアシスタントに代わり、自然な会話形式でナビやメッセージ管理、音楽再生、車両設定の変更などが行えるようになる。まずは米国の英語ユーザーから展開し、順次拡大していく計画だ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/01/news063.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-30T23:51:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -827,176 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-04-26T11:12:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a71a118400bc9a6203fd40c9c2c2df87",
-    "title": "QAエンジニアのためのAI時代Playwright実践ガイド",
-    "summary": "Playwright未経験のQAエンジニアが、Page Object Model + Fixtures Patternで\nメンテナブルなE2E回帰テスト基盤を作り、Claude Codeで「書ける/直せる」を\n仕組み化し、最終的に夜間auto-healで失敗テストの修正PRを自動生成するところ\nまで届くハンズオン書。`docker compose run`で動くテンプレートリポジトリを\nクローンし...",
-    "link": "https://zenn.dev/yuden/books/playwright-pom-fixtures-ai-era",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T09:52:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c3cf8dbe97b84de7411e8a94f646bcb8",
-    "title": "Matz の Ruby AOT コンパイラ Spinel を試してみました",
-    "summary": "RubyKaigi 2026 に参加して、Matz のキーノートで Spinel の発表を聞きました。Spinel は Ruby の AOT コンパイラで、Ruby のコードを読み、C のコードを生成し、最後は native binary として実行できる形にします。Ruby を書いている人間としては、「Ruby の AOT コンパイラ」という言葉だけでテンションが上がります。\nRuby はかなり...",
-    "link": "https://zenn.dev/geeknees/articles/edc3cb36ea251c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T06:34:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c4505247169be3628276d6d78c532287",
-    "title": "生成AIの正しい障害修正がキッカケで、あなたは顧客の信頼を失うかもしれない",
-    "summary": "はじめに\n生成AIの登場により、コーディングだけでなく障害調査の効率も劇的に改善されました。スタックトレースを貼り付けるだけで原因の仮説が返ってきます。ログを渡せばパターンを読み解いてくれます。以前なら数時間かかっていた調査が、数十分で終わるケースも珍しくありません。\nしかし、最近は現場で気になる傾向が増えているように思えます。本番障害対応において、生成AIの提案に従った「正しすぎる修正」が、かえ...",
-    "link": "https://zenn.dev/ncdc/articles/48a75cec143dd5",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T00:00:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "af26b581334ad4cb60eccec58543a98e",
-    "title": "AIデザインツールの台頭とFDE戦略 — 週次キャッチアップまとめ（2026/04/27）",
-    "summary": "対象読者\n\nAIソリューションやシステム開発に携わるエンジニア・ビジネス担当者\nWebデザインをAIやデザイナーに依頼する機会がある方\nAIエージェント時代のビジネストレンドを追いかけている方\n\nはじめに\nAI技術の進化は、開発ツールだけでなくデザイン領域にも急速に波及...",
-    "link": "https://qiita.com/yusuke_ando_vj/items/662a42556d3bb3b5d255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-27T08:48:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc3e2739e1dbb3a26efc09ff6e0e6bf3",
-    "title": "SOLIDやLayered Architectureは何を守っているのか？――アーキテクチャ零曲率定理から見る設計原則と不変量",
-    "summary": "AI にコードを書いてもらうと、動くものはかなり速く出てきます。\nでも、あとから差分を見て「あ、これ依存の向きがまずい」「境界を越えて直接呼んでいる」「この変更、障害が横に広がりそう」と気づくことがあります。\nそのとき本当に知りたいのは、コードが動くかだけではありません。そ...",
-    "link": "https://qiita.com/iroha1203/items/52d2186f0d510f820e6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-26T17:01:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6616a5aae2adcec2206bb6aa77de9918",
-    "title": "書籍『ステップアップPython すぐに使える!実践スキル35』発売します",
-    "summary": "はじめに\n都内でデータサイエンティストをしている@tetsuro731と申します。\nこのたび、講談社から『ステップアップPython すぐに使える!実践スキル35』を出版することになりました。Amazonのリンクはすでにできており、発売は6月25日の予定です。\n\nこ...",
-    "link": "https://qiita.com/tetsuro731/items/560e2d8c9c3acee0f2ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-27T09:52:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0f8994e5b1f8ce1ba0ce336217c5f52f",
-    "title": "AWS公式スマホゲームでAWSを遊んで学ぼう！(AWS  Card Clash)",
-    "summary": "はじめに\n対人カードゲーム形式でAWSを遊んで学べるAWS Card Clashが最近日本語対応したので紹介記事になります。\n■AWS公式サイト\nhttps://aws.amazon.com/jp/training/digital/immersive-learning/\n...",
-    "link": "https://qiita.com/tkazuaki0820/items/4b43881baacda337be66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-26T22:39:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1cf441d43733388544d10d24204e2b8a",
-    "title": "AI「ギュ」時代　プログラミングも文系就活も“ギュられる”って本当？",
-    "summary": "「ギュ」を気にしすぎたら、身動きが取れなくなるのではないか。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/27/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T05:35:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "25c1e34e75794bc7721a4de78b99fd0f",
-    "title": "「ポケモンGO」でAED設置場所が「ポケストップ」に　てあてポケモン「パーモット」のフォトディスク採用",
-    "summary": "ナイアンティックは27日、AED（自動体外式除細動器）設置場所を「ポケモンGO」の「ポケストップ」にすると発表した。AEDの認知向上に貢献するとしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/27/news083.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T03:39:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c75a78991989a716d3a00b229ca36120",
-    "title": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復　2025年夏にNature系列誌で研究掲載",
-    "summary": "米カリフォルニア大学サンフランシスコ校などに所属する研究者らがNature Aging誌で発表した論文「Targeting iron-associated protein Ftl1 in the brain of old mice improves age-related cognitive impairment」は、脳の老化を促進する「FTL1」と呼ばれるタンパク質を特定し、その量",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/27/news031.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-26T23:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9c3ec42a58696657948c716ee1c7733e",
-    "title": "”映え”より気にすべきもの　漫画「1週間後に生成AIで恥をかく新入社員」【残り3日】",
-    "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/08/news014.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-26T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "099731e6e4b87e151dc68344d778e14d",
-    "title": "Computer-aided diagnosis for lung cancer screening",
-    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
-    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T20:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e00c59f01d8706f9642d0eac4d34362",
-    "title": "Claude Code の設定を Codex にどう対応づけるか",
-    "summary": "はじめに\nClaude Code を日常的に使っていると、同じ開発環境を Codex でもできるだけ再現したくなります。\nCodex は OpenAI が提供するターミナルベースのコーディングエージェントで、Claude Code と同じカテゴリのツールです。\nただし、Claude Code と Codex は似ている部分もある一方で、設定モデルや拡張方法が完全に一致しているわけではありません。単...",
-    "link": "https://zenn.dev/ryok/articles/claude-code-to-codex-settings",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-25T20:11:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "672e75c08227b069a9723d573c5bd969",
-    "title": "探索的テストを進めてくれるAIエージェントを作った",
-    "summary": "はじめに\n本記事で紹介するエージェントのリポジトリはこちら：\nhttps://github.com/k-sakQA/QA-EXPLORER\n\n今回私が作成したAIエージェントについて書きます\nソフトウェアテストに関するエージェントです\nいわゆるリグレッションテストの文脈ではありません\n一定の観点に沿ったテストだけでなく、発見した「怪しいところ」からテストを広げます\nシゴデキなテスターがJoinした...",
-    "link": "https://zenn.dev/k_sak/articles/b45763b0cb9434",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-25T15:05:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "19ae07eeaff7cdb487493feb3451e9c3",
-    "title": "RubyKaigi2026に行ってきました！",
-    "summary": "4/22~24の3日間、函館で開催されたRubyKaigi2026に参加してきました！\n今年もたくさんのトークを聞いたり色々な方とお話しできたりしてとても楽しかったです。\n印象に残ったトークの感想など書いていきます。\n\n The Journey of Box Building by Satoshi Tagomori @tagomoris\n\n初日のキーノートです！\nRuby4.0から導入されたBox...",
-    "link": "https://zenn.dev/chihaso/articles/6ffd910ea00079",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-25T13:55:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d880c93774bdc105c836e0c5fdf526fe",
-    "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
-    "summary": "はじめに\n最近、AI エージェント（GitHub Copilot / Claude Code / Cursor / OpenCode / Codex …）に渡す「指示書」の種類が一気に増えました。\n\nGitHub Copilot → .github/instructions/*.md, .github/prompts/*.md\n\nClaude Code → .claude/commands/*.m...",
-    "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-25T13:16:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3015bc5e034c9d8919d64f58f3a030d4",
-    "title": "Claude Codeより安く開発できるOpenCodeを使ってみよう",
-    "summary": "AnthropicがClaude CodeをProプラン（$20）の機能一覧から削除し、Maxプラン以上（$100〜）でしか使えなくなったように見えたことが先日話題になりましたね！\nhttps://zenn.dev/aiforall/articles/33534863994e45\nそうでなくても時間や週間単位の利用制限などで、Proプランで抑えめ抑えめに利用している開発者の方も多いと思います。\nそ...",
-    "link": "https://zenn.dev/xxishan/articles/9cb47819f835fa",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-25T07:00:17",
     "ai_summary_done": false
   }
 ]
