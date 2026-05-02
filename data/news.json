@@ -1,5 +1,165 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "52b342fa0d6142488b39d6a4206892d5",
+    "title": "AndroidでClaude Code / Codex / Gemini CLIを動かすネイティブAIターミナルIDEを作った",
+    "summary": "前回、スマホだけで10万行規模のターミナルIDEを作った話を書いた。\n今回はその続きです。\n\n結論から言うと、Shellyは現在、Galaxy Z Fold6上で以下のAIコーディングCLIを実際に起動できるところまで来ました。\n\nClaude Code\nOpenAI Codex CLI\nGemini CLI\n\nしかもTermuxやprootの中ではなく、AndroidアプリであるShelly自身...",
+    "link": "https://zenn.dev/ryoitabashi/articles/744397718965f6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T14:57:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "49c5c44005972ae4991793e79ed25713",
+    "title": "Stripeが構想するAIエージェント決済インフラ - MPP、Tempo、Link Agent Wallets...etc",
+    "summary": "こんにちは！ブロックチェーンエンジニアの山口夏生です。\nブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。\nこの記事では、いま話題になっている Stripe Sessions 2026 の発表を、 AIエージェント決済インフラ という観点で4つの軸に分けて解説していきます。\n2026年4月29日に開催された Stripe Sessions 20...",
+    "link": "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T13:50:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dff34ddf3d391979f47aebe9969c6f52",
+    "title": "7年前の Chromebook でローカルLLMは動くのか？ Trillim + Ternary Bonsai を Crostini で試す",
+    "summary": "!\n2026/5/2更新\nCLIチャットの様子、スロットリングの様子の動画を追加しました。\n\n\n 記事の概要\nこの記事は、Trillim v0.10.2 + Ternary-Bonsaiを、7年前のChromebook上のCrostini環境で動かした実機検証メモである。\n高性能GPUや新しいPCを使ったローカルLLM環境ではなく、低消費電力CPU・8GB RAM・サーマル制約のある古いChrom...",
+    "link": "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T12:30:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "22370b85815ffaf6be1eca30081f5a31",
+    "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
+    "summary": "はじめに\n5年間、Ruby on RailsでMVC + Serviceパターンの API開発をしてきました。Railsの「規約に従えば爆速で動くものができる」という思想が好きで、その生産性の高さは強力な武器でした。\nそんな自分が、Python + FastAPIで構築されたDDDの実装パターン（Entity / Repository / UseCase）と、クリーンアーキテクチャをベースにしたプ...",
+    "link": "https://zenn.dev/neoai/articles/b843fc78203295",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T10:38:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9914e9fc73b8b9502d42203bec98109a",
+    "title": "DGX Sparkに xrdp + Tailscale でリモートデスクトップ環境を構築する",
+    "summary": "NVIDIA DGX Sparkに対してリモートデスクトップで接続したいと考えました。ローカルLAN 内だけでなく、外出先からもGUIで操作できる環境がほしいという動機です。\nそこで本記事では、ARM64でも動作するxrdpとTailscaleを組み合わせて、ローカル LAN・外部の両方からアクセスできるリモートデスクトップ環境を構築する手順を紹介します。\n\n 環境\n実際に確認した DGX Spa...",
+    "link": "https://zenn.dev/karaage0703/articles/ad960088e1b94f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T09:33:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "29d9f5e8f1751cb383059a8fdccb539e",
+    "title": "社内向けAIアシスタントを3か月間試験運用してみた",
+    "summary": "松尾研究所のからあげ（@karaage0703）です。\n松尾研究所では 2026年2月ごろから、Slack上でOpenClawライクな社内AIアシスタントソフトを、一部のプロジェクトで試験運用してきました。この記事では、AIアシスタントソフトの概要・活用例・実運用アンケート結果についてまとめたものの一部を紹介します。\n社内ツールの紹介ではありますが、「どのように業務でAIを活用していくか」という同...",
+    "link": "https://zenn.dev/mkj/articles/87c3ce556cde90",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T02:50:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0540e045c93eece9e879c485ebffb008",
+    "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて",
+    "summary": "筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。\n👉 ポートフォリオ: 筆者ホームページ\n\nこの記事は約5分で読めます。\n\n「個人...",
+    "link": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T11:02:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7f12263bafd2db0f7834fbda816f9495",
+    "title": "ローカル LLM で遊んでみる",
+    "summary": "ローカル LLM で遊んでみる\n\n本記事では Qwen をお試しで動かしてみました\nコード説明や詳細な実装の説明は省いています\n指定のフォルダに置いた情報を読んで相談役として活用することを目的としています\n\nモチベーション\n最近はコーディングしたり，AI モデルを学...",
+    "link": "https://qiita.com/k2-gc/items/7116eceeb2fc0c9181a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T14:57:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2a115460b791d0856214ae4b79e34b74",
+    "title": "Amazon BedrockのAnthropicモデルをどのように選択すべきか",
+    "summary": "3種類のAnthropicモデルを選んだことがあるか\n突然ですが、皆様は、AIエージェント（Agentic AI）を開発するにあたって、どのモデルを使うかという判断をすることがあるでしょうか。\n最も高い性能を持った最上位のモデルを選んでおけば間違わないという考えが先にあり...",
+    "link": "https://qiita.com/nasuvitz/items/4e9a1b62025d7d3ba460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T10:15:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "51935a630714176b2dd6a7fb5109fc6f",
+    "title": "AIが普及してきて思う危機感と乗り越え方考察",
+    "summary": "～【緊急提言】プログラミング言語が「消える」日：僕たちが明日から何を学ぶべきか～\nAIが普及してきて私が思っている、この危機感をどう乗り越えていこうか考察してみました。\n\n先日、Laravel 8のプロジェクトを12にアップグレードする作業を、AIに任せてみました。\n本来...",
+    "link": "https://qiita.com/h-ebe-tb/items/dc04ad96d7ddacd49d5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T03:08:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ee1e382d6650e2351aeb8155dab0db3a",
+    "title": "Oracle AI Agent MemoryをLangGraph + OCI Cohere Embed v4 + Grok 4.20 Reasoningで試してみた",
+    "summary": "はじめに\n本記事では、Oracle AI Database の Agent Memory を LangGraph と組み合わせて試してみます。\nAgent Memory を利用すると、AI Agent の会話メッセージや、ユーザーに関する durable memory を...",
+    "link": "https://qiita.com/engchina/items/f9f35903cd51478193c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-02T00:53:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9e280814eea5f54661fcab9e0088ba40",
+    "title": "Claude Opusの1786分の1!? DeepSeek V4のAPI価格がバグってるので全部計算してみた",
+    "summary": "「LLMのAPI代、高すぎない？」\nClaude Opus 4.6をエージェントに組み込んで業務を回し始めた瞬間、毎月のAPI請求書を見て血の気が引いた経験はありませんか。入力100万Tokenあたり$5.00、出力に至っては$25.00。Claude Codeのようなエ...",
+    "link": "https://qiita.com/lumichy/items/0252c195b4d0df797592?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T12:41:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6c14ca01b01bc5ecdf8ee0dc364dadaf",
+    "title": "【JavaScript/React】Canvas要素で表示された画像をボタン押下でダウンロードする方法について",
+    "summary": "こんにちは。\nとある開発で、Canvas要素内の画像をボタン押下でダウンロードしたい場面がありました。\nそのような実装は未経験だったので実装する上で学んだ内容を備忘録代わりに記載いたします。\n\n記載したコード\n\nsample.jsx\n// Canvas要素に画像を描写するた...",
+    "link": "https://qiita.com/nagi-0106/items/465c1c1eb17f170216df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-01T15:23:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "00d3426cce6691bd3896726af4869ee0",
+    "title": "Claude Code のトークン消費を抑える実務テクニック5選 — Skills / .claudeignore / Subagentの使い分け",
+    "summary": "はじめに\nClaude Code を業務で毎日使っていると、避けて通れないのが トークン消費の問題 です。\nMAX プラン（月 $100）でも、無計画に使うとあっという間にレート制限に達します。最近、rtk-ai/rtk のように LLM トークン消費を 60〜90% 削...",
+    "link": "https://qiita.com/ennagara128/items/26e7168007e80024cf54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-02T02:35:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ac6a123ba2c76cd214507529f9e3ac97",
+    "title": "オンプレLLMで社内文書を書き分ける - Mac Studio M1 Max x llama.cpp x gemma-4 31B の構成",
+    "summary": "オンプレLLMで社内文書を書き分ける - Mac Studio M1 Max x llama.cpp x gemma-4 31B の構成\n\nはじめに\n「品質不具合の社内報告書を、プレスリリース用の対外文面と、ISO 9001 準拠の社内是正処置報告に書き分けたい。でも、社...",
+    "link": "https://qiita.com/yoshiyakato/items/75c44da4bc2bed29e829?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-04-30T07:21:49",
+    "ai_summary_done": false
+  },
+  {
     "id": "bc48293faf0aa43dc3945e6d83348d5c",
     "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
     "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。\nこれまで 社内MCP群の全体像、DB Graph MCP、Biz Graph、Sandbox MCP と、社内向けに作っているMCPサーバーを順に紹介してきました。\n今回はその運用の中で見えてきた、自作MCPサーバーのトークン消費を減らすTips の話を書きます。\n\n 困りごと：MCPは意外とトークンを食う\nMCPでAIエージェント...",
@@ -837,166 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-04-28T15:01:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1bf3cb1b745c1486d558c40281e195cd",
-    "title": "ナトリウムイオン電池は飛行機へ持ち込み不可に、とエレコム公表も国土交通省は「以前からダメだった」",
-    "summary": "エレコムは28日、ナトリウムイオン電池採用のモバイルバッテリーやハンディファンが、航空機内への持ち込みや預け荷物に入れることが不可になったと発表した。しかし国土交通省の担当部署に理由を聞くと、意外な答が帰ってきた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news098.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-28T06:43:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f6bdeb3c58b9f97c89397a482a91e1db",
-    "title": "GitHub Copilot、6月1日より従量課金モデルへ移行　AIの“追い課金”時代の到来か",
-    "summary": "米GitHubは4月27日（現地時間）、AIコーディング支援ツール「GitHub Copilot」の全プランについて、6月1日から従量課金モデルへ移行すると発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news080.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-28T03:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ba63e241c09928aa5b6771e605146b1c",
-    "title": "NTT、データセンター3倍に増強へ　AIの需要に対応　島田明社長「推論用途広がる」",
-    "summary": "NTTがAIの需要の急拡大に対応するため、国内のデータセンター（DC）の規模について、消費する電力容量換算で2033年度に現在の3倍超に増強する計画を明らかにした。最新技術を投入したDCを高速通信網で結び、AI利用で生じる膨大なデータを処理し、日本の産業発展を後押しする狙いだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news064.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-28T01:29:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "741525cc2741f585b41594259cb6e3e0",
-    "title": "OpenAI、AIエージェント特化のスマートフォンを開発中か──ミン＝チー・クオ氏",
-    "summary": "OpenAIがAIエージェント特化のスマートフォンを開発中──アナリストのミン＝チー・クオ氏がXでそう投稿した。MediaTekとQualcommがプロセッサを共同開発し、Luxshareが独占的な共同設計・製造パートナーを担うという。関係各社はコメントを出していない。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news053.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T22:42:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d5911fed65bd45b8b232cb6ce86be018",
-    "title": "「宇宙は極低温だから放熱が楽」は本当か？　宇宙データセンターの実現に欠かせない冷却の話",
-    "summary": "「宇宙空間は真空で冷たく、AI半導体のような高発熱機器も地上より楽に冷やせるのではないか」――そんな直感から、軌道上データセンター構想を合理的な未来像として語る言説もある。だが実際の宇宙機開発では、熱をどう集め、どう運び、どう捨てるかは、今もなお難しい課題だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/23/news048.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "65405667b9883b6045fbba20f565fe69",
-    "title": "OpenAIとMicrosoft、提携契約を再改定　OpenAIはAWSなど任意のクラウドで製品提供可能に",
-    "summary": "OpenAIとMicrosoftが提携内容を更新した。OpenAIはAzure以外のクラウドでも自社技術の販売が可能になり、APIの独占提供が終了する。MicrosoftによるOpenAIへの収益分配は終了するが、OpenAIからMicrosoftへの収益分配は継続される。両社は柔軟性を確保しつつ、他社との提携を含むマルチクラウド戦略を加速させる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news050.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7d2c3161654242d2229fb9f924455b9b",
-    "title": "「LoL」はどれくらい脳機能を向上させる？　5カ月遊んだ68人の脳を分析、他ゲームと比較　学術誌に掲載",
-    "summary": "中国の電子科技大学などに所属する研究者らがBrain Sciences誌に発表した論文「Effects of Video Game Type on Cognitive Performance and Brain Functional Connectivity: A Longitudinal EEG Study」は、ビデオゲームのジャンルによって脳にどのような影響を及ぼすのかを分析した研究報告だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news120.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "938efbba39c3510394d419f001d86463",
-    "title": "AIに調べごとを頼み……失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り2日】",
-    "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/09/news010.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-27T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3b09ac833404110970a635153ecd43d8",
-    "title": "OpenClawとHermesの違いを思想から理解する",
-    "summary": "松尾研究所シニアデータサイエンティストの太田です。普段はLLMの事後学習に関するプロジェクトに携わっています。\n現在松尾研究所では各種業務をメンバーに代わって自律的に代行するパーソナルエージェントの社内開発に取り組んでいます。この記事ではそうした開発のなかで調査をしたOpenClawとHermesについて、思想の違いとデザインチョイスを主に共有したいと思います。\n!\nこの記事のターゲット\n\nOpe...",
-    "link": "https://zenn.dev/mkj/articles/9431e342db202f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-27T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "964fdc07315b35853af1e15c8a02029c",
-    "title": "帳票エンジンの会社ですが、4年かけた帳票デザイナーを凍結してAIに全振りしました",
-    "summary": "デンキヤギでは、2021年から 商用の帳票エンジン（yagisan-reports） を開発しています。\nこの間に 生成AIにプログラムを書かせることが当たり前 になりました。この流れに追従するため、 帳票エンジンの開発方針を生成AIに全振りして、4年以上取り組んでいた帳票デザイナーの開発を凍結する 決定をしました。\nなお、この記事は2年半ぐらい前に書いた記事の続編です。\nhttps://zenn...",
-    "link": "https://zenn.dev/yagisan_reports/articles/8a89b77f7106b9",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-27T01:20:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a3f6ec6ec57cda7f78a3a0595eae592b",
-    "title": "Claude Codeと作ったAIオーケストレータを、私はなぜ使わなくなったのか",
-    "summary": "以前、私は Claude Code と一緒に dark-part-time-job というオーケストレーションシステムを作りました。\nこれです。\nhttps://github.com/yamk12nfu/dark-part-time-job\n複数のAIエージェントを tmux 上に並べ、親分・若頭・若衆のような役割分担で開発タスクを進めるための仕組みです。名前からしてだいぶ治安が悪いですが、やりた...",
-    "link": "https://zenn.dev/yamk/articles/dark-part-time-job-orchestrator",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T18:07:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b7a84a33e006e198632a09306a3c0267",
-    "title": "音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】はどれほどか？",
-    "summary": "はじめに\nhttps://github.com/ace-step/ACE-Step-1.5\n最近、AIで音楽を生成できるオープンソースモデル「ACE-Step 1.5」を試す機会があったので、備忘録として残します。\n精度や操作感において、Sunoなどの商用モデルに匹敵するクオリティで、しかもローカル環境で動かせるという、なかなかロマンのあるモデルです。\nまた、このモデルはテキストからの音楽生成だけ...",
-    "link": "https://zenn.dev/asap/articles/d03902a7852a61",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T13:28:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "180b5052d250a0f7d249884a9d6d6fd0",
-    "title": "今日のUITraitCollection",
-    "summary": "SwiftUIの @Environment は、状態を環境変数として扱い、親ビューから子ビューへと効率的に流し込める非常に便利な仕組みです。\n実はUIKitにおいても、このコンセプトを体現する強力な仕組みは古くから備わっています。\n今回は、iOS 8から提供されている歴史あるAPIであり、iOS 17での進化を経て開発者が独自の値を定義・伝播できる柔軟性を手に入れ、@Environmentのように...",
-    "link": "https://zenn.dev/tatsube/articles/92ecf68260d2fb",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T11:21:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e2255b355ff0fd8f12fece59e105db4",
-    "title": "LINEをAIエージェントの入口にする現実解",
-    "summary": "こんにちは！peintangos です。ChatGPT、Claude、Discord、Slack など、普段わたしたちが触れる AI のインターフェースはたくさんあります。一方で、日本で個人間のコミュニケーションに使われるアプリとしては、LINE の存在感はかなり大きいです。LY Corporation の FY2024 統合報告書によると、LINE の国内月間アクティブユーザーは約 9,800 ...",
-    "link": "https://zenn.dev/peintangos/articles/b024c86e672191",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T11:12:50",
     "ai_summary_done": false
   }
 ]
