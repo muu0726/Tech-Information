@@ -1,5 +1,175 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6b37779f40f819f5bbd8917d98b1a028",
+    "title": "AIに渡す指示書の役割分担: AGENTS.md/SKILL.md/DESIGN.mdと仕様駆動開発の現在地",
+    "summary": "2026年4月、Google Labsが DESIGN.md という仕様を公開しました。AIエージェントが読めるデザインシステムの仕様で、npx @google/design.md lint というCLI検証ツールがセットになっています。\nDESIGN.md の登場で、AIエージェントに渡す指示書ファイルが3種類目に揃いました。2025年から業界標準として広がってきた AGENTS.md（Open...",
+    "link": "https://zenn.dev/genda_jp/articles/f71d3ed7d4d7e8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-02T21:25:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "73482559ec38e3cefe7ed6300b65e7e7",
+    "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
+    "summary": "1. はじめに\nこの記事では、re:Invent 2025 でプレビュー発表され、2026年3月にペネトレーションテスト機能が GA となった AWS Security Agent を、意図的に脆弱な FastAPI アプリに対して動作させ、設計レビュー・コードレビュー・ペネトレーションテストの3機能で 何が起きるのか どんな結果が得られるのか を、画面と検出結果ベースで紹介します。\n!\n実際に手...",
+    "link": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-02T13:28:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0bb908798c72035b2f6bc0a6fc8c212c",
+    "title": "Zaim APIで何ができるのか",
+    "summary": "Zaim公式ドキュメントはあるものの、会員登録しないと読めないようになっているため、surface webに何も情報がない。\n詳細については各自ログインして見ていただくとして、概要すらわからないのは困るのでここにまとめておく。最初にエンドポイントの一覧を示し、次に主要なエンドポイントについて解説する。\n\n エンドポイント一覧\n\nGET /v2/home/user/verify\nGET /v2/ho...",
+    "link": "https://zenn.dev/todesking/articles/a7a82aa28646e6",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-02T11:16:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f4c3f882d10ebf8b9d444d4a9a904466",
+    "title": "GPT-5.5 にも『指示の型』を ─ 3 モード Agent Skill とコスト最適化ルーティング",
+    "summary": "はじめに\n少し前に、GitHub Copilot から Claude Opus 4.7 を使うときに「モデルが変われば指示も変わる」というテーマで記事を書きました (モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った)。そこで作った claude-prompt-optimizer は、4.7 の特性を踏まえた「5 スロットブリーフ」を Agent Skill...",
+    "link": "https://zenn.dev/shinyay/articles/gpt-5-5-prompt-optimization-copilot-skill",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-02T06:36:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8e3cadba531f5c4534f590c4f2d88bee",
+    "title": "MCPサーバーを作りたくて OAuth 2.1 をちゃんと学んだ記録",
+    "summary": "MCPサーバーを自作しようとしたら、OAuth 2.1という沼にハマった話。\nPKCE・DCR・リフレッシュトークンローテーションを、実際の実装コード（TypeScript + Hono）を通じて解説。\n「AIが提案してきた認証設計の意味を、ちゃんと理解したい」というエンジニアへ。",
+    "link": "https://zenn.dev/hidechannu/books/oauth21-mcp-guide",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-01T04:23:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dfba1062397af98ffeabdc4f75fa0639",
+    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+    "summary": "結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。\n2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。\nあなたが悪意のあるリポジトリをgit cloneする...",
+    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-03T07:32:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "292d4f6111aa15e74d0787fe33f92901",
+    "title": "AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ",
+    "summary": "この記事を読んでほしい人\n\nClaude Code / Cursor / Copilot などの AIエージェントをチームに導入したい 人\n情シスから「セキュリティ面の対応は？」と聞かれて 技術的に答えたい 人\n「導入したいけどセキュリティが心配」で 手が止まっている 人...",
+    "link": "https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-02T16:20:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "96e98a943fcb3e0478f5014ef6def0a1",
+    "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
+    "summary": "はじめに\nこんにちは！\nWEBアプリケーションエンジニアとして活動しているPOMです。\n元々はPHPやJavaScriptなどをメインとしていましたが、\n今年3月からはアウトプットコミュニティであるJISOUに参加し、現在はReactやTypeScriptでの開発を行って...",
+    "link": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-03T08:00:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "01fd4571154702c236fe9704e9473c76",
+    "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
+    "summary": "今度の新刊 「開発効率をアップする！ Claude Code 実用入門」 でも触れているのですが、Claude Codeは、「隔離したコンテナ環境で動かす」 のが、ぼくの持論です。①安全性のため、②Linux環境のツールが使えるため、というのが理由です。コンテナを強く推す理...",
+    "link": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-03T01:31:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "41e2be9230b6f750570ab04f626120a2",
+    "title": "Strands AgentsのTypeScript版がv1.0.0に到達したのでAI SDK用のアダプターを作ってみた",
+    "summary": "Strands AgentsのTypeScript版がv1.0.0になりました🎉🎉🎉\n\nv1.0.0記念になにかしてみようと思い、以前からお世話になってるAI SDKと連携できるようにアダプターをバイブで作ってみました。\n\n使い方\nNext.js App Rout...",
+    "link": "https://qiita.com/moritalous/items/132f9e20661289f1abc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-03T04:01:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "58461090fe2ca3fe6ce7ce5c0e74b90f",
+    "title": "RubyKaigi 2026初参加！全力で楽しんできました",
+    "summary": "初参加の学生がRubyKaigi 2026を全力で楽しんできた話\nこの記事は「RubyKaigi気になるけど、自分なんかが行って楽しめるの？」と思っている学生・初心者向けです。\nセッションの内容が半分以上分からなくても、英語が得意じゃなくても、十二分に楽しめました。その実...",
+    "link": "https://qiita.com/Reid2147/items/3399d76f3f8b1702a6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-03T07:32:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f2df8e21850655822f515fe4057740e7",
+    "title": "CVE-2026-31431 Copy Fail と Proxmox",
+    "summary": "個人の意見です。\n脆弱性・アップデートの影響確認・対応判断などはシステム管理者各位が責任をもってしましょう。\n\nまぁみんな本家のSA見てるだろうから知ってるだろ…ぐらいの軽い気持ちで呟いたらなんか通知がすごいことになっていました。\n140字で足りないところ補足しようと...",
+    "link": "https://qiita.com/oishi-d/items/1c392b33777df39232b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-02T06:32:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "99aa35f95c38c6aa74618cf0a022ad55",
+    "title": "ＡＷＳで整理する、フロントエンドの知識地図",
+    "summary": "【序章】はじめに\nクラウドエンジニアがフロントエンドの領域に手を伸ばすと、React・Next.js・Vue・Nuxt・Laravel・Rails・FastAPI…と技術の選択肢が山ほどあり、何がどう違うのか理解しにくい。本記事では、デプロイ先のインフラ構成を軸に、各フレ...",
+    "link": "https://qiita.com/fsitlab/items/8116fe5479eae734325f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-02T11:42:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1bf3cb1b745c1486d558c40281e195cd",
+    "title": "ナトリウムイオン電池は飛行機へ持ち込み不可に、とエレコム公表も国土交通省は「以前からダメだった」",
+    "summary": "エレコムは28日、ナトリウムイオン電池採用のモバイルバッテリーやハンディファンが、航空機内への持ち込みや預け荷物に入れることが不可になったと発表した。しかし国土交通省の担当部署に理由を聞くと、意外な答が帰ってきた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news098.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-28T06:43:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f6bdeb3c58b9f97c89397a482a91e1db",
+    "title": "GitHub Copilot、6月1日より従量課金モデルへ移行　AIの“追い課金”時代の到来か",
+    "summary": "米GitHubは4月27日（現地時間）、AIコーディング支援ツール「GitHub Copilot」の全プランについて、6月1日から従量課金モデルへ移行すると発表した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/28/news080.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-04-28T03:40:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -827,176 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ac3cc7ec92b75ffc0d61f6791f9970df",
-    "title": "AIに会社のGoogleアカウントを渡していませんか",
-    "summary": "1. Google MCPを接続したときに起きること\nたとえば、来週のチーム進捗会議のアジェンダを AI に作ってもらおうとして、「最近の社内ドキュメントから議題を整理して」と頼んだとします。返ってきたアジェンダの中に、なぜか「来月から A さんが家庭の事情で退職予定」という項目が紛れ込んでいる👉AI は、自分のドライブに置いてあったメンバーとの 1on1 メモまで読みに行っていた——という事故が...",
-    "link": "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-28T02:30:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4ad8a3cdc0b4ede91e78a143efc60e89",
-    "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
-    "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。\nこれまでに DB Graph MCP、社内MCP群の全体像、Biz Graph MCP と、社内向けに作っている MCP サーバーを順に紹介してきました。\n今回はその中でもちょっと毛色が違うものを取り上げます。Sandbox MCP ── 非エンジニアの社員が AI と一緒に作ったアプリを、ワンコマンドで社内に安全に公開できるプラッ...",
-    "link": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-27T23:02:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e5f6b6afa69ac9724d2762d7f1e47e12",
-    "title": "AIエージェントにユーザーを演じさせて業務をテストする",
-    "summary": "はじめに\nこんにちは、uchiです。株式会社ビズリーチのAI Product Studio（以下、APS）でエンジニアをしています。APSは2026年2月に新設された組織で、「AIでプロダクト創出を常態化する」をミッションに、現在はAIを前提とした開発プロセスの構築と新規プロダクト開発に取り組んでいます。\nこの記事では、APSでAI前提の開発フローを構築するなかで生まれた「Agentic UATス...",
-    "link": "https://zenn.dev/bizreach_aps/articles/0d758497357167",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-27T03:53:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ae52697b6e416fbfc2f1f7a6a7cd182c",
-    "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
-    "summary": "はじめに\nこんにちは！TOKIUMでQAチームのリーダーをしている西田です。\n「シフトレフト」「ATDD（受け入れテスト駆動開発）」「BDD（振る舞い駆動開発）」 — テストを上流に持っていこうという考え方は、ソフトウェア開発の世界で10年以上前から提唱されてきました。概念としては広く知られているのに、実際に徹底できている現場は少ない。「理想はわかるけど、やるのが大変」というのが正直なところだった...",
-    "link": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-04-26T23:00:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8d01583b6eedfc9d1f925a9814a7bae0",
-    "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
-    "summary": "はじめに\n毎日の日報作成、地味に面倒ではないでしょうか。\n予定はGoogleカレンダーに入っているのに、その内容を見返して日報にまとめ直すのは二度手間。\nそこで今回は、n8nでGoogleカレンダーの予定を取得し、Geminiで日報化してDiscordへ自動投稿する仕組み...",
-    "link": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-28T09:48:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9fd358d8a63da54c69ca8f3557bd7be7",
-    "title": "【完結編】コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（自作ツールがAIに論破された日）",
-    "summary": "🚀 TL;DR（忙しい人向けまとめ）\n\n  前回の「理論編」の続編。AST（抽象構文木）で抽出した「コードの構造マップ」だけをプロンプトとしてAIに渡す手法の実証編です。\n  自作の静的解析ツールをこの手法でAI（Gemini 3.1 Pro）に診断させた結果、コードの...",
-    "link": "https://qiita.com/harupython/items/4d572a384c62016c51f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-27T15:23:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b1ae0170182ec4131c55e494900633cf",
-    "title": "【VSCode/Cursor】Codexプラグインを右サイドバーへ移動する方法",
-    "summary": "はじめに\nAIを活用したコーディングには、主に3つのスタイルがあります。\n\n方法\n説明\n\nクライアント\nCodexのスタンドアロンアプリ\n\nCLI\n\ncodex コマンドラインツール\n\nIDEプラグイン\nVSCode / Cursor の拡張機能\n\n私は...",
-    "link": "https://qiita.com/itsuki_y/items/b0d980b64ce7d6be5aaa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-28T06:23:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6276d6447043e6c7285ff5e9d0233fc2",
-    "title": "【緊急】ワイルドカード証明書の誤用がサブドメイン乗っ取りを引き起こす仕組みと対策",
-    "summary": "サブドメイン乗っ取り(Subdomain Takeover)は、削除されたサービスのCNAMEが残ったまま第三者にそのCNAME先のドメインを取得され、正規のHTTPS証明書まで発行できてしまう攻撃である。ワイルドカード証明書の誤用と組み合わさると、被害者サイトの任意のサブ...",
-    "link": "https://qiita.com/kawabe0201/items/d3c0ef67a91a37076acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-28T01:09:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2168832552076ecc426c14226202ff31",
-    "title": "【Private Agent Factory】環境構築手順（マーケットプレイス編）",
-    "summary": "はじめに\nPrivate Agent Factoryは、GUI上でAIエージェントを構築・実行するためのプラットフォームです。\n本記事では、OCI MarketplaceからPrivate Agent Factoryをデプロイし、動作可能な環境を構築する手順を解説します。...",
-    "link": "https://qiita.com/marfujim/items/60961a725c38ade47c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-27T07:14:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e807e084e8db2e90c395730ba307de3e",
-    "title": "【入門〜実務】クオンツトレーダーにとって「自己相関」とは何か — 順張り・逆張り仮説を分ける基本検査",
-    "summary": "はじめに\nクオンツトレード戦略を作るとき、いきなり機械学習やAIに飛びつく前に、必ず確認しておきたい基礎検査があると考えている。それが 自己相関（autocorrelation） である。\n自己相関を一言でいえば、\n\n過去の値動きと将来の値動きの間に、どれくらい統計的な関...",
-    "link": "https://qiita.com/tikeda123/items/3800c4d6542d21508f64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-28T02:13:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b53b69834a67ffd06681bae4c81e2ecf",
-    "title": "相続税・低賃金・移民政策はどうつながるのか？―欧米の教訓から考える成長と財政の設計 : Pythonで学ぶ マクロ経済学入門 (76)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第76回を始めましょう。まず\n「『安く使う経済』はなぜ高くつくのか？―欧米の教訓から学ぶ低賃金依存からの脱却 : Pythonで学ぶ マクロ経済学入門 (75)」 \nhttps://qiita.com/maskot197...",
-    "link": "https://qiita.com/maskot1977/items/a0e5d60c951f0bd0984a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-04-28T15:01:53",
     "ai_summary_done": false
   }
 ]
