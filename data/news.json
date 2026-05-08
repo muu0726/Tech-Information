@@ -1,5 +1,185 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4307b9e3d6a90e5f50b75951171ac378",
+    "title": "Cortex Codeを組織で活用する際のポイント",
+    "summary": "はじめに\nこんにちは！インテージの児玉です。\nAIエージェントの技術進化が加速するなか、Snowflakeからも待望のAIエージェントとして 「Cortex Code」 が登場しました。\nCortex Codeは、個人の開発体験を劇的に向上させますが、組織の開発フローに組み込む際には、以下の観点が重要になります。\n\n自律実行の安全性担保と実行プロセスの透明化\nエージェントへのドメイン知識や開発規律...",
+    "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-07T10:00:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f49c25865397e0a90bcb4cb808f75bd7",
+    "title": "自動運転E2Eモデルは何を見ているのか — Integrated Gradientsによる解釈",
+    "summary": "はじめに\n\nIntegrated GradientsによるE2E自動運転モデルの判断根拠の可視化の様子。\n深層学習モデルは画像認識、自然言語処理、自動運転における行動予測など幅広い分野で人間を超える精度を達成しつつありますが、その判断根拠は依然としてブラックボックスです。「なぜこの予測になったのか？」をモデル自身に説明させる技術は XAI（Explainable AI / 説明可能なAI） と呼ば...",
+    "link": "https://zenn.dev/turing_motors/articles/5d0e3e86c91c46",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-07T06:08:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b3261f03a0efc2e8da9704787c4a547",
+    "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
+    "summary": "はじめに\nこんにちは、TOKIUMでEMをしているskです。\nもうすぐ1年間の育休に入ります👶🍼\n新生活がとても楽しみな一方で、ひとつ気がかりなことがあります。\nそれは生成AI周りの技術トレンド、1年離れたら完全に浦島太郎になるのでは？ という点です。\nこの領域は1週間単位でも新しいツールや手法がどんどん出てきます。\n1年後に復帰して「え、この作業って誰も手動でやっていないの？」「社内でxxという...",
+    "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-07T06:00:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0b3430e0ce6ee4cf8c542d75fa43a82e",
+    "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
+    "summary": "まずは結論から\nAIにUIを作らせる前に、フォント、余白、角丸、影、色の土台を自分で決められるツールを作りました。\nこのサイトです。一旦試してみてください!\nhttps://pre-design-md.dev\n\n 作った理由\nAIでUIを作るのが当たり前になってきて、v0、Base44、Google Stitchなど、AIプロンプトベースのページ生成サービスもどんどん増えています。最近はGoogl...",
+    "link": "https://zenn.dev/pepabo/articles/74653f4d78eb7b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-07T00:50:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0e5ad30e28dfb4dabeba09fd84c01ecd",
+    "title": "AIのPlan Modeをなんとなく承認しないために",
+    "summary": "TL;DR\n\nPlan Modeでも、Planを承認してよいかを判断する基準は人間側に必要\nその基準として、まず受け入れ条件を整理し、Planがそれを満たす内容かを見る\nAIには受け入れ条件を決めさせず、既存情報から候補を抽出させ、人間が根拠つきで整理する\n最後はAIの「🤖 完了しました」ではなく、当初の受け入れ条件を満たしたかで判断する\n\n\n Plan Modeは便利だけど、そのPlanの正しさ...",
+    "link": "https://zenn.dev/lv/articles/9438e1678c873a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-07T00:30:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "62b96d24d298a5439fb878a6538346cf",
+    "title": "AI時代だからこそ、バグの少ないコードを書くためにTDDを学んだ話",
+    "summary": "はじめに\n開発者であれば誰しも、「できるだけバグの少ないコードを書きたい」と思っていると思います。\nまた、実際にバグの多いコードに苦しんだ経験があるのではないでしょうか。自分自身もそのひとりです。\n修正したはずの箇所で別の不具合が起きたり、「どこを変更すると何が壊れるのか」がわからなくなったり、特にコード量が多いと、「たぶん動いているけど、本当に大丈夫だろうか」という不安を抱えながら開発を進めるこ...",
+    "link": "https://zenn.dev/tacos/articles/57420c50c2794e",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-06T12:33:03",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4b02b47583168a6a03e8078e59530f9a",
+    "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
+    "summary": "はじめに\nGMOコネクトの永田です。\n「Java 8 → 25 (4 LTS 飛ばし) + AWS SDK v1→v2(破壊的変更あり) + JWT/JSON/ロギング系も軒並みメジャーアップ。最低限疎通させるだけでも数週間、全件リグレッション込みなら数ヶ月仕事で、きつそ...",
+    "link": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T02:25:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f6a1988f96def62cdcdd4f67784c0d07",
+    "title": "生成AIなんでも展示会 Vol.5 に出展させていただきました！",
+    "summary": "はじめに\nこんにちは、ふくちと申します。\n2026年5月6日(水) すみだ産業会館 8F サンライズホールにて開催された、生成AIなんでも展示会 Vol.5に出展者として参加してきました。\n\n私自身は以前に一度参加者としてお邪魔したことがあったのですが、ブース出展は初...",
+    "link": "https://qiita.com/har1101/items/7d7b391f5edf376787f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T01:13:19",
+    "ai_summary_done": false
+  },
+  {
+    "id": "04cc144420faa76b2bb845df787146d3",
+    "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
+    "summary": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】\nこんにちは、Liseと申します。\n現在のゲーム開発現場では恐らく、どんな会社でもどんなプロジェクトでも、ClaudeCodeやCodexを利用した開発のAI補助を行っ...",
+    "link": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-07T23:24:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "eadb791da0a39424e3438169d782eb5e",
+    "title": "ハーネスエンジニアリングの導入ステージを明確にしてみる",
+    "summary": "AI に本番 DB アクセスを許す。AI に GitHub への直接 push を許す。AI に MCP 経由でブラウザ操作を許す。\n便利、ではある。ただし同時に、それは権限委譲です。鍵を一本渡すたびに、鍵がどこに置かれ、誰が監視し、紛失したらどう戻すかという話が、必ず後ろ...",
+    "link": "https://qiita.com/aganesy/items/bbd3702560a5ac27ff12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T03:06:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "521f06ac2eeffd8b681a4eb4999237c7",
+    "title": "ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい",
+    "summary": "AI 関連サービスの使いすぎでお小遣いがピンチです。贅沢に ChatGPT Pro を契約して遠慮なく使いたい所ですが、ちょっとでも節約した使い方が出来ないか思考を巡らせてみました。\n最近は Coding Agent の選択肢も豊富です。そもそも Codex にこだわらな...",
+    "link": "https://qiita.com/faunsu/items/f6edd279d32102e6f5a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-06T15:51:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c0c8d060e1b6890cc74ac5a67ee5c1eb",
+    "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
+    "summary": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-08T08:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "88fa6800f4117993ea785632361fa842",
+    "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿　捏造画像通し「危険なツール」と警告",
+    "summary": "イタリアのメローニ首相が、AIの合成で作られたとみられる自身の下着姿の写真を、自らのSNSで公開し、虚偽画像が捏造される危険性について警告した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-08T05:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7bdfb2944bef4bd143432008eb77c446",
+    "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+    "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-08T01:55:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ba18702b42b8243027e450bce7ad3208",
+    "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場　自殺リスク検知で通知",
+    "summary": "OpenAIは、「ChatGPT」にメンタルヘルスの懸念が生じた際に信頼できる人物へ通知する安全機能「Trusted Contact」を追加した。18歳以上の個人ユーザーが対象で、AIと人間が深刻なリスクを検知した場合にのみユーザーが指定した連絡先へ安否確認を促す。会話の詳細は非公開で、現実のサポートへの橋渡しを目的とする。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-07T23:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "44ad7616130db15e62e2894ca84e46cf",
+    "title": "「脳内のゴミ掃除機能」壊す新たな一因を特定　抗体で狙い撃ち→マウスのアルツハイマー症状が改善",
+    "summary": "広州医科大学などに所属する研究者らが発表した論文「A brain-persistent DDR2-degrading antibody reverses Alzheimer’s pathologies by restoring brain fluid dynamics and metabolic clearance」は、アルツハイマー病に伴い脳の老廃物排出システムの崩壊を引き起こす原因タンパク質を...",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news020.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-07T23:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8f3d8cff26bcfb36ff4741cce0ecb976",
+    "title": "脳のオン/オフ切り替えは鍛えられる──イメトレで実際の運動能力向上に成功、慶應大がPNASで発表",
+    "summary": "慶應義塾大学に所属する研究者らがPNASで発表した論文「Brain-computer interface-based neurofeedback training enables transferable control of cortical state switching in humans」は、ブレイン・コンピュータ・インタフェース（BCI）を活用し、イメージトレーニング（イメトレ）中の脳状...",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news018.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-07T22:00:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -817,186 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-05-04T10:39:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8ada83445e8bf7ee707c6ff664b37b45",
-    "title": "Claude CodeユーザーのためのCodex入門",
-    "summary": "はじめに\n最近、CodexのほうがClaude Codeより使いやすい・性能が高いと感じる人が増えている印象です。\nClaude Codeに慣れていて、Codexも使い始めてみたい方向けに、最初に知っておくとよいことを書きます！\nこの記事は2026年5月時点の私の利用経験と観測範囲をもとにしています。\n\n 私のCodex歴について\nもともとはClaude Code派で、Codexは半年ほどサブで使...",
-    "link": "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-04T06:52:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "872d10de211430c68abe18b57f368d3d",
-    "title": "goroutineは「非同期」でもある――仕組み、進化",
-    "summary": "goroutineはいわゆる「非同期」も内包している、と理解できます。\nしかし、AI普及後の現在でも、たまに気がかりな記事もある気もしました【例】:\n\n🔥goroutineと非同期を別方式のように捉える。「軽量スレッド方式 vs イベントループ」のような比較が行われる。\n🔥そもそも（goroutineに限らず）非同期やブロッキング自体がふわっと気味な気もする。\n\n!\nおそらく、Goのコミュニティで...",
-    "link": "https://zenn.dev/torisan7500/articles/27226650fe8aac",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-04T02:13:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b4db2f93a88e3e1c443f42f462720d20",
-    "title": "【C#】CSharpierのすすめ",
-    "summary": "C#フォーマッタであるCSharpierがとても良かったので、そのおすすめ記事です。CSharpierはいいぞ。\nhttps://csharpier.com/\n\n dotnet-format\n当然ですが、C#にもデフォルトのフォーマッタであるdotnet-formatが用意されています。これはプロジェクトの.editorconfigをベースに動作するフォーマッタになっていて、VSCodeのC#拡張...",
-    "link": "https://zenn.dev/nuskey/articles/csharpier-is-good",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-04T01:55:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "66d3e2d17718a2b3f3b9f6531caa608b",
-    "title": "Claude Codeの「Skill」で、自宅GPUサーバーからAIキャラ画像を自動生成する",
-    "summary": "この記事は誰のためか\n以下のすべてに心当たりがある人向けです。\n\n自宅にGPU搭載サーバーがある（あるいは、これから組む気満々の人）\nRunPodやNano BananaなどのクラウドGPUに月額課金するのはなんか違う。自分のマシンで回したい\n\nClaude Codeを日常的に使っていて、「テキストだけじゃなくて画像も出せたら」と思ったことがある\n逸般の誤家庭の住人、またはその予備軍…！？\n\nこん...",
-    "link": "https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-03T20:44:47",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6098d5688a155a2bc519bfbeff4dbfff",
-    "title": "デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話",
-    "summary": "🎯 この記事の対象読者\n\n自治体や行政機関のデジタル部門で、源内に関心を持っている職員の方\n事業者さんから提案を受ける前に、まず仕組みを自分の目で確認しておきたい方\nAWSや生成AI基盤の構築に関わるエンジニアの方\n行政DXの現場で「実際に動くもの」を起点に議論を進めたい方\n\n\n 💡 この記事を読むと得られること\n\n源内Web(インターフェース部分)を自分のAWS環境にデプロイする際の手順、所要時...",
-    "link": "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-02T14:25:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "57e84f7e184682acdb913d2dbc83ac83",
-    "title": "コードを書きながら学ぶ プログラミングの原理原則",
-    "summary": "はじめに\n事業会社でエンジニアをしているいっぺいです。最近、転職をして以前よりも規模の大きなサービスの開発に携わることになりました。まだ転職して数ヶ月しか経ってはいませんが、1つのコードに対して求められる品質が上がり、自分の考えや知識がまだまだ足りていないと感じることが多いです。\nプルリクエストのレビューを通して、要件を満たして動くコードは書けているが、「もっとこう書いた方がよいのでは？」という視...",
-    "link": "https://zenn.dev/ippe/articles/learn-programming-principles-by-coding",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-02T08:50:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "834c71321e22903f89a17683f942a138",
-    "title": "既存ソースコードからAgent Skills を抽出作成する",
-    "summary": "はじめに\nAgent Skills、すごい便利ですよね。皆様はAgent Skills お使いでしょうか。\n私は他力本願なので、最近は開発作業も含め、なんでもAI Agentに任せて実施させたいと考えてしまいます。\nAI駆動開発といえば、新規の開発案件が得意領域な印象ですが、古今東西の開発プロジェクトは、新規開発！刷新開発！イケイケどんどん開発！という案件ばかりではなく、\nコストなどのやんごとなき...",
-    "link": "https://zenn.dev/srtia2318/articles/organize-info23-skills-gene-23b0b52d0d0bc6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-02T00:14:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1ffe90beb7b7ded6ed4debe72f4b09b8",
-    "title": "[Frontend Performance - Part 8] JavaScriptランタイム最適化：メインスレッドをブロックさせない設計とは？",
-    "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：Part 5・6・7のおさらい\n1. 問題の本質：なぜ「速い」だけではダメなのか\n2. 基本原則：協調的譲歩（Coop...",
-    "link": "https://qiita.com/tuanphan/items/d109bfd9a11bfbf2c100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T01:49:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bfe7249eef4fa2974c4650a831aab0a9",
-    "title": "[Frontend Performance - Part 9] JavaScript は速いのに、なぜ React は遅いのか？再レンダリングを理解する",
-    "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：JavaScriptは速いのにReactが遅い理由\n1. Reactの再レンダリングとは何か？\n2. 再レンダリングが...",
-    "link": "https://qiita.com/tuanphan/items/b4e3330337f767a47a83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T03:40:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "000352281b1260c5f2cdf325192296f0",
-    "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
-    "summary": "はじめに\nClaude Code のカスタムステータスラインは、画面下部にコンテキスト残量や使用率、モデル名などを表示してくれる便利機能です。\n\n私も ~/.claude/settings.json に Python スクリプトを仕込んで、ずっと愛用しています。\n\nと...",
-    "link": "https://qiita.com/ryu-ki/items/fa32472acb437bd2565a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T09:32:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d72f11f08c5d33b1c375d79b9e53ff8b",
-    "title": "写真1枚から場所と時間を特定する技術：PythonでOSINT入門【コピペで動く5実装】",
-    "summary": "📌 写真1枚から「場所」と「時間」を特定する技術を、Pythonで再現します。\n\n⚡ 1分でわかる：この記事でできること\n📷 写真1枚あれば\n👉 場所も時間も特定できます。\n\n📍 GPS → 撮影場所\n☀️ 影 → 撮影時刻\n🛰️ 衛星画像 → 現地確認\n✈️ 航空...",
-    "link": "https://qiita.com/etale_cohomology/items/e31907c8250dfb6ff145?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T06:40:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1a38941c0bb5a6a66152a9e9f5e74491",
-    "title": "Cursor 脆弱性事件を契機に Claude Code の運用を見直す — AIコーディングツールのセキュリティ運用5項目",
-    "summary": "はじめに\n先日、AIコーディングエディタ Cursor に CVSS 9.9 という最高クラスの脆弱性が報告され、エンジニア界隈で話題になりました。\n\nCursor を使って git clone するだけで PC が乗っ取られる可能性\n\nCursor 利用者は即座にアップ...",
-    "link": "https://qiita.com/ennagara128/items/5d0ebc9fb835f55f7c98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T03:38:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7448813d008c4de95646600ae54e44b1",
-    "title": "2026/05/04 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n個人開発の運用コストを本当に0円にした技術選定...",
-    "link": "https://qiita.com/ennagara128/items/d96bc0f53fedd34c2c7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T03:33:53",
-    "ai_summary_done": false
-  },
-  {
-    "id": "691dfed16665720585d78d2d789af809",
-    "title": "クラウドファンディング版の「StackChan（ｽﾀｯｸﾁｬﾝ）」を試し始めた時のメモ",
-    "summary": "はじめに\nこの記事は、クラウドファンディング版の「StackChan（ｽﾀｯｸﾁｬﾝ）」に関する記事です。\n●StackChan: Kawaii Co-Created Open-Source AI Desktop Robot by M5Stack — Kickstarte...",
-    "link": "https://qiita.com/youtoy/items/39ced554853fc8e1bbea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-03T16:50:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6b37779f40f819f5bbd8917d98b1a028",
-    "title": "AIに渡す指示書の役割分担: AGENTS.md/SKILL.md/DESIGN.mdと仕様駆動開発の現在地",
-    "summary": "2026年4月、Google Labsが DESIGN.md という仕様を公開しました。AIエージェントが読めるデザインシステムの仕様で、npx @google/design.md lint というCLI検証ツールがセットになっています。\nDESIGN.md の登場で、AIエージェントに渡す指示書ファイルが3種類目に揃いました。2025年から業界標準として広がってきた AGENTS.md（Open...",
-    "link": "https://zenn.dev/genda_jp/articles/f71d3ed7d4d7e8",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-02T21:25:13",
-    "ai_summary_done": false
-  },
-  {
-    "id": "73482559ec38e3cefe7ed6300b65e7e7",
-    "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
-    "summary": "1. はじめに\nこの記事では、re:Invent 2025 でプレビュー発表され、2026年3月にペネトレーションテスト機能が GA となった AWS Security Agent を、意図的に脆弱な FastAPI アプリに対して動作させ、設計レビュー・コードレビュー・ペネトレーションテストの3機能で 何が起きるのか どんな結果が得られるのか を、画面と検出結果ベースで紹介します。\n!\n実際に手...",
-    "link": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-02T13:28:46",
     "ai_summary_done": false
   }
 ]
