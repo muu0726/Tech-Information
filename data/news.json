@@ -1,5 +1,165 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3f02f45c3c491fb30994e9705109b25b",
+    "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
+    "summary": "はじめに\nClaude Codeを使い始めて数ヶ月、便利だなと思いつつも「同じ指示を何度も書いてないか？」「無駄な前置きを毎回読まされてないか？」と感じる場面が増えてきました。\nAIに作業を任せるのは便利ですが、AIを使うこと自体に発生するタイムロスに目を向けると、まだまだ効率化の余地があると気づきました。\nこの記事では、Claude Codeを触り始めたエンジニア向けに、私が実際にやってみて効果...",
+    "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-08T12:38:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ff457ae75144c4590326d42a82a038be",
+    "title": "AI時代こそ、エンジニアは「師匠」が要る",
+    "summary": "!\n\n 三行まとめ\n\nAIは「手がかり」を大量に渡すが、本質への跳躍は肩代わりしない。だからAI時代こそ、跳躍を見せてくれる師匠が要る。\n伝統芸能の徒弟制と同じ構造で、「同期的・長時間・思考開示型」のフォーマットでしか会得できない遠隔項を誰とどう持つかが重要である。\nAI時代の現場でそれを実装する一つの形がペアプロ・モブプロ。隣で学ぶ場を持つこと、いまできる動きの一つだと考える。\n\n\n!\n\n まえ...",
+    "link": "https://zenn.dev/acntechjp/articles/2e8d38ad383dd3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-08T10:19:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "08689b174716593ce15adbb9c95be1f2",
+    "title": "あなたの Claude Code、実は前回のセッションを完全に忘れている (5 分で永続記憶を入れる)",
+    "summary": "こんな経験ありませんか?\n月曜の朝、 Claude Code を立ち上げる。\n\n「先週直したあのバグ、 どう直したか覚えてる?」\n\nClaude: すみません、 過去のセッションの内容にはアクセスできません。\n        どのような問題だったか、 もう一度教えていただけますか?\n…またこれだ。 先週も先々週も同じ説明をした。\n私は Claude Code を毎日使っている。 そして毎日、 同じ...",
+    "link": "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-08T00:38:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "46ce47aa573c42a653bf9e69124d8aaa",
+    "title": "要求を仕様に落とすテンプレートを作ってみた",
+    "summary": "はじめに：AI時代にこそ「要件定義」が最重要スキルになる\n最近は生成AIの進化により、コードを書くこと自体のハードルは劇的に下がりました。「どう実装するか（How）」の多くをAIが担ってくれるようになった今、ソフトウェア開発において人間の役割は明確にシフトしています。\nそれは、「何を作るべきか（What）」「なぜ作るのか（Why）」を正確に定義し、チームやAIに迷いなく伝えることです。曖昧な指示か...",
+    "link": "https://zenn.dev/channnnsm/articles/c3a6de22e71f86",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-06T12:54:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "28db9a003ecff15f193cd3f4db9473e2",
+    "title": "Git初心者の頃わからなかった「pullするな」の意味",
+    "summary": "はじめに\nAIを使ったバイブコーディングが普及してきた影響か、最近「コードは書けるけどGitはよくわからない」という人が増えてきた気がします。\nAIがコードを生成してくれる時代になっても、Gitの操作は自分でやることが多いです。\nそしてGitの概念を理解していないと、ある...",
+    "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T04:16:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8b090471754f87aec212a663ccd1e6ce",
+    "title": "国民が普通に家庭を持てる経済をどう取り戻すか？ ― 少子化・人手不足・移民政策を構造から考える : Pythonで学ぶ マクロ経済学入門 (79)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第79回を始めましょう。まず\n「人口減少と \"置き換え\" をどう防ぐか―所得・子育て・移民政策の構造を読み解く : Pythonで学ぶ マクロ経済学入門 (78)」 \nhttps://qiita.com/maskot19...",
+    "link": "https://qiita.com/maskot1977/items/35ee569ca3c847fecdd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T06:57:53",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2e1754f92b6440910453c0301184fd55",
+    "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
+    "summary": "はじめに\nクオンツトレードというと、多くの人は「AIや統計モデルで価格を予測すること」をイメージするかもしれません。\nもちろん、予測モデルはクオンツトレードの重要な要素です。\nしかし、クオンツトレーダーにとって最初に重要なのは、未来の価格を正確に当てることではありません。...",
+    "link": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T01:12:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f42dcc41e26abe76fc709fd88f1735d8",
+    "title": "絵が描けない人が気合で３Dモデルを作る方法",
+    "summary": "Gemini Nanobanana を使おう！！！\n\nこのテンプレを使おう！\n\nこの画像を送ると仕様を統一したキャラクターデザインができるよ！！\n\nプロンプトの例\nキャラデザを行いたい。３Dモデルは自作する。そのための三面図にあったキャラデザを作ってほしい。\n幽霊。西洋...",
+    "link": "https://qiita.com/Rin5/items/99fbf5587fb9bd2f4a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T11:18:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86dfb7d474bec6ccc3801d76d5cb321d",
+    "title": "2026/05/09 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n【徹底解説】セキュリティスペシャリストが教える...",
+    "link": "https://qiita.com/ennagara128/items/45b8df4dd526c2273053?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T00:22:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "078edb4973a9e95f26f44af7489645be",
+    "title": "OpenAI gpt-realtime-translate で同時通訳ツールを実装した：踏んだ 4 つの罠",
+    "summary": "はじめに\nOpenAI が 2026 年に公開した gpt-realtime-translate は、Speech-to-Speech 翻訳に特化した Realtime モデルです。通常の gpt-realtime 系（-mini / -1.5 / -2）と同じ Real...",
+    "link": "https://qiita.com/shinonome_taku/items/aca0aecdea09b2304757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T23:38:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d8febd7ed1a9efb4fdd2a85e851162f3",
+    "title": "LangflowでLangfuse(self-host)を使ってLLMOps試す・前編",
+    "summary": "はじめに\nLangfuse（ラングフューズ）は、LLM（大規模言語モデル）を活用したアプリケーションの開発、デバッグ、運用・監視を一元的に行うオープンソースの「LLMOps（LLMオペレーション）プラットフォーム」です。プロンプト管理や応答の分析、コスト監視などを提供し、...",
+    "link": "https://qiita.com/mizuk1013/items/7f555a2e8f79f15db813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T00:08:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7a1a02e7f617214aa4b42a3fe2d38809",
+    "title": "Claude Code 固有機能の使い分け — Skills / Subagents / Hooks / Auto Mode を公式準拠で解説",
+    "summary": "筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。\n👉 ポートフォリオ: 筆者ホームページ\n\nこの記事は約4分で読めます。\n\nCla...",
+    "link": "https://qiita.com/teppei19980914/items/95b9bf08087bef026855?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-08T11:04:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e6ce342e3c0b27ee66bbff84379b99df",
+    "title": "Agent Toolkit for AWS が GA されたので VS Code GitHub Copilot から触ってみた",
+    "summary": "はじめに\nGitHub Copilot や Claude Code といった AI コーディングエージェントから AWS を操作したいとき、これまでは個別の MCP サーバを立てたり、awslabs 配下のツール群を組み合わせたりして利用していました。とはいえ「どの権限...",
+    "link": "https://qiita.com/leomarokun/items/f418418d377c70b46055?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-09T09:35:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fc40713668fecb9ae96c2188ff5951a8",
+    "title": "ソニーセミコンとTSMC、次世代イメージセンサーで提携　フィジカルAI分野に照準",
+    "summary": "ソニーはTSMCと次世代イメージセンサーの開発・製造に関する合弁会社設立に向け基本合意した。熊本県に拠点を置き、車載やロボティクスなどのフィジカルAI分野を強化する。一方で、ホームAV事業をTCLとの合弁会社へ承継し、テレビの自社製造から事実上撤退しており、成長分野へ経営資源を集中させる構造改革を加速させる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/09/news027.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-08T22:02:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -837,166 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-05-05T06:06:51",
-    "ai_summary_done": false
-  },
-  {
-    "id": "eb6ec975a83a5b4b38f0d58879f23e92",
-    "title": "[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ",
-    "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n1. 問題提起：なぜコードはきれいなのにUIが遅いのか？\n2. 「State Boundaries」 – stateの影響範囲を意識...",
-    "link": "https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-05T09:00:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8605cd8c7d1a1d05cf9a013727fdfbf7",
-    "title": "最近沢山の技術書を読んだので、読書感想文を書いてみた。",
-    "summary": "はじめに\n今年に入って、沢山技術書を読んだので\n読書感想文を書きたい想いが芽生えたので\nこの記事を書こうと思いました。\n\n読もうと思ったキッカケ\n転職活動の際、ある会社の技術面接を受けた時に\n「面接の所感として、あなたは基礎的なスキルがない。」\nという手厳しいフィードバッ...",
-    "link": "https://qiita.com/skill_toy/items/7fcf33141ecedf95a37a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-04T14:02:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b775763e1759d63e692f3029e39457b5",
-    "title": "人口減少と \"置き換え\" をどう防ぐか―所得・子育て・移民政策の構造を読み解く : Pythonで学ぶ マクロ経済学入門 (78)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第78回を始めましょう。まず\n「人口政策と少子化・貧困・年金・医療をつなぐ経済構造 : Pythonで学ぶ マクロ経済学入門 (77)」 \nhttps://qiita.com/maskot1977/items/b805a...",
-    "link": "https://qiita.com/maskot1977/items/f693fc76db8406b5ac6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-05T15:08:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fa9cb18a98bacfb2e5018f97d53f2203",
-    "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
-    "summary": "はじめに\n今回はAWSにて最近プレビューリリースされたAmazon Bedrock Agentcore Harnessを使って\n簡単にAWS上にAIエージェントを構築したいと思います。\n*現時点ではプレビューリリースのため、バージニアリージョン等の一部のリージョンでのみ利...",
-    "link": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-05T08:01:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "606e1b103f5c47eecc50ac307ee01eaa",
-    "title": "Power BIでベン図を作る方法と、それにより見える世界",
-    "summary": "はじめに\n複数のツールが導入されているとして、各ツールの担当者は一体何をみているでしょうか。\nもし、自分が担当しているツールだけを見ているなら、もう少し視野を広げてみたい。\n今回は、Power BIのベン図で実現する方法をご紹介します。\n\n使用しているデータは全てAIで作...",
-    "link": "https://qiita.com/kama_bizdev/items/5fbde2c87837a1cc70ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-05T05:43:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c3a8f7df2cc8236e67ede74b9ec97bf5",
-    "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
-    "summary": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-04T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "888febc61f1156ab7e9823a2cfd26c56",
-    "title": "OpenAI、AWSでの製品提供を開始へ　Microsoftとの独占契約改定で",
-    "summary": "OpenAIとAWSは提携を大幅に拡大し、OpenAI製品をAWS上で提供開始すると発表した。Microsoftとの独占契約改定を受け、特定のインフラに縛られないマルチクラウド戦略を推進する。AWSの顧客はAmazon Bedrockを通じてOpenAIの最新モデルを自社環境で利用でき、既存のガバナンスを維持したまま他社モデルとの比較や運用が可能になる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/29/news029.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-29T02:13:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "37df42333f55cf90f2a650e896349ee9",
-    "title": "Anthropic、Blender開発基金に参加　Claude連携コネクタで3D制作のAI化を促進",
-    "summary": "Anthropicは、Claudeとクリエイティブアプリを連携させるコネクタ群をリリースした。あわせて3D制作ツール「Blender」の開発基金に最高位の支援者として参加。MCPベースのBlender用コネクタにより、Claude内で自然言語でのBlender操作が可能になる。AdobeやAutodesk製品への対応も進め、制作現場のAI活用を支援する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/29/news028.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-29T00:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "61effb4f068573211c55a508eea90a24",
-    "title": "AIに丸投げ……で失敗　漫画「1週間後に生成AIで恥をかく新入社員」【残り1日】",
-    "summary": "とある企業に入社した新入社員「ニイジマ」が、AI活用の“地雷”を踏みまくっていく様子を通して、会社におけるAIの使い方、その初歩を紹介します。",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/10/news006.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-04-28T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8142899d7e5e02c611210aa669f413ef",
-    "title": "あなたのClaude CodeのWebFetch、実はWebをちゃんと読んでいない",
-    "summary": "結論\nClaude Code はWebFetchツールを使う多くの場合、実はWebページの原文を読んでいません。先にHaikuが読んで要約・抽出した結果だけを、あなたのOpusやSonnetが読んで実装を進めています。そして、それは非常に気づきにくい構造となっています。\n!\nこの記事はClaude Codeに内蔵されているWebFetchツールの挙動についてです。以下とは異なります。\n\n\nClau...",
-    "link": "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-04T10:39:09",
     "ai_summary_done": false
   }
 ]
