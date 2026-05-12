@@ -1,5 +1,195 @@
 [
   {
+    "id": "88dfb095f483f772db776af07d176b77",
+    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
+    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-14T19:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d263c90044260a49a11c17840d4620f4",
+    "title": "AI駆動PMの5原則と12の具体例 — Claude Code × Obsidian",
+    "summary": "はじめに\nPM業務をAIエージェントで効率化する事例は近頃よく見るようになりました。私もClaude CodeがリリースされてからPM業務もAIで管理しはじめ、現在は10ヶ月ほど経過し陥りがちな問題や守るべき原則などが見えてきたため、ここで紹介させていただきます。\n本記事では業務をAIエージェントで回すために重要と考えている5つの原則と、それを実践した12の具体例を紹介します。\n具体例としては、コ...",
+    "link": "https://zenn.dev/assign/articles/4ba3d41bf59a61",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-11T01:35:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7b86d41c5a9f0f98e99d47ddadba1fec",
+    "title": "LLM に日本の法令・法規を正しく引かせるために、日本の法規 MCP ファミリーを作った話",
+    "summary": "LLM に 日本の法令（憲法・法律・政令・省令・規則）はもちろん、条例や通達まで 、一次情報として正確に引かせるための MCP サーバ群を GW で作りました。\n成果物は次の 4 つです（すべて公開済み）。\n\n\n\nパッケージ\n役割\n種別\n\n\n\n\n@shuji-bonji/houki-egov-mcp\n日本の法令（憲法・法律・政令・省令・規則）を e-Gov 法令 API v2 経由で取得する MC...",
+    "link": "https://zenn.dev/shuji_bonji/articles/ad1ec6c65ac45a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-10T21:29:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7796905228e4d52f7c1bc7560f3b9faf",
+    "title": "業務で本当に使えるClaude MCPサーバー厳選10選",
+    "summary": "はじめに\nマーケはClaudeをNotionに、開発はGitHub Copilotを社内DBに、営業は別のAIをSalesforceに ― 気づけば部門ごとにAI×SaaS連携が独立して乱立し、情シスが全体像を把握できないシャドーIT化が進んでいないでしょうか。認証情報は分散、利用ログは断絶、AI活用ナレッジは属人化。AIを「使わせる」フェーズは終わり、「統制しながら最大化する」フェーズに入ってい...",
+    "link": "https://zenn.dev/nocodesolutions/articles/6df07230149e08",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-10T13:17:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "330661be13ee532553f0000858e60111",
+    "title": "AIが分析してくれる時代に、なぜデータサイエンスを学ぶ必要があるのか",
+    "summary": "AIにデータを渡せば、レポートを作ってくれる。\nチャートも作ってくれる。\nダッシュボードも作ってくれる。\nさらに、「このデータから何が言えるのか」「次にどんなアクションを取るべきか」といったインサイトまで返してくれる。\n\nそんな時代に、データサイエンスや統計学を学ぶ必要はあ...",
+    "link": "https://qiita.com/KanNishida/items/83e8052a47f15de89100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-11T19:38:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e5a16e8ec8be5e5bd928b37d484c27b8",
+    "title": "PM Summit2026参加レポ",
+    "summary": "先日開催されたProject Management Summit 2026に参加してきました。 生成AIが当たり前になった今プロダクトをどう進化させるべきnなのか。特にサイト内検索とピボットの意思決定に関する2つのセッションがエンジニアとして刺さる内容だったので自分なりの感...",
+    "link": "https://qiita.com/_anonymous_dog_/items/32bc8cafbe80f6ec300e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T01:53:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "108e81ce629a032257d1f3bd981306a1",
+    "title": "[Frontend Performance - Part 14] キャッシュ戦略：ブラウザキャッシュとService Workerを活用する",
+    "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：なぜリロードのたびに全てを再読み込みするのか？\n1. ブラウザキャッシュの全体像\n2. HTTPキャッシュ – 最も簡...",
+    "link": "https://qiita.com/tuanphan/items/665f68d3971734c5e6df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T03:54:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0c357efad0b02081a5dccc93d075533c",
+    "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
+    "summary": "ChatGPT Plusが0円になってた——そこで初めてCodexを触った話\n先日、ChatGPTの画面を開いたら「Plus: 0円/月」という表示が出ていた。\n最初は「あ、また広告っぽいやつか」と思ってスルーしかけたんですが、よく見たら本当にゼロ円と書いてある。試しに...",
+    "link": "https://qiita.com/nhatcaofedev/items/1b5b5016b5a74fe27fe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T07:12:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aa0daf7f10a62bebe900b6ff8ce9eef7",
+    "title": "【Java】Project Reactorを勉強したのでまとめてみた",
+    "summary": "はじめに \nProject ReactorはJavaでリアクティブプログラミングを実現するためのライブラリです。\nWebフレームワークのSpring WebFluxでも利用されており、Javaでリアクティブシステムを構築するための重要なライブラリです。\n一方で、これまでP...",
+    "link": "https://qiita.com/ebichan_88/items/8111f9b4551152dc0439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-11T16:52:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "78c2e3c5c5dba9cbbb4de45b39820b84",
+    "title": "【2026年3月リリース】Google公式CLI「gws」をClaude Codeに連携してGoogle Workspaceを自動操作する",
+    "summary": "2026年3月、Google DevRelから Google Workspace 公式CLI gws がリリースされました（googleworkspace/cli）。Drive・Sheets・Gmail・Calendar・Docs・Meet など27サービスを ターミナルか...",
+    "link": "https://qiita.com/TMiyamoto/items/fb8bcc7caf6e41178167?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T00:54:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b1f609f0fd678de5a745f874938de501",
+    "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
+    "summary": "はじめに\n新入社員が入ってきて、今年も研修やOJTが始まっている頃でしょうか。\nそんな中で、なかなか成長できない、成長してくれない。そんなことを悩んでいる方も多いかと思います。\n本記事では、エンジニアがより成長するために必要な考え方について 「脳科学」 の側面から切り込ん...",
+    "link": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T11:10:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "05205b26488570bfb39319415d28a3d9",
+    "title": "サクラエディタのGREPが遅くて、AIと自作したら chardet に何度もハマった話",
+    "summary": "はじめに\nGMOコネクトの星です。\n大規模なJavaプロジェクトの横断調査で、エディタ標準のGREP機能が重くて作業が止まる、という状況に陥っていました。「ちょっと文字列の出現箇所を確認したい」だけなのに数十秒待たされ、しかも条件を変えてやり直す、というのを1日に何度もや...",
+    "link": "https://qiita.com/hoshi-gmoconnect/items/387ce2e9b1b4c87adc41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T02:48:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7f151e8c73d7467e73d48629696dea9c",
+    "title": "AIとの設計レビューを資産にする — 移行設計書の「4つの連動箇所」チェックとMarkdown永続化ワークフロー",
+    "summary": "はじめに\nLLM とペアで設計書レビューを回すようになって、生産性が劇的に上がった一方で、こんな\"あるある\"に何度もぶつかりました。\n\n「あの重要な指摘、確か3時間前のチャットに書いてあったんだけど…どこだっけ？」\n「LLMに再質問したら、要約版しか返ってこない。元の鋭い...",
+    "link": "https://qiita.com/kane_ryu/items/c463c0cfb2e0f598f800?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T02:29:55",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c4452b112c739752eb8d5d183c7dbecc",
+    "title": "マイグレーションの『バグ密度』は何%でアウトか？IPA白書との比較とAI想定問答の活用",
+    "summary": "はじめに\n顧客への進捗報告の前日、こんな数字が手元にあったとします。\n\nコンポーネント\nテストケース数\n摘出不具合数\nバグ密度\n\n画面・API層\n800件\n38件\n4.8%\n\nビジネスロジック層\n600件\n14件\n2.3%\n\n外部連携・非同期処理層\n60件\n...",
+    "link": "https://qiita.com/sh-ohtani/items/95f07f9a9e440b9099c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T02:38:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b04207db41a29938999d07c066611346",
+    "title": "Javaの複雑な処理フローを1発で抽出する！設計書生成プロンプトに必ず入れるべき4つの指示",
+    "summary": "はじめに\n既存のJavaコードから設計書を起こしたくて、AIに「このメソッドの仕様をまとめて」と投げてみたことがあります。帰ってくる出力は正確ではあるのですが、なんとなく物足りない。具体的なコード値が出てこない、例外スローはあるのにメッセージコードが書かれていない、条件分...",
+    "link": "https://qiita.com/inaba-yoshiko/items/96a8fa217a56e187bb67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-12T02:55:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ac481558c7b3a902cf1e308cb723036f",
+    "title": "KDDI、子会社の不適切取引受けガバナンス体制を刷新　CFO直轄の本部新設やAI活用も",
+    "summary": "",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news136.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-12T09:40:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b2444d3066ec28263e91d70e88e5366e",
+    "title": "Z世代の新入社員、研修の切り札はAI　パソコン相手に接客特訓、システム開発　リスクは",
+    "summary": "生成AIの普及が進む中、新入社員の研修にAIを活用する企業が目立っている。アバター（分身）を相手に接客の練習をしたり、AIを使ったシステム開発を体験したりといったもので、導入企業は効率的・実践的な研修ができることなどをメリットとして挙げる。一方で企業はAIには誤回答などのリスクもあるとし、情報リテラシー（活用能力）教育にも力を入れる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news111.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-12T05:57:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86c774ed374ba4b85c80cf54eaede1c4",
+    "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
+    "summary": "AIが指示された目標を達成するために不適切な手段を選択する事象について、Anthropicが発生要因と事象を抑制するための新たな訓練手法を公開した。AIがエンジニアを脅迫してシステムの停止を回避するなどといった問題行動に対し「なぜその行動が正しいのか」という倫理的な理由を教えることで発生率を低減させた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-11T12:40:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "b02cf407941b46f7ff4d3bbd5527fae3",
     "title": "Talk like a graph: Encoding graphs for large language models",
     "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
@@ -807,196 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-05-06T15:51:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c0c8d060e1b6890cc74ac5a67ee5c1eb",
-    "title": "Apple、390億円の和解金支払いで合意　AI機能の開発遅れに関する集団訴訟で",
-    "summary": "音声アシスタント「Siri」のAI機能の誇大広告を巡る集団訴訟について、米Appleが2億5000万ドル（約390億円）の支払いで合意する和解案を米国の裁判所へ提出した。2024年に発表したAIプラットフォーム「Apple Intelligence」の開発遅れに関するもので、同社は今後、和解の対象となる米国の消費者に対して端末1台につき基本25ドルを支払うとしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-08T08:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88fa6800f4117993ea785632361fa842",
-    "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿　捏造画像通し「危険なツール」と警告",
-    "summary": "イタリアのメローニ首相が、AIの合成で作られたとみられる自身の下着姿の写真を、自らのSNSで公開し、虚偽画像が捏造される危険性について警告した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-08T05:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7bdfb2944bef4bd143432008eb77c446",
-    "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
-    "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-08T01:55:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ba18702b42b8243027e450bce7ad3208",
-    "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場　自殺リスク検知で通知",
-    "summary": "OpenAIは、「ChatGPT」にメンタルヘルスの懸念が生じた際に信頼できる人物へ通知する安全機能「Trusted Contact」を追加した。18歳以上の個人ユーザーが対象で、AIと人間が深刻なリスクを検知した場合にのみユーザーが指定した連絡先へ安否確認を促す。会話の詳細は非公開で、現実のサポートへの橋渡しを目的とする。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-07T23:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "44ad7616130db15e62e2894ca84e46cf",
-    "title": "「脳内のゴミ掃除機能」壊す新たな一因を特定　抗体で狙い撃ち→マウスのアルツハイマー症状が改善",
-    "summary": "広州医科大学などに所属する研究者らが発表した論文「A brain-persistent DDR2-degrading antibody reverses Alzheimer’s pathologies by restoring brain fluid dynamics and metabolic clearance」は、アルツハイマー病に伴い脳の老廃物排出システムの崩壊を引き起こす原因タンパク質を...",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news020.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-07T23:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8f3d8cff26bcfb36ff4741cce0ecb976",
-    "title": "脳のオン/オフ切り替えは鍛えられる──イメトレで実際の運動能力向上に成功、慶應大がPNASで発表",
-    "summary": "慶應義塾大学に所属する研究者らがPNASで発表した論文「Brain-computer interface-based neurofeedback training enables transferable control of cortical state switching in humans」は、ブレイン・コンピュータ・インタフェース（BCI）を活用し、イメージトレーニング（イメトレ）中の脳状...",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news018.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-07T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b54afe11505f9fc9f92089f929c4eee",
-    "title": "Using AI to expand global access to reliable flood forecasts",
-    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
-    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
-    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
-    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d4dce26d9d3ef34b64c5d079ea34fba3",
-    "title": "ローカルワークスペースのMarkdownファイルをブラウザで閲覧・編集できる軽量Webアプリを作った",
-    "summary": "ローカルのMarkdownメモやコードファイルを、ブラウザから閲覧・編集できる軽量なWebアプリを作りました。名前は「workspace-web-editor」です（そのまま）。\nhttps://github.com/karaage0703/workspace-web-editor\n特徴をひとことで言うと、Obsidianのような Wiki-link / Backlinks / Quick Swi...",
-    "link": "https://zenn.dev/karaage0703/articles/78056e4d3e07a2",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-06T14:59:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d6fe502d97dd24e924a839c77be65ead",
-    "title": "AI駆動開発時代に、おさえておきたいQA技法",
-    "summary": "はじめに\nAIを使って実装することが、かなり当たり前になってきました。\n画面実装、API実装、リファクタリング、テストコードの追加まで、以前よりずっと速く進められるようになっています。少し前ならそれなりに時間がかかっていた作業も、AIを使えば短時間である程度形になります。\n一方で、AI駆動開発には別の難しさもあります。\nそれは、実装スピードが上がることと、品質を安定して守れることは別だということで...",
-    "link": "https://zenn.dev/frontline/articles/3a912df20d9210",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-05T23:44:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "08cefeb13a12b4cc80a148060548f6fd",
-    "title": "「Claude Codeに全部やらせる時代が来た」のか検証してみた",
-    "summary": "はじめに\nこんにちは。セキュリティエンジニアの@okazu_dmです。\nこの記事は、最近リリースされたLLMベースのセキュリティスキャンツールとしてclaude-security-scan を使ってみた所感の記事です。\n\n先週、以下の記事を見つけました。\n\n検出率100%という結果が紹介されており、Claude Codeに全部やらせる時代が来た、というタイトルから「楽な時代が来たな」と思ったのです...",
-    "link": "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-05T23:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b0f5a2aae313f0d2fd751630a1c238c0",
-    "title": "[Frontend Performance - Part 13] 初期ロード最適化：Code SplittingとLazy Loading設計",
-    "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n📚 目次\n\n0. はじめに：なぜすべてのJavaScriptを同時に読み込む必要があるのか？\n1. Code Splittingとは？3つの主要戦...",
-    "link": "https://qiita.com/tuanphan/items/fb0e061b31545cb3c0c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-07T03:07:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2b043e396bfa506b3e477d5c8070a40d",
-    "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
-    "summary": "こんにちは。\nソーイ株式会社、入社２年目の村上です。\nAIをアプリに組み込もうとすると、APIやクラウドサービス（AWSなど）を経由するケースが多く、継続的に利用する場合はコストが気になるところです。\nそこで今回は、以前から気になっていた Tauri と、ローカルでLLMを...",
-    "link": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-07T03:01:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "baf4a2b07fb3b70d70fa28ecaac547aa",
-    "title": "最小努力と最短時間でAI-901受験記",
-    "summary": "ベータ版の試験を受けました\n今回は新しい試験「AI-901 Microsoft Azure AI の基礎」を受験しました。これから受験される方の何かしらの参考になればうれしいです。\n\nベータ版なのでまだ正式展開前のおためし試験になります。今後、設問や内容が変わる場合が...",
-    "link": "https://qiita.com/ponponmikankan/items/15af1660f2c661761eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-07T02:29:26",
     "ai_summary_done": false
   }
 ]
