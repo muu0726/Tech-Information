@@ -1,5 +1,235 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c9b0ccfbd84126428d7b6e5cb0b8160f",
+    "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
+    "summary": "こんにちは\nAIチームの戸田です\n最近のLocal LLM の進化はかなり目を引きます。\nフロンティアモデルを見ると、2026年4月にリリースされたClaude Opus 4.7はSWE-bench Verifiedで 87.6% という水準まで到達しました。\nhttps://www.anthropic.com/news/claude-opus-4-7\nGPT-5 系や Gemini 3.1 Pr...",
+    "link": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-20T00:26:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2de09b3cf8a45bbb78ba696c4fe54899",
+    "title": "Gemma 4 E4Bをローカルで量子化してみた",
+    "summary": "!\nこの記事はClaude Codeと一緒に、自分の学習のためにLLMの量子化を一通り体験してみた記録です。Claude Codeに手順を聞きながら、自分のターミナルで実際に動かして試しています。\n本文もClaude Codeで整えています。その点はご了承ください。\n\n\n はじめに\n最近LocalLLMを自分のPCで動かしてみたり、メモリ512GBのMac Studioを触る機会があったりして、ロ...",
+    "link": "https://zenn.dev/monjofight/articles/4a2b3393581229",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-19T16:37:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d92c75e2f57d9230ac0ab8f9b7818ebb",
+    "title": "🪽Hermes Agent × LINE で体験する「自律型AI」入門 in 会津若松🪽",
+    "summary": "Hermes AgentとLINE Bot",
+    "link": "https://zenn.dev/n0bisuke/books/hermes-agent-linebot",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-19T15:11:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c3f85f203d5c539d504f7dd7c2144e34",
+    "title": "Claude Codeに永続記憶させるライブラリを自作した話",
+    "summary": "はじめに\nClaude Code を使っていて「セッションをまたぐと、こいつ何も覚えてないな……」と感じたことはありませんか。私はあったんです、何度も。\n実は Claude Code には標準の auto memory 機能が 2026年2月（v2.1.59）からあって、私もそれは使っています。ただ、ドキュメントを読んだり実際に触ってみたりした感じだと、auto memory は LLM が「保存...",
+    "link": "https://zenn.dev/sonicgarden/articles/46e9dde3d6a8d2",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-19T15:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cf793c275a827bf2c490c25bdeaee793",
+    "title": "AIでコードが増えていくこの時代に、メンテナンスコスト削減にもAIを",
+    "summary": "AIにIssueを渡してPRを作らせたり、夜中に作業を進めてもらったりすることが当たり前になり、実装速度が上がっている実感はかなりあります。\n一方で、実装速度が上がるほど気になることは、このままのペースで増やしたコードを、来年も同じように直せるんだろうか？という点です。\nAIコーディングの話では「どれだけ速く作れたか」が目立ちます。\nでも、その裏側にあるメンテナンスコストの存在は忘れられがちです。...",
+    "link": "https://zenn.dev/r_kaga/articles/00f4bef5a8ac70",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-19T07:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e57f3d9f93fcb7098599237e647f123b",
+    "title": "AIハーネスの心臓部 ── AIのAIによるAIのためのナレッジグラフ（連載Part 2）",
+    "summary": "!\nEnglish Version is here\n\nみなさまこんにちは！エアークローゼットでCTOをしている辻です。\n!\n注記: 本記事で言及する「cortex」および「cortex-product-graph」は、airCloset社内で独自開発したAIプラットフォームの内部コードネームです。Snowflake CortexやPalo Alto Networks Cortex等の既存商用サービ...",
+    "link": "https://zenn.dev/aircloset/articles/f6c990989e60d4",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-19T00:19:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b319ebf5bd3928a67bb5dba178b65715",
+    "title": "Gemeniが提案した脆弱なペッパー実装に対するPoCをClaude Codeで作成・検証した",
+    "summary": "サマリ\nGeminiとの会話の際に、パスワード保護に用いるpepperの実装にヌルバイトに起因する重大な脆弱性が混入した。この脆弱性に対するPoCをClaude Codeを用いて作成して検証したところ、攻撃の実効性が確認され、登録ユーザーの1/256が容易に不正ログインさ...",
+    "link": "https://qiita.com/ockeghem/items/804a69dcd3c6930b7676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T02:27:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a4479ee64135a7c89857ecc51c124820",
+    "title": "Gemini Omniを使ってみた【Gemini 3.5 Flash】",
+    "summary": "プロンプト\n動画の女性をロングヘアにして。無音の動画にすること\n\n元動画",
+    "link": "https://qiita.com/mikaka/items/4e900383576636d63968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T05:44:24",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d73dc0303cbc9601213cdf099db76289",
+    "title": "これからエンジニアを目指すAIネイティブ世代のAIとの付き合い方",
+    "summary": "2026年現在、ClaudeやGitHub Copilot、Cursorといった生成AIを活用した「バイブコーディング（自然言語で指示を出して高速に開発する手法）」は、完全に開発のスタンダードになりました。\nこれからエンジニアを目指す皆さんは、最初からAIが隣にいる 「AI...",
+    "link": "https://qiita.com/kobori_slj/items/77f49f4aa76767b6f839?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-19T14:10:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c7a311cdcf602883b39dfb408a6c6923",
+    "title": "大規模レガシーコードの「多段条件分岐フラグ」を読み解く：初期値・蓄積・強制上書きの3段階で捉える調査手法",
+    "summary": "はじめに\n大規模なJavaレガシーシステムを保守していると、「コードを読んでもなぜその値になるのかわからない」という状況によく遭遇します。\nロジックを追って「ここで1にしているはずなのに、なぜDBには0が入っているんだ？」と首をかしげた経験がある方も多いのではないでしょう...",
+    "link": "https://qiita.com/kono-t/items/4fd08f37fe61c1feaea2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-19T02:40:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4a15ed8bfb634c3eb0acf3e91e32a024",
+    "title": "Google I/O 2026 初日に出てきたAndroid開発関連の情報まとめ",
+    "summary": "AI 関連以外の Google I/O 2026 初日に出てきたAndroid関連の情報をかいつまみつつざっとまとめてます。\nhttps://io.google/2026/ にセッションのスケジュールがいくつか記載されていますが、スケジュールに記載がない事前録画のセッション...",
+    "link": "https://qiita.com/Nabe1216/items/109d5a2feb173ae2045b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T05:07:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "01fec49d321fcf6846f515db628c13eb",
+    "title": "npmサプライチェーン攻撃対策",
+    "summary": "開発環境\n\nMacBook Air M1, 2020\nnvm 0.40.4\nNode.js v22.22.0\nnpm 11.14.1\n\nnpm のバージョン確認\n$ npm -v\n10.9.4\n\nnpm のバージョンを11に上げる\n$ npm install -g n...",
+    "link": "https://qiita.com/SatoshiGachiFujimoto/items/48b179ac4495976d7555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T02:08:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e7099ac5f256ed73587dd433f070ead",
+    "title": "AIに「いい感じに直して」と頼むのをやめて、GitHub Issueを作業の正本にした",
+    "summary": "AIに「いい感じに直して」と頼むのをやめて、GitHub Issueを作業の正本にした\n\nこの記事は、自分の個人開発の中で気づいたことを、AIに整理してもらいながら書いています。この記事では、実体験、仮説、未検証の構成案を分けて残します。実体験としてあるのは「AIに実装...",
+    "link": "https://qiita.com/Kota_Su/items/dca6ba00d571af01a04d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-19T06:33:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3fa0369f58f11916bf826bfa1a0141d3",
+    "title": "相続税は本当に格差是正になるのか？― 資産循環・成長・中間層をシミュレーションで考える : Pythonで学ぶ マクロ経済学入門 (82)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第82回を始めましょう。まず\n「“税は財源”ではないなら、なぜ税金は必要なのか？ ― 富裕層課税とインフレの本当の関係 : Pythonで学ぶ マクロ経済学入門 (81)」 \nhttps://qiita.com/mask...",
+    "link": "https://qiita.com/maskot1977/items/d95b55e78e1258dabdd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T15:02:03",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8ce2c72566e2c9015be8d24e0ff16525",
+    "title": "脳科学から見る、AIが効率化してもあなたが休まらない理由",
+    "summary": "現代に蔓延する新しい病\n「AIを活用して作業が圧倒的に早くなったはずなのに、なぜか一日が終わると以前よりぐったり疲れている……」\n「リモートワークで移動時間が減り、複数のプロジェクトを並列で回せるようになったけれど、最近どうしても集中力が続かない……」\n現代のビジネスパー...",
+    "link": "https://qiita.com/kt19934645/items/60d5a05f87dadae60e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T02:03:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "04d82becee9693b045546d1415414b7c",
+    "title": "生成AIにGeoGuessrをやらせたらどうなるのか試してみた",
+    "summary": "はじめに\n最近、子供がGeoGusserにハマっています。\n\n生成AIにGeoGuessrをやらせたら、どれぐらい当てられるんだろう？\n\nと思ったので試してみることにしました。\n\nGeoGuessr\nGeoGuessrはストリートビュー画像を見て場所を推測するゲームです。...",
+    "link": "https://qiita.com/kage-no-kage/items/2539ada514ba413bcfa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T02:14:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e0ff11df2d326d2f320e13147acb47f8",
+    "title": "【Javaの良いコード・悪いコード #1】命名で寿命の長いコードを書く3原則",
+    "summary": "はじめに\n株式会社Good Labでエンジニアをしている コータロー です。\n日々、Java・SQL・Gitなどの技術情報や、新人エンジニア向けの学習ノウハウ、\nAI活用についての情報を発信しています。\nGood Labについて気になった方は、コーポレートサイトもぜひご覧...",
+    "link": "https://qiita.com/kotaro_ai_lab/items/837d8376e681e34adbcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-19T22:38:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8504a56416aff3befdc51f6901ec7a81",
+    "title": "薬剤師からIT業界へ。医療DXとAI活用を学びながら発信を始めます",
+    "summary": "薬剤師からIT業界へ。医療DXとAI活用を学びながら発信を始めます\n\nこの記事は、自分の経歴やこれから発信したいことを、AIに整理してもらいながら書いています。自分が経験した範囲に限定して書いています。\n\nはじめまして、kotaです。\nもともとは薬剤師として働き、その...",
+    "link": "https://qiita.com/Kota_Su/items/7dd1527665e340eeb8f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-19T06:19:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2ebe94b2e6a61633fdcb6c7cc2019a94",
+    "title": "Gemini APIでビジネスメールの敬語を添削するWebアプリをAWSで作った",
+    "summary": "はじめに\n「させていただく」の多用、文末表現の混在、二重敬語……ビジネスメールの敬語は意外と難しいです。\n送信前に AI に確認してもらえれば安心できると思い、Gemini API を使ったビジネスメール添削 Web アプリを作りました。\nデモ: https://mail...",
+    "link": "https://qiita.com/kojiman/items/0af9680e5000e4be94b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T01:48:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "decc30444edfb9ddd582c905d247eba6",
+    "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
+    "summary": "米SpaceXAI（旧xAI）は5月19日（現地時間）、AIエージェント向けオープンソースプラットフォーム「OpenClaw」の連携を開始したと発表。SuperGrokまたはX Premium加入者なら、OpenClaw内でGrokを直接使用可能。WhatsAppやSlack、Discordなど複数のメッセージングアプリからの操作もできる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-20T08:45:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "82f7887201f7b1be15e44570fd59d0e7",
+    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
+    "summary": "Googleが「Google I/O 2026」で発表した「Universal Cart」は、検索、Gemini、YouTube、Gmailなどの同社サービスを横断して商品を一元管理できるショッピングカート。Geminiが価格変動の監視や在庫アラート、カート内商品の互換性チェックをバックグラウンドで実行し、Google Walletと連携して最適な決済方法も提案する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-20T05:41:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b711fce3928eb63faf13cb1dc82bead1",
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "summary": "Googleは開発者会議「Google I/O 2026」で、自律型AIエージェント「Gemini Spark」を発表した。従来の質問への回答にとどまらず、ユーザーの指示のもとで能動的に行動することが最大の特徴だ。クラウド上で24時間稼働し、Workspaceや外部ツールとのMCP連携で、複雑なワークフローを代行する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-19T22:15:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -767,236 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ebeca1340734e53ab2373bd6f0491736",
-    "title": "WindowsでもCodexのMobileからCodex Appに接続する方法",
-    "summary": "!\n必要条件\n・Windows\n・CodexAppとChatGPTモバイルアプリを最新版にする\n・ChatGPTのMFA（多要素認証）を有効化する\n\nChatGPTモバイルアプリのCodexから、Codex Appが操作できるようになりました。\nしかし、いつものことながら現時点（2026/5/15)では公式の説明ではCodex mobile remote accessのホスト要件は主にMac ho...",
-    "link": "https://zenn.dev/acntechjp/articles/4b2af76beb46b3",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T14:36:57",
-    "ai_summary_done": false
-  },
-  {
-    "id": "02656adcb42760d180631e0a76711469",
-    "title": "RAGナレッジベース作成を簡単にしたくてツールを作った",
-    "summary": "はじめに\nRAGを利用したチャットボットの作成にはもっぱらDifyを利用してました。単純なRAGならドキュメントを放り込んでボタン押すだけでつくれるしチャットフローでのナレッジ設定も簡単なのでコード書くよりよっぽど楽です。\n一方で最近だとClaude DesktopやCodex、Gemini CLIと対話する時間が増えてきたので彼ら向けのナレッジベースをクイックに用意したいんだけど調べてもニーズに...",
-    "link": "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T09:47:21",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8652534e80c6283135a1f989481c9a1e",
-    "title": "OpenMythosがローカル環境で動くか検証してみた",
-    "summary": "はじめに\nみなさんClaude Mythos（クロード ミュトス）をご存知でしょうか？Anthropic社が開発した「最強のAI」として噂されていますが、現在は限定的なプレビューにとどまっており、一般ユーザーは利用できません。そんな中、公開されている研究論文やアーキテクチャを元に、理論的に再現しようというプロジェクトが立ち上がりました。それが今回触ってみるOpenMythosです。気になったので、...",
-    "link": "https://zenn.dev/aiforall/articles/726668a035a148",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T08:50:03",
-    "ai_summary_done": false
-  },
-  {
-    "id": "27ac808085f54bcacc33214b5f152c1d",
-    "title": "Claude Code派だった僕がCodexに移る前に知りたかったこと",
-    "summary": "はじめに\n最近、Claude Codeを使っている人がかなり増えてきましたよね。\n僕も最初は、\n「Claude Code便利やな」\n「でもCodexも気になるな」\n「OpenAI版のClaude Codeみたいな感じなんかな？」\nくらいのノリでCodexを触り始めました。\nただ、実際に触ってみると、思っていたより別物でした。\nもちろん、どちらもAIコーディングエージェントです。\nターミナルやアプリ...",
-    "link": "https://zenn.dev/gemcook/articles/e56eabc7ba2961",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T06:02:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "eeccf1356b1f953ca3864047876e574e",
-    "title": "Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話",
-    "summary": "グロービスでは AI コーディングのメインツールを Claude Code (CLI 版) に統一する方向で運用しています。利用ログを取り始めて改善の打ち手を入れたところ、すぐに次のような成果が出ました。\n\n毎月の開発時間を およそ 100時間 節約\n開発セッションのリードタイムが 約 10% 短縮\n\n\n本記事では、この成果につながった理由と、改善のきっかけとなったボトルネックをご紹介します。\n\n...",
-    "link": "https://zenn.dev/globis/articles/94762dc8ec7914",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T02:54:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fa529c71721135fbd15435dd1c4cc002",
-    "title": "GitHub Copilot app を使って感じた、日々の摩擦が減る4つのこと",
-    "summary": "はじめに\n2026 年 5 月 14 日に、GitHub Copilot app が technical preview として案内されました。\n\nGitHub Copilot app is now available in technical preview - GitHub Changelog\nAbout the GitHub Copilot app - GitHub Docs\n\n公式ドキュメ...",
-    "link": "https://zenn.dev/tomokusaba/articles/fd382738fee5e3",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-14T22:43:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ced2e8510c255892bee3127e33843d5c",
-    "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
-    "summary": "この記事は誰向けか\n\n社内で Claude Code / Cursor / Codex / ChatGPT などの AI コーディング支援を 本気で業務利用したい エンジニア\n「リスクが…」で却下され続けて、情シスに見せられる具体的な技術対策が欲しい チームリーダー\n情シ...",
-    "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-15T05:08:38",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b291484cd0f16fe4cd11769e123737f1",
-    "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
-    "summary": "「その前提知らないんだけど…」を解決するJava学習サイトを作り始めた\n\n最近、後輩が入社してきてJavaの学習を一から進めているのですが、\n社内の研修カリキュラムを見ていて、かなり思うところがありました。\n正直、\n\n「これ、アウトプット少なすぎないか？」\n\nという...",
-    "link": "https://qiita.com/ari_init/items/d7a26696d724f6e83830?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-15T05:19:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d6492576d5fc3880ba0fb2f19f7e6a6d",
-    "title": "EDINET DB MCPで生成AIと企業分析をする",
-    "summary": "生成AIで投資や企業調査のために生成AIを使っていらっしゃる方は多いのではないでしょうか？\nその際、最新の情報が反映されておらずなかなか歯がゆい思いをされた方もいらっしゃると思います。\nEDINET等で有価証券報告書等の書類は誰でも閲覧できますが、複数の企業比較や時系列分析...",
-    "link": "https://qiita.com/hokutoh/items/86fd68abd2531f286ef1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-16T13:28:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1ae5b7727c96092a5fe18c23c42e340e",
-    "title": "uvを使うと何が嬉しいのか、自分の開発環境で確かめてみた",
-    "summary": "はじめに\n最近、Python のパッケージマネージャとして uv を使う例を見かけるようになりました。\nQiita・Zennの記事でも、Python の環境構築で pip ではなく uv で書かれているものが目立ちます。\nただ、自分の場合は今のところ pip で特に困って...",
-    "link": "https://qiita.com/atsushi11o7/items/a57b114d80b4e41cd495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-16T01:47:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "db867067b23b602fa3323411b494a775",
-    "title": "番外編：開発技術のパラダイムシフト⑤",
-    "summary": "番外編⑤：ReactとVueの覇権（SPA時代へ）\n〜jQueryの終焉と「仮想DOM」がもたらした現代Webの最終形態〜\n\n導入：「つぎはぎだらけ」の限界\nこれまでの連載で、フロントエンド（jQuery）、バックエンド（Rails）、デザイン（Bootstrap）、そし...",
-    "link": "https://qiita.com/Shankou/items/1d402ce59b8d9153288e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-15T10:10:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dce67a359971d97409af535c6c26c011",
-    "title": "【AIエージェント時代のチーム開発⑤】AI時代のPRは、なぜ重くなりやすいのか",
-    "summary": "はじめに\nAIを使った開発では、PRの扱いが難しくなると感じています。\n従来の開発では、1日分、2日分、3日分の作業をまとめてPRにすることがよくありました。\nもちろん、差分が大きすぎるPRは昔から問題でしたが、それでも人間が手で書く速度には一定の限界がありました。\nし...",
-    "link": "https://qiita.com/tikomo/items/4ecbf9154b1e699312e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-16T05:43:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "87c1d43f5d177088af20817355996d93",
-    "title": "【メモ】StableGenを使ってBlender上でテクスチャをAI生成する",
-    "summary": "記事概要\nBlender上でComfyUIを動かすことができる拡張機能、StableGenを使い、Blender上で3Dモデルに対しテクスチャをAI生成させた。\nここでは、StableGenのセットアップ～実際の使用（テクスチャ生成まで）をメモ書きとしてまとめる。\n\n...",
-    "link": "https://qiita.com/HOS_Giken/items/6f15bc681733d11c4f87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-16T03:44:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "017f524c891c1cfd0573d0ce57cdc312",
-    "title": "Next.js App Router × コロケーション × バレルインポートで実現する、AI時代の人間との協働開発",
-    "summary": "イメージ図\n\nはじめに\n個人開発の Web アプリを続けていると、ある時期から「コードベースの全体像が自分でも見えない」感覚になってきました。機能追加のたびに複数のフォルダをまたぐ修正が発生し、変更の影響範囲が直感的にわからなくなってくる。GitHub Copilot に...",
-    "link": "https://qiita.com/masakinihirota/items/ffce9f02e066f52d4d97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-15T21:23:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "732d66802cc212e7e112becc39bca28a",
-    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
-    "summary": "OpenAIは、ChatGPTの新機能として個人向け資産管理機能のプレビュー版を米国のProプランユーザー向けにリリースした。金融データネットワークPlaidを介して銀行や証券などの口座と連携し、ダッシュボードでの資産管理や、実際の財務状況に基づいたパーソナライズされた相談が可能。将来的に全ユーザーへの拡大を計画している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-15T22:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5fbbd6e69d17df95806910e597ab0545",
-    "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-    "summary": "はじめに\n多くの研究者やエンジニアにとって、論文やWeb記事をLLMに要約させて読むというのが当たり前になりつつある。要約で全体像を把握し、対話的に質問を投げる、こうした使い方だけでも学習効率は十分に上がる。\nしかし、こうした使い方は一度のセッションで完結する。研究や学習の質を決めるのは、別々のタイミングで読んだソース間の繋がりから生まれる気づきの方である。\nとはいえ、これを人間が代わりに担うのも...",
-    "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T00:14:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1daafc1c345479619129d581542e2eb1",
-    "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
-    "summary": "はじめに\nAWS Japan AI/ML Specialist Solutions Architect の Kujirada です。\nPJ 内で開発した Agent (sub agent), MCP Server, Skills などの Harness をどのように組織の資産として横断利用するかは、Agent の開発・運用における重要な課題です。開発した Harness などのリソースを一元的に管...",
-    "link": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-14T22:04:24",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3a3fdb3a15270e0d094866da0c246dc2",
-    "title": "Claudeに魂を吹き込む人 —Amanda Askellという哲学者の眼差し",
-    "summary": "!\n本記事は個人の学習と考察をまとめたもので、所属組織の公式見解ではありません。\n\n\n 📖 この記事で書くこと\n\n\n誰がClaudeの人格を作っているのか ── Amanda Askellという哲学者の存在\n\n30,000語の\"Soul Document\" ── AIに魂を吹き込む「執筆」という仕事\n\n「天才の6歳児」に嘘はつけない ── Amandaが使う比喩と、その射程\n\nプロンプト設計はTD...",
-    "link": "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-14T15:15:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ce01ec6b13f0d713555bc74e0e22e5bc",
-    "title": "五反田式: スティグマジーを応用した自律型マルチエージェントシステム【日本語訳】",
-    "summary": "本記事は、Hashnodeに公開した AI Agents Don't Need Meetings: Gotanda Style for Stigmergic Software Maintenanceの日本語訳です。\n\nAIコーディングエージェントによって、コードを書く速度は大きく上がりつつあります。\nこれは素晴らしい変化です。しかし、コードを書く速度が2倍になれば、保守運用の負荷もまた増えます。よ...",
-    "link": "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-14T14:10:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "08998c8c06119d23a561256df1db5b4e",
-    "title": "ログラスにおけるAI時代の新卒エンジニアの研修設計",
-    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の143週目の記事です！\n3年間連続達成まで残り16週となりました！\n\nこんにちは、株式会社ログラス（以下、ログラス）技術基盤本部の大野です。\n現在、私は26卒のエンジニア研修の設計・運営担当を担っています。数ヶ月前から準備を始め、今まさに研修の真っ最中です。研修設計を担う中で私が考えてきたことを整理し...",
-    "link": "https://zenn.dev/ohnoeight/articles/737f3226df1fb8",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-14T10:17:57",
     "ai_summary_done": false
   }
 ]
