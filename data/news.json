@@ -1,5 +1,175 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "657d8a6a5c12c6edb1141ff848711085",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
+    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T17:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "72d0726301c8d390deb092dd09d0d125",
+    "title": "SaaS で AI Agent を提供するあなたへ贈る、Bedrock AgentCore マルチテナント実装 - Runtime 編",
+    "summary": "SaaS で AI Agent を提供するあなたへ贈る、Amazon Bedrock AgentCore マルチテナント実装 - Runtime 編\n初めまして、AWS Japan でソリューションアーキテクトをしている showish & fukumo_to です。\n「テナントごとにリソースは分けた方がいいの！？」、「テナント分離ってどうすればいいの！？」 などなど、マルチテナントなサービスやシ...",
+    "link": "https://zenn.dev/aws_japan/articles/6640624910acc3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-20T23:44:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "18027588f3698beed8a3b7f8edc69063",
+    "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
+    "summary": "AIにフロントエンドのコードを書かせると、一昔前の書き方をされて困ることがよくあります。\n私のAIの使い方が悪いというのは前提にありつつ、最新の書き方を選んでくれないことが何度もあります。たとえばCSSではSubgridを使ってほしい場面でわざわざ古いGridのネストを書いてくる。JavaScriptではObject.groupByで済むグループ化をreduceで書いてくる。さらに当たり前品質とし...",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-20T12:51:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c20fce84aa60d359fee20d6a58551e02",
+    "title": "toC プラットフォームの  AIチャット を支える技術",
+    "summary": "こんにちは、かわそんです。\n先日、知識共有プラットフォーム「Brain」に、CS（カスタマーサービス）を担当するAIチャットを導入しました。\nリリースから 47時間での利用回数は238件。\nAIが答えられるべきだが答えられなかったものは 5件のみ。\nカバー率が 97.9% という結果になりました。\n(もちろん集計期間や集計頻度によるブレはありますが、速報としての数値です)\nなお、最終的に人間が対応...",
+    "link": "https://zenn.dev/kawason/articles/7118acbf3b07f1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-20T11:44:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6488d343c5739665eba9ce7d89666267",
+    "title": "tfstateに平文を残さずに秘密情報を管理する",
+    "summary": "はじめに\nクラシル社でSREをしているKaitoです。\n弊社では開発環境を含む全ての環境でIaC (Terraform) を採用しており、秘密情報 (Secrets Manager, SSM Parameter Store など) については SOPS × KMS で管理しています。\n従来の手法では、以下のようにリソースを設定することになります。\ndata \"sops_file\" \"app\" {\n...",
+    "link": "https://zenn.dev/dely_jp/articles/terraform-ephemeral-write-only-secrets",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-20T09:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f2ec3a18d3c56d410f308ee79b2c3cf0",
+    "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略",
+    "summary": "■ この記事はこんな人におすすめ\n\n年収アップを目指しているエンジニアの方\n「なんとなく仕事はこなせているが、年収が伸び悩んでいる」と感じている方\nスタートアップや中小企業からキャリアアップを考えている方\n自分のスキルが今どのレベルにあるか客観的に把握したい方\n転職を検討...",
+    "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T22:04:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "661fb6e302d6f0dd8a022d6d3764ef48",
+    "title": "【Claude Code】激詰レビュワーSKILL 〜分からないコードをPRに出すな〜",
+    "summary": "経緯\n肌感覚としてOpus 4.5あたりから一気に性能が上がり、広範囲の変更をスムーズに実施できるようになりました。\n便利な一方、コードを手で書いていた頃に比べて、実装への理解度が落ちていないか不安があります。\nそういった状況の中では、AIにより生成されたコードの中にはセ...",
+    "link": "https://qiita.com/kotobuki5991/items/548e71c8ff17fc543442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T09:57:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "28a574c67f23439bf391c1c23d1146ba",
+    "title": "ようやく「Claude code」を使ってみた件　～勤怠管理アプリ編①～",
+    "summary": "初めに\n最近話題の「Claude Code」。\nエンジニアにとってAIを活用した開発は、これから避けては通れない潮流だと感じています。\n「触らなきゃなー」と思いつつなかなか手を出せずにいたのですが、今回記事を書く良い機会をいただいたので、実際に触って開発してみました！\n今...",
+    "link": "https://qiita.com/yukegineer/items/93b961e492d9e8f8dffe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-21T00:37:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "adc2f96e19fab280292ef5d397f037e6",
+    "title": "人間側が成長するしかないのではないか？",
+    "summary": "はじめに\n\nどうも。鳩胸になりたい文鳥です。\n\n人間側が成長するしかないのではないか？\nみたいなこと最近考えております。\n去年はClaude Codeとか出てきて使い方とか小手先のテクニックを磨こうとしてたのですが、最近AI活用をうまくするには自分が成長するのが一番手っ取...",
+    "link": "https://qiita.com/morry_48/items/79a3679a2c8af9422517?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-20T12:33:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b925442dcf89ad4740ca6fc36ea1c22e",
+    "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
+    "summary": "高市早苗首相（自民党総裁）直属の党日本成長戦略本部（本部長・岸田文雄元首相）が月内にも取りまとめるAIやエネルギー安全保障など戦略17分野への投資促進に向けた提言案の全容が判明した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-21T10:10:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b36e57673bbcada8babecaa8fcdc9102",
+    "title": "ChatGPTでYahoo!ショッピングの商品が探せるように　ECモールで初の連携",
+    "summary": "ChatGPTの会話からYahoo!ショッピングの商品が探せるようになった。LINEヤフーが「Apps in ChatGPT」への対応を開始。ECモールとして初の連携で、Yahoo!ショッピングとの会員登録不要で利用できる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news108.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-21T07:55:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b575dbbd2343b67db512813807ac040",
+    "title": "Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明　「Claude」の計算リソース確保で",
+    "summary": "米SpaceXは5月20日（現地時間）、新規公開株式発行（IPO）に向けたFORM-S1（目論見書）で、AI企業Anthropicとのコンピュート・サービス契約を開示した。Anthropicは2026年5月から2029年5月まで、SpaceXのデータセンター利用に対して毎月12億5000万ドルを支払う。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news083.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-21T04:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "33873460e5e6a5cd92ac7ad10b9af2be",
+    "title": "Google、Gemini活用の新広告フォーマットをGoogle検索に導入、「AI Mode」向けの会話型広告も",
+    "summary": "Googleは、「Gemini」を活用した複数の新広告フォーマットを検索に導入すると発表した。「AI Mode」向けに生成AIが回答やお勧めリストに広告を組み込む形式を試験提供するほか、通常の検索向けには自動説明付きのショッピング広告やチャット型広告などを順次展開する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news071.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-21T01:43:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "23e4031ff2c006049f17fb5b502d9f2d",
+    "title": "NVIDIA、売上高は過去最高の816億ドル、純利益は3倍超に──AI投資「持続する」とフアンCEO",
+    "summary": "NVIDIAの2月～4月期決算は、売上高は85％増、純利益は211％増だった。データセンター部門が全体を牽引。ジェンスン・フアンCEOはAI向けインフラ投資の継続、拡大を確信すると述べ、次期四半期の売上高は910億ドルを見込む。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news063.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-21T00:16:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c51477e4141a3e983d7fe2c01d8af23f",
+    "title": "SpaceXがIPO申請　イーロン・マスクCEOが議決権の85.1％掌握へ",
+    "summary": "SpaceXは、新規株式公開（IPO）の申請書類を証券取引委員会に提出した。6月中に上場の予定。2025年の売上高は186億ドル超の一方で純損失を計上した。主力のStarlinkに加え、統合したxAIなどAI事業を強化している。上場後もイーロン・マスク氏が85％超の議決権を握る。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news061.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-20T22:35:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -827,176 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-03-04T15:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2df65c24e00cfb307ae7046ddd875b73",
-    "title": "VideoPrism: A foundational visual encoder for video understanding",
-    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
-    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f4ba9f84a6fb727e39c2038801e4ed70",
-    "title": "DDDの理想と決済システムの現実",
-    "summary": "〜なぜ「1トランザクション1集約」の原則をあえて破るのか〜\n\n はじめに: AIに設計レビューさせてみた\n少し前に、決済基盤まわりのコードを AI に設計レビューさせてみました。\nすると、かなりそれっぽく、そして正論っぽく、こんな指摘が返ってきました。\n\n1つの DB トランザクションで複数集約を更新しています。\n集約は一貫性の境界なので、1トランザクションは1集約に閉じるべきです。\n\n言っている...",
-    "link": "https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-16T10:15:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c24361d8520a7158461a639289404712",
-    "title": "CodexモバイルからUbuntuのCodex Appを操作する",
-    "summary": "はじめに\n本記事では、CodexモバイルからUbuntuのCodex Appを操作する方法を、できるだけ再現性を意識して備忘録的にまとめる。本記事の対象者は以下の通り。\n対象者\n\nUbuntuで開発している方\nVM上のCodex Appをスマホから操作したい方\n\n検証環境\n\nUbuntu 24.04.4 LTS（EVO-X2）\nUbuntu 26.04 LTS（VM）\n\n\n 具体的な手順\n\n Ch...",
-    "link": "https://zenn.dev/robustonian/articles/codex_mobile_connect_to_ubuntu",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-16T07:35:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2c1a016cadf8df4ecde0265e6dae26aa",
-    "title": "AIに同じ質問を3経路で投げたら、入力トークンが約1,200倍違った — Claudeの「プログラム利用専用クレジット」と構造化APIの関係",
-    "summary": "!\n本記事は EDINET DB のブログ記事 「\"AIが高くなる\"のではなく\"適正化される\" — 入力トークンで差がつく時代の、構造化データベースの存在理由」 の転載です。最新版はそちらに掲載しています。\n\n2026年5月14日、Anthropicが告知を出しました。6月15日から、Claudeの有料プラン（Pro / Max 5x / Max 20x / Team / Enterprise）に...",
-    "link": "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-16T06:54:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bcfacfe2f44d42154a8843bc74312c3b",
-    "title": "Vercelがシステムプログラミング言語「Zero」を公開した！ 悔しい悔しい悔しい！",
-    "summary": "きっかけ\nhttps://gitlab.com/tkithrta/ane\n最近私はシステムプログラミング言語「Ane」の開発を行っているのですが、思うようにメモリアロケータの実装が進まなかったのでプログラミング言語でエゴサーチしていたところ、Vercelがシステムプログラミング言語「Zero」を公開していたことに気づきました。\nhttps://zerolang.ai/\nhttps://github...",
-    "link": "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-16T05:07:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "461370fa5367a9194b11443f00e954a1",
-    "title": "Qwen3-30Bを動かし、社内LANにOpenAI互換APIとしてvLLMで公開してみた",
-    "summary": "はじめに\nFusicのレオナです。\n24GBのGPU 1枚で30Bクラスのモデルを動かし、別マシンからOpenAI互換APIとして叩けるところまでを通しで試してみました。本ブログでは、QuixiAI/Qwen3-30B-A3B-AWQ を vLLM でサーブし、LAN内の別端末から疎通確認するまでをステップバイステップで進めます。\n途中、AWQモデル選定や uv 環境構築でいくつか踏んだ落とし穴が...",
-    "link": "https://zenn.dev/fusic/articles/779af66b5810a9",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T09:47:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "191ed758cba7b7b577bc96645e8e9a36",
-    "title": "Bun が 6 日で Rust に書き換わった件",
-    "summary": "はじめに\n2026年5月14日、JavaScript ランタイム Bun の Zig→Rust 大規模移植 PR が main ブランチにマージされた。約 96 万行のコードを、6 日間で、AI（Claude）が書いた。テストは 99.8% パス、バイナリサイズも縮小されているが、unsafe ブロックは 13,000 箇所を超え、Sumner 本人も「全部破棄する可能性が高い」と発言している。\n...",
-    "link": "https://zenn.dev/ashunar0/articles/55a669c10e6a8d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-15T06:08:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bf648720f5995a4289295072196f593a",
-    "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
-    "summary": "はじめに\nQiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。\nClaude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。\n実際にうちのチームで1年以上運...",
-    "link": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-17T03:40:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3276fa23c918b0b1b0464ab9abd16337",
-    "title": "NotebookLMの学習ノート作成をAIで自動化する",
-    "summary": "CodexでNotebookLMのリソース収集を自動化して、学習用ノートを作る\n\nはじめに\nNotebookLMの登場により、AIを使った新しい学習方法が少しずつ広がっています。\nNotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対...",
-    "link": "https://qiita.com/shin_takoyaki/items/0fb80d30daf31846a85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-16T07:40:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c34ce248c9af5b5660563c6baf3414c0",
-    "title": "AIに丁寧に接したいので英語で話しかける",
-    "summary": "皆さんこんにちは。今回は、筆者のAIの使い方に関するちょっとした話です。\nAI（Claude Codeのようなコーディングエージェントを想定します）に指示を出すとき、日本語で指示を出す方が多いでしょう。しかし、筆者は英語で指示を出すことを好んでいます。この記事ではその理由を...",
-    "link": "https://qiita.com/uhyo/items/26bb74cc81b7fbabf14b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-17T11:18:50",
-    "ai_summary_done": false
-  },
-  {
-    "id": "79f88438934faa75364fef416c95a390",
-    "title": "“税は財源”ではないなら、なぜ税金は必要なのか？ ― 富裕層課税とインフレの本当の関係 : Pythonで学ぶ マクロ経済学入門 (81)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第81回を始めましょう。まず\n「初心者でもわかる！Pythonで学ぶマクロ経済学入門 全80回 総復習」 \nhttps://qiita.com/maskot1977/items/dd76864328b8e8910108\n...",
-    "link": "https://qiita.com/maskot1977/items/289047becc0a75108672?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-17T15:34:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "da22bcea674b99c1873848e5590ab2b8",
-    "title": "【AI が仕事を片付ける時代】Microsoft 365 Copilot Cowork 完全ガイド — 使い方からプラグイン開発まで",
-    "summary": "「受信トレイを整理して」「来週の会議資料を作って」——そう話しかけるだけで、メール送信からドキュメント作成、会議設定まで AI が自律的にこなしてくれる。そんな世界が、もう始まっています。\n本記事では、2026年5月にパブリックプレビューが大幅拡張された Microso...",
-    "link": "https://qiita.com/hisaho/items/47d6f1d094dd9270b722?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-15T21:49:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
     "ai_summary_done": false
   }
 ]
