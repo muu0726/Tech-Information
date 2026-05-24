@@ -1,5 +1,155 @@
 [
   {
+    "id": "88dfb095f483f772db776af07d176b77",
+    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
+    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-14T19:38:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d72168ab508298c1a4b2c2621b540d8",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
+    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-01-23T22:27:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4bab586bcf675efd40257d71880300e1",
+    "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
+    "summary": "はじめに\n2026年1月、Charity Majors が Honeycomb のブログに一本の記事を投げ込んだ。タイトルは \"You Had One Job\": Why Twenty Years of DevOps Has Failed to Do it。彼女はこのテーマを、書籍 Observability Engineering 第2版(O'Reilly Early Release)でも詳しく...",
+    "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-24T06:55:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "99931d8a742f0cad5d463b2200b4dcdd",
+    "title": "【アーキテクチャ】大量の類似 Feature を持つ Enterprise なフロントエンド設計",
+    "summary": "はじめに\nReactのフロントエンド開発において、似たような画面が増えてくると必ずぶつかる問題があります。「ほぼ同じコードが複数箇所に存在する」「新しい画面を追加するたびに同じ作業が繰り返される」—この問題に対して、共通コンポーネントや既存のデザインパターンでは解決しきれないケースがあります。\nこの記事では、その問題を解決する『Feature Registry パターン』を紹介します。\n具体的な実...",
+    "link": "https://zenn.dev/yuitonn/articles/f88ddcf21ce172",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-23T17:17:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e9b8b920e86eb8cf917c35bdb6117af6",
+    "title": "AI エージェントで意思決定を加速する ─ Power Platform × Copilot Studio × DecisionFlow",
+    "summary": "!\n本記事は Microsoft Agent Hackathon 2026 への応募作品として執筆しました。\n\n\n はじめに ─ AI 時代の最後のボトルネックは「意思決定」だ\nAI エージェントとエージェントワークフローが普及し、個人・チームのアウトプット速度と品質は劇的に上がりつつある。\n提案書は AI が書く。コードは AI が生成する。分析は AI が即時に出力する。\nしかし「その提案を承...",
+    "link": "https://zenn.dev/minoru365/articles/decisionflow-hackathon-2026",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-23T16:00:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b583956b2cde18a28e586c59df3a7b55",
+    "title": "AIコーディングエージェントの本当の攻撃面は設定ファイルだった",
+    "summary": "AIコーディングエージェント（Claude Code、Cursor、Gemini CLI など）のセキュリティリスクというと、「モデルが暴走して危険なコマンドを実行する」話を想像しがちです。ですが、この数ヶ月で実際に報告された深刻な事例は、どれもモデルが原因ではありませんでした。起点はすべて設定ファイルです。\nこの記事では TrustFall と AWS Kiro の事例から「設定ファイルがなぜ攻...",
+    "link": "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-23T11:51:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c21fd1f2193962a6ba006b3b4ca50428",
+    "title": "TSKaigi 2026 発表資料まとめ",
+    "summary": "個人的にTSKaigiの発表資料まとめていたので公開させていただきます！誰かのお役に立てれば幸いです。\n資料はセッションやSNS等で共有されているものを引用させていただきました。どのセッションもすごくためになる話でとても面白かったです！\n誤りや追加の資料がある場合はご連絡いただけると幸いです 🙇\nhttps://2026.tskaigi.org/\n!\n公式の方からも資料が公開されたみたいなので、公...",
+    "link": "https://zenn.dev/yasse/articles/a7240304af804c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-22T10:57:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "92e553b8095324ba1271ada4814c2530",
+    "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
+    "summary": "あなたのAIサーバー、今この瞬間も丸見えです\n「AIを使えば業務が効率化される」\nそう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。\nでも、ちょっと待ってほしい。\nセキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。200...",
+    "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-24T07:44:12",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a48a3372a39d0b01079b5bd9abcafa7d",
+    "title": "差分が見えるMarkdownビューアー「Markview Pulse」を作った話",
+    "summary": "きっかけ\nMarkdownで書かれたドキュメントを確認するとき、「ちょうどよいビューアー」がないと思うことがあります。\nVS Codeなどのエディタを開けばプレビューはできます。ただ、Markdownを軽く読みたいときや、AI出力をざっと確認したいときには、少し大げさです...",
+    "link": "https://qiita.com/syuji501/items/508f016f15ff8ed3ea3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-22T22:23:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6b2aab4f0d1c80bfbdebb980c4358c17",
+    "title": "MacStudio 上の vllm-mlx で Qwen 系モデルを動かしたベンチマーク結果",
+    "summary": "はじめに\nローカル LLM (Local LLM) をエージェント用途で使う場合、モデルの賢さだけを見ても判断しにくい。ブラウザ操作や CLI 操作では、応答が遅いと待ち時間が積み上がる。一方で、速いだけのモデルを選ぶと、ツール呼び出しの引数を間違えたり、存在しない関数を...",
+    "link": "https://qiita.com/rairaii/items/756ff06330dd430dd268?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-23T09:09:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4302144b222102effef9df51636ac56d",
+    "title": "AI時代のバックテスト過学習入門：PBO論文をUSDJPY実験で読む",
+    "summary": "結論を先に\nUSDJPY 60分足のMAクロス戦略144通りを総当たりした。\n\nフルサンプル最良: Sharpe 0.57、累積リターン +35.45%、MaxDD -10.13%\n\n一見すると悪くない戦略に見える\n\nそもそも144候補のフルサンプルSharpe分布を見...",
+    "link": "https://qiita.com/tikeda123/items/ab7070663e8e002e785f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-21T21:51:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3738af3a0e847a58b78ceb8653331fdd",
+    "title": "セキュリティテスト — シフトレフトでセキュリティを実装する",
+    "summary": "はじめに\nセキュリティの指摘がリリース直前に降ってきて予定が吹き飛ぶ\n——多くの開発現場で経験のある景色だと思います。\nAIコード生成が日常になり、既知の脆弱性パターンを含むコードが知らないうちに混入するリスクも上がりました。\nそこで本稿では、最終確認に賭ける構造を、開発...",
+    "link": "https://qiita.com/ryucciarati/items/1feb0fea0ada23bdd55f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-24T03:03:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a76832d93d8075857feea3b5157df9da",
+    "title": "「NODE_TLS_REJECT_UNAUTHORIZED=0」にサヨナラバイバイ！社内プロキシ配下で AWS CLI や Node.js の TLS エラーを安全に直そう！",
+    "summary": "はじめに\n社内 PC で開発をしていると、こんな経験はありませんか？\n\naws s3 ls を打ったら SSL validation failed で怒られる\n\nnpm install が UNABLE_TO_GET_ISSUER_CERT_LOCALLY で止まる\nV...",
+    "link": "https://qiita.com/_YukiOgawa/items/97450486201b67a5882f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-24T08:12:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6f3766fe68448d3a19f9708e7beaaf09",
+    "title": "Blenderでかっこいいリサジュー曲線を作ろう",
+    "summary": "この記事は「MMAブログリレー」の第7回の記事です。\n前回の記事はraaaさんのDevContainerでLaTeXの環境構築」でした。\n続きが来ますように...！\n\nはじめに\n１年のTenpuraです。5月に入っているのにまともなプログラミングは部会のC++講習以外ほ...",
+    "link": "https://qiita.com/tenpura3125/items/a82b59ebb734f4da28fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-24T08:32:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "487e824ae941c15428d4bca28632e39d",
+    "title": "JAVA&SQLを学ぶ　JDBCを実務レベルへ",
+    "summary": "はじめに\n本記事は、実務で必ず使う3つのテーマを深掘りします。\n\nPreparedStatement ― 安全で高速なSQL実行\nトランザクション管理（commit / rollback） ― データ整合性の守り方\n接続プーリング（HikariCP） ― 本番環境で耐え...",
+    "link": "https://qiita.com/kimuni-i/items/29cd988ca87806872725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-23T11:47:36",
+    "ai_summary_done": false
+  },
+  {
     "id": "b02cf407941b46f7ff4d3bbd5527fae3",
     "title": "Talk like a graph: Encoding graphs for large language models",
     "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
@@ -847,156 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-05-20T08:45:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "82f7887201f7b1be15e44570fd59d0e7",
-    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
-    "summary": "Googleが「Google I/O 2026」で発表した「Universal Cart」は、検索、Gemini、YouTube、Gmailなどの同社サービスを横断して商品を一元管理できるショッピングカート。Geminiが価格変動の監視や在庫アラート、カート内商品の互換性チェックをバックグラウンドで実行し、Google Walletと連携して最適な決済方法も提案する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-20T05:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b711fce3928eb63faf13cb1dc82bead1",
-    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
-    "summary": "Googleは開発者会議「Google I/O 2026」で、自律型AIエージェント「Gemini Spark」を発表した。従来の質問への回答にとどまらず、ユーザーの指示のもとで能動的に行動することが最大の特徴だ。クラウド上で24時間稼働し、Workspaceや外部ツールとのMCP連携で、複雑なワークフローを代行する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-19T22:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b54afe11505f9fc9f92089f929c4eee",
-    "title": "Using AI to expand global access to reliable flood forecasts",
-    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
-    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
-    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
-    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b53cf8bfb0ff5fb3857a875d78638fee",
-    "title": "CodeRabbit が TAKT のスポンサーになりました：せっかくなので CodeRabbit と TAKT を共存させよう",
-    "summary": "はじめに\nTAKT が CodeRabbit にスポンサードされることになりました。めでたい。ありがたい。\nCodeRabbit は AI がレビューを行うことで開発を支援するサービスです。TAKT は AI コーディングエージェントをオーケストレーションして目的を達成する機能を提供する OSS です。共に AI を活用して開発等を支援するもので、そういった意味では近しいものを感じますね。そんな企...",
-    "link": "https://zenn.dev/nrs/articles/97969a71c1d3b6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-19T10:54:37",
-    "ai_summary_done": false
-  },
-  {
-    "id": "082211bed430dd4510c9acefed43c876",
-    "title": "回帰分析って知ってる？―完全に理解した人へ贈る絶望の谷",
-    "summary": "はじめに\n\n回帰分析って知ってますか？\n\n \n \nこんな質問されたらゾッとしますよね。知らないというわけでもないですが、きっとかなり深いレベルで知っていないとボコボコにされるでしょう。\nR言語の lm() や Python の sklearn.LinearRegression() を呼び出して、推定した回帰係数を眺めたことがある、紙とペンでOLSによる係数を求めたことがある、OLS推定量がBLUE...",
-    "link": "https://zenn.dev/green_tea/articles/0bce4d47ab0674",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-19T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6939a80a6da2715f3302083e0cb87bfe",
-    "title": "AIを5本同時に走らせても、俺の脳みそは1個しかない",
-    "summary": "こんにちは。脳みそが1個しかない者です。\nこれは味噌です\n最近、当たり前のように並列開発をするようになりました。皆さんもそうだと思います。cmuxや何なりでAIで5〜6本のタスクを同時に走らせて、サブエージェントも含めると10本以上が同時に動いているみたいな感じです。\n燃やし切って退勤する頃には、今日自分が何をしたのか、コードの中身がどうなっているのか、よく思い出せない時もあります。記憶が薄い。\n...",
-    "link": "https://zenn.dev/pepabo/articles/9baa6271b2055d",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-19T00:15:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d4e61ef92b5b164f5348e5b4576c1bbe",
-    "title": "野良スキルは使うな、盗め──Claude Codeスキルの安全な作り方",
-    "summary": "!\n本記事に含まれるプロンプトインジェクションの例は、注意喚起・防御目的のみで掲載しています。悪用は絶対にしないでください。「こういう文章が入っていたら危ない」という認識を持つための知識として活用してください。\n\n\n はじめに\n「このスキル便利そう！」とSNSで見つけて即インストール——それ、めちゃくちゃ危ないです。\nClaude Codeのスキル（CLAUDE.mdに追記する命令ファイル）は、A...",
-    "link": "https://zenn.dev/emilia_lab/articles/claude-code-skill-safety",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-18T17:32:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc5063920084a7caaf57b424b39c3a07",
-    "title": "「EC2って何？」レベルだった私を救ったAWS学習本・講座まとめ",
-    "summary": "新卒でITエンジニアとして採用され、AWSを勉強し始めたころ、私はかなり苦戦しました。\n当時の私は、\n「EC2インスタンスって何ですか？」\nと先輩に聞いてしまうレベルでした。\nわからないサービスがあれば公式ドキュメントを読むべきなのですが、公式ドキュメントは専門用語が多かったり、前提知識が必要だったりと初学者の心を打ち砕きがちです。\n特にAWSのサービス説明はお世辞にもわかりやすいとは言いにくく、...",
-    "link": "https://zenn.dev/collabostyle/articles/ddf499ba0d818a",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-18T09:41:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "97c673fc605c4ae51850a11531e510db",
-    "title": "検索機能 vs 推薦機能のカニバリゼーションに関する新考察",
-    "summary": "こんにちは。半熟仮想株式会社の齋藤(@usait0)です。2024年より、DMMの検索レコメンドチームの皆様と連携させていただいています。今回は検索リランクモデルの改善によって検索経由の売上だけでなく、PF（プラットフォーム）全体の売上まで改善したという、本連携の中で最近得られた非常に興味深い実験結果とその背景について考察したいと思います。\n近日中に関連する内容のセミナーの開催も予定しているので、...",
-    "link": "https://zenn.dev/dmmdata/articles/1e2bc59c66f158",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-18T08:17:02",
     "ai_summary_done": false
   }
 ]
