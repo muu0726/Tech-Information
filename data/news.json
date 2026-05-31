@@ -1,5 +1,155 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1c4def8d994c7f5e1611d3268fb72de8",
+    "title": "full AIでCLIツール「tiny-view」を作った",
+    "summary": "※本記事ではAIを活用して執筆しています。内容は自分でも確認し、適宜追記・修正を行っていますが、AI利用が苦手な方はご了承ください。\n\n\n はじめに\nAIに実装をかなり任せて、tiny-view というCLIツールを作りました。\ntiny-view は、HTML / Markdown / Mermaid / コード断片などを、サーバーも一時ファイルも使わずに、ネイティブWebViewでそのまま表示...",
+    "link": "https://zenn.dev/araki_takaki/articles/tinyview-dev",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-30T18:14:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a819d0d3e7c5b95316c3a8c95a6312b0",
+    "title": "会議で「言いにくいこと」を、AI に代わりに言ってもらう AI ファシリテーター \"Helmsman\"",
+    "summary": "はじめに\n\n\n\n何を作ったか: Microsoft Teams の会議に「Helmsman(舵手、操舵手)」という名前で参加して、議論をそっと見守ってくれる AI です。ここぞというときは、会議の中で日本語の声で発言 までしてくれます。\n\nいちばん伝えたいこと: 偉い人がいると言いづらい反論、目上の人の事実誤認、「そろそろ時間ですよ」のひとこと ― 会議で人間が言いにくいことを、AI が代わりに言...",
+    "link": "https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-30T15:24:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bf93329d5330f7ec68c8f5e6828609d2",
+    "title": "5億ドル請求されないようにOllamaのCloudを使う。",
+    "summary": "つれづれなるままに、1日中コンピューターに向かって、思ったことを書いてみる。\n!\nこの記事の内容は、コンピューターのハードウェアリソースを積めばLLMの回答は速くなるし、それをOllama Cloudは無料で提供するなんて、すごいことやってるなあと、驚いた話である。他の媒体には、同じような記事があったが、Zennで、\"ollama cloud\"を検索してもヒットしなかったので、書いてみる。\n\nLL...",
+    "link": "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-30T15:01:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1adf519863df18027dc3437b7b2d42b6",
+    "title": "Opus 4.8 とGPT-5.5 で開発サイクルを1日で回した——AI同士のレビュー応酬と、CIが拾った実バグ",
+    "summary": "Zennウェブエディタ用：Opus 4.8 技術編\n\n弁護士・税理士の太田垣（@yoshiki_otagaki）です。\n士業の現場で実際に動かしている AI 活用・業務自動化を発信しています。\nNext.js + Supabase + Anthropic API + 独自 MCP サーバで法律事務所向け SaaS「LegalFlow」を1人で開発・運用中。\n\n本記事は、note 版「Opus 4....",
+    "link": "https://zenn.dev/yoshiki_otagaki/articles/c2dfe8efe5c5a3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-30T13:00:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9a5673d4d2f48f57208c199df3c6b6fc",
+    "title": "Cursor: GPT 5.5 が優秀でコスパ最強",
+    "summary": "私は新しいモデルが発表されるたびに試しに使ってみていますが、ここ1ヶ月ほどはGPT 5.5だけを使っています。\nモデルが優秀で難しい数学の問題を理解して解けるとかよりも、実際の自分の業務、目的、スタイルに合ったちょうどいいモデルを探すのが大切かなと思います（例. 個人の日常業務では長時間のAgent的なタスクはあまり必要ない）。\n（私はCursorが好きかつ既存コードに対する修正はこっちの方がやり...",
+    "link": "https://zenn.dev/hidenori3/articles/cba47a06140440",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-29T19:25:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "66e6461a22f8233cc0db5bbf8313df0e",
+    "title": "ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較",
+    "summary": "ローカルLLMの性能が気になる\nローカルLLMの性能がどんなもんか気になったのでベンチマークをとってみました。\n主にコーディング用途を意識していて、コーディング系でコンパクトな Aider Polyglot というベンチマークのサブセットを使っています。\n\n 計測対象モデル\n\n\n\nモデル\n量子化\nサイズ\n推論エンジン\n\n\n\n\nDeepSeek V4 Flash\nq2-imatrix\n81GB\nds...",
+    "link": "https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-29T16:43:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f7ed504d3a2a27d46cd7b94b6040dd0e",
+    "title": "エンジニア2年目、設計書をやらかしまくってチェックリストを作った",
+    "summary": "はじめに\n業務で、初めてちゃんとした設計を求められた。\n設計についてはあまり詳しくなかったので、色々調べながら、自分なりに整合性が取れるように何度も見直しつつ書いた。AI レビューにも通し、会社での対人レビューも突破して、プロジェクトは無事に実装フェーズへ進んだ。\n数週間後、別の人が実装したコードを読んでいて、ふと気がついた。\nAPI から返ってきたエラーメッセージを、フロント側で文字列マッチして...",
+    "link": "https://zenn.dev/fjimiz/articles/design-spec-checklist",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-29T13:30:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4b092a84f8206d58b8d36942c1998a46",
+    "title": "Claude Codeに株・仮想通貨botを300個作らせて見えてきたこと",
+    "summary": "こんにちは、塩辛botterです。\n今回の記事では、Claude Codeに株・仮想通貨botを300個作らせて見えてきたことをお伝えしたいと思います。\n結論から言うと、以下の感覚です。\n\nClaude Codeに作らせた戦略: 300\n　↓\nそのうち利益が出る(とAIが判定した)戦略: 200\n　↓\n深堀して運用に耐えられる(と私が判断した)戦略: 20\n　↓\n実際に運用開始できた戦略: 5\n　...",
+    "link": "https://zenn.dev/kobao/articles/64a72dc0167ca3",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-29T12:28:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0b77e1a19cb7927bde6bbb27748a6d96",
+    "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+    "summary": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】\nこんにちは、Liseと申します。\n現在のゲーム開発現場では恐らく、どんな会社でもどんなプロジェクトでも、ClaudeCodeやCodexを利用した開発のAI補助を行っ...",
+    "link": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-30T06:17:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8f4f0d46769a17b4a090dedc44dde2db",
+    "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
+    "summary": "はじめに\n最近、AI が人の代わりに業務を実行する「AIエージェント」というコンセプトをよく目にするようになってきました。\nそんな中で、くらう道（牛上さん）の記事\nProject Opal ― VDIの延長線にAIエージェント基盤があった！\nhttps://www.clo...",
+    "link": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-30T19:35:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "686aa680da88c52d30f19bb2803d1383",
+    "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
+    "summary": "Claude Code を使っていて、「この機能の構造、前に調べたのにまた一から調べさせてる」とか「セッションをまたぐたびに同じ説明をしている」と感じたことはありませんか？\nLLM はセッションをまたぐとそれまで教えた情報を持ち越せないので、毎回ゼロから説明し直すことになり...",
+    "link": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-30T04:17:32",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a3c08326e7b07e3b78ab4a86396f5a43",
+    "title": "Amazon Bedrock Managed Agents × OpenAI で本番対応エージェントを設計する",
+    "summary": "はじめに\n2026年4月、AWS と OpenAI のパートナーシップ拡大により Amazon Bedrock Managed Agents に OpenAI モデルが統合されました（限定プレビュー）。これにより、GPT-5.x などのフロンティアモデルを AWS のイン...",
+    "link": "https://qiita.com/FumiakiKato/items/befeed7d74caeb8503d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T02:27:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "afa29735542869ee5e388a6a50d87078",
+    "title": "DESIGN.md とは — GoogleがOSS化した「AIエージェント向けデザイン仕様」",
+    "summary": "グラレコ\n\nはじめに 🎯\n2026年4月21日、Google Labs が DESIGN.md というフォーマット仕様を GitHub に公開しました。リポジトリは google-labs-code/design.md、ライセンスは Apache-2.0 です。公開から...",
+    "link": "https://qiita.com/y-morimatsu/items/0271f85171f4ea084aea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-29T06:18:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f5768e2c4f244b8705224b7c0468c32c",
+    "title": "ソフトバンクG、フランスで最大750億ユーロ（約14兆円）投資　5GWのAIデータセンター整備へ",
+    "summary": "ソフトバンクグループは、フランス国内で5GWのAIデータセンターを開発・運営するため、最大750億ユーロを投資すると発表した。同社にとって欧州最大のAIインフラ投資となる。第1フェーズではダンケルクなどに建設し、2031年までに3.1GWの容量を提供、数千人規模の雇用創出も見込んでいる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-31T01:31:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -847,156 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-05-26T23:00:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1c95565c7ef7ed35f932561850a44187",
-    "title": "AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った",
-    "summary": "はじめに\nAI エージェントコーディングや vibe coding を見ていると、「実装できる」とは何を指すのかが変わってきたように感じます。\n以前の実装力は、かなりの部分で「コードを書く力」でした。仕様を読み、設計を決め、コードを書き、テストを通す。もちろん今でも重要です。ただ、AI が局所的なコードを高速に生成できるようになると、人間の価値はもう少し上の層に移っていきます。\nこの記事の主張はシ...",
-    "link": "https://zenn.dev/tesla/articles/f67c29415a02fc",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-26T21:59:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0888cd8919d22071e5a064a9e3683a33",
-    "title": "TSKaigi 2026 にチームラボのフロントエンド班として参加しました",
-    "summary": "こんにちは。チームラボ フロントエンド班です。\n2026年5月22日（金）・23日（土）にベルサール羽田空港で開催された TSKaigi 2026 に、チームラボのフロントエンド班として参加しました。\n今回はチームラボのフロントエンド班から4名プロポーザルが採択されています！\nこの記事では、現地の雰囲気、印象に残ったセッション、参加メンバーの感想をまとめます。\n\n\n TSKaigi 2026 とは...",
-    "link": "https://zenn.dev/teamlab_fe/articles/aaffd117e03c34",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-26T06:23:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dd06e5e1d440456b345a2ce5ffac3ab5",
-    "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
-    "summary": "こんにちは、クラシル社で iOS エンジニアをしている zhu tianren です。\n\nきっかけ：バージョンアップのたびに、手触りが変わった\n最近、クラシルiOSアプリの大規模リファクタリングを実施している。10年間の運用で積み上がった技術的負債を清算し、混乱したアーキテクチャを整理することが目標だ。このプロセスで、Claude Code と Codex をおよそ 6:4 の割合で併用してきた。...",
-    "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-26T00:53:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a4a674752967b368801ad5b0dd429880",
-    "title": "Claude × Obsidian で「感情の跡」を残す仕組みを作る",
-    "summary": "はじめに\nAIと会話していると、すごくいいアイデアが出たり、深い内省ができたりすることがある。でも、チャットが終わるとその内容は流れていく。「あの時Claudeと話した内容、なんだったっけ…」を何度か繰り返して、ようやく気づいた、考えた跡を残す仕組みの必要性。\nこの記事では、Claude（claude.ai）とObsidianをMCP経由で接続し、会話から生まれたアイデアやジャーナリングの記録を構...",
-    "link": "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-26T00:43:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "55a7525fefcf63c33e75e69099b94740",
-    "title": "仕様駆動開発最前線 — SDLC を一周描き直す Living Book",
-    "summary": "AI コーディングエージェントを生産性の核に据えるための SDLC 一周分の再設計を、Anthropic / Atlassian / Cloudflare / CodeRabbit / arXiv などの公開資料を実務経験で取捨選択・解釈した編纂物として描く Living Book。 仕様策定の特性違い(新規 vs 既存改修)、SDD に必要な役割整理、Living Specs の維持、UI デザ...",
-    "link": "https://zenn.dev/myntai/books/spec-driven-frontier",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-24T10:06:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "87b4705faa2ebdf6145c53c660afde13",
-    "title": "PythonとJavaのコードの違い",
-    "summary": "はじめに\n4月に入社した入社1年目の人間です。\n今回は研修で学んだ言語の中でもPythonとJavaに注目をおいて構成やコードの違いについて紹介します。\n\n目次\n1. きっかけ\n2. 実行環境\n3. コードの比較\n3-1 計算文\n3-2 基本構造の有無\n3-3 変数宣言\n...",
-    "link": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T00:03:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2a5a5ea52506e17d7a176da1ae3846db",
-    "title": "Pythonの制御構造について【基礎】",
-    "summary": "今回は、Python研修で学んだ 「制御構造」についてまとめていきます。\n私自身Pythonを学習するのは久しぶりなので、思い出しながら書いていきます！\n\nはじめに\n　制御構造とは、プログラムの文を特定の順序で実行することを表現する形式のことです。\n　プログラムは、複数の並...",
-    "link": "https://qiita.com/sakurada110/items/d39b79afdbfadf5a2267?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T00:01:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b278d7f3f247a990720c44d9d94b0f17",
-    "title": "文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】",
-    "summary": "【機材協力について】\n本記事（および本連載プロジェクト）は、株式会社ハイレゾ様よりGPUのクラウドサービス「GPUSOROBAN」の計算資源（NVIDIA A100 80GB）を無償でご提供いただき、開発・検証を行っています。\n\n0.はじめに\nこんにちは！東京大学文科3類2...",
-    "link": "https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T03:51:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d36cf335e1608f10276d4b5e66c8fd15",
-    "title": "Excelの実体って結局何なのか？が気になった話",
-    "summary": "はじめに\n普段Pythonでopenpyxlやpandasを使ってExcelを触っていて、ふと「このライブラリたち、内部でいったい何をやってるんだろう？」と気になったことはありませんか？\n私は気になりました。気になって調べたら、思った以上にシンプルで、しかも応用範囲が広い...",
-    "link": "https://qiita.com/ktdatascience/items/d3283a82c1f9ed9d3cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-25T01:46:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d6d91b23d54432cb9318d580ab43f899",
-    "title": "【Python】クラスの存在意義から特殊メソッド・デコレータまでを根本から理解する",
-    "summary": "注記： 本稿は、東大AI研究会における勉強用資料として執筆されたものです。\n\nクラスの意義\nクラスを使わないと実装できないアルゴリズムは存在しない。理論上は、どのようなプログラミング言語であっても（チューリング完全であれば）同じ計算を行うことが可能であり、極論を言えばす...",
-    "link": "https://qiita.com/RAD0N/items/599ce305b195134fe25f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T03:37:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f32edb17970663300d08f844fb2f1aeb",
-    "title": "【Frontend CSS】 CSSは「装飾」ではない ― ブラウザレンダリングの仕組みから理解するCSS",
-    "summary": "注意\nこの記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n1. 問題提起：なぜCSSは難しいのか？\nCSSの構文自体は難しくありません。\nしかし、プロダクション環境で保守可能かつスケールするCSSを書く...",
-    "link": "https://qiita.com/tuanphan/items/eee7a8385ba6ce9344e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T04:24:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7296ef2ba6511720980a4dbcb34e33e5",
-    "title": "YouTube、AIで生成した動画を自動検出してラベル表示──クリエイターの申告なしでも",
-    "summary": "YouTubeは、動画にリアルなAIが使われていることを検知した場合、ラベルを自動適用すると発表した。これまではクリエイターの自己申告に依存していたが、システムによる自動検出を順次開始する。また、通常の動画ではプレーヤー直下に、ショート動画では映像上に重ねるなど、表示位置もより目立つ形に変更する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news074.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-27T21:25:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bb51b20a21c6f227b774a59bfabb8e3b",
-    "title": "「この答弁はAIが原案作成」　参院本会議で松本デジタル相「職員が事実確認し私が決済」",
-    "summary": "5月から全府省庁で実証事業を開始している行政用の生成AI基盤「源内」について、5月27日の参院本会議で参政党の梅村みずほ氏が活用状況を尋ねたのに対し、松本尚デジタル相は「この答弁も源内が原案を作成した」と述べた。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-27T07:48:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "38198758f222aa17ced765abbb25feef",
-    "title": "富士通が「Claude」全社展開へ　Anthropicと戦略提携、最新モデルへの早期アクセスも",
-    "summary": "富士通は5月27日、米AI企業Anthropicと戦略的パートナーシップ契約を締結したと発表した。生成AI「Claude」を富士通グループ全社員約10万人に展開するほか、重要インフラ向けAI活用やサイバー防御強化を進める。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-27T07:25:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "99510de1c0526c5a54bc1a62f09b0068",
-    "title": "ヒト型AIロボスタートアップのアトムが30億円調達　「日本のGDPを1％アップ」目指す",
-    "summary": "ヒューマノイドAIロボットを開発するアトム（東京都江東区）は5月27日、開発着手とあわせて、シードラウンドで総額30億円を調達したと発表した。製造業や物流・運輸の現場で使えるロボットを開発し、将来の量産化を目指す。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-27T03:30:00",
     "ai_summary_done": false
   }
 ]
