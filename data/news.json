@@ -1,5 +1,225 @@
 [
   {
+    "id": "d18b89b8afe6d1992c47641e5e4b16c4",
+    "title": "【入社エントリ】長年勤めたメーカーを辞めて松尾研究所に入社した話",
+    "summary": "はじめに\n松尾研究所に2026年4月からジョインした具利晟（ク リソン）です。愛称はドラゴンボールでお馴染みのクリリンです。由来はお気づきの通りです。現在はデータサイエンスチームのシニアデータサイエンティストとして、金融領域のLLM活用に関する開発寄りのPJT（プロジェクト）や、Agentic RLについての探索的な研究寄りの活動等に参画しています。\n気がつけば入社から約2ヶ月、激動の期間が閃光の...",
+    "link": "https://zenn.dev/mkj/articles/46168f1b5f73e2",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-01T02:50:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ee65fcb7ffc4eef0de53ea12e1afbf03",
+    "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
+    "summary": "2022年の終わりにGPT3.5が出てから約3年半が経ちました。\nこの3年半で、開発スタイルや使用するツールがたびたび変わりました。\nこれまで使ってきたエディタ、IDE、開発スタイルの変化を振り返りながら、「現時点でBestな開発環境」について考えていきたいと思います。\n\n エディタ(IDE)遍歴\n\n VSCode + Copilot + Copilot Chat\n元々VSCodeを使っていたので...",
+    "link": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-01T00:00:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5f87a443482baf65975ea7714ef34a0c",
+    "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
+    "summary": "Claude Code Max 20x plan を契約している Web エンジニアが、業務での AI コーディングをやめた理由を整理した記事です。AI を完全に捨てたのではありません。そのあたりは後述します。\n\n なぜ AI を用いてコーディングをしなくなったか\n\n 自分の成長速度が鈍化した\n主観的な感覚としては、AI でコーディングをしていた時の方が知識を習得できていたと思います。自分でコード...",
+    "link": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-31T23:13:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2a1cce62cca55f1b8d942047822844f1",
+    "title": "テスト計画・分析・設計・実装・実行・レポートまでを通しで自動実行するAI開発&公開",
+    "summary": "概要\nみなさん、いきなりテストケースを作り始めたりしていませんか？\nそれをやると抜け漏れが発生したり、AI生成だと「このテスト、必要か不要かわからん」が発生します。\nそこでテスト計画から実行・レポートまでを中間成果物を作りながら通しで自動実行してくれるAI(正確にはskill群とそれらを束ねるオーケストレーションskill)を開発したので公開します。\n\n各段階で中間成果物を作り、それをレビューし問...",
+    "link": "https://zenn.dev/jam0824/articles/c84a2ef393ee70",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-31T15:25:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "92374efe6a1c1952576948a65484a4fc",
+    "title": "AIにテストケースを書かせているだけではない: manual-bb-test-harness の説明",
+    "summary": "!\nリンクの紹介は目視で確認。文章ドラフトおよび調査において生成AIを利用しています。\n\n\n TL;DR\n\n\nmanual-bb-test-harness という OSS を作った\n\nmanual-bb-test-harness は、ブラックボックステストの QA 設計知識とリリース判断の構造化をするもの\n具体的には、仕様を読み、観点を出し、リスクを付け、手動ケースに落とし、工数を見積もり、最後に...",
+    "link": "https://zenn.dev/rna4219/articles/0c51e22473e3c8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-31T09:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "03e60946b77b0f62d4329e190a289307",
+    "title": "CodexでFlutterアプリを3か月未満で公開したけど、今どきの個人開発はコード以外が大変すぎる",
+    "summary": "OpenAIのCodexを試すつもりでFlutterアプリを作り始めたら、気づいたら87日でGoogle Play公開まで到達していました。\n\n!\n出来た Flutter 製ギャラリーアプリ「マイギャラリー」は、Google Play で公開しています。\nhttps://play.google.com/store/apps/details?id=me.mfactory.mygallery\n\nしかし...",
+    "link": "https://zenn.dev/mfactory_uh/articles/f793050a48813b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-05-31T00:08:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2d533252b23b940718340c8219b626b4",
+    "title": "AIエージェントを支える次世代データ基盤 - 物理グラフDBを独自開発するための変更管理と安定運用戦略",
+    "summary": "この記事は、Snowflake / Databricks / Google Cloud が推進する仮想グラフによる知識グラフをテーマにした、3部構成のシリーズ記事の 第3部 です。\n\n第 1 部 Snowflake / Databricks / Google が挑む仮想グ...",
+    "link": "https://qiita.com/yohei1126/items/2359c10d6c37be7f4fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T14:08:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ee760a96e5e611a918c3f05111e341a4",
+    "title": "さらばAIスクラムチーム",
+    "summary": "AIスクラムチームのこれまでの軌跡\nこれまで10本のAIスクラムチームの記事を書いてきました。諸般の事情で途中からZennに投稿していたのですが、Qiitaから始まったAIスクラムチームはQiitaで終わらせようと思い、最終回としてこちらに投稿します。\nこれまでのAIスク...",
+    "link": "https://qiita.com/shyamagu/items/ee8630f496b096f9a968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T23:18:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b2bcead68d974d642946b7c029857257",
+    "title": "AIエージェントを支える次世代データ基盤 - AIエージェントの知識表現と推論になぜグラフが使われるのか？",
+    "summary": "この記事は、Snowflake / Databricks / Google Cloud が推進する仮想グラフによる知識グラフをテーマにした、3部構成のシリーズ記事の 第2部 です。\n\n第 1 部 Snowflake / Databricks / Google が挑む仮想グ...",
+    "link": "https://qiita.com/yohei1126/items/19ecb7f37ac7ef9c3c80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T14:08:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0fc426540ea7ec15820aba742823b79e",
+    "title": "「お願いします」だけじゃ仕事は進まない？依頼力について",
+    "summary": "仕事をしていると、他部署や他チーム、あるいは同僚に何かをお願いする場面が多々ありますよね。\n\n「なぜか依頼が後回しにされる」 「意図と違う成果物が出てくる」\nといった経験はありませんか？\nIT業界に転職してまだ半年のひよっこな私ですが、前職は化粧品メーカーの営業として、チー...",
+    "link": "https://qiita.com/yamagu/items/b19d14573a0f869ea23e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-01T02:03:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d8e6f8555ca5ce7333583637b767fa35",
+    "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する",
+    "summary": "はじめに\nAI-readyなデータ基盤という文脈で、オントロジー、ナレッジグラフといった言葉を聞くことが増えてきました。\nどれも何となく聞いたことはあるけれど、正直よくわからない。\nこの記事では、\n\nグラフ\nオントロジー\nナレッジグラフ\nセマンティックレイヤー\nデータカタ...",
+    "link": "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T23:31:32",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ad7e3e7a969b536456b26e9ebe6ea7e6",
+    "title": "Anthropic の「環境中心」設計思想を読み解く - Claude Code / Agent Skills / MCP が同じ方向を向いている理由",
+    "summary": "はじめに\n最近、Anthropic 関連のニュース記事を読んでいて、「Environment-centric（環境中心）」という言い回しに目が留まりました。出典は BigGo ファイナンスの解説記事「AI 競争の勢力図を変える: Anthropic の『環境中心』設計思想...",
+    "link": "https://qiita.com/nogataka/items/b1771dbddf62c958acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-01T02:50:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "69be487b34d59531ec9b1f28b0c2fe0e",
+    "title": "競争か統制か？ ― “供給能力”から読み解く日本経済の落とし穴 : Pythonで学ぶ マクロ経済学入門 (86)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第86回を始めましょう。まず前回の復習として、\n「減税か給付か？ ― 財源幻想を超えて考える“需要”と“供給力” : Pythonで学ぶ マクロ経済学入門 (85)」 \nhttps://qiita.com/maskot1...",
+    "link": "https://qiita.com/maskot1977/items/19965c21d55d28ee20da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-01T17:28:01",
+    "ai_summary_done": false
+  },
+  {
+    "id": "45a7800a69f50c650fb712c06b1d7673",
+    "title": "【AI-DLC】aidlc-workflows の v2 が生えていたので差分を見てみた",
+    "summary": "はじめに\nAWS が公開している awslabs/aidlc-workflows という、AI 駆動の開発ライフサイクル（AI-Driven Development Life Cycle、以下 AI-DLC）を回すためのワークフローをご存知でしょうか。\n\nなんとなく眺...",
+    "link": "https://qiita.com/ryu-ki/items/6ed097f5bf99d3d2b5a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-01T03:57:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987f118b48d74f0afc55b0416081f804",
+    "title": "AI による Windows 自動運転 (Project Opal) の認証停止を回避する方法｜OpalOnboard.ps1 の中身と実行ポイントを徹底解説",
+    "summary": "はじめに\nProject Opal の「認証で止まる問題」を解消する実践的な手順を解説します。\n本記事は、以下のような方を対象にしています。\n\nOpalでCloud PC操作の自動化を試している方\n「Take control」で止まるのがストレスな方\nスマホから完全自動で...",
+    "link": "https://qiita.com/carol0226/items/e6f4a0f73999e74c4f66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-05-31T15:57:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "41c285220947208be4ae243d218b5dd4",
+    "title": "Claude Code と Codex の主要機能を比較する｜MCP・Skills・メモリ・Subagents・Hooks・Plugins リファレンス",
+    "summary": "はじめに\nターミナルで動くAIコーディングエージェントとして、Anthropic の Claude Code と OpenAI の Codex（Codex CLI）は、いまもっとも比較されることが多い2つだと思います。どちらも「対話しながらコードを書く」だけのツールではな...",
+    "link": "https://qiita.com/nogataka/items/545148471e8f2b63c9a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-01T02:45:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "404ea5f18c3b756cf5be8296ff9d2663",
+    "title": "フロリダ州がOpenAIとアルトマンCEOを提訴　ChatGPTを「子供を危険にさらす製品」と非難",
+    "summary": "米フロリダ州は、OpenAIとサム・アルトマンCEOを提訴した。同州司法長官は、OpenAIが安全に関する警告を無視してChatGPTを導入し、利用者を自殺誘導や銃乱射事件の幇助などの危険にさらし、未成年者を依存状態に陥れたと主張。同州は4月、州内の銃乱射事件に関連して刑事捜査も開始している。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-01T22:18:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "89daeaaad54689d47a4858c4ec097150",
+    "title": "Anthropicが上場申請",
+    "summary": "Anthropicは、米証券取引委員会（SEC）に内容非公開で新規株式公開（IPO）を申請したと発表した。発行株数や価格などの詳細は後日公開される。同社は直近の資金調達により企業価値がOpenAIを上回ったとされており、年間予想売上高も増加している。早ければ今秋にも上場する見通しだ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-01T21:20:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c7ba509e49772334ba5f731d352f83c8",
+    "title": "Intel、データセンター向け新CPU「Xeon 6+」発表　エージェンティックAI基盤を強化",
+    "summary": "Intelは「Computex Taipei 2026」で、データセンター等向けの新CPU「Xeon 6+」を発表した。最先端のIntel 18Aプロセスを採用し、前世代比で最大2.5倍の性能向上を実現。新イーサネットコントローラや次世代データセンターGPU「Crescent Island」の追加情報も公開した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-01T06:28:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "76e4d1c7fa63373579af79de5d271649",
+    "title": "Microsoft、NVIDIAと共同設計のPC「Surface Laptop Ultra」発表　AIモデルのローカル実行可能",
+    "summary": "Microsoftは、新ノートPC「Surface Laptop Ultra」を発表した。NVIDIAと共同設計したSoC「RTX Spark」を搭載する初のSurfaceで、1ペタフロップスのAI演算性能を誇る。最大128GBのユニファイドメモリを備え、1200億パラメータのモデルをローカルで実行可能だ。2026年秋に発売予定。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news098.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-01T05:44:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8334e180de6cbd7e1e8c5cb04a14a520",
+    "title": "NVIDIA、Windows用プロセッサ「RTX Spark」発表　ノートPCでローカルAIを高速実行",
+    "summary": "米NVIDIAは6月1日、台湾で開催中の「GTC Taipei 2026」の基調講演で、PC向けの新チップ「NVIDIA RTX Spark」を発表した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-01T05:00:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8043c5fc96a6c9f893dd9b0468012a53",
+    "title": "エリン・ブロコビッチ氏、AIデータセンター建設の「透明性欠如」を批判　住民報告マップも公開",
+    "summary": "環境活動家のエリン・ブロコビッチ氏は、急増するAIデータセンター建設をめぐり、地域住民への情報開示が不十分だと批判する記事を公開した。NDA締結などによる秘密裏の計画進行を問題視し、住民からの報告をもとに懸念を可視化するマップサイトを開設。インフラへの影響に関する完全な情報開示を求めている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news054.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-05-31T22:03:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -777,226 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-05-28T03:27:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c635490225eee2a35a3d6e28a347d7a6",
-    "title": "Vercel公式「React Best Practices」Skillsでコードはどう変わるのか試してみた",
-    "summary": "はじめに\nAIを使ったフロントエンド開発が当たり前になる中で、「とりあえず動くコード」は誰でも一瞬で生成できるようになりました。しかし、無駄な再レンダリングの防止やアクセシビリティの担保など、実運用に耐えうる「品質の高いコード」をAIに一発で書かせるのは、意外と難しいと感...",
-    "link": "https://qiita.com/ma-ryu/items/32646ec31ef9fa1c4e0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T10:55:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "17b965087b76a28437ded4fe4b8e6e63",
-    "title": "Codexのコンテキスト圧縮はなぜ優秀なのか — ソースコードから読み解く設計",
-    "summary": "はじめに\nLLMベースのコーディングエージェントを長時間動かしたことがある方なら、一度は「途中で文脈を見失って急に的外れな動きを始める」現象に遭遇したはずです。この崩壊の多くは、コンテキストウィンドウの管理に起因します。\nCodex CLIは、この問題に対して単なる「古い...",
-    "link": "https://qiita.com/nogataka/items/9b71285a9dd448e53bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T08:59:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2adebfc225e96c5d26f46fbbc81a1a34",
-    "title": "クオンツトレーダーがLLMをどこに使うべきか — 「アルファの最終層に置かない」設計入門",
-    "summary": "はじめに\n最近、「LLMでアルファを作れるか」「生成AIで自動売買できるか」という議論をよく見かけます。\n本稿でいう「アルファの最終層」とは、売買方向、ポジションサイズ、発注タイミング、リスク停止を最終決定する層を指します。結論から言うと、現時点でこの層にLLMを直接置...",
-    "link": "https://qiita.com/tikeda123/items/a71261ecc47f609e52fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-27T12:57:28",
-    "ai_summary_done": false
-  },
-  {
-    "id": "518b66a9ad39a2ff1ef91fdc835a23cf",
-    "title": "toioのビジュアルプログラミングツール「Code Maker for toio」（非公式）を作ってみた",
-    "summary": "概要\n手軽にプログラミング体験ができるロボットトイ「toio」を、ブラウザだけでビジュアルプログラミングできたり、JavaScriptのコードに変換したり、「トイオ・プレイグラウンド コマンド」のカードを認識してコードに変換できるツールをClaude Codeで作りました...",
-    "link": "https://qiita.com/akichika/items/6002ee7104874e6d49b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T00:03:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "801afa71c40cc18ef2827cf2a1e46eae",
-    "title": "Prisma のトランザクション内で `Promise.all` を使っても速くならない",
-    "summary": "まえがき\nJavaScript / TypeScript で複数の非同期処理をまとめて実行したいとき、Promise.all はよく使われます。\nたとえば、複数件の update や upsert をまとめて実行する場合、以下のように書きたくなります。\n\nupdate-e...",
-    "link": "https://qiita.com/showin/items/ab69eba9ee8ed916eedc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T01:52:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "53a6d772057f74989ab05169c6eaa393",
-    "title": "【AWS SAA】AIを使って効率的に記憶定着できる勉強法",
-    "summary": "はじめに\nこんにちは。IT未経験、現場作業員のかつです。\nIT自体ガチの素人で、2026年1月から学習を始め、2026年の6月からIT企業に転職が決まりました。\n現状の保有資格は、AWSのCLFと、LPIC1。\nそしてこのたび、2026年5月16日、AWS SAA-C03...",
-    "link": "https://qiita.com/engineer_katsu/items/0e9c49bbcb734cc7ea8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T07:14:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f1f1b0ce02679de769aabb8ec8f81093",
-    "title": "【Frontend CSS – パート1】 ブラウザのレンダリングパイプラインを理解する（DOM・CSSOM・レンダーツリー）",
-    "summary": "注意\nこの記事はAIの補助を受けて編集しています。\n\nはじめに\nこの記事では以下をだけを解説します。\n\nブラウザがHTML/CSSから画面を描画するまでのRendering Pipeline\n\nDOMツリー・CSSOMツリー・レンダーツリーの役割と違い\n\nレイ...",
-    "link": "https://qiita.com/tuanphan/items/9bb33bba2d0ae185d24d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T09:57:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a7a669449de73260de77212846caacdb",
-    "title": "Claude に E2E 回帰試験を振ったら呼び戻され続けた話 ── \"段取り八分\" を地で行く現場ノウハウ",
-    "summary": "はじめに\nGMOコネクトの永田です。\n\n「既存システムに E2E 回帰試験を自動化したい。試験項目は揃っている、AI に任せれば早いはず」── そう思って Claude に振ったら、数ステップおきに「この画面ってどの URL ですか？」「OK 条件は？」「このデータって事...",
-    "link": "https://qiita.com/ntaka329/items/af9551596ea5fa7a6f30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-28T07:52:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "74077714b1496563ec8fd01950b1537b",
-    "title": "「先週いくら使った？」ChatGPTが即答　資産管理のマネーツリーに新機能",
-    "summary": "MUFGとマネーツリーは5月28日、「Apps in ChatGPT」を通じて口座残高や取引明細をChatGPT上で確認できる新サービスの提供を開始した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T10:30:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "55d274436d2ad4a80003679bbdd8b513",
-    "title": "レノボ、国内に“水冷AIインフラ”の検証施設　GPUサーバ需要増で水冷活用促す",
-    "summary": "レノボ・ジャパンが水冷技術を活用したAIインフラの検証施設「Neptuneラボ」を新設した。レノボの冷却技術を使う顧客やパートナー企業に対し、本番に近い検証・PoC環境として提供する。クラウドベンダーやSIerとの共同検証を通し、推奨される機器構成などの策定にも役立てる。レノボが日本で同様の施設を開設するのは初という。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T10:25:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ec199fc1368607478dd96c243729b72e",
-    "title": "「答弁原案も作成」　政府職員10万人が生成AI「源内」利用可能に　デジタル庁が大規模実証開始",
-    "summary": "デジタル庁は5月28日、政府職員向け生成AI利用環境「源内」（げんない）の大規模実証実験を開始したと発表した。29日には約10万人の政府職員が利用できる見込みで、今後、全府省庁の約18万人に対象を広げる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T09:20:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "81be0dcd1dd35f0a122eddad76c35624",
-    "title": "エレコムがロゴ刷新、創立40周年で　多摩電子工業の買収完了も発表",
-    "summary": "PC周辺機器メーカーのエレコムが創立40周年を機に5月28日、コーポレートロゴを刷新した。美術家の野老朝雄氏がデザインを手がけ、メインカラーに日本の伝統色「萌黄色」を採用した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news120.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T08:50:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c343d6de4f53d4ee7c3e1a0d91b81269",
-    "title": "“AIの身元”確かめる認証基盤　みずほFGとNECが共同実証、AIエージェントが銀行を使う時代見据え",
-    "summary": "みずほFGとNECは5月28日、AIエージェントが本人の正当な代理であることを暗号技術で証明する新基盤「KYA」の共同実証実験を6月から始めると発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T07:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "71069e0fc3a9ad13120f6a76b4fc6797",
-    "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
-    "summary": "米Docker社は、Docker DesktopとDocker CLIの新機能として、Dockerに関する質問への回答やベストプラクティスの提案、エラーの修正対応などを行ってくれるAIエージェント「Gordon」が正式版になったと発表しました。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T03:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9a0865151ee565bfea6d07db13e7e61b",
-    "title": "Amazon、買い物AIアシスタント「Agentic Shopping Assistant on AWS」を小売業者向けに提供開始",
-    "summary": "Amazonは、「Alexa for Shopping」の技術基盤をパッケージ化した小売業者向けソリューション「ASA on AWS」の提供を開始した。自社の商品カタログやビジネスルールを組み合わせることで、対話型のショッピング体験を約60日で構築できるとしている。すでにKate Spadeがギフト提案コンシェルジュとして先行導入している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news091.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T02:44:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ad40f2b9aa81b158408dc463e3a7e9e1",
-    "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
-    "summary": "小さな建設会社を経営し、工事現場で働く職人でもある「中島」氏が、けがで現場を離れた期間に立ち上げたというサイトだ。余暇に個人で開発・運営しており、収益は目的にしていない。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T01:55:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4d7bcb2a68203ff81c49be349a0fc5b2",
-    "title": "Amazon、AI映像制作の「GenAI Creators' Fund」設立　初期3作品をプライムビデオで配信へ",
-    "summary": "Amazonは、Amazon MGM StudiosとAWSによる新ファンド「GenAI Creators' Fund」を設立した。プロ向けAIツールと資金を提供し、映像エンタメ制作を支援する。基盤となるプラットフォーム「Project Nara」を導入し、アニメ3作品の制作が決定、プライムビデオで配信される見込みだ。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news079.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-28T01:12:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2ff52c23a87115340e6f5ecb448987ef",
-    "title": "Meta、Instagramなど主要アプリに新サブスク「Plus」導入へ　将来は「Meta One」に一本化",
-    "summary": "Metaは、FacebookやInstagramなどに新たな定額制サービス「Plus」を導入すると発表した。最終的にこれらを「Meta One」ブランドに一本化する方針だ。広告依存からの脱却と収益多角化が目的で、一般向けのほか、高度なAI機能が使えるプラン、ビジネス向けプランなどもテスト展開する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news076.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-05-27T22:23:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3537748bdcf2efb93775706795170f6c",
-    "title": "Javaなしで安全に使えるPlantUMLビューア「pumlv」",
-    "summary": "はじめに\nこんにちは、rin2yhです！\nJavaに依存せずローカルで完結するPlantUMLビューア「pumlv」を作りました。特徴は次の3点です。\n\n\nJava不要: PlantUML公式のJavaScript版をブラウザで動かすため、Javaランタイムを必要としません\n\n単一バイナリで完結: Releasesまたはmiseから取得した1ファイルだけで起動できます\n\n外部送信ゼロ: レンダリン...",
-    "link": "https://zenn.dev/rinrin_yuuki/articles/9b69cca81875f6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-26T23:00:09",
     "ai_summary_done": false
   }
 ]
