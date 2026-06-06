@@ -1,5 +1,205 @@
 [
   {
+    "id": "099731e6e4b87e151dc68344d778e14d",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
+    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-20T20:54:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "93470268a1f7017c156bb3fc01091f3c",
+    "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
+    "summary": "この記事は、今まで Claude Code 1本でやってきていたエンジニアが、Opus 4.7 の体験が悪く、Codex に浮気してみて気づいたことのまとめである。\n実際に触った感想は多くの人がまとめているが、その振る舞いが起こる理由について考察している人はあまり見かけなかった。\nそのため本記事では、\n\nClaude Code と Codex の公式情報\n実際に利用して観測した振る舞い\nそこから考...",
+    "link": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-06T11:00:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "18521bb4fcdded51e6a3a6714096a880",
+    "title": "AI時代のサーバーサイド開発を考えて、Next.jsフルスタックからRustへ移行した話",
+    "summary": "私たち株式会社Eye Universe は、美容サロン向けにAIエージェントをノーコードで構築できるプラットフォームを中心に、予約や物流など美容サロンの業務を支えるプロダクトを開発・運営しているスタートアップです。\nもともとは開発速度を重視し、Next.jsをフルスタックに使う構成で開発してきました。しかし、ユーザー数やユースケースが増え、WebアプリだけでなくiOSアプリからも使われるサーバーサ...",
+    "link": "https://zenn.dev/shtrchkw/articles/438accc201f16a",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-06T09:24:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d9c043afadbedf120cf11049b85736ed",
+    "title": "Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見",
+    "summary": "はじめに\nこんにちは、daishir0です。\n普段はClaude Codeを趣味や開発でガシガシ使っていて、副産物として小さなSkillをいくつか作って公開しています。GitHubはこちらです。\n今回の記事は、自作のClaude Code Skillである cc-rsg（リバース仕様書ジェネレータ）を、Webアプリケーションとして提供できる形に作り直した経緯の話です。OpenHandsという基盤を...",
+    "link": "https://zenn.dev/daishiro/articles/openhands-cc-rsg-webapp",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-06T00:58:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4cc8f3bb9218a9ebdd13ab40101af7c5",
+    "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
+    "summary": "【免責事項（Disclaimer）】\n本記事に記載されているファイアウォールやDPI(Deep Packet Inspection)の迂回手法は、あくまでネットワークの挙動検証および自宅インフラのセキュアな設計を考察するための技術的な実験の記録です。\nこれを読んだ貴方が所属する組織(学校や企業など)のネットワークポリシーを意図的に侵害することを推奨するものではありません。実際の環境に適用させる場合...",
+    "link": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-05T17:41:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "24fe65ead4de9490dbdfecc0ae34df94",
+    "title": "フロントエンド開発で使えるMCPサーバーを徹底的にまとめてみた",
+    "summary": "はじめに\n以前Chrome DevTools MCPとCursorとの連携について書きましたが、MCP（Model Context Protocol）に対応したサーバーは他にもどんどん増えてきています。「コードを書く」だけだったAIエージェントが、ブラウザを操作したり、デザインを読んだり、テストを回したりと、できることの幅が一気に広がってきました。\n今回はフロントエンド開発で実際に役立つMCPサー...",
+    "link": "https://zenn.dev/actbe_tech/articles/a0f1f3609cfc9d",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-05T08:30:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3badbcc1d7a34c49552638983dabfb15",
+    "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
+    "summary": "はじめに\nGoogle Meet の Gemini 議事録は便利ですが、Google Drive に増えていくだけでは会議後の作業につながりません。\nこの記事では、Claude を使って Gemini 議事録から決定事項や TODO を抽出し、業務に必要な情報へ変える仕組みを紹介します。\nこの仕組みを作ると、会議後に誰かが議事録を読み直し、必要な情報を整理する負担を減らせます。\nまた、決定事項や ...",
+    "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-05T05:55:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e9ed4ec9e0aafdfba66ef4b1a5f5b9f2",
+    "title": "GitHub Copilotのクレジット節約術3選",
+    "summary": "一言でいうと\n\nGitHub Copilotの料金体系が6/1に変わり、従量課金(トークンベース)となりました。\nX上でも「1日で1か月分消費してしまった」 などの悲鳴が多数上がっています。\n自分が意識しているクレジット節約術を共有します。\n\n\n 変更概要\n\n\n\n\n旧料金(~5/31)\n新料金(6/1~)\n\n\n\n\n無料モデル\nあり\nなし\n\n\n課金単位\nPremium Request (利用回数ごと...",
+    "link": "https://zenn.dev/lalafloat/articles/5398aaa20b88b1",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-04T22:51:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8f0fdc6947b939333925fc4b43ff959b",
+    "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
+    "summary": "本記事の執筆にはAIを活用しています。\n\n\n はじめに\n前回の記事（元オンプレ屋が疑似AWS環境のログをGemiclawに確認してもらうまで）で、GemiclawにLocalStackのログを確認してもらったとき、出てきたのはこれだけでした。\nSTART RequestId: ccefc143-7e11-4371-8472-5e8eac510bbd Version: $LATEST\nEND Req...",
+    "link": "https://zenn.dev/aa_taka/articles/e835abca466897",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-04T21:48:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "075caa69ed7fc324c7140b963d81cc48",
+    "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
+    "summary": "はじめに\n私は現在、大型開発案件でエンジニア兼スクラムマスター（SM）として働いています。\n先日、チームの開発者と話していたときにこんな声が上がりました。\n\nPBI管理が面倒すぎるｗ辞めたいｗ\nAI駆動開発ならアジャイルよりウォーターフォールの方が相性良くない？\nSlac...",
+    "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T14:30:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "08dc6cacdfc9a4e783abf56f1f8dfe1b",
+    "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
+    "summary": "TL;DR\n\nCVE-2026-49975（通称 HTTP/2 Bomb）は、HTTP/2 の仕様上の組み合わせを悪用したリモート DoS 脆弱性\n\nOpenAI Codex が nginx・Apache・IIS・Envoy・Cloudflare Pingora の 5...",
+    "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T12:33:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "46aee50c21f5901c93ab9b7c8adb201f",
+    "title": "問い合わせ業務を生成AIで効率化する：Outlookアドイン活用事例",
+    "summary": "1. はじめに\n\n1.1 背景\n近年、生成AIは単なるチャットツールとしての利用にとどまらず、既存の業務フローやツールに生成AIを組み込み、業務を支援することが重要になってきました。特にバックオフィス業務では、過去のナレッジを参照しながら問い合わせ内容に応じて表現や判断を...",
+    "link": "https://qiita.com/Yuki_Yamada4/items/13f5e584a34987e59a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-04T04:16:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2125da1b82c7a53d87234e08e261783a",
+    "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
+    "summary": "はじめに\n\n（30秒で読む結論）\n\nMermaidで構造だけ書く → それを「インフォグラフィック化」専用のGemに投げる → 白背景・日本語ゴシック体のビジネス向け図解が返ってくる\n肝は いきなり長文を投げないこと。構造をMermaidで先に固定してから清書させる\n日...",
+    "link": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-06T10:04:20",
+    "ai_summary_done": false
+  },
+  {
+    "id": "558828c9fa4314b8128b89a04d8d938a",
+    "title": "やっとわかった！AIの「MCP」と「Skill」の違い",
+    "summary": "CursorやClaudeを使っていると、「MCP」とか「Skill」とかいう単語がよく出てきませんか？\n「CursorにMCP Serverを連携して…」\n「Claude CodeでSkillがロードされました！」とか言われても、\n「え、結局どっちもAIができることを増や...",
+    "link": "https://qiita.com/arinnnnnn/items/bbeb21ba22a349b4a4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T16:35:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "985799ab249e7858ac04fd2e1e4608e5",
+    "title": "Ollama + Hermes Agent環境構築をめざして、まずはセキュリティのためDockerでHermes Agentを動かすようにした",
+    "summary": "Hermes AgentをDocker環境で動かすようにしてみました。\nHermes Desktopを以下の公式サイトからダウンロードしてインストールした上で、以下を実行。\n\nここからの手順は、Geminiに教えてもらいました。\n\nStep 1. Ollamaを他のホ...",
+    "link": "https://qiita.com/self-learner/items/fbf593e4c48945ae2964?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-06T07:58:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "85d9bf3c67561a96ebe5aa46a0a9da79",
+    "title": "自己紹介",
+    "summary": "はじめに\nあずと申します\n情報系の学部2年です\nよろしくお願いします\n\nプログラミング経験\n以下のようなコードを書き、初めてHelloWorldを出力したのが大学1年の夏休みです\n\nHelloWorld.cpp\n#include\n\nint main()...",
+    "link": "https://qiita.com/weedy_seadragon/items/b667904b6ca1292a7136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-06T03:35:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d3a61668cc11cffe5c00655bf9aaf3ac",
+    "title": "ローカルLLMにドキュメントを要約からの書込",
+    "summary": "今回は、ドキュメントをローカルLLMに要約からの書き込みをさせてみました。ぜひご参考に。\n近年LLMの成長もありローカルでもLLM使うとわざわざRAG作らなくてもある程度利用できるようになりましたね。実践をしてみようと思い取り組みました。\n\n環境紹介\n\nセル\n内容\n\n...",
+    "link": "https://qiita.com/CodeTea_Ping999/items/632555addfd0fff9633d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T00:11:51",
+    "ai_summary_done": false
+  },
+  {
+    "id": "692876113c94daeac003b031c29181af",
+    "title": "🚀 Antigravity 2.0 初心者向け10の鉄則 — Googleのマルチエージェント基盤を使いこなす",
+    "summary": "はじめに\nGoogle I/O 2026で一番の衝撃は、新モデルではなく Antigravity 2.0 でした。AI搭載IDEだった1.0から、マルチエージェント・オーケストレーション基盤へと完全に生まれ変わったのです。\n内部テストの数字は圧倒的です：\n\n93体のエ...",
+    "link": "https://qiita.com/lhjjjk4/items/6937ab83f5ccd13a7881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-04T03:21:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4d95e30ae6c482a94777be810e2e6fdc",
+    "title": "【2026年最新】Multi-Agentフレームワーク徹底比較：CrewAI vs AutoGen vs LangGraph — SME（中小企業）が選ぶべき「最適解」とは？",
+    "summary": "2026年現在、生成AIの活用は単一のプロンプト処理（Single-Agent）から、複数のAIが役割を分担して協調動作するマルチエージェント（Multi-Agent）システムへと完全にシフトしました。\nしかし、開発現場やSME（中小企業）のDX推進担当者から最も多く聞か...",
+    "link": "https://qiita.com/Sayaka_bnr/items/988600d1f47e56c2a2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-04T21:07:52",
+    "ai_summary_done": false
+  },
+  {
+    "id": "365d3f8e9d80060068277f144338e487",
+    "title": "SKILL.mdを書き換えて、AIの動きがどう変わるのか実験してみる",
+    "summary": "2026年春、育休から復帰したらAI戦国時代の真っ只中でした。\nこれまで離乳食の相談でAIを使っていましたが、「開発でAIって何ができるの？どこまで使えるの？」と、まさに浦島太郎状態。\n調べているうちに、どうやらAIを真に使いこなすには「Skill（SKILL.md）」の定...",
+    "link": "https://qiita.com/anzuuuuu/items/03d2f29361c2c73c3bff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T07:35:56",
+    "ai_summary_done": false
+  },
+  {
     "id": "9b54afe11505f9fc9f92089f929c4eee",
     "title": "Using AI to expand global access to reliable flood forecasts",
     "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
@@ -797,206 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-06-02T01:04:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a044082046fa65433276e1fceb07f683",
-    "title": "【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話",
-    "summary": "🤖 【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話\n最近では、Claude Code をはじめとしたAIエージェントにCLI操作を任せる場面が増えてきました。\n便利な一方で、AWSのような「実行＝即お金や本番環境に直結」...",
-    "link": "https://qiita.com/imamu123/items/910c463ebedd15057ebf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-01T00:25:40",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0daaa9d4a6cdf86ff8522492fa3f63d8",
-    "title": "Webサービス開発で ASP.NET Core を選びたくなる 5 つの理由",
-    "summary": "はじめに 🌐\n新しいWebサービスを立ち上げるとき、「どのフレームワークを選ぶか」はかなり重い意思決定です。Node.js、Go、Python/FastAPI、Ruby on Rails など有力な候補は多く、どれを選んでもある程度は戦えます。\nそのうえで私は、ASP.N...",
-    "link": "https://qiita.com/tomokusaba/items/2441d88b18f8479e9430?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-01T04:58:18",
-    "ai_summary_done": false
-  },
-  {
-    "id": "35cf067038199889d3c13cf60a63e1be",
-    "title": "【2026年版】AI for Scienceを加速する科学系MCPサーバー完全ガイド｜GitHub Copilot × 研究効率化",
-    "summary": "はじめに\nこの記事で分かること:\n\n科学研究に使える MCP サーバー 30+ 個の全体像（個別リポジトリ約 20 件 + mcp.science 内部サーバー 13 件を含む）\n論文検索・バイオ・化学・数学・物理・HPC など分野別の詳細解説\n各ツールのインストール方法...",
-    "link": "https://qiita.com/hisaho/items/dc64fda8f0db972c392b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-01T06:00:34",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0fc7ca47f083847329a706bb9b7c520f",
-    "title": "AIエージェントを組織化すると、馬鹿になる",
-    "summary": "AIエージェントを組織化すると、馬鹿になる\n\nはじめに\n一体のAIより、組織にしたほうが賢い。多くの人がそう考える。\n役割を分ける。専門家を増やす。レビュー役を立てる。全体を指揮する司令塔を置く。そうやって組織にすれば、一体では届かない仕事ができるはずだ。理屈は通ってい...",
-    "link": "https://qiita.com/jirachiuwu/items/d8eeae3be9e9f23f2176?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-01T15:50:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "94c5b00d65d75fb9f5ccfffc66e97c59",
-    "title": "AIエージェントを支える次世代データ基盤 - Snowflake / Databricks / Google が挑む仮想グラフ戦略",
-    "summary": "この記事は、Snowflake / Databricks / Google Cloud が推進する仮想グラフによる知識グラフをテーマにした、3部構成のシリーズ記事の 第1部 です。\n\n第 1 部 Snowflake / Databricks / Google が挑む仮想グ...",
-    "link": "https://qiita.com/yohei1126/items/53011e12ad34e089c6f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-31T14:08:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "647b921ef4293320f5fb4efbf93cfdd1",
-    "title": "その commit、本当に安全？ コーディングエージェント時代に Git Hook で情報流出を防ぐ方法",
-    "summary": "こんにちは、AI に git 操作を任せるのが便利すぎて、逆にちょっと怖くなってきたアーキテクトのやまぱん！です 😅\n補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！\n間違っていたら 優しく 教えてください！\n\nTL;DR\n\nGit Hook と GitHub Co...",
-    "link": "https://qiita.com/aktsmm/items/4311b133ed9a1dd0c8f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-01T16:49:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bb88c37f2f35aea00780c0153850f443",
-    "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
-    "summary": "Microsoftは「Build 2026」で、AI特化型デスクトップPC「Surface RTX Spark Dev Box」を発表した。NVIDIAの「RTX Spark」を搭載し、最大1ペタフロップスの演算性能と128GBのメモリにより、1200億パラメータ超のモデルのローカル推論や学習を可能にする。各種開発ツールもプリインストールされる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T19:50:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "edee4d7178a99b397d8ecf590a30121d",
-    "title": "女性向け転職サイトで3万8000件の不正ログイン　「女の転職type」にリスト型攻撃",
-    "summary": "キャリアデザインセンターは、転職サイト「女の転職type」のスマホアプリが不正アクセスを受け、最大1万8253人分の会員情報を第三者が閲覧したおそれがあると発表した。外部で入手したIDとパスワードを悪用するリスト型攻撃を受けた可能性があるという。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news077.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T03:20:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2937fd8074715e076d0f09fe3a0d8eb2",
-    "title": "ソニーとシャオミ、その対照的なスマートフォン戦略　炎上した「AIカメラアシスタント」の実際は？",
-    "summary": "ソニー「Xperia 1 VIII」とシャオミの「Xiaomi 17T Pro」および「Xiaomi 17T」。フラッグシップとハイエンドでは単純に比較できないが、双方を実際に触ってみたところ、両社の市場戦略を知る良い材料になった。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news083.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T03:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "107dbf7e1cbca15a2ab4a1acf0b348e1",
-    "title": "メルカリ、AIと人事の責任者を1人に統合　「組織ごとAI前提に」",
-    "summary": "CTOの木村俊也氏がCHROとCAIOを兼任。人と組織の運営基盤をAI前提で再設計する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news073.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T02:26:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "12f0fee25fbf456569dad8912abf0286",
-    "title": "生成AIを「悩み相談」に使う10代女性たち　阿部前監督事件を招いた「AI正論」の波紋",
-    "summary": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T01:31:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "46bcfd82d1f4adba029b9cda1bf7bfbb",
-    "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
-    "summary": "Googleの親会社Alphabetは、AI向けインフラ拡充を目的に総額800億ドル規模の株式資本調達を実施すると発表した。公募増資やATMプログラム、Berkshire Hathawayへの第三者割当増資を組み合わせる。資金は主にAI基盤の設備投資に充てられ、需要超過が続くAI市場での供給能力拡大と急成長を支える。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T00:34:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d18b89b8afe6d1992c47641e5e4b16c4",
-    "title": "【入社エントリ】長年勤めたメーカーを辞めて松尾研究所に入社した話",
-    "summary": "はじめに\n松尾研究所に2026年4月からジョインした具利晟（ク リソン）です。愛称はドラゴンボールでお馴染みのクリリンです。由来はお気づきの通りです。現在はデータサイエンスチームのシニアデータサイエンティストとして、金融領域のLLM活用に関する開発寄りのPJT（プロジェクト）や、Agentic RLについての探索的な研究寄りの活動等に参画しています。\n気がつけば入社から約2ヶ月、激動の期間が閃光の...",
-    "link": "https://zenn.dev/mkj/articles/46168f1b5f73e2",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-01T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ee65fcb7ffc4eef0de53ea12e1afbf03",
-    "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
-    "summary": "2022年の終わりにGPT3.5が出てから約3年半が経ちました。\nこの3年半で、開発スタイルや使用するツールがたびたび変わりました。\nこれまで使ってきたエディタ、IDE、開発スタイルの変化を振り返りながら、「現時点でBestな開発環境」について考えていきたいと思います。\n\n エディタ(IDE)遍歴\n\n VSCode + Copilot + Copilot Chat\n元々VSCodeを使っていたので...",
-    "link": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-01T00:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5f87a443482baf65975ea7714ef34a0c",
-    "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
-    "summary": "Claude Code Max 20x plan を契約している Web エンジニアが、業務での AI コーディングをやめた理由を整理した記事です。AI を完全に捨てたのではありません。そのあたりは後述します。\n\n なぜ AI を用いてコーディングをしなくなったか\n\n 自分の成長速度が鈍化した\n主観的な感覚としては、AI でコーディングをしていた時の方が知識を習得できていたと思います。自分でコード...",
-    "link": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-31T23:13:20",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2a1cce62cca55f1b8d942047822844f1",
-    "title": "テスト計画・分析・設計・実装・実行・レポートまでを通しで自動実行するAI開発&公開",
-    "summary": "概要\nみなさん、いきなりテストケースを作り始めたりしていませんか？\nそれをやると抜け漏れが発生したり、AI生成だと「このテスト、必要か不要かわからん」が発生します。\nそこでテスト計画から実行・レポートまでを中間成果物を作りながら通しで自動実行してくれるAI(正確にはskill群とそれらを束ねるオーケストレーションskill)を開発したので公開します。\n\n各段階で中間成果物を作り、それをレビューし問...",
-    "link": "https://zenn.dev/jam0824/articles/c84a2ef393ee70",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-31T15:25:22",
-    "ai_summary_done": false
-  },
-  {
-    "id": "92374efe6a1c1952576948a65484a4fc",
-    "title": "AIにテストケースを書かせているだけではない: manual-bb-test-harness の説明",
-    "summary": "!\nリンクの紹介は目視で確認。文章ドラフトおよび調査において生成AIを利用しています。\n\n\n TL;DR\n\n\nmanual-bb-test-harness という OSS を作った\n\nmanual-bb-test-harness は、ブラックボックステストの QA 設計知識とリリース判断の構造化をするもの\n具体的には、仕様を読み、観点を出し、リスクを付け、手動ケースに落とし、工数を見積もり、最後に...",
-    "link": "https://zenn.dev/rna4219/articles/0c51e22473e3c8",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-31T09:00:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "03e60946b77b0f62d4329e190a289307",
-    "title": "CodexでFlutterアプリを3か月未満で公開したけど、今どきの個人開発はコード以外が大変すぎる",
-    "summary": "OpenAIのCodexを試すつもりでFlutterアプリを作り始めたら、気づいたら87日でGoogle Play公開まで到達していました。\n\n!\n出来た Flutter 製ギャラリーアプリ「マイギャラリー」は、Google Play で公開しています。\nhttps://play.google.com/store/apps/details?id=me.mfactory.mygallery\n\nしかし...",
-    "link": "https://zenn.dev/mfactory_uh/articles/f793050a48813b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-31T00:08:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2d533252b23b940718340c8219b626b4",
-    "title": "AIエージェントを支える次世代データ基盤 - 物理グラフDBを独自開発するための変更管理と安定運用戦略",
-    "summary": "この記事は、Snowflake / Databricks / Google Cloud が推進する仮想グラフによる知識グラフをテーマにした、3部構成のシリーズ記事の 第3部 です。\n\n第 1 部 Snowflake / Databricks / Google が挑む仮想グ...",
-    "link": "https://qiita.com/yohei1126/items/2359c10d6c37be7f4fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-31T14:08:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ee760a96e5e611a918c3f05111e341a4",
-    "title": "さらばAIスクラムチーム",
-    "summary": "AIスクラムチームのこれまでの軌跡\nこれまで10本のAIスクラムチームの記事を書いてきました。諸般の事情で途中からZennに投稿していたのですが、Qiitaから始まったAIスクラムチームはQiitaで終わらせようと思い、最終回としてこちらに投稿します。\nこれまでのAIスク...",
-    "link": "https://qiita.com/shyamagu/items/ee8630f496b096f9a968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-05-31T23:18:31",
     "ai_summary_done": false
   }
 ]
