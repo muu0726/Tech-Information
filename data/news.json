@@ -1,5 +1,125 @@
 [
   {
+    "id": "ba350a2b419feb8b22821904329522e6",
+    "title": "Claude Codeで仕様書をMarkdown/HTMLで記述を比較",
+    "summary": "Claude Codeで仕様書をMarkdown/HTMLで記述を比較\nAI駆動開発・仕様駆動開発の流れのなかで、仕様書の存在感が増しています。Claude の技術ブログ Using Claude Code: The unreasonable effectiveness of HTML でも HTML 出力の有効性が語られています。\n仕様書を Markdown と HTML のどちらで書くか。迷い...",
+    "link": "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-06T10:56:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "73b5a28145b0553375b0c10c97d13b85",
+    "title": "AI駆動開発はここまで来た！Claude×FigmaMCPで1日アプリ制作",
+    "summary": "今週末、Figma MCP サーバーを Claude Code から使って、デザインから実装までをつなぐ小さなアプリ開発を試してみました。\n想像以上に開発体験がよかったので、この記事では実際に行ったセットアップ手順をまとめます。\n\n 完成イメージ\nFigma でデザインした画面を、MCP 経由で Claude に渡してコード化した最終成果物です。\n今回はペットと一緒に行ける場所を探せる PetSp...",
+    "link": "https://zenn.dev/sun_asterisk/articles/claude-figma-mcp-app",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-06T09:23:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "42065d4351e86f2cc70dcea30461faa6",
+    "title": "E2Eテストを民主化したら、朝には失敗の分析も再実行も修正PRも終わっていた",
+    "summary": "はじめに\n始業時にSlackを開いたら、昨夜実行したE2Eテストの失敗の分析も、再実行も、修正PRの作成も、ぜんぶ終わっていた。\nそんな状態を実現するまでの、QAとAIのお話です。\n\n 第1章：QAチームが一手に担っていた時代\n私たちのチームでは、PlaywrightでE2Eテストを自動化しています。\n私たちは、20以上の診療科を持つクリニックに向けて、オンライン・対面それぞれの診療形式に対応した...",
+    "link": "https://zenn.dev/lincwell_inc/articles/e8e288ee35f5b4",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-05T05:45:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "38e60ee604b257b0c7f06adf6a678b6f",
+    "title": "しばらく触っていなかった自分が作ったシステムを、AIと一緒にテストデータ作成と評価で整理した話",
+    "summary": "はじめに\n過去に担当していたデータ連携処理を、あらためて見直すことになりました。\nきっかけは、連携先の仕様変更に備えて、既存の処理が問題なく動くかを確認したくなったことです。\nコードもドキュメントも検証に必要な情報も残っていましたが、「どの条件で正常になるのか」「何を確認...",
+    "link": "https://qiita.com/Tom-Panasonic/items/1ac0a1e8da9db04a58c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-05T07:54:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c445f6f25156ffaa294dba8440600893",
+    "title": "IBM Bobはじめました (無料トライアル登録とインストールの流れ)",
+    "summary": "こんにちは。職業「戸倉彩」です。\nIBMのAI駆動開発パートナーとして登場した 「IBM Bob」 に興味はあるけれど、最初の一歩が少し分かりにくい。 そんな方向けに、この記事ではIBM Bobの無料トライアル開始からインストール、起動までをできるだけやさしくまとめます。\n...",
+    "link": "https://qiita.com/ayatokura/items/26a7dc7ecfa10d489902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-06T16:13:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c377353ab29a124880d091812324bde2",
+    "title": "AI コード生成ツールを使用してキャンバス アプリを作成中に画面が真っ白になってしまった時の解決方法",
+    "summary": "はじめに\nPower Apps のキャンバスアプリをClaude Code やGitHub Copilot でVibe Coding をしていると、たまに画面が真っ白になることがあります。ブラウザを更新すると変更が反映されておらず、ローカルのファイルとの差異が生まれて、な...",
+    "link": "https://qiita.com/kama_bizdev/items/118f22e48b76459e4ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-07T00:22:46",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0c1710b880e6ebab95b5f8444e96a5be",
+    "title": "推論モデルに「think step by step」は、もういらない — AIに「どれだけ考えさせるか」を設計する実践ガイド",
+    "summary": "はじめに — think step by step って、まだ条件反射で書いてませんか？\nプロンプトの最後に、こう書いてないでしょうか。\n最後に、ステップバイステップで考えてください。\nLet's think step by step.\n\n正直に言うと、ちょっと前まではこ...",
+    "link": "https://qiita.com/akira_papa_AI/items/8bd363fa218de466c581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-06T13:20:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "11cc38aed9246af55a2008ac09983c13",
+    "title": "Kiro CLI v2.0.0がやってきた!",
+    "summary": "はじめに\n本記事は、2026年5月28日(水)に開催された「JAWS-UG AI/ML #38：AIエージェントとAI-DLCで加速する！AI/ML実践LT大会」で発表した\n「Kiro CLI v2.0.0がやってきた!」\nの紹介記事です。\n\n記事内容について\nタイトルは...",
+    "link": "https://qiita.com/kamogashira/items/b074998644127dbfa31c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-07T04:30:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cc6de552f848b65099eeba3a02affa5c",
+    "title": "Antigravity 2.0における利用枠制限対策：Gemini 3.5 Flash (Low) モードとGoogle AIクレジットの活用法",
+    "summary": "1. はじめに：なぜAntigravity V2では簡単に「利用枠制限」に達してしまうのか\nGoogle Antigravity 2.0（2026年5月のメジャーアップデート）以降、多くの開発者が頭を悩ませているのが、かつてないほど容易に発生する「5時間制限」や、それを超...",
+    "link": "https://qiita.com/ynarita22/items/0b7f89eb340135991d4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-07T09:04:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "88b6d09b1c9bce8dcde8e72688aba843",
+    "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+    "summary": "SpaceXがGoogleにAIコンピューティング能力を提供する契約を結んだことが、SECへの提出文書で明らかになった。NVIDIA製GPUなどを月額9億2000万ドルで利用する。SpaceXにとって5月のAnthropicに続く大型インフラ契約となる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-07T00:46:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ccce11873542ea062685df9376a7842f",
+    "title": "ChatGPTに「ロックダウンモード」　プロンプトインジェクションによる情報漏えい対策",
+    "summary": "OpenAIは、ChatGPTに新たなセキュリティ機能「ロックダウンモード」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出リスクを抑えるためのオプションで、有効にするとWebブラウジングや外部サービスへの接続機能が制限される。機密データを扱い、厳格な保護を求める個人や組織を想定している。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-06T22:22:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e0b5d181230c90666dcff2ba188f6ba",
+    "title": "パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
+    "summary": "「機動警察パトレイバー」の最新シリーズ「機動警察パトレイバー EZY（イズィー）」の「File 1」が5月15日より劇場公開中です。ボクも子供の頃から大好きだった作品。さっそく見に行ってきました。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-06T22:14:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -877,126 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-06-03T02:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "138025d8b9c7a0100372e6cea3d9ec5b",
-    "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
-    "summary": "米MicrosoftがAIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers」（MXC）を発表しました。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-03T02:02:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5890ec750e8950a7f8b9a3f408aaf981",
-    "title": "ネット青少年保護、年齢確認を厳格化　一律年齢制限には踏み込まず　総務省有識者案",
-    "summary": "総務省がインターネット上で青少年を保護するための規制に関する有識者会議を開き、サービス事業者に年齢確認の厳格化などを求める報告書案を公表した。SNS依存や誹謗（ひぼう）中傷が社会問題化し、生成AIを悪用して加害者になるケースも相次いでいるため、対策を強化する。一方、年齢による一律の利用制限は望ましくないとした。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news071.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-03T01:28:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "416eedd0fde879f44fab4be37a8ca85d",
-    "title": "トランプ米大統領、AI安全保障に関する大統領令に署名　最先端モデルを公開30日前に政府が検査可能に",
-    "summary": "トランプ米大統領は、先進的AIのイノベーションと安全保障の促進に関する大統領令に署名した。戦争省やCISAによるサイバー防衛強化に加え、主要企業の最先端AIモデルを政府が事前検証する任意の枠組みを構築する。政府は全面的な監視を否定しており、民間の開発自由度を維持しつつ安全保障の確保を目指すとしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-03T00:42:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "59808c98d55189f0d4212f934130b8be",
-    "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
-    "summary": "Microsoftは「Build 2026」で、AIエージェントの実行に特化した新プラットフォーム「Project Solara」を発表した。OSにはWindowsではなくAOSPベースのOSを採用。Qualcommと共同開発した社員証のようなデバイスと、MediaTekと共同開発した据え置き型デバイスのリファレンスを公開し、主要企業とのパイロット運用を開始する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-02T22:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "618b95296b2d782d93f4f070b2ed6889",
-    "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
-    "summary": "Antigravity CLIとChrome DevTools for Agents",
-    "link": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-01T02:36:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "18e170b08d0c6b80ff55dee9d9fd3830",
-    "title": "ローカルLLMにWebアプリを自律生成させた — 28秒で完成、セキュリティテスト22件全PASS",
-    "summary": "gpt-oss:20bに「アプリ作って」と言ったら28秒で完成した\nOpenAIのオープンウェイトモデル gpt-oss:20b。MoEアーキテクチャで、20.9Bパラメータのうち実際に動くのは3.6Bだけ。16GB VRAMのRTX 4080で動く。\nこいつに「Todoアプリ作って」と言ったら、1回のAPI呼び出しでindex.htmlを吐き出し、2回目で「できたよ」と返してきた。28秒。\n面白...",
-    "link": "https://zenn.dev/seeda_yuto/articles/local-llm-agent-harness-guide",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-05-31T23:05:49",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a0857a7cc34ba61d53cf17f09eed940f",
-    "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
-    "summary": "株式会社PRUMのmasaです。\nエンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。\n今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。\n\n「コードが書ければ良い」時代は終わりつつある\n\n求めら...",
-    "link": "https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-02T02:28:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1d4919cb30e191664aaf629c2d09c795",
-    "title": "AWSでOpenAIモデルを使おう！（Bedrock APIとStrands編）",
-    "summary": "ついにBedrockでOpenAIの最新モデルがGAしました！\n\nBedrockのAPIは何種類かあり、最もよく使われるClaudeなどを呼ぶ際には Converse API を使うのですが、GPT-5.5はConverseに非対応。\n代わりにOpenAI側のRespo...",
-    "link": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-02T09:10:36",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f739a830a92fbc8d4d8c38bf9b4e07ed",
-    "title": "チーム開発の認識ズレを入口で潰す。OpenSpec に「AI が先に質問する」工程を足して比べてみた",
-    "summary": "はじめに\nこんにちは鷹野です。\n私は4月から仕様駆動開発（SDD）を取り入れるための新チームにジョインしました。\nClaude Code もその時から触り始めた初心者です。そんな中、約2ヶ月の仕様駆動開発を経験して感じたのは、1人でやるのとチームでやるのは全然違うというこ...",
-    "link": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-02T01:04:59",
     "ai_summary_done": false
   }
 ]
