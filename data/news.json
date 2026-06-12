@@ -1,5 +1,175 @@
 [
   {
+    "id": "f0c578664ef45a165071a617fcccb19d",
+    "title": "アプリ層とDB層の二重防御でテナント分離を担保する（マルチテナント化連載 第3回・二重防御編）",
+    "summary": "はじめに\nこんにちは。株式会社カウンターワークスにて、テックリードとして、リーシングのDXを実現するクラウド管理システム 「ショップカウンター エンタープライズ」（以下 SCE）を開発しております shim です。\n前回の PostgreSQL 移行編に続いて、今回はマルチテナント化の中核である アプリ層 + DB 層の二重防御 をテーマに、設計・実装・運用、実装してハマった点までを書きます。\n前...",
+    "link": "https://zenn.dev/counterworks/articles/1887cb36a1b701",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-12T02:01:30",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a220d0356a37a68216559402371311af",
+    "title": "Claude Codeのアドバイザーが「プロジェクトの本質」を毎回思い出させてくれる ── 公式仕様を踏まえたCLAUDE.mdの書き方",
+    "summary": "!\nこの記事は AI（Claude）を利用して作成し、内容は公式ドキュメント（Claude API / Claude Code）に照らして確認しています。とはいえ仕様はベータで変わりうるため、重要な点はご自身で一次情報を確認してください。\n\n\n この記事で言いたいこと\n長いセッションでコーディングを任せていると、メインのモデル（実行モデル / executor）はだんだん「このプロジェクトが本来何...",
+    "link": "https://zenn.dev/acntechjp/articles/83f9d7bb898010",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-11T16:13:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5ce9f61274c674979300391754ae1d5c",
+    "title": "Claude Codeと91本のPDFで知識グラフを作って卒論を書いた（そして何が壊れたか）",
+    "summary": "完成した知識グラフの可視化（622ノード・846エッジ、vis-network製）。左下のギャップ候補リストには後述する「あるバグ」が写り込んでいます\n卒論のために、91本のPDF文献（約460万字）から概念を抽出して知識グラフを作りました。使ったのはClaude Code（当時のClaude Opus 4.5）とPythonスクリプト17本。最終的に622概念・846エッジのグラフになり、そこか...",
+    "link": "https://zenn.dev/keipi/articles/lbd-knowledge-graph-91pdfs",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-11T15:53:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e919fe752c6676ddf955631305d432bd",
+    "title": "自分専用のAIニュースキュレーターをCodexで作って約1か月運用してみた",
+    "summary": "こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。\nAI系のニュース、毎日とても多いですよね...!!\n論文、モデルのリリース、プロダクトのローンチ、ビジネス動向など、毎日大量のニュースが流れてきます。これらを全部丁寧に追うのはとても難しくなってきています。\nこれまで私は、情報収集には主に以下のようなニュースレターを使っていました。\nhttps://tldr.tech/\nht...",
+    "link": "https://zenn.dev/mkj/articles/966c62588bd8fc",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-11T02:50:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "36a3df379a9f0cd67f049d33d2e9725b",
+    "title": "Claude Code × Obsidian で『記憶の二層構造』を作る",
+    "summary": "はじめに\nClaude(Claude Code / claude.ai)を日常的に使っていると、「前にこの話したよね」「あのアイデア、どこかに書いた気がする」という場面が増えてくる。\nこれを解消するために、以下の二層構造を構築した。\n\n\n長期ナレッジ層: Obsidian + MCP連携で、claude.aiからアイデアや内省を直接読み書き\n\n作業文脈層: Claude Codeのセッションログを...",
+    "link": "https://zenn.dev/0rv3/articles/b6a7172bfda1ed",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-10T21:35:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e2fdfcb7d60fc0fca6a0373d4830685",
+    "title": "Hermes Desktop の設定 186 項目を実機とソースで全部調べて、日本語ガイドを公開した",
+    "summary": "TL;DR\n\nNous Research の Hermes Desktop の設定 14 カテゴリ・全 186 項目を、実機監査とソースコード照合で検証した非公式日本語ガイドを公開した → https://hermes.ai-deck.app\n\n検証は v0.16.0 / コミット d165933 に固定。Computer Use で設定 14 画面のアクセシビリティツリーを採取し、既定値は設定 ...",
+    "link": "https://zenn.dev/takna/articles/hermes-desktop-settings-guide",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-10T13:13:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "35dcf569d9662c7423ded6a27d50b706",
+    "title": "AIが書く量を増やすより、AIスロップを減らしたい",
+    "summary": "はじめに\nAIが生成できる情報量は急速に増えていますが、 人間が一度に読める量は変わりません。\n大量の仕様書やコードをAIに作らせても、人間が確認できなければ意味がありません。\nAIで無責任に生産される成果物について警鐘を鳴らす識者もいます。\nLinux創始者のリーナス・トーバルズ氏は、Open Source Summit North America 2026 のキーノートで、AI利用による pu...",
+    "link": "https://zenn.dev/ttaniguchi/articles/ai-prompting-next",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-10T12:17:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a45b984ffd6c7acdb78df966ec247572",
+    "title": "TSKaigi 2026に参加＆登壇してきました！ #TSKaigi2026",
+    "summary": "こんにちは。株式会社Schooの@okuto_oyamaです。\n2026年5月22〜23日に開催されたTSKaigi 2026へ参加・登壇してきました。\n今回の記事では、カンファレンスのハイライトと印象に残ったセッション、そして私自身の登壇内容について、TSKaigi 2...",
+    "link": "https://qiita.com/okuto_oyama/items/6b93d82a7da79f7e3d15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T02:53:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a04cda53996ff1659edb0a1fa683df39",
+    "title": "ワイ「ヘイ、AI！お仕事を奪わんといて！」",
+    "summary": "ある日、リモートワーク中\nワイ「さあ、今日もお仕事がんばって行くでぇ」\n\nAIちゃんに指示\nワイ「ヘイ、AIエディタちゃん！」\nワイ「このタスク進めといて！」\nAI「かしこまりました」\nAI「・・・タスクの内容を確認中・・・」\nAI「一点確認ですが、〇〇の部分はどうします...",
+    "link": "https://qiita.com/Yametaro/items/3dfe149b4b8cb91ed898?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T07:48:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ffff36277d2a7a2acb0be014d819281d",
+    "title": "Deep Data Securityで実現するNL2SQLのアクセス制御",
+    "summary": "今回は、少し具体的なユースケースを用いてDeep Data Securityを試してみます。\n最近ではSQLだけでなくLLMを利用したNL2SQL(自然言語)によるデータベースアクセスも増えてきていますので、その両方のパターンで実際にどのような動作するのかというのを試してみ...",
+    "link": "https://qiita.com/Western24/items/100c5b4f878f8b3a9185?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T06:46:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a82749f51ab37e5fd176b73e7eb29c49",
+    "title": "今からNext.jsを始めるなら僕ならこうする話",
+    "summary": "最近、ChatGPTやClaudeに「Webアプリ作って」とお願いすると、返ってくるコードがだいたいNext.jsなんですよね。それで「Next.jsってなんだ？」と気になって調べ始めた人、けっこう多いんじゃないかと思っています。\nただ、いざ公式ドキュメントを開くと情報量が...",
+    "link": "https://qiita.com/yamu_official/items/7deae192de183eb6f8bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-10T06:55:54",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0f0fd6b7f0edd8c245df0b5b640c5fec",
+    "title": "CancellationExceptionはなぜcatchしてはいけないのか",
+    "summary": "こんにちは、こんばんは、kitakkunです。\nAIによるKotlinのコードレビューで、「CancellationException を catch するな」と言われたことがある方は多いのではないでしょうか。\nsuspend fun doSomething() {\n   ...",
+    "link": "https://qiita.com/kitakkun/items/253540215f057a5933b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T13:47:39",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fd3f4e43fe51b011144da238eed3c7b6",
+    "title": "ローカルLLM（Gemma4 26B QAT）が110 tok/sで動いた",
+    "summary": "Gemma4 26B QATをRTX 5070 Ti のVRAM16GBに全載せし、通常版Q5/Q6と速度・品質を比較した\nGemma4のQAT版が出た。どうやら、通常の量子化よりも品質を残したままメモリ使用量をかなり下げられるらしい。\n特に気になったのが26B A4B版...",
+    "link": "https://qiita.com/rS_alonewolf/items/7859599ed282facb05d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T22:28:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "595c005a38e98d87b7024b92ef4998e2",
+    "title": "③ 組織で使うNotion設計：Notion AIを活かす情報構造の作り方",
+    "summary": "(Notion AIにて生成)\nこんにちは。ハートランド・データ株式会社の樫村です。\nこれまでの記事では、Silo BustersとしてNotionの情報サイロ化に向き合った活動と、ミッションDBを軸にしたデータベース（以降DB）構造・ガードレール設計について紹介しました...",
+    "link": "https://qiita.com/Kashi_hldc/items/62baf03df325b338ce7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T02:00:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "039cc9da8cad7e2494f4f9d1b0e03ae7",
+    "title": "① 組織で使うNotion設計：情報サイロ化を見直した実践レポート",
+    "summary": "(Notion AIにて生成)\nこんにちは。ハートランド・データ株式会社の樫村です。\n私たちの組織では、Notionを議事録、タスク、ナレッジ管理などに活用しています。便利に使える一方で、チームごとに似たようなデータベース（以下、DB）が増え、「どこに何を書けばよいのか分...",
+    "link": "https://qiita.com/Kashi_hldc/items/5882a75431e02b9d284a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T01:57:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9f64f92f43f6b5d556889fc0227650ad",
+    "title": "② 組織で使うNotion設計：自由度を負債にしないための設計",
+    "summary": "(Notion AIにて生成)\nこんにちは。ハートランド・データ株式会社の樫村です。\n前回の記事では、技術者研修で立ち上げた Silo Busters の活動全体を紹介しました。今回は、その中でもNotionのデータベース構造とガードレール設計に焦点を当てます。\nNoti...",
+    "link": "https://qiita.com/Kashi_hldc/items/44e76899b44012f3507a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T01:58:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "aad7f74be710ba8cbba107deb62b51e1",
+    "title": "OpenAI、クラウド開発環境のOnaを買収　「Codex」の強化狙い",
+    "summary": "OpenAIは、クラウド開発環境を提供するOna（旧Gitpod）の買収を発表した。Onaのセキュアなクラウド実行基盤をAIコーディングツール「Codex」に統合し、エージェントがPCを離れても長時間稼働し続けられる環境を実現する狙いだ。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-11T23:46:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -827,176 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-06-09T03:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "702a1daf64bfd571cf906334589a4234",
-    "title": "Google「AI Plus」4割値下げ、月725円に　ストレージ倍増、価格攻勢でシェア拡大へ",
-    "summary": "同社は上位プランの「AI Pro」や「AI Ultra」でも値下げや特典追加を相次いで実施しており、「Plus」の改定で全3プランのてこ入れが一巡した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T02:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "892ea1368e689dc67ea5268294f701a0",
-    "title": "OpenAIがIPO申請を発表　時期は未定",
-    "summary": "ChatGPTを手がける米OpenAIは6月8日（現地時間）、米国での新規株式公開（IPO）を内密に申請していたことを発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T01:25:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1af571a13e1836a335386e1659d38bd4",
-    "title": "「watchOS 27」発表　Apple Watch S8や初代Ultraなどサポート対象から外れる",
-    "summary": "米Appleは6月8日、WWDC26でApple Watch向け次期OS「watchOS 27」を発表した。Apple Intelligence基盤の「Siri AI」に対応し、専用アプリで対話やWeb検索が可能に。タップジェスチャーやWorkout Buddyの改善も含む。対応はSeries 9以降に限定され、Series 8以前は対象外となった。今秋提供予定。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news072.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T01:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "242fa6556e2230e7490c93982fe5b503",
-    "title": "Apple、EU当局を批判「どの解決策も受け入れず」　「Siri AI」EUのiPhone・iPadで提供見送り",
-    "summary": "EU側が求めるデジタル市場法（DMA）への対応について、Appleが提示した解決策を欧州委員会がすべて拒否したためという。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news069.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T00:33:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "987e20de3d7f4776ad723c13f938fd1f",
-    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
-    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-28T20:53:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "657d8a6a5c12c6edb1141ff848711085",
-    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
-    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
-    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T17:49:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7219cb9c0a915cdb8ca5d405b313741",
-    "title": "トレードオフ過ぎるバージョン管理",
-    "summary": "対象読者\n前回記事（Dependabotに任せよ？）を読んでいる、または GitHub Actions の action バージョン管理方針を設計判断したい人。SHA pin の可読性問題が気になって踏み切れていない、あるいは「とりあえず SHA pin すればよい」と思っているが詰めに自信がない人。\n\n 先に結論\n\n\nuses: owner/action@<sha> # vX.Y.Z 形式なら ...",
-    "link": "https://zenn.dev/kmryst/articles/github-actions-sha-pin-owner-tier",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T13:57:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "db91b70afc2240809ebd8a7eab158527",
-    "title": "推薦システムの新たなパラダイム Generative Recommendation",
-    "summary": "近年Meta[1] [2]、ByteDance[3]、Kuaishou[4]、Google[5]、Alibaba[6]といったビッグテックの企業から、Generative Recommendationに関する手法が数多く発表されています。\nこれは、推薦システムの問題設定を新しい形で定義するもので、RecSys、CIKM、WWWなどの学会でもチュートリアルが開かれたりとホットなトピックになっています...",
-    "link": "https://zenn.dev/rintaro121/articles/generative-recommendation",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T10:15:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "5e3feab567a319a08d4e190a30b290c3",
-    "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
-    "summary": "はじめに\nITコンサル1年目です。Claude Codeを使って個人開発を進めていますが、最近ずっと引っかかっていたことがあります。\n「AIに書いてもらったコード、本当に安全なんだろうか?」\ncode-to-rich.com、shindan-me.com、その他いくつかの個人開発PJをClaude Codeと一緒に作ってきましたが、コードレビューの大部分をAIに任せている以上、\n\n危険なパターン（...",
-    "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T07:28:37",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1b0f1a41caeb5b07762770e7366b2c9f",
-    "title": "GitHub Copilot法人利用の移行先検討結果",
-    "summary": "2026年6月1日より、GitHub Copilot Business / Enterprise のAIモデル利用は、AI Creditsベースの従量課金に移行しました。\nそれなりに使っていた方が従量課金で同程度利用しようとすると、月額$100〜$2,000程度の予算が必要になる可能性があります。\n先にGitHub Copilotを擁護しておくと、公開されているモデル別単価を見る限り、主要モデルは...",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-06-07-copilot-business-migration",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T06:52:39",
-    "ai_summary_done": false
-  },
-  {
-    "id": "82d9c8e4a95bb408a2d398b804536192",
-    "title": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
-    "summary": "半年ぶりにそのリポジトリを開いて、最初にしたのは、自分が書いた関数を指でなぞることでした。\n小さなバグ報告が来て、直そうとしてファイルを開いて、それで手が止まりました。どこに何が書いてあるのか、追えない。書いた記憶はあります。何週間もこれにかかりきりだったのも覚えている。でも、目の前のコードと自分のあいだに、知らない人が一人挟まっているような感じがする。八割くらいをAIに任せて作った、LMS用のテ...",
-    "link": "https://zenn.dev/rapls/articles/7456767a19af06",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T02:45:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b25e0e7ac6a68dfc68b78984b02e1606",
-    "title": "Rust を学ぶために、漫画ビューア gashuu(画集)を作った",
-    "summary": "はじめに\nAI を前提にすると、新しいプログラミング言語の学び方はどう変わるのか。\nこれまでは、本を読む、チュートリアルを写経する、小さなものを作りながら覚える、という流れが多かった。もちろん今でもそれは有効だ。ただ、生成 AI がある程度まとまったコードを書けるようになった今、別の学び方もあるのではないかと思った。\n今回試したのは、「AI にある程度動くところまで作ってもらい、そのコードを読み、...",
-    "link": "https://zenn.dev/yasuflatland/articles/48a08b3eb8cd27",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T02:39:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fe274128cc3cf140a651e50b36d8cef5",
-    "title": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
-    "summary": "はじめに\nClaude Codeを使い始めてすぐ気づいた。セッションを開くたびに、AIは何も知らない状態から始まる。\n先週話した仕様変更も、ADRで決めた設計方針も、あの実装が依存している要件も、全部ない。毎回ゼロから説明し直す。それでも「影響範囲が抜けていた」「別の仕様と矛盾していた」という問題が起きる。\nAIとの開発にウォーターフォール的なトレーサビリティの仕組みを持ち込んで、これを解決しよう...",
-    "link": "https://zenn.dev/abalol/articles/579296fa31056f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T00:59:52",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e0e1bdb4426b7bb5dce6032ea1d74dbb",
-    "title": "Raspberry Pi×OpenClawで始める 自宅AIエージェント入門",
-    "summary": "自宅にRaspberry Piサーバーを置いた。NextcloudやGitLabも動かせるようになった。\nでも、日々の作業はまだ、自分で画面を開き、自分で確認し、自分で判断している—。\n\n本書は、その自宅サーバーに「自分専用のAIエージェント」を住まわせるための1冊です。\n\nたとえば、朝になると必要な情報を集めてくれる。Slackから話しかけると、サーバーの状態や作業メモを確認してくれる。Next...",
-    "link": "https://zenn.dev/murasanlab/books/f4082d7ad9ee0b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-06T01:30:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "03bca635de7a339cac9e34013e43045a",
-    "title": "AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜",
-    "summary": "「AIの自動化に失敗する会社が見落としている『評価』の問題と、それに応えるERC-8004を、ビジネス視点で解説します。」\n\nはじめに：なぜ今「AIの評価」が論点になっているのか\nここ数年、AIは「ある意味なんでもできる」という期待とともに語られてきました。いわゆるAI...",
-    "link": "https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-08T02:01:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "cc724a0d8811cdd70ba44c26324ea530",
-    "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
-    "summary": "慶応三年、江戸にて\n娘「おとっつぁん、大変だよ！」\n\n熊さん「一体どうしたってんだい、娘ちゃん」\n熊さん「朝っぱらから、ただごとじゃねぇ顔してるじゃねぇか」\n娘「うちのECサイトで、問題が起こっちまってるんだよぉ！」\n娘「新規登録の時だけのキャンペーン割引が」\n娘「全ての...",
-    "link": "https://qiita.com/Yametaro/items/226e7c06bc9d5877e64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-08T01:43:34",
     "ai_summary_done": false
   }
 ]
