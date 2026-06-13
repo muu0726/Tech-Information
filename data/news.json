@@ -1,5 +1,215 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "657d8a6a5c12c6edb1141ff848711085",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
+    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T17:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "00bc680552e691339c6dde9757578b5d",
+    "title": "散らばるAI開発ログを一か所へ：agentsviewで検索・コスト確認・振り返り",
+    "summary": "AI コーディングエージェントとは、Claude Code、Codex、Cursor、Gemini CLI のように、コードの調査、修正、生成、コマンド実行を手伝ってくれる開発用 AI ツールのことです。\n使い始めは、とにかく便利です。エラーの原因を調べる。修正案を出してもらう。設計を相談する。別案を試す。ただ、しばらく使っていると別の問題が出てきます。\n「あのエラー、前にも調べたはずなのに見つか...",
+    "link": "https://zenn.dev/53able/articles/6514f44e72be7f",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-12T17:36:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "45b0d900c9a5e0942f4909728fe8e592",
+    "title": "Claude Code × Trivy MCPで依存ライブラリの脆弱性を検出→修正→再スキャンする",
+    "summary": "はじめに\nAIがコードを書く時代になって、困りごとが1つ増えました。書くスピードが上がったぶん、「いま書いたコード、本当に安全か」を確かめる手間が追いつきません。依存ライブラリに既知の脆弱性が混ざっていても、生成された瞬間は気づけないことが多いものです。\nだったら、確かめる作業も同じAIに任せてしまえばいい。コードを書いたAIに、その場でスキャナを呼ばせて、脆弱性を見つけさせて、直すところまで一往...",
+    "link": "https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-12T04:31:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4cbf784d49636772449624d6dd06cf14",
+    "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった",
+    "summary": "はじめに\n\n*この記事のまとめ\n\nClaude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた\nスキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった\nメモアプリ1つで始められる。エン...",
+    "link": "https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T01:25:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "64a771490bf0c9a95a625314ac9d8314",
+    "title": "【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました",
+    "summary": "はじめに\n先日(2026年5月)、AWSが主催する以下のハッカソンに、チームで参加してきました。\n\nこのハッカソンのテーマのひとつが、AWSが提唱する新しい開発手法 AI-DLC（AI-Driven Development Life Cycle） を利用することでした...",
+    "link": "https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T23:42:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "79e98dcc8dd11921634c376c5cee219c",
+    "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
+    "summary": "はじめに\n以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。\nここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...",
+    "link": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T19:48:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "76f35a769ebbc641c8576501a637916b",
+    "title": "AIに有利なプログラミング言語は？",
+    "summary": "こんな「通念」、聞いたことありませんか？\n\n「AIにコードを書かせるならRustが最強。型システムとborrow checkerがAIのミスを全部弾いてくれる」\n「C++をAIに書かせるのは危険。未定義動作とポインタの地雷原だから、機能は作れてもバグだらけになる」\n「Pyt...",
+    "link": "https://qiita.com/nekoya404/items/244363f06ba89200a762?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T06:42:42",
+    "ai_summary_done": false
+  },
+  {
+    "id": "10abb62f57b2a243c7c6a4505520e662",
+    "title": "【React】shadcn/ui で作るデザインシステムとAI駆動開発 — 導入編",
+    "summary": "はじめに\nこの記事は、shadcn/ui でデザインシステムを構築するための導入編です。\n以下の理論編で「なぜ shadcn/ui がデザインシステムに向いているのか」を整理しました。\n\nこの記事では実際にプロジェクトを立ち上げ、トークンを設計し、コンポーネントをプロ...",
+    "link": "https://qiita.com/Yasushi-Mo/items/851c61c698db0d29edfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-10T21:04:37",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ced292daaa03c47f910892d3670cf0c3",
+    "title": "AIタロット占いアプリを作ったら、AIが想像以上のポエマーだった話",
+    "summary": "🔮 はじめに：日常の迷いに、静かな指針を\n日常の迷いにそっと寄り添い、現状を読み解くタロット占いアプリ『Hoshimichibiki（星の導き）』をリリースしました。\n\nURL: https://hoshimichibiki.senle1024.com/\n\nタロット...",
+    "link": "https://qiita.com/senle1024/items/10faf54207af42fe8100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-13T04:56:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0104a19f24ec0db0318b43ef46a176f9",
+    "title": "【Java】Maven の概要と Gradle との比較",
+    "summary": "はじめに\nこの記事では、Java のビルドツールである Maven の概要を記載します。あわせて Gradle など他のビルドツールとの違いにも触れます。\n\nそもそもビルドツールとは\nJava のソースコード（.java）は、そのままでは動きません。次のような作業を...",
+    "link": "https://qiita.com/Yasushi-Mo/items/8ee584bd236fe1614a2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-11T23:22:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a481a0ec798b42810bb918ab0e60c331",
+    "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
+    "summary": "はじめに\nこんばんは、mirukyです。\n生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RAGはRetrieval-Augmented Generationの略で、日本語では検索拡張生成と呼ばれることが多いです。\nただ、RAGという言葉だ...",
+    "link": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-13T14:05:19",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6482f1dd24245109b3b6c69721adeb08",
+    "title": "【Frontend CSS – パート9】ブラウザから見たCSS Grid：2次元レイアウトは実際どう動くのか？",
+    "summary": "注意\nこの記事はAIのサポートを受けていますが、内容は大規模Webアプリでの実体験に基づいています。\n\n1. 問題：「Gridは楽勝」と思ったらそうでもなかった\nFlexboxをマスターしたからって、もうレイアウトのすべてを制した気分になっていませんか？おめでとう...",
+    "link": "https://qiita.com/tuanphan/items/c773a0df30ecc13f0573?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T09:33:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bd07c64260f7141fb4b8dec70172dd67",
+    "title": "拝啓 AI様 「人類」を主語にして話すのはやめてください。敬具 人類",
+    "summary": "はじめに\nAI(特にChatGPT）と話していて、「人類」という主語を使ってくることがありませんか？\n私は最近よくあります。\nただ英文の翻訳させているだけなのに、文脈上変なところで、\n\n人類、また「安全」の名で全ボタンを同時に押す芸当を発明したらしいです。\n\nとか言ってく...",
+    "link": "https://qiita.com/tomoki-miso/items/3a7352dea05f380c38fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-13T08:31:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "0a1f3cd9ffbf7851fe7f3fbe160ee95f",
+    "title": "【Frontend CSS – パート8】Flexboxの内部アルゴリズム – ブラウザはフレックスアイテムをどう計算するのか？",
+    "summary": "注意\nこの記事はAIの助けを借りていますが、内容は大規模Webアプリケーションでの実務経験に基づいています。\n\n1. 問題：「Flexboxよ、なぜこんなに悩ませるの？」\nこんな経験、ありませんか？\n\nシチュエーション1: 3つのカードを横に並べて、きれいに等...",
+    "link": "https://qiita.com/tuanphan/items/8383b348261a8873f37f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T08:50:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "129189de540bc35f5d128aa00d90415c",
+    "title": "エージェント開発の作業を「AFK」と「HITL」で仕分ける",
+    "summary": "はじめに\nAI コーディングエージェント（Claude Code など）を本格的に運用し始めると、ある時点で必ずこの問いにぶつかります。「この作業、エージェントに任せきりでいいのか？ それとも筆者が見ていないとダメなのか？」 です。\n最初のうちは「全部見ていないと不安」で...",
+    "link": "https://qiita.com/ryoji9702/items/ac005b39873ce4861b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T06:32:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1e4efd68c3d1c257afa02f795ed8c071",
+    "title": "Planでは自由に、修正では厳密に――AIコーディングを安定させるコミット境界",
+    "summary": "この記事は、主に Antigravity 2.0（Gemini 3.5 Flash (High)） を使って開発する中で得られた知見をまとめたものです。\n特定のツールだけに通用する話ではなく、AIコーディングエージェント全般にも応用できるのではないかと考えています。\nAIコ...",
+    "link": "https://qiita.com/torifukukaiou/items/00bd499be477514c9629?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T03:20:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cf8e625a962e36975f076b9aea34bee5",
+    "title": "Databricks Free Edition で OpenAI privacy-filter を動かして PII をマスキングする",
+    "summary": "openai/privacy-filter とは\nopenai/privacy-filter は、OpenAI が公開したテキスト中の個人情報(PII)を検出・マスキングするためのトークン分類モデルです。Apache 2.0 ライセンスで、商用利用やファインチューニングも...",
+    "link": "https://qiita.com/taka_yayoi/items/25e8c5686fb5a8a1b281?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-12T22:06:04",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6d46a1bc01fb469236e71171ca736143",
+    "title": "「Claude Fable 5」「Mythos 5」全面停止　米政府の指令により　Anthropicは早期復旧を宣言",
+    "summary": "米Anthropicは6月12日、最上位AIモデル「Claude Fable 5」「Claude Mythos 5」の提供を全ユーザーで停止すると発表した。米政府が安全保障を理由に、外国籍者のアクセス全面停止を命じる輸出規制指令を出したため。同社は指令に従う一方「誤解だ」として早期の復旧を目指すとしている。他のモデルへの影響はない。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-13T01:50:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bfce27fa007cd4971f3647232cb933f6",
+    "title": "最新AI「Fable 5」でYouTube動画作ってみた　想像以上の出来に驚愕、ただし大きな弱点も",
+    "summary": "SNSも“動画隆盛”な昨今。AIを動画制作に活用する例も多いが、最新AI「Fable 5」だとどんなものができるだろうか。早速試してみた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/12/news113.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-13T01:00:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "f0c578664ef45a165071a617fcccb19d",
     "title": "アプリ層とDB層の二重防御でテナント分離を担保する（マルチテナント化連載 第3回・二重防御編）",
     "summary": "はじめに\nこんにちは。株式会社カウンターワークスにて、テックリードとして、リーシングのDXを実現するクラウド管理システム 「ショップカウンター エンタープライズ」（以下 SCE）を開発しております shim です。\n前回の PostgreSQL 移行編に続いて、今回はマルチテナント化の中核である アプリ層 + DB 層の二重防御 をテーマに、設計・実装・運用、実装してハマった点までを書きます。\n前...",
@@ -787,216 +997,6 @@
     "source": "Google AI Blog",
     "category": "AI",
     "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ebf334e3fa99adf8b4b44551eb14ef28",
-    "title": "データエンジニアこそ組織のオントロジーに向き合うべき",
-    "summary": "こんにちは、クラシルでデータエンジニアをしているharry(@gappy50)です。\nクラシルでは、これまでAI-Readyなデータ利活用に取り組んできました。Tier設計でデータの信頼性を担保したり、Snowflake Managed MCP × Claude Codeでデータの仕事をAgenticに回したりと、データをAIで扱える状態にする仕事を続けてきています。\nその流れは過去記事にまとめて...",
-    "link": "https://zenn.dev/dely_jp/articles/data-engineer-context-action-layer",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-09T03:01:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "274a8e7b2692ac4c1229415e187e66c5",
-    "title": "マルチテナント化のために本番稼働中のMySQLをPostgreSQLに移行した話（マルチテナント化連載 第2回・PostgreSQL移行編）",
-    "summary": "はじめに\nこんにちは。株式会社カウンターワークスにて、テックリードとして、リーシングのDXを実現するクラウド管理システム 「ショップカウンター エンタープライズ」（以下 SCE）を開発しております shim です。\n前回の俯瞰編に続いて、いよいよ各論に入っていきます。今回は Phase 1: MySQL から PostgreSQL への完全移行 がテーマです。\n前回も触れた通り、マルチテナント化の...",
-    "link": "https://zenn.dev/counterworks/articles/0eb98271af2991",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-09T02:05:10",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6c68fc828eeec4926d8ccbac0b0e13de",
-    "title": "「Claude Code」を支える技術",
-    "summary": "本記事では、Claude Code の裏側を支えるアーキテクチャについて、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、Claude Code の内部構造を、ソースコードレベルで解析した論文[1]について、日本語で簡単にまとめたものです。\nhttps://arxiv.o...",
-    "link": "https://zenn.dev/knowledgesense/articles/7ce72924c0050f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-09T00:01:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b4fac407473d1d716573ed37a3d01b3b",
-    "title": "どこからでもAIで仕事をできるようにしたけど、疲れてやめた話",
-    "summary": "お風呂から始まるエンジニアリング\nきっかけはお風呂でした。私はお風呂が好きで、毎日湯船に一時間は浸かっています。お風呂でのんびり小説や漫画を読む。熱でも出ない限りは、そうやって湯船に浸かってのんびりとする時間は欠かさずとっていました。\nAIがまだそこまで長時間稼働できなかった今年の初め。お風呂に入る前に、ふとPCの前に引き寄せられるようになりました。これから一時間以上、自分は席を離れる。その間、A...",
-    "link": "https://zenn.dev/g2/articles/7aeb22e8ebbf82",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-08T12:33:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f6680b428b8aa9ccd47f4d29cd5e1625",
-    "title": "生成AI時代のエンジニアの生存戦略",
-    "summary": "はじめに\nこんにちは。株式会社カウンターワークス、テックリードの shim です。\n別途マルチテナントの記事を頑張って書いているのですが、先日社内にて「AI開発LT大会」を主催しました。\n言い出しっぺなので、そこで「（生成）AI時代のエンジニアの生存戦略」というテーマで発表したのですが、せっかくなので改めて記事として再構成しました。\n「生成AIにより開発スピードが速くなった」という話は至る所で聞か...",
-    "link": "https://zenn.dev/counterworks/articles/62667be5a186b8",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-08T06:08:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7a3895ed11df93c4f95a568bc99d7c46",
-    "title": "Claude Codeを導入したらやるべき！おすすめ3選（CLAUDE.md / hooks / プラグイン）",
-    "summary": "はじめに\nこんにちは！\nこの記事では、Claude Codeをインストールした後に「ぜひやっておくべきこと」を3つ厳選して紹介します。\nClaude Codeは、インストールするだけですぐに会話ベースで簡単にコーディングができて非常に優秀なツールです。\nしかし、実はただ適当に指示を出すだけだと、自分の求めているアウトプットが出るまでに時間がかかってしまうことがあります。\nAIを最大限に活かし、開発...",
-    "link": "https://zenn.dev/secondselection/articles/claude_code_knowledge",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T21:00:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d0e3fbd3d4fad96081c944d20293fd1f",
-    "title": "QAエンジニアがAIスキルを作った理由：「画面UIは5つしかない」という気づきに至るまで",
-    "summary": "!\nこの記事はQAエンジニアとしての実務経験と、AIとの長い議論の中で生まれた設計思想をまとめたものです。コードを書く立場ではなく、品質を保証する立場から見たコード調査の話として読んでもらえると嬉しいです。\n\n\n はじめに\n私はQAエンジニアです。開発者ではありません。\nコードを書くことは仕事ではありませんが、\n「品質を保証するためにコードの構造を理解する必要がある」と考えました。\n特に既存機能の...",
-    "link": "https://zenn.dev/horicchy/articles/7076932bff319b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-07T10:37:23",
-    "ai_summary_done": false
-  },
-  {
-    "id": "01a25259e7ffed9e263fac1270b7bff4",
-    "title": "未経験からエンジニアになるために必要な3つの知識",
-    "summary": "株式会社PRUMのmasaです。\nエンジニア未経験で転職する際、「何をすれば？」と考える方が多いと思います。今日は未経験からエンジニアになるために必要な3つの知識について話していきます。\n\n1.自走力\n現場ではどんな力が求められるのか。最も求められるといっても過言ではないの...",
-    "link": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-09T01:28:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "39fb1114966c1368ccfa0656e34db513",
-    "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
-    "summary": "はじめに\nこんにちは、最近実家の近くにラ・ムーができた株式会社 日立製作所の三本康貴です。\n近年、AI Agent、Model Context Protocol(MCP)の普及に伴い、MCP Serverの開発、公開も増える一方で、既存のMCP Serverを統合したり、...",
-    "link": "https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-09T07:11:42",
-    "ai_summary_done": false
-  },
-  {
-    "id": "34cca89ed6a6a4c0af6337f5d58c19de",
-    "title": "生成 AI 時代の人材像と、その評価について考えてみる",
-    "summary": "はじめに\n最近、お客様との打ち合わせや、社内のメンバーとの何気ない会話の中で、「生成 AI 時代に求められる人材像とは何か」という話題になることが増えてきました。そのたびに、自分の考えを改めて言語化しておく必要があるなと感じていたので、今回整理してみることにしました。\n生...",
-    "link": "https://qiita.com/Takashi_Masumori/items/2e2a3f8e16c8601de2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-08T23:27:54",
-    "ai_summary_done": false
-  },
-  {
-    "id": "873dc7424ac25d2f4608b758a52bb942",
-    "title": "静的型付け言語を作った",
-    "summary": "どういう言語を作ったのか\n\n静的型付\nオブジェクト指向\nGCあり\nRust風のResultによるエラーハンドリングをサポート\nGoみたいな軽量スレッドをサポートしたくて開発中\n\nただしClaude, Codexの２つのAIはバリバリ使っているのでご容赦ください…。\n\n...",
-    "link": "https://qiita.com/lechatthecat/items/a921ea3e0767e109dd49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-08T15:24:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1c690eb2abc6ff3a70bc9685da4e41b8",
-    "title": "【Python】uvは結局pipの何を解決するのか？",
-    "summary": "はじめに\nuvが速いのは、もう知っていますよね。でも「今のpipで別に困ってないし」で移行を止めていませんか？\n私もしばらくそうでした。pip install の待ち時間は気になるけれど、それだけのために環境構築のやり方を変えるほどか——と。\nこの記事は、uvの機能を一通...",
-    "link": "https://qiita.com/ktdatascience/items/85bc1792f37f0d38fd5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-07T10:30:30",
-    "ai_summary_done": false
-  },
-  {
-    "id": "aa411f1dd15258283101db27c4aa7568",
-    "title": "Coworkモードにセッション断絶を恐れなくなった話 ── 作業状況mdによるコンテキスト外部化",
-    "summary": "はじめに\nClaude CodeのCoworkモードで、長時間かけてローカルLLM環境を構築していたときのことです。Step 5まで順調に進んだところでセッションが長くなり、「そろそろ会話を圧縮しておこう」と思って /compact を打ちました。\n何も起きません。\nAI...",
-    "link": "https://qiita.com/hoshi-gmoconnect/items/eb985566ad40396abb03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-09T02:18:26",
-    "ai_summary_done": false
-  },
-  {
-    "id": "456889dce76dfdc783106fa77e2f98f3",
-    "title": "個人開発に AI-DLC を導入してみたら、開発体験がガラッと変わった話",
-    "summary": "はじめに\n最近、各種 LT やカンファレンスのセッションで「AI-DLC をベースにしている」という発表を見かけることが増えてきました。\n気になって調べていくうちに、自分が個人開発している Fivia（アートボードに画像を集めて MCP 経由で AI に渡すツール）に実際...",
-    "link": "https://qiita.com/degudegu2510/items/d5d79434f96811fb74c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-07T10:44:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f910846b5b405f21a18753581a1ac396",
-    "title": "【脱・従量課金】CPUローカルLLM×Microsoft Agent Frameworkで始める次世代マルチエージェント開発 (Vol.1 導入／01-get-started編)",
-    "summary": "はじめに\n昨今、クラウドのフロンティアモデルを利用したLLMサービスにおいて、値上げであったり、定額制から従量課金制へと移行する動きが活発になっています（例えば https://qiita.com/yun_bow/items/3c920416555c8c31dfeb を参...",
-    "link": "https://qiita.com/KazutoMakino/items/b7664ec375d6c9014350?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-08T18:45:45",
-    "ai_summary_done": false
-  },
-  {
-    "id": "fef3e8455b9bee8ff69698f921951220",
-    "title": "Anthropic、ミュトス級AI「Claude Fable 5」を一般公開　保護機能解除版「Mythos 5」も限定提供",
-    "summary": "Anthropicは、新AIモデル「Claude Fable 5」を一般公開した。同社の最上位「Mythosクラス」に属し、これまで一般提供を見送ってきた水準の能力を、悪用を防ぐ保護機能とともに全ユーザーへ開放した。同時に、サイバー関連の保護機能を解除した上位版「Claude Mythos 5」を信頼できるパートナー向けに限定提供する。画像認識だけで「ポケモン ファイアレッド」をクリアするなどビジ...",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T21:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a946cee8d8a421ec88da4a9c4ff582fe",
-    "title": "JR東、「QR乗車券」のイメージ公開　27年春から磁気を一部廃止に",
-    "summary": "JR東日本は6月9日、27年春から近距離乗車券を磁気乗車券からQR乗車券に置き換え、磁気乗車券を廃止すると発表した。あわせて「みどりの窓口」業務に生成AIを導入する実証実験も7月に立川・大宮駅で開始する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T08:52:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "efde6b0bf5bc089b4f7f34111a23fdcf",
-    "title": "AI合成写真で近大入試の確認をすりぬけ、替え玉受験対策に「生体認証システム」は必要か",
-    "summary": "元塾講師による近畿大入試を巡る替え玉事件で、大阪地検は６月8日、教え子に成りすまし受験した英検の結果を用いて近大に出願したとして、偽計業務妨害罪などで大阪市浪速区大国の元塾講師、野口瑞希容疑者（35）を起訴した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news088.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-09T03:10:00",
     "ai_summary_done": false
   }
 ]
