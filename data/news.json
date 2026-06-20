@@ -1,5 +1,225 @@
 [
   {
+    "id": "a6ff7713a3286bc1c095173d7c20823c",
+    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
+    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-13T22:11:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4e02492272ea60f06560533d5feb1dc4",
+    "title": "Graph neural networks in TensorFlow",
+    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
+    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-06T19:17:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d7b8ec1c42c25825b0ea6642653ad412",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
+    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T19:07:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "38c33cec54315fddd52cca739fcc9da8",
+    "title": "Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法",
+    "summary": "Obsidian や Markdown よりも書きやすい手段がほしい\n\n 1: Obsidian では物足りぬ\nローカルでメモするツールとして Obsidian が注目されてます。最近は生成 AI との絡みで AI 驚き屋による AI Slop も量産されてますが、それはさておき、私は Obsidian は Notion みたいなものだと思ってます。多機能で、エコシステム豊富で、拡張性もあって一見...",
+    "link": "https://zenn.dev/sta/articles/2026-06-20-vscode-scb",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-20T00:52:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "85bafa02721321f8e4601cdb43811e4d",
+    "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
+    "summary": "📚 連載「TAKTとClaude Codeの使い分け」（全3部を予定）の第1部・解説編です。\n\n\n第1部（本記事）解説編: TAKTのしくみと使い方\n第2部 実体験編: OSS「TAKT」を普段開発に使ってみた — よかったこと・つまずいたこと\n第3部 検証編: TAKT vs Claude Codeを同一プロンプトで比較してみた\n\n\n\n はじめに\nAIエージェントのオーケストレーションツール（O...",
+    "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T14:34:16",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2c30ae9c9a750f7f1c7f8a297fbf328c",
+    "title": "Claude Design がclaudeアプリに対応したので触ってみた",
+    "summary": "これまで web 版 claude.ai 限定だった claude.design が、大幅アップデートでアプリにも追加された。\n前回は特に触ってなかったので、今回ちゃんと一通り試してみたメモ。\n結論、うんかなり良いよ、デザイン業務のフロー変わるかもね、って感想！！\n!\n※当方、claudeの Max (20x) プランを使ってる前提での記載になります\n\n\n いつも通り背景から\nいつもありがとうござ...",
+    "link": "https://zenn.dev/91works/articles/bb03f5adb45dea",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T07:29:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86d3169ef1af3e30e8c9ae3e4e79b8ea",
+    "title": "LLM はマークダウンファイル全体を読んでいる。その必要はない。",
+    "summary": "コーディングエージェントはマークダウンで書かれた仕様書や設計ドキュメント、長い README を日常的に読んでいる。だが必要なのはたいてい数セクションだけだ。それでもファイル全体をコンテキストに読み込んでしまう。\n\n 「ドキュメントを読んで」の隠れたコスト\nこんな場面は毎日のように起きる。5,000 行の API 仕様書のエラーハンドリングのセクションを確認してほしいとエージェントに頼む。エージェ...",
+    "link": "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T04:55:33",
+    "ai_summary_done": false
+  },
+  {
+    "id": "357b500912c55ecd104648f0771a112f",
+    "title": "リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか",
+    "summary": "2026年6月、あるポストが流れてきた。\n「正しくリファクタリングしようとするとドメイン知識が必須になり、顧客の文脈や要求まで遡る必要がある」という趣旨だ。\nこの指摘は正しい。\n問題は「ではそのドメイン知識を、開発プロセスのどこに、どんな形式で保管するのか」が語られることが少ない点にある。\n知識の保管場所を間違えると、リファクタリングの前提になる情報そのものが腐敗する。\nAIコーディングエージェン...",
+    "link": "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T04:26:17",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c7324dc3b3b13db5a2e4d4a3cd60a475",
+    "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+    "summary": "エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。\nソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなくても一見進む ことだ。test を飛ばしても diff は merge できそうになる。設計をチャットだけで済ませても、その場では問題が見えない。\nだから今、改...",
+    "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T01:38:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6ad4a8de7333aa38b534a4b93b8b0668",
+    "title": "AI時代のRust crate選定 (1/4) デファクトスタンダードなcrate群",
+    "summary": "AIの発展によって自分が詳しくない領域についても自分用のツールを作ることができるようになりました。\nその際に一番困ることはライブラリ選定の良し悪しが分からないことです。\n特にプログラミング言語としてRustを採用する場合、標準ライブラリが比較的薄いこともあり、毎回外部のライブラリを導入しているように見え、不安を感じる方もいるでしょう。\nこの連載では主に普段Rustでプログラミングをしていない人向け...",
+    "link": "https://zenn.dev/estie/articles/4e057582208b0b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-19T00:53:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "08fb4e864950dd800e90ace1da1fa11c",
+    "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
+    "summary": "毎年恒例の Apple の開発者向けイベント WWDC26 で、Linux コンテナを動かすツール container が 1.0 になり、その目玉として軽量な Linux 環境 container machine がしれっと発表されました。\ncontainer は Apple Silicon の Mac で macOS 26 で動作します。\nDocker Desktop のような追加の仮想化ソフ...",
+    "link": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-18T22:00:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1b80214c76c0b547195414dce21d5456",
+    "title": "Flue Framework 実践入門 — AIエージェントを本番で動かす",
+    "summary": "Flue Frameworkの前提知識から、さくらのAI Engineでの動作確認、Linear webhook連携、Cloudflareデプロイまで。実際に手を動かしながらAIエージェントフレームワークの骨格を理解する。",
+    "link": "https://zenn.dev/417/books/flue-framework-guide",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-18T09:53:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9fc23075384325b7260e47d9f4a4fad3",
+    "title": "AIに任せる設計、人間に残る設計",
+    "summary": "はじめに\nこんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。\n最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。\n以前、openspecをつかった仕様駆動開発に取り組んでいる話をしましたが、その延長線上にある話かもしれません。\nhttps://zenn.dev/dress_code/articles/6ff...",
+    "link": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-18T07:30:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "114ef68a34c79cc638dca009c43a01b0",
+    "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
+    "summary": "はじめに\nChatGPTは便利ですが、有料版は月額3000円必要です。また、無料版でも機能制限があります。加えて、ローカル環境で動かしたい、プライベートなデータを扱いたい、インターネット接続がない環境で使いたい、という場面もあります。\nこうした場面で活躍するのが「ローカル...",
+    "link": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T01:21:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "79fd955d0b842a76b88f1ddb2567d60a",
+    "title": "Elixir 1.20の型システムをRust,TypeScriptと比べたら特徴が見えてきた",
+    "summary": "この記事について\n2026年6月3日、Elixir 1.20 が公開され、型システムが入りました。ただ、これは「型を書いて安全を得る」これまでの型システムとは、目指すものが少し違います。\nこの記事は、私の疑問に対して AI エージェントが調べてまとめたものです。公式ブログ...",
+    "link": "https://qiita.com/GeekMasahiro/items/3f8e66db661f8a2f97a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T06:59:56",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ddf870a992b84145969e9edf06754df5",
+    "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
+    "summary": "初めに\n最近、RAG の実装例はかなり増えました。\nDify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex...",
+    "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T04:17:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4a34ad24102925597919e30c15bbb31e",
+    "title": "論文を読むAIの精度を90%に引き上げた — AI for Scienceのための知識グラフRAGシステム開発記",
+    "summary": "概要\n\nHotpotQA ベンチマーク 90.0% を達成（論文の公式実装 71.6% を +18.4% 上回る）\nKDD 2026 論文 MemGraphRAG（Xiang et al.） を TypeScript でクリーンルーム実装\n\n31万ノード・68万エッジ ...",
+    "link": "https://qiita.com/hisaho/items/4dbbcd41e83f9575cd28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-17T23:41:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4aff2db4799edb95f704082e1c75755d",
+    "title": "なぜ多文化共生は議論しにくいのか ― 空気と経済の視点から : Pythonで学ぶ マクロ経済学入門 (91)",
+    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第91回を始めましょう。まず\n「初心者でもわかる！Pythonで学ぶマクロ経済学入門 全90回 総復習」 \nhttps://qiita.com/maskot1977/items/21f4ef58e82ebb1042b8\n...",
+    "link": "https://qiita.com/maskot1977/items/6b289b556cca4b60f92e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T15:07:14",
+    "ai_summary_done": false
+  },
+  {
+    "id": "080a66a5e91376ac49bea4131a799054",
+    "title": "Chat to HTML Converter for Antigravity 公開しました",
+    "summary": "怒涛のAI環境変化について行けない\nこの半年で、生成AIを利用した開発環境は恐ろしいほどに変貌を遂げました。\nGithub Copilot & VSCode & Claude Sonnet4.5で俺TUEEと浮かれまくっていたあの頃、こんな記事を書きました。\n\n祭り...",
+    "link": "https://qiita.com/nobukz/items/dac7fa8e3e149b1e4719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-19T15:22:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d690bef3148bc5ee29decd73b5cf4742",
+    "title": "【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】",
+    "summary": "はじめに\nこの記事の対象読者はこんな人です。\n\n構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です）\n説明するための図を全部AIで作りたい人\nAWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...",
+    "link": "https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T05:34:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "dd69cca1b28efd7ba90d4f0abf7d2470",
+    "title": "ケイラボAIラジオ Windows版開発記 ―― 「設計さえ正しければ、移植はAIの独壇場」だった",
+    "summary": "これは「ケイラボAIラジオ」というデスクトップ常駐型の自律AIラジオを、Mac版からWindows版へ移植した記録です。\n前回、Mac版の開発記を書きました。そこでは「最初に作ったWindows版でなぜ失敗したのか」「その反省を踏まえてMac版でどう設計を立て直したのか」を...",
+    "link": "https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-20T08:50:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7ad438ef87a2657524cb0913a574a1ed",
+    "title": "なぜ企業はDatabricksを選ぶのか― DWH＋AI＋ETLを統合する価値 ―",
+    "summary": "📚 関連書籍\n※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は\n　書籍の中でまとめているので、気になる方はそちらもどうぞ。\n\n『ゼロから触ってわかった！ Databricks 本番導入完全ガイド（非公式） ― Serverles...",
+    "link": "https://qiita.com/mellowlaunch/items/174ed4d224b9695f6488?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-18T21:53:27",
+    "ai_summary_done": false
+  },
+  {
     "id": "b145c3d48b57fcb49c10dabaef28d8c3",
     "title": "Generative AI to quantify uncertainty in weather forecasting",
     "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
@@ -777,226 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-06-16T04:26:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "967fb4667eec085430eccc7aebdff009",
-    "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも",
-    "summary": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-16T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e65b048128a5f74da3cf7c4e24a4e011",
-    "title": "デジタル相、停止中のミュトス級AIについて「今あるもので最大限」　3メガバンクなども同様",
-    "summary": "松本尚デジタル相は6月16日の記者会見で、米Anthropicの最上位AIモデル「Claude Mythos 5」「Claude Fable 5」が米国政府の指令により利用停止となっている件について現状を明かした。政府のサイバーセキュリティ対策については、手元にあるフロンティアAIを使って進める考えを示した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news124.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-16T11:40:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f63cf0e49db11eaec53a8d70f30e6ec4",
-    "title": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供　まずは日本の重要インフラ向けに",
-    "summary": "ソフトバンクグループと米OpenAIは6月16日、OpenAIのAI技術を活用して企業の脆弱性診断から修復方針の策定、実装の提案までを支援する法人向けサイバーセキュリティ対策ソリューション「Patching as a Service」の提供を始めると発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-16T09:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bef76bba0dc5b1489470fbc09a2720e1",
-    "title": "Amazon「プライムデー」7月10日から4日間　「iPhone Air」など対象に",
-    "summary": "「iPhone Air」「AirPods Pro 3」「Apple Watch SE 3」が、日本のプライムデーのセール対象として初登場。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news093.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-16T06:01:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b21c12f46e326e99448ba6c5f943ea19",
-    "title": "急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？　さくら田中社長と東電が対談",
-    "summary": "AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news082.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-15T23:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "daf227884c312bee772e3ba98cf63098",
-    "title": "Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に",
-    "summary": "Metaは、Facebookに新機能「AI Mode」を導入すると発表した。同社のAI「Meta AI」が、Metaアプリ上で公開されている投稿に基づいてユーザーの質問に回答する。公開設定での投稿は、回答ソースとして利用される。あわせて、AIで服装を仮想的に変更できる機能など、写真や動画の編集機能も拡充する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news061.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-15T22:44:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "926fb0b411cfc68cdf609a0db59ab101",
-    "title": "Google at APS 2024",
-    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
-    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-04T15:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2df65c24e00cfb307ae7046ddd875b73",
-    "title": "VideoPrism: A foundational visual encoder for video understanding",
-    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
-    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "162a0641e8995eb5daa5170c0c6b168d",
-    "title": "Local LLMでのデータ分析を試してみた",
-    "summary": "こんにちは\nAIチームの戸田です\n最近、Coding Agentを使った開発体験がかなり変わってきています。ファイルを読ませ、コードを書かせ、テストを実行させ、エラーを直させる、という流れはすでに日常的に使える水準になってきました。\n一方で、Agentに任せられる範囲はコーディングだけではありません。データ分析も、ファイルを読む、前処理を書く、評価指標を出す、結果をレポートにまとめる、という意味で...",
-    "link": "https://zenn.dev/aishift/articles/5a5383987efee6",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-15T03:15:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9a62999d455aa300c6b67b4df9ef4b5d",
-    "title": "AI 開発合宿で見えたのは普段の開発文化だった",
-    "summary": "はじめに\n\nこんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！\n私たちは DRESS CODE という、人事労務・情報システム・総務・採用・プロジェクト・コーポレートガバナンスなど、複数領域を横断する業務 OS（コンパウンドプロダクト）を開発しています。\n扱う領域が広いぶん、AI を活かせる余地も大きく、プロダクトへの組み込みは以前から構想していました。ただ、日々...",
-    "link": "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-15T02:30:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "af5a36196d2274a0a498835486eeb257",
-    "title": "AIエージェントはCloudflareに賭けろ",
-    "summary": "最初に表明しておくと、自分はCloudflareの社員である。\n\nAIエージェント時代にCloudflareは最適なプラットフォームである！今回はCloudflareがなぜAIエージェントに向いているかを紹介する。\n\n AIエージェント時代のアーキテクチャ\nAIエージェントを構築するためのアーキテクチャについて考えてみる。\n\n クラウドはAI時代を想定していない\nCloudflareは今年の4月に...",
-    "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-15T02:27:32",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d66135b0875737522018a08b1557c9dc",
-    "title": "OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~",
-    "summary": "はじめに\nOSS の OneManCompany（以下 OMC）は、AI 社員が自律的に働く「会社の OS」 です。CEO（人間）がタスクを投げると、AI 社員たちが役割分担し、プロジェクトを命名し、成果物を作り、CEO に報告する、という一連の会社運営を AI だけで回します（OMC 自体の詳しい紹介は次の章でします）。\nこの OMC、デフォルトでは OpenRouter 経由で LLM を呼び...",
-    "link": "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-14T14:11:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4fb19e686dee106c0859cbebf8241843",
-    "title": "Docker/Kubernetesをつなぐコンテナランタイム「Raind」",
-    "summary": "はじめに\n筆者が開発を続けているRaindという自作コンテナランタイムについて紹介しようと思います。\n\nGitHub Repoはこちら: https://github.com/shizuku198411/Raind\n\n筆者自身は数年前からコンテナランタイムを開発しており、最初はコンテナの仕組みを知るために始めたのですが、コンテナランタイムの仕組みは非常に奥深く、何度も様々な言語/仕組みでランタイム...",
-    "link": "https://zenn.dev/shizuku1984/articles/3f546a7ddd780a",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-14T11:51:15",
-    "ai_summary_done": false
-  },
-  {
-    "id": "80073d1d5b376d046243d093c5aeb439",
-    "title": "どうすれば月2億円分のトークンを燃やせるのか",
-    "summary": "OpenClawの作者であるPeter SteinbergerがOpenAI API/Codexの利用で、30日間に約130万ドルを使ったという話が少し前に話題になりました。\nhttps://x.com/steipete/status/2055346265869721905\n正確には$1,305,088.81。\n為替を1ドル155円と置けば、約2.02億円です。\ntoken量は603B token...",
-    "link": "https://zenn.dev/r_kaga/articles/340fba67527789",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-14T10:26:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3a442455c98feaad47c6040767c76be6",
-    "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
-    "summary": "TL;DR\n\n\n「類似性」から「構造」へ: 論理構造に基づいた推論ベースの検索でベクタ検索（近似検索）の限界を突破する。\n\n「意味的な目次」としてのPageIndex: ドキュメントからツリー構造のインデックスを構築、LLMが生成した高密度なサマリを「検索キー」として活用。\n\nAlphaGo（MCTS）流の探索プロセス: AIエージェントがツリーを段階的に辿り、推論によって「正解への筋」を絞り込む...",
-    "link": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-14T08:08:31",
-    "ai_summary_done": false
-  },
-  {
-    "id": "524d414ae0a5289dac46a8be059ad0e9",
-    "title": "JavaScriptのClass離れの歴史をたどる話",
-    "summary": "はじめに\n最近、Petterns.devを読み返しました。\nシングルトン、Provider、Context分割、ファクトリ、プロトタイプ、HOC、レンダープロップ……といったキーワードを一つずつ追っていくうちに、自分がフロントエンド領域を実務で触り始めた頃にJavaScript周辺のエコシステムがclassから離れていっていた流れを目の当たりにしていたことを思い出しました。\nそこで、この流れをRe...",
-    "link": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-14T04:05:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "76c3306fa2df1eae7093accae7b2074a",
-    "title": "LLMは長文を本当に読めているのか？「Lost in the Middle」から考えるRAG設計",
-    "summary": "LLMアプリケーションを作っていると、次のような発想になりがちです。\n\nコンテキストウィンドウが大きいモデルを使えば、とりあえず大量のドキュメントを詰め込めばよいのでは？\n\nしかし、実際にはそう単純ではありません。\nLLMには、長い入力の中に含まれる情報を均等に扱えないことがあります。特に、重要な情報が入力の真ん中付近にあると、モデルがそれをうまく利用できず、回答精度が落ちることがあります。\nこの...",
-    "link": "https://zenn.dev/japan/articles/73ad921caeb0bd",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-13T15:05:33",
     "ai_summary_done": false
   }
 ]
