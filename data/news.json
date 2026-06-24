@@ -1,5 +1,185 @@
 [
   {
+    "id": "987e20de3d7f4776ad723c13f938fd1f",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
+    "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-28T20:53:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "657d8a6a5c12c6edb1141ff848711085",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "summary": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain ...",
+    "link": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-02-02T17:49:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "51272813e168cf81b341ca667c3138ec",
+    "title": "なぜ LLM に大喜利が難しいのか",
+    "summary": "最初はちょっとした好奇心のつもりだった\nChatGPT や Claude の笑いのセンスは、ぼくとは合わない気がする。特に Claude とは、普段は友達のように分かり合えているのに、大喜利では全然分かり合えない。けれど本当はできるはずなんだ。そういう素朴な気持ちから全ては始まった。\n当時は、 Claude の Agent skills が無茶苦茶盛り上がっていた。 Skills を作れば、 Cl...",
+    "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T08:44:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e5253404dba85e050367fca5fb51425e",
+    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+    "summary": "こんにちは。エクスプラザの Unsu です。\n最近 \"Loop Engineering\"という言葉をよく目にするようになりました。\nまた新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、\nAddy Osmani の Loop Engineering という記事を読んでみました。\nhttps://addyosmani.com/blog/loop-engineering/\n...",
+    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T05:26:57",
+    "ai_summary_done": false
+  },
+  {
+    "id": "fde75680a1bc1267100e83cf4794adab",
+    "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+    "summary": "本記事では、AI向けの新しいナレッジ管理ルールについて、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、AI時代を見据えたナレッジ管理手法「OKF」について、日本語で簡単にまとめたものです。\nhttps://cloud.google.com/blog/products/d...",
+    "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T01:45:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "37665273b0c2d76020da1d7bf176d957",
+    "title": "標準CSSは美しくなった、もはやTailwindは不要",
+    "summary": "最近、標準のCSSがかなり進化していることに気づきました。\n他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。\n数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。\n多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBootstrapのようなクラスで定義するタイプのCSSフレームワークを使用したりしてい...",
+    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T01:11:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "51192a4b370549d7af1aae37c7dec302",
+    "title": "タスクを割り振る開発は終わった",
+    "summary": "はじめに\n長いあいだ、ソフトウェア開発のスケールは「分業」で支えられてきました。\n漠然とした要望を小さなタスクへ切り出したり、大きな機能を分割したり、ざっくりした設計を細かい作業に落としたり。切り出しの出発点はさまざまですが、やることは結局ひとつです。切り出したものを誰かに割り振り、上がってきたものをマージする 。\nマネージャーがチケットを切り、メンバーや副業エンジニア、業務委託の人がそれを拾って...",
+    "link": "https://zenn.dev/awesome_kou/articles/end-of-task-assignment-dev",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T00:41:40",
+    "ai_summary_done": false
+  },
+  {
+    "id": "325d6e0a64cd6bbc54f08a87438476ca",
+    "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
+    "summary": "今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。\n\nOracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...",
+    "link": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-23T22:23:50",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e52811870b8c8d39d0ebc075a5e839e5",
+    "title": "GeminiでText-to-SQLの精度改善を実験してみた",
+    "summary": "株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。\n今回は生成AIを利用したText-to-SQLのハンズオンです。\n\nはじめに\nLLMを使えば自然言語でデータベースへ問い合わせできます。これを Text-to-SQL と呼びま...",
+    "link": "https://qiita.com/take-yoda/items/6392ad3b5921a1d975b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T01:04:47",
+    "ai_summary_done": false
+  },
+  {
+    "id": "d2aeac91a4b146d6943ad28c84694fda",
+    "title": "Unity AI × Claude Code でゲームを作ってみた",
+    "summary": "こんにちは、花王株式会社の @TsuchiyaK です。\n2026年5月、Unity Technologiesから、ゲーム開発エンジンUnityのAI機能群「Unity AI」のオープンベータ版がリリースされました。個人的に注目したのはUnity MCP Serverという...",
+    "link": "https://qiita.com/TsuchiyaK/items/a3de1ac034bf94cf905b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T02:38:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "33fa53a957045eb0f7299f332dbaeed3",
+    "title": "私が経験してきた、データの闇 ― Snowflakeのセマンティックビューで「データ品質の壁」と向き合う",
+    "summary": "はじめに\nはじめまして、セゾンテクノロジーでデータアナリストを担当している杉山です。\n「LLMを使えば、自然言語でデータを検索できる時代が来る」\n世界中がそんな未来を華やかに語る中、私はずっと不安を感じていました。\n\n「このデータをそのままAIに渡しても、正確な答えが返っ...",
+    "link": "https://qiita.com/akari_sugiyama/items/88153a1e8d262f132abc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T06:56:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b34d77cc297ee2233dbbdcb86288b079",
+    "title": "ループエンジニアリングでAI編集部を作る：週刊少年バカゲーの自律運営実験",
+    "summary": "はじめに\n\n「週刊少年バカゲー」という Web サイトを運営……というより、AI 組織を人間の関与なしで回し続けられるかの検証実験として動かしています。\n毎週、AI エージェントがブラウザゲーム（バカゲー）を新作として生成し、連載していく――そんな王道ジャンプ風のゲーム週...",
+    "link": "https://qiita.com/onaka_yurusugi/items/1c16ff9e3942e870e02c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-23T16:19:45",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e25c81e02f92e08790e11e585e62dc23",
+    "title": "MySQLのオプティマイザが行うanti-joinって何？",
+    "summary": "はじめに\n「相関サブクエリはパフォーマンスが悪いから基本的に使わない」と言われて以来、特に疑問など持たずになるべく相関サブクエリは使わないようにしていました。\nですが、最近AIに作ってもらったSQLを検証していたとき、「おいおい相関サブクエリあるじゃーん」と思いながらも実...",
+    "link": "https://qiita.com/hamham999/items/fdbf89cb4ee253b6d34e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T01:51:25",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e6c8a4a1f085e36ac289753cf0b23e1c",
+    "title": "テスラだけではない！電力のAI自動取引（VPP）を支える海外の主要プラットフォーム4選",
+    "summary": "前回、【2026年最新】砂漠を走って体感したアメリカの広さ、そして世界を震撼させる「巨大蓄電池市場」のリアル という記事で、アメリカで急速に拡大する蓄電池市場のスケール感について触れました。\n砂漠の真ん中に突如現れる巨大な蓄電池群。しかし、これらはただ電気を溜めているだけで...",
+    "link": "https://qiita.com/sc_ri/items/91fff5bce36956cbd2ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-23T04:00:44",
+    "ai_summary_done": false
+  },
+  {
+    "id": "72c3790f8aeabd538b11d0a303688a43",
+    "title": "「クラス・インスタンス」って何？完全初心者の私と1から一緒に理解する記事",
+    "summary": "はじめに\nこんにちは！エンジニアを目指して日々勉強している学生です。\nHTML/CSSからプログラミングの学習を進めて、その後PythonやJavaなどに触れ始めたとき、私はある巨大な壁にぶち当たりました。それが、 「クラス（Class）」 と 「インスタンス（Insta...",
+    "link": "https://qiita.com/teppei-dotlog/items/c48b654d653482a0c065?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T07:44:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "75bb205ecbd2801d22ae93eec45c6dc4",
+    "title": "「夏場は50度以上のコンテナで作業」に対処　サンワサプライが西日本で荷降ろしロボット活用",
+    "summary": "サンワサプライが、物流倉庫における荷降ろし作業の自動化と労働環境の改善を目的に、AI搭載のコンテナ向け荷降ろしロボット「RockyOne」を採用した。5月から同社の西日本物流センターで運用を開始している。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news081.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-24T02:45:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "71d7c693d72025e8be8b0e28b79b2844",
+    "title": "「Google Home」アプリ最新版は応答速度を改善し、ライブ会話の誤起動も減",
+    "summary": "Googleは、スマートホーム製品群「Google Home」の最新アップデートをまとめたリリースノートを公開した。「Gemini for Home」の会話性能や応答速度、話し声のフィルタリングが改善されるほか、カメラのAI機能では顔が見えない場合の服装認識や、犬の鳴き声や足音などの音声検知機能が強化されている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news076.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-24T02:31:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ba1fde27d4e9482533eabac19778d627",
+    "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売　299ドルから",
+    "summary": "Metaは、EssilorLuxotticaと共同開発した新型AIグラス「Meta Glasses」（Metaグラス）を発表し、一部の国で販売を開始した。自社ブランドを冠する初のモデルで、価格は299ドルから。最新の自社製AIモデル「Muse Spark」を搭載し、音声にセレブのカイリー・ジェンナー氏の声を指定できるコラボモデルを含む3スタイルを展開する。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-23T22:15:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "099731e6e4b87e151dc68344d778e14d",
     "title": "Computer-aided diagnosis for lung cancer screening",
     "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
@@ -817,186 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-06-19T07:29:58",
-    "ai_summary_done": false
-  },
-  {
-    "id": "86d3169ef1af3e30e8c9ae3e4e79b8ea",
-    "title": "LLM はマークダウンファイル全体を読んでいる。その必要はない。",
-    "summary": "コーディングエージェントはマークダウンで書かれた仕様書や設計ドキュメント、長い README を日常的に読んでいる。だが必要なのはたいてい数セクションだけだ。それでもファイル全体をコンテキストに読み込んでしまう。\n\n 「ドキュメントを読んで」の隠れたコスト\nこんな場面は毎日のように起きる。5,000 行の API 仕様書のエラーハンドリングのセクションを確認してほしいとエージェントに頼む。エージェ...",
-    "link": "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T04:55:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "357b500912c55ecd104648f0771a112f",
-    "title": "リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか",
-    "summary": "2026年6月、あるポストが流れてきた。\n「正しくリファクタリングしようとするとドメイン知識が必須になり、顧客の文脈や要求まで遡る必要がある」という趣旨だ。\nこの指摘は正しい。\n問題は「ではそのドメイン知識を、開発プロセスのどこに、どんな形式で保管するのか」が語られることが少ない点にある。\n知識の保管場所を間違えると、リファクタリングの前提になる情報そのものが腐敗する。\nAIコーディングエージェン...",
-    "link": "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T04:26:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c7324dc3b3b13db5a2e4d4a3cd60a475",
-    "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
-    "summary": "エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。\nソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなくても一見進む ことだ。test を飛ばしても diff は merge できそうになる。設計をチャットだけで済ませても、その場では問題が見えない。\nだから今、改...",
-    "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T01:38:48",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6ad4a8de7333aa38b534a4b93b8b0668",
-    "title": "AI時代のRust crate選定 (1/4) デファクトスタンダードなcrate群",
-    "summary": "AIの発展によって自分が詳しくない領域についても自分用のツールを作ることができるようになりました。\nその際に一番困ることはライブラリ選定の良し悪しが分からないことです。\n特にプログラミング言語としてRustを採用する場合、標準ライブラリが比較的薄いこともあり、毎回外部のライブラリを導入しているように見え、不安を感じる方もいるでしょう。\nこの連載では主に普段Rustでプログラミングをしていない人向け...",
-    "link": "https://zenn.dev/estie/articles/4e057582208b0b",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T00:53:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "08fb4e864950dd800e90ace1da1fa11c",
-    "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
-    "summary": "毎年恒例の Apple の開発者向けイベント WWDC26 で、Linux コンテナを動かすツール container が 1.0 になり、その目玉として軽量な Linux 環境 container machine がしれっと発表されました。\ncontainer は Apple Silicon の Mac で macOS 26 で動作します。\nDocker Desktop のような追加の仮想化ソフ...",
-    "link": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-18T22:00:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1b80214c76c0b547195414dce21d5456",
-    "title": "Flue Framework 実践入門 — AIエージェントを本番で動かす",
-    "summary": "Flue Frameworkの前提知識から、さくらのAI Engineでの動作確認、Linear webhook連携、Cloudflareデプロイまで。実際に手を動かしながらAIエージェントフレームワークの骨格を理解する。",
-    "link": "https://zenn.dev/417/books/flue-framework-guide",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-18T09:53:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9fc23075384325b7260e47d9f4a4fad3",
-    "title": "AIに任せる設計、人間に残る設計",
-    "summary": "はじめに\nこんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。\n最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。\n以前、openspecをつかった仕様駆動開発に取り組んでいる話をしましたが、その延長線上にある話かもしれません。\nhttps://zenn.dev/dress_code/articles/6ff...",
-    "link": "https://zenn.dev/dress_code/articles/832cc1733e992c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-18T07:30:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "114ef68a34c79cc638dca009c43a01b0",
-    "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
-    "summary": "はじめに\nChatGPTは便利ですが、有料版は月額3000円必要です。また、無料版でも機能制限があります。加えて、ローカル環境で動かしたい、プライベートなデータを扱いたい、インターネット接続がない環境で使いたい、という場面もあります。\nこうした場面で活躍するのが「ローカル...",
-    "link": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T01:21:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "79fd955d0b842a76b88f1ddb2567d60a",
-    "title": "Elixir 1.20の型システムをRust,TypeScriptと比べたら特徴が見えてきた",
-    "summary": "この記事について\n2026年6月3日、Elixir 1.20 が公開され、型システムが入りました。ただ、これは「型を書いて安全を得る」これまでの型システムとは、目指すものが少し違います。\nこの記事は、私の疑問に対して AI エージェントが調べてまとめたものです。公式ブログ...",
-    "link": "https://qiita.com/GeekMasahiro/items/3f8e66db661f8a2f97a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T06:59:56",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ddf870a992b84145969e9edf06754df5",
-    "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
-    "summary": "初めに\n最近、RAG の実装例はかなり増えました。\nDify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex...",
-    "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T04:17:29",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4a34ad24102925597919e30c15bbb31e",
-    "title": "論文を読むAIの精度を90%に引き上げた — AI for Scienceのための知識グラフRAGシステム開発記",
-    "summary": "概要\n\nHotpotQA ベンチマーク 90.0% を達成（論文の公式実装 71.6% を +18.4% 上回る）\nKDD 2026 論文 MemGraphRAG（Xiang et al.） を TypeScript でクリーンルーム実装\n\n31万ノード・68万エッジ ...",
-    "link": "https://qiita.com/hisaho/items/4dbbcd41e83f9575cd28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-17T23:41:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4aff2db4799edb95f704082e1c75755d",
-    "title": "なぜ多文化共生は議論しにくいのか ― 空気と経済の視点から : Pythonで学ぶ マクロ経済学入門 (91)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第91回を始めましょう。まず\n「初心者でもわかる！Pythonで学ぶマクロ経済学入門 全90回 総復習」 \nhttps://qiita.com/maskot1977/items/21f4ef58e82ebb1042b8\n...",
-    "link": "https://qiita.com/maskot1977/items/6b289b556cca4b60f92e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T15:07:14",
-    "ai_summary_done": false
-  },
-  {
-    "id": "080a66a5e91376ac49bea4131a799054",
-    "title": "Chat to HTML Converter for Antigravity 公開しました",
-    "summary": "怒涛のAI環境変化について行けない\nこの半年で、生成AIを利用した開発環境は恐ろしいほどに変貌を遂げました。\nGithub Copilot & VSCode & Claude Sonnet4.5で俺TUEEと浮かれまくっていたあの頃、こんな記事を書きました。\n\n祭り...",
-    "link": "https://qiita.com/nobukz/items/dac7fa8e3e149b1e4719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-19T15:22:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d690bef3148bc5ee29decd73b5cf4742",
-    "title": "【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】",
-    "summary": "はじめに\nこの記事の対象読者はこんな人です。\n\n構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です）\n説明するための図を全部AIで作りたい人\nAWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...",
-    "link": "https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T05:34:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dd69cca1b28efd7ba90d4f0abf7d2470",
-    "title": "ケイラボAIラジオ Windows版開発記 ―― 「設計さえ正しければ、移植はAIの独壇場」だった",
-    "summary": "これは「ケイラボAIラジオ」というデスクトップ常駐型の自律AIラジオを、Mac版からWindows版へ移植した記録です。\n前回、Mac版の開発記を書きました。そこでは「最初に作ったWindows版でなぜ失敗したのか」「その反省を踏まえてMac版でどう設計を立て直したのか」を...",
-    "link": "https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-20T08:50:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7ad438ef87a2657524cb0913a574a1ed",
-    "title": "なぜ企業はDatabricksを選ぶのか― DWH＋AI＋ETLを統合する価値 ―",
-    "summary": "📚 関連書籍\n※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は\n　書籍の中でまとめているので、気になる方はそちらもどうぞ。\n\n『ゼロから触ってわかった！ Databricks 本番導入完全ガイド（非公式） ― Serverles...",
-    "link": "https://qiita.com/mellowlaunch/items/174ed4d224b9695f6488?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-18T21:53:27",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
-    "title": "Generative AI to quantify uncertainty in weather forecasting",
-    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
-    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-29T18:03:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "af506f40f681285411963dfe2f871a69",
-    "title": "Apple container で docker compose を動かす",
-    "summary": "この記事でやること\nApple 純正のコンテナCLI container の新機能 container machine（v1.0 で追加された永続Linux VM。WSL2 的に使える）の中で、docker engine と docker-compose を完全に動かす手順を、ゼロから再現できる形でまとめます。\n\n✅ docker / docker compose（-p ポート公開・コンテナ間通信...",
-    "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-18T17:00:10",
     "ai_summary_done": false
   }
 ]
