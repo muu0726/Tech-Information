@@ -1,5 +1,265 @@
 [
   {
+    "id": "b145c3d48b57fcb49c10dabaef28d8c3",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine deci...",
+    "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-29T18:03:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9583b0ed3c337d691cad2d4deee7b326",
+    "title": "AI 時代だからこそコードを読もう",
+    "summary": "はじめに\nこんにちは。LayerX でバクラク勤怠の開発をしておりますにいさんです。\n昨今の IT 業界では、事業やプロダクト、イベント登壇、技術ブログ、書籍に至るまで AI の話題を見ない日がないほどになりました。\n開発者としての日々の仕事も大きく変わり、私自身もゼロから手でコードを書き始める場面はかなり減りました。\n今回はそんな頼もしい AI の使い方を間違えてしまった私の失敗談と、そこから「...",
+    "link": "https://zenn.dev/layerx/articles/6f510abfc3fa72",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-25T02:05:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b243ce2da8084389875d1c63c7f429c4",
+    "title": "AI時代のコードレビューは人に向けるな、仕組みに向けろ",
+    "summary": "人間がコードを書いていた時代は、\n「こんな酷いコードを書いたのは誰だ？」\nという疑問が出てくる時代でした。しかしAIがコード実装の大半を担う時代は\n「こんな酷いコードが出力されたのはどの仕組みのせいだ？」\nという疑問こそが芯を食っています。\n\n Claude Codeがコードを生み出す全体像を抑える\n仕組みと一言に言っても、具体的にどこのことなんだ？GitHub Actionsのことか？といった質...",
+    "link": "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T23:31:43",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b445a6a48e52260b7ec6705f5a6e86f2",
+    "title": "Unity 6時代にUniTaskはまだ必要か？Awaitable登場後の使い分けを整理する",
+    "summary": "はじめに\nUnityで非同期処理を書く場合、長い間 Coroutine か UniTask が実務上の選択肢になっていました。\n特にUnityでは、多くのUnity APIをメインスレッドから呼ぶ必要があります。\nそのため、単純に .NET Task を使ってバックグラウンドスレッドで処理を動かすと、GameObject、Transform、SceneManager などを触った瞬間に問題になりま...",
+    "link": "https://zenn.dev/gamedev_toollab/articles/1c793e678197f9",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T16:48:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "14b6370c803393b036e429dfa0dcdfdb",
+    "title": "AWS Blocks を実プロジェクトで試した — Amplify Gen2 にローカル開発を足す",
+    "summary": "はじめに\nAmplify Gen2 を実務でずっと使っているのですが、一番つらいのが「動作確認のたびにデプロイが要る」ことです。バックエンドをちょっと直して ampx sandbox で上げて、反映を待って、確認して、また直して・・というのを一日に何回も繰り返すと、地味に効いてきます。\nそこに 2026-06-16、AWS Blocks が公開プレビューで出てきました。auth・database・...",
+    "link": "https://zenn.dev/purpom/articles/aws-blocks-amplify-gen2-local-first",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T10:13:59",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7df165a4277b3b4b8e7333ca82f571f9",
+    "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
+    "summary": "トリビューでCTOをしている小尾（@obiyuta）です。\n弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。\n今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わらない改善ループをどう”小さく”構築、運用しているかご紹介します。\n\n 「SQLが書ける...",
+    "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T09:20:35",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6fe4153d1fc642db523bbf323a3cf439",
+    "title": "学生のためのCodex 〜Codexを学習に使う 入門編〜",
+    "summary": "1. はじめに\nCodexというと、プログラミングが得意な人やエンジニア向けのツールに見えるかもしれません。もしくは、Codexって何？と思う方もいると思います。\nCodexはコードを書いたり、修正したり、エラーを調べたりするために強いAIエージェントです。\nですが、この記事ではCodexを「プログラムを全部書いてもらう道具」ではなく、授業資料を見ながら、分からないところをすぐ聞ける学習補助ツール...",
+    "link": "https://zenn.dev/sora_lnv/articles/b67a03b8339278",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T08:00:09",
+    "ai_summary_done": false
+  },
+  {
+    "id": "3266d1161f0bec810a87f56f9f6b2793",
+    "title": "小さいローカル LLM をファインチューニングしてタスクに特化させ、Unity で利用する",
+    "summary": "はじめに\n以下の記事を読んで、自分でもローカル LLM をファインチューニングしてみよう、と思ってやってみたことをまとめた記事です。\n加えて、せっかくなので Unity で扱える形までやってみたのでそれについても書こうと思います。\nhttps://zenn.dev/sompojapan_dx/articles/74624afa03040c\n今回の記事では MLX を用いてファインチューニングします...",
+    "link": "https://zenn.dev/meson_tech_blog/articles/fine-tuning-local-llm",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-24T04:51:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "63054ce82d1b265e30d0afc2fcf02e03",
+    "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
+    "summary": "!\nこの記事は毎週必ず記事が出るテックブログ Loglass Tech Blog Sprint の 149 週目の記事です！\n3 年間連続達成まで残り 10 週となりました！\n\n\n 🌱 はじめに\nこんにちは、ログラスでバックエンドの数値計算まわりの開発をしている wamomo です。\nAI にコードを書いてもらう機会が増えたこの 1 年で、E2E テストの扱い方がチーム内で少しずつ変わってきました...",
+    "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-23T05:00:26",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e71cdbe18e014f2995c892f864def6cc",
+    "title": "AIの嘘を見抜く？Gemini の検索＆画像グラウンディングを実際に試してわかったこと",
+    "summary": "はじめに\nこんにちは！\nKDDIアイレットの取り組みとして6月22日〜7月3日の期間で開催中の「Google Cloud Next '26 / Google I/O やってみた系ブログリレー」、本日は4日目の投稿です。\n今回は、「Gemini の検索＆画像グラウンディング...",
+    "link": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T01:08:58",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ba70694430858c229df1c16096e7d36d",
+    "title": "文章も画像も同じ\"ものさし\"で！Gemini Embedding 2 のマルチモーダル検索を試してみた",
+    "summary": "はじめに\nこんにちは！\nKDDIアイレットの取り組みとして、本日6月22日から7月3日にかけて「Google Cloud Next '26 / Google I/O やってみた系ブログリレー」がスタートしました！\n記念すべき第2日目の今回は、「Gemini Embeddi...",
+    "link": "https://qiita.com/ta-ito0611/items/f83e3c204cac800cac9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-23T00:30:29",
+    "ai_summary_done": false
+  },
+  {
+    "id": "6de033147355427af056403f61e41523",
+    "title": "Autonomous AI Database：PL/SQLでDelta Sharing Protocolを用いたデータ共有を設定する（データ提供編）",
+    "summary": "はじめに\nAutonomous AI Database Serverlessは、Delta Sharingプロトコルを使用したデータ共有に対応しており、\nData Provider（データ提供側）、Data Recipient（データ受信側）のどちらにもなることができます...",
+    "link": "https://qiita.com/500InternalServerError/items/65eb9e8eb334a636b3a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-24T12:38:21",
+    "ai_summary_done": false
+  },
+  {
+    "id": "7046caa3d6fe3c779c96f5aa07554727",
+    "title": "Autonomous AI Databae：OCI Object Storageのバケットを作成するPL/SQLプロシージャを作ってみた",
+    "summary": "はじめに\nAutonomous AI Databaseを利用していると、さまざまなシーンでOCI Object Storageを使用します。\nその際、毎回OCIコンソールにアクセスしてバケットを作成するのが面倒なので、SQL*PlusやSQLclのようなSQL実行環境から...",
+    "link": "https://qiita.com/500InternalServerError/items/4722e7516b176db5fd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T00:37:36",
+    "ai_summary_done": false
+  },
+  {
+    "id": "cf028a3fced0f902175d7cd92e993550",
+    "title": "Gemini APIで最新情報を取得する方法｜Groundingあり・なしをPythonで比較してみた",
+    "summary": "こんにちは！\nKDDIアイレットの取り組みとして、6月22日〜7月3日の期間で開催中の「Google Cloud Next '26 / Google I/O やってみた系ブログリレー」、本日は4日目の投稿です。 「Gemini APIで最新情報を取得するGrounding」...",
+    "link": "https://qiita.com/y-miyake/items/cd57bf51d0911cf47ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T01:46:41",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1e34e9cf551efcb6f3947dc9d1e51660",
+    "title": "エンジニア組織を、リブートする。",
+    "summary": "クイックのエンジニアリングマネージャー桃原（とうばる）です。\n今回は、4月の新体制を機に横断組織を再編する話と、これから推進していくことを話します。\n\nAI時代のエンジニア組織を、考えつづける\n「今まで同期的に行っていたイベントは、本当に必要なのだろうか？」\nそんなことを考...",
+    "link": "https://qiita.com/tobaru-hideyasu/items/22f52373f1300fe06be6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T01:21:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "30066b54562ca12ec0ae57a3a8380a43",
+    "title": "42 Blockchainをやってみた",
+    "summary": "42 Blockchainをやってみた\nブロックチェーンは、以前から気になっていました。\nそもそもブロックチェーンはどういう仕組みで動いているのかを知りたい、という気持ちが以前からあり、ビジネス書などを読んだものの、理解があやふやな状態が続いています。\nウォレット、署名、...",
+    "link": "https://qiita.com/kishistagram/items/8baf54d1c9a5bf688a00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T04:58:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c72ade584b4226a95d200d2a6114f462",
+    "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
+    "summary": "IBMは、世界初となる1ナノメートル未満（sub-1nm）のチップ技術を発表した。独自の3次元トランジスタ構造「nanostack」（ナノスタック）を開発し、原子数個分の微細化を達成。2nmノード比で性能が最大50％向上、電力効率が70％改善する。生成AIの高度なデータ処理を支える基盤として、今後5年以内の量産化を目指す。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T21:47:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "96ac71d763acc8fdce2c74a38de3ff6b",
+    "title": "「Mac」「iPad」突然の一斉値上げ　MacBook Airは18万4800円→22万4800円からに",
+    "summary": "米Appleは6月25日、国内のApple StoreでMacやiPad、Apple TV、HomePodの販売価格を引き上げた。Mac製品の場合、ノートだけでなくデスクトップも対象。例えば、3月発売の「MacBook Air」（M5）は、ベースモデルが18万4800円から22万4800円に引き上げられた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T13:40:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b2502c2373e3f49fa36974bbf863f1e0",
+    "title": "Flashの再来？　Figmaの新機能「Figma Motion」に懐かしいとの声　アニメーション生成するAI機能も",
+    "summary": "Figmaが発表した新機能「Figma Motion」が、かつてのAdobe Flashを思わせるとSNSで話題だ。タイムラインでキーフレームを打つ操作感が懐かしさを呼んだが、実際に触ると別物との声もみられる。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T12:05:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4985c29dd67af517c397156e1f49067c",
+    "title": "男性に美人局容疑で3人逮捕　ChatGPTの示談相場示し脅迫か　警視庁",
+    "summary": "美人局の手口で、少女とホテルに入った男性から現金を脅し取ったとして、警視庁少年事件課は恐喝の疑いで、東京都練馬区上石神井の職業不詳、斎藤蓮容疑者（22）ら男3人を逮捕、男女2人を書類送検した。斎藤容疑者は黙秘し、4人は容疑を認めている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news129.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T09:11:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "43e61a2128162d6aeba1ac5145b1124d",
+    "title": "公取委のとあるポスターが物議　「アニメ取引適正化」訴えるもイラストに生成AI　採用した理由とは？",
+    "summary": "公正取引委員会が公式Xに投稿したアニメ取引適正化のイラストを巡り、画像生成AIの使用がSNS上で指摘されていた。公取委はITmedia NEWSの取材に対し、委託先の制作会社の制作過程で人物や小道具などの素材に生成AIを使っていたと回答した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news117.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T08:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4ca7c941c8a0fa4c04cfebe08c17a899",
+    "title": "OpenAIが初の独自AIチップ　名前は「ハラペーニョ」",
+    "summary": "OpenAIと半導体大手Broadcomは、共同で独自設計のAIチップ「Jalapeno」を発表した。AIの「推論」処理に特化し、ゼロから開発。設計から製造までをわずか9カ月で仕上げた。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news113.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T07:30:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "db313c609ed28bc826cfadb42414ec70",
+    "title": "「教員を生成AIに置き換える考えはない」東京外大が声明　SNSで拡散した懸念にコメント",
+    "summary": "東京外大が、「2人体制で運営する小規模語科を1人体制に縮小し、AIに代替させようとしている」との懸念がSNSで広まったことについて、「教員を生成AIに置き換える考えはない」との声明を出した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news114.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T07:22:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "620d5ba6629770b457789640829ac39e",
+    "title": "6代目「アイボ」、販売終了へ　サポートなどは継続",
+    "summary": "ソニーグループは6月25日、犬型ロボット「aibo」（アイボ）シリーズの現行モデル「ERS1000/W」の国内販売を、在庫がなくなり次第終了すると発表した。ERS-1000は、6代目「aibo」として2018年に登場した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news086.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T03:30:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f8b794effb6e82e2e851d16e9b1d5945",
+    "title": "Qualcomm、AIデータセンター向けCPU「Dragonfly C1000」発表　Metaが次世代サーバに採用、2028年後半に生産へ",
+    "summary": "Qualcommは、AIデータセンター向けの新たな製品群を発表した。中核はサーバ向けCPU「Qualcomm Dragonfly C1000」で、独自の「Oryon CPU」コアを採用し、競合の最新サーバ向けCPUと比べて2倍以上の電力効率を謳う。Metaが次世代サーバ群への採用を決め、2028年後半に生産を始める。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news075.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T02:17:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "acd2de25d061d584c5938bd4c48d8072",
+    "title": "OpenAI、「GPT-5.5 Instant」をアップデート　会話の文脈維持や箇条書き減など「読みやすさ」を改善",
+    "summary": "OpenAIは、ChatGPTで最も広く利用されているモデル「GPT-5.5 Instant」のアップデートを発表した。新機能の追加ではなく、日常的な会話の品質向上が中心。質問の意図を的確に捉えて文脈を維持する能力が向上するほか、テンプレート的な回答が減り、位置情報を活用した地域のビジネス検索などもより洗練されるとしている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-25T00:23:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "987e20de3d7f4776ad723c13f938fd1f",
     "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
     "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start ...",
@@ -737,266 +997,6 @@
     "source": "ITmedia",
     "category": "IT",
     "updated": "2026-06-22T01:42:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "647cb9b31618515d09d0e7a5e05b8af6",
-    "title": "日経のAI、NTTデータが販売契約　出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
-    "summary": "日本経済新聞社とNTTデータが6月19日、日経の法人向け生成AIサービス「NIKKEI KAI」の販売契約を結んだと発表した。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-22T00:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8fb2613a75fd916e8889364a553e91f6",
-    "title": "Anthropicへの500万ドル間接出資を解消、広告事業のイオレ　軸足移すAIデータセンター事業に資金投入",
-    "summary": "イオレは6月19日、3月に決めた米Anthropicへの間接出資を解消し、出資金500万ドル（約7億9355万円）全額の返還を受けると発表した。返還資金は自社で開発を進めるAIDCへの投資に充てる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-21T23:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "26592ec5a0ddd5422055fb004b51044a",
-    "title": "AIに頼ると技術が落ちる？　医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
-    "summary": "AIツールが職場に普及するにつれて、専門家たちが長年培ってきたスキルが衰えてしまうのではないかという懸念が広がっている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-21T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "926fb0b411cfc68cdf609a0db59ab101",
-    "title": "Google at APS 2024",
-    "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
-    "link": "http://blog.research.google/2024/03/google-at-aps-2024.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-04T15:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2df65c24e00cfb307ae7046ddd875b73",
-    "title": "VideoPrism: A foundational visual encoder for video understanding",
-    "summary": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content fro...",
-    "link": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-22T20:05:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9eb7e1148060372aa2295bfa4007f6bb",
-    "title": "Advances in private training for production on-device language models",
-    "summary": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applicatio...",
-    "link": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-21T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4222b2e5269191225ade5447558e5d08",
-    "title": "Learning the importance of training data under concept drift",
-    "summary": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the dev...",
-    "link": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-14T18:32:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bc74a58eed458a97404588f0a5960fa6",
-    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
-    "summary": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality ima...",
-    "link": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-31T21:59:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8e51c923ef35fd53918c889d5934c084",
-    "title": "Mixed-input matrix multiplication performance optimizations",
-    "summary": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowle...",
-    "link": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-26T19:56:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6d72168ab508298c1a4b2c2621b540d8",
-    "title": "Exphormer: Scaling transformers for graph-structured data",
-    "summary": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices)...",
-    "link": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-01-23T22:27:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b91c9822e04804b6ce67512ac3efe92c",
-    "title": "自動運転OSSのAutowareの解説サイトを作っている件",
-    "summary": "概要\n\nAutowareという自動運転OSSの解説サイトを作っています（Linux版のPoCのようなものをAutowareを対象に作る）\nとりあえず、一部localizationと一部perceptionを作ったところで、GPUが必要になったので、RTX5070搭載のPCを用意した\n来年までにはlocalization, perception, planning, controlなどある程度全て網...",
-    "link": "https://zenn.dev/coffeecupjp/articles/778aa821a82c0f",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-21T06:04:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "14056d671da248835b706a7227e66f16",
-    "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
-    "summary": "筆者について\nどういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。\n\n零細システム開発会社（デンキヤギ）の社長\n自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい\n\n受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負契約はごく小規模・少数\n\n\nAIによるコーディングは2025年3月頃からなので、最速ではないが、...",
-    "link": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-20T08:39:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "724622b86564a3b469166bb2196d73c1",
-    "title": "GitHub Copilotのクレジット消費がユーザー単位でAPI取得可能に：監視を自動化する ai_credits_used の使い方",
-    "summary": "はじめに\nGitHub Copilotの従量課金については、これまで2本の記事を書いてきました。\nhttps://zenn.dev/headwaters/articles/github-copilot-ai-credits-billing-2026\nhttps://zenn.dev/headwaters/articles/github-copilot-ai-credits-cost-control...",
-    "link": "https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-20T00:00:06",
-    "ai_summary_done": false
-  },
-  {
-    "id": "dfda76dbe09ed0472ce4a148c5c9e23b",
-    "title": "【AWS Blocks 入門】AWSのIfCツール「AWS Blocks」を体験してみた！",
-    "summary": "はじめに\n2026年6月16日、AWSから AWS Blocks がパブリックプレビューとして発表されました。\n\nAWS Blocksは、フルスタックアプリケーション向けのオープンソースのバックエンド開発フレームワークです。データベース・認証・ストレージ・AIエージェ...",
-    "link": "https://qiita.com/yosuke-suzuki/items/aaac7afe22edf08d8d7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-21T09:27:12",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1d225c75b9165bfc570489eb2d43077a",
-    "title": "仕様駆動開発（Kiro流SDD）でClaude Code用の画像生成Skillを作ってみた",
-    "summary": "TL;DR\n\nClaude Code の Agent Skill として、Azure の gpt-image-2 でテキストから画像を生成する仕組みを作りました。\n作り方は Kiro 流の仕様駆動開発（Spec-Driven Development, SDD）。要件 ...",
-    "link": "https://qiita.com/potofo/items/604002fb4b8ab5f14857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-19T22:38:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "e2e54d1c2007097f2b90fbd0d8cd4b74",
-    "title": "Qwopus v2ってほんまにQwenよりすごいんか？【ローカルLLMベンチ】",
-    "summary": "Qwen3.6・Qwopus・Pi の比較ベンチマーク\n\n1. Qwen3.6のファインチューニングモデルの登場\nQwen3.6をベースにしたファインチューニングモデルが、相次いで公開されている。Claude Opus 4.6 / 4.7の推論を蒸留した Qwopus ※...",
-    "link": "https://qiita.com/rS_alonewolf/items/03ec544c3bcab0d7784a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-21T10:02:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a3c5e32a6854f1ac550dc3a403982753",
-    "title": "ローカル LLM 素人が作るローカル LLM 検証機",
-    "summary": "個人的に試しているローカル LLM 検証機を更新しました。自作 PC 趣味でゲーム用途の他にローカル LLM という目的を持ってしまったため、色々とイジッていたらマルチ GPU 構成になりました。ローカル LLM の個人検証機の構成例を調べてましたが、マルチ GPU の例は...",
-    "link": "https://qiita.com/mitsuharu_e/items/92a3eccb65d9b5c4ceca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-21T02:02:59",
-    "ai_summary_done": false
-  },
-  {
-    "id": "652bda889c3181271560d29742e36d22",
-    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
-    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品...",
-    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-21T14:17:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c46ab8c76e3c69a16393b0199548ab43",
-    "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
-    "summary": "Google DeepMindで「AlphaFold」の開発を主導し、デミス・ハサビスCEOと共にノーベル化学賞を受賞したジョン・ジャンパー氏が、Anthropicに移ると自身のXで明らかにした。直近では「Gemini」を主導したGoogleのノーム・シャジーア氏がOpenAIに移っており、AI人材の獲得競争が一段と激しくなっている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-21T06:43:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "967fb4667eec085430eccc7aebdff009",
-    "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも",
-    "summary": "自分が作ったシチュエーションで“推し”と会話できるAIチャットアプリ「Zeta」（ゼタ）が人気だ。App StoreやGoogle Playのエンターテインメントランキングでも連日上位にランクインしており、各ストアページによればダウンロード数は130万回を突破。1月には月間の売り上げが1億2000万円を超えたという。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-16T22:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a6ff7713a3286bc1c095173d7c20823c",
-    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
-    "summary": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while p...",
-    "link": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-13T22:11:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4e02492272ea60f06560533d5feb1dc4",
-    "title": "Graph neural networks in TensorFlow",
-    "summary": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can...",
-    "link": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-06T19:17:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "d7b8ec1c42c25825b0ea6642653ad412",
-    "title": "A decoder-only foundation model for time-series forecasting",
-    "summary": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use ca...",
-    "link": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-02-02T19:07:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "38c33cec54315fddd52cca739fcc9da8",
-    "title": "Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法",
-    "summary": "Obsidian や Markdown よりも書きやすい手段がほしい\n\n 1: Obsidian では物足りぬ\nローカルでメモするツールとして Obsidian が注目されてます。最近は生成 AI との絡みで AI 驚き屋による AI Slop も量産されてますが、それはさておき、私は Obsidian は Notion みたいなものだと思ってます。多機能で、エコシステム豊富で、拡張性もあって一見...",
-    "link": "https://zenn.dev/sta/articles/2026-06-20-vscode-scb",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-20T00:52:22",
-    "ai_summary_done": false
-  },
-  {
-    "id": "85bafa02721321f8e4601cdb43811e4d",
-    "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
-    "summary": "📚 連載「TAKTとClaude Codeの使い分け」（全3部を予定）の第1部・解説編です。\n\n\n第1部（本記事）解説編: TAKTのしくみと使い方\n第2部 実体験編: OSS「TAKT」を普段開発に使ってみた — よかったこと・つまずいたこと\n第3部 検証編: TAKT vs Claude Codeを同一プロンプトで比較してみた\n\n\n\n はじめに\nAIエージェントのオーケストレーションツール（O...",
-    "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T14:34:16",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2c30ae9c9a750f7f1c7f8a297fbf328c",
-    "title": "Claude Design がclaudeアプリに対応したので触ってみた",
-    "summary": "これまで web 版 claude.ai 限定だった claude.design が、大幅アップデートでアプリにも追加された。\n前回は特に触ってなかったので、今回ちゃんと一通り試してみたメモ。\n結論、うんかなり良いよ、デザイン業務のフロー変わるかもね、って感想！！\n!\n※当方、claudeの Max (20x) プランを使ってる前提での記載になります\n\n\n いつも通り背景から\nいつもありがとうござ...",
-    "link": "https://zenn.dev/91works/articles/bb03f5adb45dea",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-19T07:29:58",
     "ai_summary_done": false
   }
 ]
