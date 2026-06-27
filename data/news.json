@@ -1,5 +1,145 @@
 [
   {
+    "id": "14147e2b87b2bd9460733296794ee39f",
+    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+    "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
+    "link": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-11T19:08:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "a0e6680ebb78e8ce1d32793638e17487",
+    "title": "Health-specific embedding tools for dermatology and pathology",
+    "summary": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation a...",
+    "link": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-08T19:33:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "565840782e257bf5057ffdc55abd1ef5",
+    "title": "Social learning: Collaborative learning with large language models",
+    "summary": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tas...",
+    "link": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-07T18:15:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "736efd35c3bae73802329487368692ad",
+    "title": "Croissant: a metadata format for ML-ready datasets",
+    "summary": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to ...",
+    "link": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+    "source": "Google AI Blog",
+    "category": "AI",
+    "updated": "2024-03-06T18:26:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "1da69ebf97fa85da42f6f69697c105bb",
+    "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
+    "summary": "この記事について\n\n\n対象読者：Spring Boot から Claude API を呼んでいて、そのレイテンシ・トークン・コスト・失敗を可視化したい人／LLM 呼び出しに OpenTelemetry を入れる最小の型を知りたい人\n\n得られること：Spring Boot 3 標準の Micrometer Observation を OpenTelemetry（OTLP）で送り出し、Claude 呼...",
+    "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T08:43:31",
+    "ai_summary_done": false
+  },
+  {
+    "id": "8cd5efc8766dfd67aea0531ccaa74217",
+    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+    "summary": "!\nこの記事は、MulmoClaude を使って note の記事を 1 本のプレゼン動画に仕立てた記録です。記事そのものも、MulmoClaude と一緒に書きました。\n\n\n はじめに\n気になった note の記事を、MulmoClaude でナレーション付きのプレゼン動画にしてみました。日本語で指示しながら、スライドが動く動画まで仕上げていった過程をまとめます。\nそもそも MulmoClaud...",
+    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T06:23:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "9a400222e2af0c8d8747336de3ade6cd",
+    "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
+    "summary": "商談や会議の発言をリアルタイムに文字起こしし、その場で Claude が「次に確認すべきこと」を提案、終了時に議事録まで自動生成する Web アプリ AI-Giziroku を作りました。\nこのアプリの一番の売りは、会議中にリアルタイムで“次の一手”を提案してくれるロール別フィードバック です。商談の最中に「営業」「エンジニア」など複数の専門視点が同席して耳打ちしてくれる感覚で、議事録を後から作る...",
+    "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-26T11:55:03",
+    "ai_summary_done": false
+  },
+  {
+    "id": "411f27aa6200acdf6c1859a8382060a3",
+    "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+    "summary": "「AIはコードを書く。人間はコードを読む。」\n\n私はソフトウェアエンジニアとして15年のキャリアがある。コードを書くことが仕事だと思っていた。\n今は違う。コードを書くのはAIで、私は仕様を書いている。\n今、私が書くコードは体感で全体の1%に満たない。業務もプライベートも関係なく、コードを書くのはAIだ。\n残業時間は大幅に削減され、生産性は飛躍的に向上した。\nこれは私に起きた変化の記録だ。\n\n\n T...",
+    "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-26T09:45:05",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4861d7f317304a1ef72c345fd9ca4347",
+    "title": "私がループエンジニアリングにあまり興味がない理由",
+    "summary": "もう皆さんも LLM が吐き出した薄っぺらいスロップを読まされるのには飽き飽きしているでしょうから、最初に TL;DR を含むプロンプトを貼っておきます。\n\n以下の論旨に沿って、元の5倍程度の文章量で Qiita に投稿するための記事の完成版を書いてください。\n最近のコーデ...",
+    "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-26T09:50:07",
+    "ai_summary_done": false
+  },
+  {
+    "id": "80d9d8faa7c3bf6da15c5c233921b0f2",
+    "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する",
+    "summary": "はじめに\nDatabricks Genie Ontology(ジーニー オントロジー)は、2026年6月16日のData + AI Summit 2026(DAIS 2026)で発表された、Genieを支えるコンテキストレイヤー(AIエージェントに業務文脈をまとめて渡す層...",
+    "link": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-26T02:15:06",
+    "ai_summary_done": false
+  },
+  {
+    "id": "ea756a3f3333f72c5588aa9f6977c57d",
+    "title": "話題のトークン課金節約ライブラリ Headroom は本当に効果があるのか実測してみる",
+    "summary": "本記事は日本オラクルが運営する下記Meetupで発表予定の内容になります。発表までに今後、内容は予告なく変更される可能性があることをあらかじめご了承ください。\n\nHeadroomとは？\nLLMにテキストを入力する前に、様々な処理を行い、入力トークン数を減らす(≒入力文...",
+    "link": "https://qiita.com/ksonoda/items/a1a97be8fed52c34ec89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T23:02:11",
+    "ai_summary_done": false
+  },
+  {
+    "id": "43047b67e2e1d65ce1df80063eab8691",
+    "title": "友達に「エンジニア、もういらなくない？」と言われたので、本気で考えてみた",
+    "summary": "最近よく聞く話題ですが、とうとう私にも質問が来たか、と思い、この記事を書かせてもらいます。\n\nきっかけ：友達の「もうエンジニアいらなくない？」\n先日、友人が「AIでアプリ作ったんだ」と見せてくれました。個人で使うWebアプリを、ほぼAIに作らせたらしい。ちゃんと動くし、それ...",
+    "link": "https://qiita.com/skmtwork0/items/989a527c54ba05414a6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T08:03:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "e60f2be626dce9543d0471c294481637",
+    "title": "Googleが公開した【AIと人間の両方が読めるWiki】の書き方 - Open Knowledge Format（OKF）とは",
+    "summary": "はじめに\n2026年6月、Google が Open Knowledge Format（以下、OKF）を発表しました。\n一言でいえば、AI と人間の両方が読める Wiki の書き方を決めたオープン仕様です。中身は Markdown ファイルのディレクトリと YAML の...",
+    "link": "https://qiita.com/mszdh/items/f2a11097292acd0a30e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-25T01:26:28",
+    "ai_summary_done": false
+  },
+  {
+    "id": "afe1a80c871f571e34bf21808a0e3c6e",
+    "title": "Antigravity SDKを触って、ようやく「自分用Antigravityを作る部品」だと少し見えた",
+    "summary": "はじめに\nAntigravity SDKというものがあります。\n名前からして気になります。\nAntigravity。反重力。\nPythonには昔から、こんな隠しコマンドのようなものがあります。\nimport antigravity\n\nこれを実行すると、ブラウザで xkcd...",
+    "link": "https://qiita.com/torifukukaiou/items/7f041125bcf109c5e2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T11:46:22",
+    "ai_summary_done": false
+  },
+  {
     "id": "926fb0b411cfc68cdf609a0db59ab101",
     "title": "Google at APS 2024",
     "summary": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics...",
@@ -857,146 +997,6 @@
     "source": "Zenn",
     "category": "Programming",
     "updated": "2026-06-22T02:30:07",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7120d66fe8215d38289c6d02a769e2a6",
-    "title": "Google Workspace Studioで業務改善に挑戦した",
-    "summary": "はじめに：きっかけと作ったもの\n\n 抱えていた課題\n社内では、HPのお問い合わせフォームに届いた内容をSlackに転送して共有しています。しかし、この転送がメールのインライン展開になっていて、内容を確認するにはいちいち展開して全文を読む必要がありました。問い合わせが増えるほど、この「展開して読む」手間が地味に負担になっていました。\n\n 思いついたこと\nお問い合わせフォームの入力内容は、もともとメー...",
-    "link": "https://zenn.dev/babyjob/articles/try-workspacestudio",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-22T01:01:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "c400078d28f7252665a94a553e504cca",
-    "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
-    "summary": "計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜\nお疲れ様です！\n前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました \n「このコード、データが増えたら大丈夫？」をパッと判断するための話です。\n興味ある...",
-    "link": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T06:08:19",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e3ea8689aab6cf6f50d8ea012a105cd",
-    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
-    "summary": "はじめに\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、複数の専門エージェントに並列で分業させる 構成に変えたら、精度が体感で大きく上がりました。\nただ、本当の収穫は精度向上そのものより、「並列で思考を分ける」こと自体が、コンテキ...",
-    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T01:38:25",
-    "ai_summary_done": false
-  },
-  {
-    "id": "22828be359429c7756db8b90209e8fbe",
-    "title": "【Rails】給湯器のサンプルアプリで学ぶDelegatedType",
-    "summary": "はじめに\n長年Railsプログラマをやっていますが、恥ずかしながら先日初めてActiveRecord::DelegatedTypeという機能がRailsにあることを知りました。\nが、DelegatedTypeとは何なのか、何が嬉しいのかがよくわからなかったので、自分でサン...",
-    "link": "https://qiita.com/jnchito/items/180292de6cbb83a9672b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T00:19:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0723c401d22da6b0b2e30ebc3c35fb34",
-    "title": "Claude CodeでExcel仕様書を効率的に解析・引き継ぎするための命名・管理術",
-    "summary": "はじめに\n開発の現場では、いまだに大量の仕様書が Excel（xlsx） で管理されています。調査結果、機能一覧、対応状況、データ項目定義……。これらをAIエージェント（私の場合は Claude Code）に読み込ませて「解析」「要約」「引き継ぎ資料化」させたい、というニ...",
-    "link": "https://qiita.com/oguri-gmoconnect/items/ff7546e2eef855ef6aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T02:17:46",
-    "ai_summary_done": false
-  },
-  {
-    "id": "8d22c59850110c4bb59081befebe441f",
-    "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
-    "summary": "TL;DR\nPraxia Desktop という Windows 用のローカル AI ワークスペースを作って、Microsoft Store に無料で公開しました。\n何ができるか を一言で:\n\nチャットから話しかけるだけで、cron スケジュール登録・複数ファイルへの並列...",
-    "link": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T11:51:09",
-    "ai_summary_done": false
-  },
-  {
-    "id": "f09f6f3080d047e7d8bd4ac6c61f9c6e",
-    "title": "工数では見積もれない時代へ—AI時代の受託開発の見積もり・契約・成果物定義",
-    "summary": "要点（最初に結論）\n\n工数ベースの見積もりは「何時間かかるか」より「何が出来上がるか」を測る方向へ圧力がかかっています。\n受託の契約類型（請負・準委任）とリスクの所在を踏まえないと、AI前提の見積もりは設計できません。\nAI生成物の責任・著作権・再現性は、既存の契約条項だ...",
-    "link": "https://qiita.com/nogataka/items/b76868fbabb1aa2d81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T06:37:17",
-    "ai_summary_done": false
-  },
-  {
-    "id": "3ea87f7e3034ef05085f0d4cb773e61e",
-    "title": "無料でコーディングエージェントが欲しい時に（Gemma 4 + Ollama + Mastra Harness）",
-    "summary": "前書き\n私は普段 Claude や Codex など、幾つかのサービスを契約して使っていますが、やっぱり料金が高いです。大学生のころ借りていたアパートの家賃より高いかもしれません\nコーディングが有料になっていくと、「AI がないと効率が悪い、でも AI がお金がかかる」と...",
-    "link": "https://qiita.com/Syoitu/items/67a549fc3c39877bd587?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-22T13:46:33",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88e65fc57fcd74369ad06c3b0d2974b2",
-    "title": "\"外国人がいないと回らない\" は本当か ― 補助金が作る経済構造を考える : Pythonで学ぶ マクロ経済学入門 (92)",
-    "summary": "user:\n「Pythonで学ぶマクロ経済学入門」、第92回を始めましょう。まず前回の復習として、\n「なぜ多文化共生は議論しにくいのか ― 空気と経済の視点から : Pythonで学ぶ マクロ経済学入門 (91)」 \nhttps://qiita.com/maskot197...",
-    "link": "https://qiita.com/maskot1977/items/cb279e08e9a72a775547?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T15:01:35",
-    "ai_summary_done": false
-  },
-  {
-    "id": "0c338d993f15aee41793aad156755730",
-    "title": "【解説】PQC移行は「計画」から「期限付き実装」へ — 米国の新たな大統領令「Securing the Nation Against Advanced Cryptographic Attacks」を読む",
-    "summary": "はじめに\nGMOコネクト 執行役員CTOの菅野哲（かんの さとる）です。\n皆さん、PQC移行の足音が聞こえてくる今日この頃です。\n今回はPQC移行に直結する米国の大きな動きを取り上げます。2026年6月22日に署名された大統領令14409号「Securing the Na...",
-    "link": "https://qiita.com/satokan3/items/16096e2a0aa600375d5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T07:06:08",
-    "ai_summary_done": false
-  },
-  {
-    "id": "580999e68be6acbdbcc98a6c6770f205",
-    "title": "なぜプロンプトインジェクションは無くならないのか — LLMに構造的に埋め込まれた欠陥「ロール混同」",
-    "summary": "はじめに\n本記事は、2026年に公開された研究 writeup「Prompt Injection as Role Confusion」（ICML 2026、Charles Ye 他）を題材に、その主張を日本語で解説したものです（原文そのものの全訳ではありません）。本記事は...",
-    "link": "https://qiita.com/nogataka/items/463c33beaee69618e30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-23T04:50:01",
-    "ai_summary_done": false
-  },
-  {
-    "id": "7ce535cb5e8f253adb8d5941434a4925",
-    "title": "GiGOアプリの“大規模BAN”で運営謝罪　「ルール周知や事前説明が不十分だった」　停止措置を一時解除",
-    "summary": "ゲームセンターチェーン「GiGO」の公式アプリで発生したアカウントの大規模利用停止について、運営元のGENDA GiGO Entertainmentが謝罪した。違反利用対策として実施したものだったが、事前の案内やユーザーの利用実態への配慮が不十分だったため、不正の意図なく利用していた一部のユーザーまで停止対象に含めてしまったとしている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-23T13:10:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "bd71cdd648d6e6f522432e726c2beed1",
-    "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に　「Apps in ChatGPT」に公式アプリ",
-    "summary": "メルカリは6月23日、米OpenAIの「Apps in ChatGPT」で、フリマアプリ「メルカリ」の公式アプリの提供を始めたと発表した。「ChatGPT」と会話しながら、メルカリの商品を探せるほか、出品時の説明文の下書きも作れる。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-23T11:09:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ef1acbef14b96ebc10faba898283fd8b",
-    "title": "国産AI「Sakana Fugu」なぜドル建て？　円建てニーズ「受け止める」とSakana AI",
-    "summary": "円建てプランへのニーズは「日本のユーザーの皆様からいただくご意見・ご要望として、引き続きしっかりと受け止める」という。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news117.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-23T07:34:00",
     "ai_summary_done": false
   }
 ]
