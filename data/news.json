@@ -1,5 +1,165 @@
 [
   {
+    "id": "4f32594f37852e9c7e30dae6b2d90cde",
+    "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
+    "summary": "AIに書かせた日本語を読んで、「整っているのに、どこか不自然」と感じたことはないだろうか。\n誤字はない。文法も合っている。それなのに、地の文がつるりと滑って頭に入ってこない。「AIが書いた文章だ」と一目で分かる、あの感じ。\nこの「整いすぎて不自然」には、正体がある。名前もついている。カルク（calque＝翻訳借用）——英語をそのまま直訳して日本語に取り込む現象だ。\nそして厄介なことに、これは整って...",
+    "link": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T16:30:34",
+    "ai_summary_done": false
+  },
+  {
+    "id": "b98f11fe34b806c49073b4df9bc8c932",
+    "title": "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を作る",
+    "summary": "Qwen3-Coder 30B-A3B + pi-coding-agent\nRX 9070 XT環境で、ローカルLLMを使ったAIコーディングエージェント環境を構築したメモです。\n最終的な構成は次の通りです。\nWindows:\n  llama.cpp server\n  AMD Radeon RX 9070 XT 16GB\n  Qwen3-Coder-30B-A3B-Instruct GGUF\n\nW...",
+    "link": "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T15:13:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "420fcb0ad46c28e9db4550038cbac6a1",
+    "title": "hoge+fuga@example.com は「エイリアス」ではない",
+    "summary": "はじめに\n先日、このような投稿を見かけました。\nメールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレスの出どころを切り分けられる運用自体はすごく良いと思います。\n問題はそのあとです。反応には「Gmail...",
+    "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T15:07:10",
+    "ai_summary_done": false
+  },
+  {
+    "id": "86162f489b67f7f58c51d2368d461a20",
+    "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
+    "summary": "作ったもの\nG検定の受験対策として、ブラウザだけで動く模擬試験Webアプリを作りました。\n公開URL: https://gexam-practice.web.app\nただ、この記事で一番書きたいのはアプリの機能ではありません。\n今回のポイントは、スマホからChatGPTアプリでCodexにアクセスし、Codex経由で自宅の開発用PCを操作しながら作業したことです。\nスマホでコードを直接書いたわけで...",
+    "link": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T14:08:03",
+    "ai_summary_done": false
+  },
+  {
+    "id": "f35ec675d2ae16a3500423f38c98b2f3",
+    "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
+    "summary": "はじめに\n「AI にコードレビューをさせる」少し前ならAIでは不安だと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをとることにしました。\n\n なぜ「Claude Code と Codex」なのか\n理由はシンプルで、Claude Code(CC) と Codex を使っている人が...",
+    "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T08:55:23",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4de2fc765f117e797e5b02067c78512a",
+    "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
+    "summary": "Google AI Studioとは？\nGoogleが提供するアプリ開発のプラットフォームです。\nwebアプリやandroidアプリを作って公開できます。\nアプリにGeminiのAIを組み込んだり、GoogleカレンダーやSpreadSheetなどのGoogleサービスと連携したアプリを作れます。\n\n\n やること\n\nGoogle AI Studioで日本語の指示でwebアプリを作る\n共有URLで他...",
+    "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-27T04:49:22",
+    "ai_summary_done": false
+  },
+  {
+    "id": "95162dc51f534a0b0b7fd7cb00441b90",
+    "title": "Claude Codeのレート残量をCLI一発で確認する ~ もうブラウザ確認なんてしない ~",
+    "summary": "Claude Codeを使っていると, レート残量 (5時間枠・週間枠・追加枠) が気になります. 「あと何%使える?」「あと何時間でリセットされる?」を確認するたびにブラウザを開くのが手間だったので, ターミナルで clc rate と打つだけで確認できるCLIツールをPythonで作りました.\n\nhttps://github.com/masa0902dev/claude-code-rate\n\n...",
+    "link": "https://zenn.dev/masa0902dev/articles/clc-claude-code-rate",
+    "source": "Zenn",
+    "category": "Programming",
+    "updated": "2026-06-26T14:37:49",
+    "ai_summary_done": false
+  },
+  {
+    "id": "5ff941bfb99e1a570ab8143d8c0652cf",
+    "title": "Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する",
+    "summary": "はじめに\nClaude Codeはコードを書く・直す・テストする・PRを確認するといったコード作業のためのツール、というイメージが強いと思います。\nただ、Anthropic公式の anthropics/skills リポジトリを見ると、Claude Codeはコード作業...",
+    "link": "https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T05:39:13",
+    "ai_summary_done": false
+  },
+  {
+    "id": "67437ee85abe281e0df94d4e8a890a08",
+    "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
+    "summary": "はじめに\nPower BI をAIエージェントで分析する際に、どの方式がよいのかを判断するため、同じ質問に対してどのような違いが出るのかを確かめます。\n\n2026/6月時点の情報です。\nまた、本記事はAIの動作について検証していますが、AIの動作は様々な理由でぶれるので...",
+    "link": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T19:47:08",
+    "ai_summary_done": false
+  },
+  {
+    "id": "c875d1350a8539e573d1767edb986a70",
+    "title": "AIモデルを軽量化する技術 ー 量子化（Quantization）とは？仕組みから試し方までを非エンジニア向けに解説",
+    "summary": "はじめに\n「量子化（Quantization）」という言葉を、最近よく見かけるようになりました。\nChatGPT のような大規模言語モデル（LLM）を、自分のパソコンやスマホで動かす話題と一緒に語られることが多い言葉です。\nただ、名前がなんだか難しそうで、「量子コンピュー...",
+    "link": "https://qiita.com/nogataka/items/5f93e41741216b829102?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T11:31:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "db17f8896ea2aaeb0cabf6f0866de9d0",
+    "title": "Houdini MCP操作入門2026",
+    "summary": "はじめに\nModel Context Protocol (MCP)流行っていますね（2回目）。\n前回記事から1年以上が経過しました。AIモデルの進化は天井知らずです。ではMCPは？\n前回は capoom 氏のリポジトリを試しましたが、界隈の進化と熱量はすさまじく、すぐに別...",
+    "link": "https://qiita.com/jyouryuusui/items/82cd109a16f1ae0bc0aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-28T11:17:02",
+    "ai_summary_done": false
+  },
+  {
+    "id": "df7cdd6f6242335c71cac2e1e19b91b5",
+    "title": "AIを使っても「自分の文章」に仕上げるためにやっていること",
+    "summary": "概要\nAIを使って書かれた記事や登壇資料に対して「品質が低い」という感想がついていることを見かけます。\n私自身、確かに「AIっぽい表現だな」と感じるアウトプットは多くあります。\nAIっぽいことと品質の高低を直接結びつけることそのものには反対1なのですが、AIっぽいことで記...",
+    "link": "https://qiita.com/kskwtnk/items/aa21e7f57feb43e970e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-28T09:10:03",
+    "ai_summary_done": false
+  },
+  {
+    "id": "2697c8a6fd6fe4629340604ae6e7a618",
+    "title": "SynologyのNASにメディアサーバーを構築した話",
+    "summary": "自宅のSynology NAS（DSM7）の中に、Jellyfinを使ったメディアサーバーを構築しました。Container Manager（Docker）でコンテナを立てるだけなので、思っていたよりずっと手軽でした。公式の手順書はオプション設定も含めて結構ボリュームがあ...",
+    "link": "https://qiita.com/hiroakikka/items/79df75b0b701dad03a24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T14:51:48",
+    "ai_summary_done": false
+  },
+  {
+    "id": "4b4a7f63324a978d810a9d52a9bf5e5c",
+    "title": "Synology NASとTailscaleでVPN環境を構築",
+    "summary": "自宅のSynology NASに外出先からアクセスしたくて、VPN環境を作りました。使ったのは「Tailscale（テールスケール）」というWireGuardベースのVPNサービスです。ルーターのポート開放や固定IP・DDNSの用意が不要で、パッケージをインストールしてア...",
+    "link": "https://qiita.com/hiroakikka/items/e1f36c30df257e4869fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita",
+    "category": "Programming",
+    "updated": "2026-06-27T14:11:18",
+    "ai_summary_done": false
+  },
+  {
+    "id": "11ecef34da810fc3a93405f9ff1ed34a",
+    "title": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
+    "summary": "OpenAIは、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」など3モデルで構成する。提供形態を巡って米連邦政府の要請を受け、信頼できる少数のパートナーから提供を開始する。こうした政府による事前確認のプロセスが「恒久的な標準になるべきではない」と主張した。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-27T23:20:00",
+    "ai_summary_done": false
+  },
+  {
+    "id": "bd236d8a97e2d18aa4cbc9b7a3077901",
+    "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+    "summary": "Anthropicは、輸出規制で6月12日から全面停止していたAIモデル「Claude Mythos 5」について、一部の米国組織への再展開を米政府が認めたと発表した。一方、「Claude Fable 5」は引き続き停止されたままで、一般提供の再開に向けた協議が続いている。",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+    "source": "ITmedia",
+    "category": "IT",
+    "updated": "2026-06-27T22:15:00",
+    "ai_summary_done": false
+  },
+  {
     "id": "14147e2b87b2bd9460733296794ee39f",
     "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
     "summary": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessib...",
@@ -837,166 +997,6 @@
     "source": "Qiita",
     "category": "Programming",
     "updated": "2026-06-23T04:00:44",
-    "ai_summary_done": false
-  },
-  {
-    "id": "72c3790f8aeabd538b11d0a303688a43",
-    "title": "「クラス・インスタンス」って何？完全初心者の私と1から一緒に理解する記事",
-    "summary": "はじめに\nこんにちは！エンジニアを目指して日々勉強している学生です。\nHTML/CSSからプログラミングの学習を進めて、その後PythonやJavaなどに触れ始めたとき、私はある巨大な壁にぶち当たりました。それが、 「クラス（Class）」 と 「インスタンス（Insta...",
-    "link": "https://qiita.com/teppei-dotlog/items/c48b654d653482a0c065?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita",
-    "category": "Programming",
-    "updated": "2026-06-24T07:44:41",
-    "ai_summary_done": false
-  },
-  {
-    "id": "75bb205ecbd2801d22ae93eec45c6dc4",
-    "title": "「夏場は50度以上のコンテナで作業」に対処　サンワサプライが西日本で荷降ろしロボット活用",
-    "summary": "サンワサプライが、物流倉庫における荷降ろし作業の自動化と労働環境の改善を目的に、AI搭載のコンテナ向け荷降ろしロボット「RockyOne」を採用した。5月から同社の西日本物流センターで運用を開始している。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news081.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-24T02:45:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "71d7c693d72025e8be8b0e28b79b2844",
-    "title": "「Google Home」アプリ最新版は応答速度を改善し、ライブ会話の誤起動も減",
-    "summary": "Googleは、スマートホーム製品群「Google Home」の最新アップデートをまとめたリリースノートを公開した。「Gemini for Home」の会話性能や応答速度、話し声のフィルタリングが改善されるほか、カメラのAI機能では顔が見えない場合の服装認識や、犬の鳴き声や足音などの音声検知機能が強化されている。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news076.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-24T02:31:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "ba1fde27d4e9482533eabac19778d627",
-    "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売　299ドルから",
-    "summary": "Metaは、EssilorLuxotticaと共同開発した新型AIグラス「Meta Glasses」（Metaグラス）を発表し、一部の国で販売を開始した。自社ブランドを冠する初のモデルで、価格は299ドルから。最新の自社製AIモデル「Muse Spark」を搭載し、音声にセレブのカイリー・ジェンナー氏の声を指定できるコラボモデルを含む3スタイルを展開する。",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
-    "source": "ITmedia",
-    "category": "IT",
-    "updated": "2026-06-23T22:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "099731e6e4b87e151dc68344d778e14d",
-    "title": "Computer-aided diagnosis for lung cancer screening",
-    "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 20...",
-    "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T20:54:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9b54afe11505f9fc9f92089f929c4eee",
-    "title": "Using AI to expand global access to reliable flood forecasts",
-    "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in an...",
-    "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-20T16:06:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "9bc1faeb9709f29d149dcb204d5b1f7f",
-    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-    "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human co...",
-    "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T20:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "6e25d47c5d588c8ac446917ac27446c3",
-    "title": "SCIN: A new resource for representative dermatology images",
-    "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real w...",
-    "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-19T15:00:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "67843e73ce02b9495ec81e26f3c08d63",
-    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-    "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily inf...",
-    "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-18T18:41:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "2cb2f06ffc9bd3665d3c9176bdeb9381",
-    "title": "HEAL: A framework for health equity assessment of machine learning performance",
-    "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparitie...",
-    "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-15T18:22:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "88dfb095f483f772db776af07d176b77",
-    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-    "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks wi...",
-    "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-14T19:38:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "b02cf407941b46f7ff4d3bbd5527fae3",
-    "title": "Talk like a graph: Encoding graphs for large language models",
-    "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all co...",
-    "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-    "source": "Google AI Blog",
-    "category": "AI",
-    "updated": "2024-03-12T21:15:00",
-    "ai_summary_done": false
-  },
-  {
-    "id": "1d6f47e3595373e783d4d61fab4005c7",
-    "title": "アプリエンジニアのためのAWS Blocksハンズオン",
-    "summary": "AWS Blocks を使って、Cognito 認証・Database・FileBucket・Observability・AsyncJob・CronJob・EmailClient・CDK layer（SQS / Step Functions / CloudWatch）・Pipeline・Bedrock RAG（KnowledgeBase / Agent）を段階的に学ぶ TypeScript ハンズ...",
-    "link": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-22T15:26:02",
-    "ai_summary_done": false
-  },
-  {
-    "id": "a45fcf75904dc5729e8d90843164a3bd",
-    "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
-    "summary": "背景\n先日 超dotnet new に参加した際、@mayuki 先生から「安全に自宅 Web サーバー建てるなら Cloudflare Tunnel が便利」と教えてもらいました。\nhttps://speakerdeck.com/mayuki/build-your-own-apps-with-ai-20260529-dotnetnew\n我が家には Tailscale VPN サーバー用の Ras...",
-    "link": "https://zenn.dev/xin9le/articles/1340941f739745",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-22T06:17:11",
-    "ai_summary_done": false
-  },
-  {
-    "id": "95fa01e2895fe3fa7ac0f7415ae8d306",
-    "title": "AIコーディングではコードではなく検証プロセスをレビューする",
-    "summary": "AIコーディングでは、どうしても「どれだけ速く実装できるか」に注目が集まりがちです。\nただ、実務で本当に難しいのは速度そのものではなく、品質をどう安定させるかです。\n最近は、AIコーディングにおける品質管理を、次の4つの問いで整理しています。\n\nエージェントにどこまで検証させるか\n何を人間がレビューすべきか\nインストラクションをどう安定させるか\nコーディングが自動化されたあと、設計をどう扱うか\n\n...",
-    "link": "https://zenn.dev/mkj/articles/56245f7a34539c",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-22T02:50:05",
-    "ai_summary_done": false
-  },
-  {
-    "id": "4ba541d1911a87fb33f11180fc1b865b",
-    "title": "CSV を顧客に配るのは、想像よりずっと難しい",
-    "summary": "TL;DR\n\n\n はじめに\nこんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！\n私たちは DRESS CODE という、人事・情報システム・総務・採用・コーポレートなど複数の部門を横断する業務 OS として機能する、グローバル向けのコンパウンドプロダクトを開発しています。\n\n扱うドメインが広いと、データを CSV でやり取りする機会が驚くほど多くなります。以前、各...",
-    "link": "https://zenn.dev/dress_code/articles/csv-for-customers",
-    "source": "Zenn",
-    "category": "Programming",
-    "updated": "2026-06-22T02:30:07",
     "ai_summary_done": false
   }
 ]
